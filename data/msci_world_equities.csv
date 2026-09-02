@@ -1,0 +1,1310 @@
+Ticker,Name,Sector,Location,Exchange,Currency,Weight (%),YF_Ticker
+NVDA,NVIDIA CORP,Information Technology,United States,NASDAQ,USD,5.19,NVDA
+AAPL,APPLE INC,Information Technology,United States,NASDAQ,USD,4.66,AAPL
+MSFT,MICROSOFT CORP,Information Technology,United States,NASDAQ,USD,3.21,MSFT
+AMZN,AMAZON COM INC,Consumer Discretionary,United States,NASDAQ,USD,2.44,AMZN
+GOOGL,ALPHABET INC CLASS A,Communication,United States,NASDAQ,USD,2.03,GOOGL
+AVGO,BROADCOM INC,Information Technology,United States,NASDAQ,USD,1.73,AVGO
+GOOG,ALPHABET INC CLASS C,Communication,United States,NASDAQ,USD,1.7,GOOG
+META,META PLATFORMS INC CLASS A,Communication,United States,NASDAQ,USD,1.46,META
+TSLA,TESLA INC,Consumer Discretionary,United States,NASDAQ,USD,1.3,TSLA
+JPM,JPMORGAN CHASE & CO,Financials,United States,NYSE,USD,0.98,JPM
+XOM,EXXON MOBIL CORP,Energy,United States,NYSE,USD,0.92,XOM
+LLY,ELI LILLY,Health Care,United States,NYSE,USD,0.9,LLY
+BRKB,BERKSHIRE HATHAWAY INC CLASS B,Financials,United States,NYSE,USD,0.82,BRKB
+JNJ,JOHNSON & JOHNSON,Health Care,United States,NYSE,USD,0.73,JNJ
+WMT,WALMART INC,Consumer Staples,United States,NASDAQ,USD,0.69,WMT
+ASML,ASML HOLDING NV,Information Technology,Netherlands,Euronext Amsterdam,USD,0.65,ASML.AS
+V,VISA INC CLASS A,Financials,United States,NYSE,USD,0.64,V
+COST,COSTCO WHOLESALE CORP,Consumer Staples,United States,NASDAQ,USD,0.55,COST
+MA,MASTERCARD INC CLASS A,Financials,United States,NYSE,USD,0.53,MA
+CVX,CHEVRON CORP,Energy,United States,NYSE,USD,0.52,CVX
+MU,MICRON TECHNOLOGY INC,Information Technology,United States,NASDAQ,USD,0.51,MU
+NFLX,NETFLIX INC,Communication,United States,NASDAQ,USD,0.51,NFLX
+ABBV,ABBVIE INC,Health Care,United States,NYSE,USD,0.47,ABBV
+PG,PROCTER & GAMBLE,Consumer Staples,United States,NYSE,USD,0.42,PG
+AMD,ADVANCED MICRO DEVICES INC,Information Technology,United States,NASDAQ,USD,0.42,AMD
+CAT,CATERPILLAR INC,Industrials,United States,NYSE,USD,0.42,CAT
+PLTR,PALANTIR TECHNOLOGIES INC CLASS A,Information Technology,United States,NASDAQ,USD,0.41,PLTR
+BAC,BANK OF AMERICA CORP,Financials,United States,NYSE,USD,0.41,BAC
+HD,HOME DEPOT INC,Consumer Discretionary,United States,NYSE,USD,0.41,HD
+CSCO,CISCO SYSTEMS INC,Information Technology,United States,NASDAQ,USD,0.4,CSCO
+KO,COCA-COLA,Consumer Staples,United States,NYSE,USD,0.39,KO
+MRK,MERCK & CO INC,Health Care,United States,NYSE,USD,0.38,MRK
+GE,GE AEROSPACE,Industrials,United States,NYSE,USD,0.38,GE
+AZN,ASTRAZENECA PLC,Health Care,United Kingdom,London Stock Exchange,USD,0.37,AZN.L
+NOVN,NOVARTIS AG,Health Care,Switzerland,SIX Swiss Exchange,USD,0.36,NOVN.SW
+ROP,ROCHE PS PAR AG,Health Care,Switzerland,SIX Swiss Exchange,USD,0.35,ROP.SW
+HSBA,HSBC HOLDINGS PLC,Financials,United Kingdom,London Stock Exchange,USD,0.35,HSBA.L
+AMAT,APPLIED MATERIAL INC,Information Technology,United States,NASDAQ,USD,0.34,AMAT
+SHEL,SHELL PLC,Energy,United Kingdom,London Stock Exchange,USD,0.34,SHEL.L
+LRCX,LAM RESEARCH CORP,Information Technology,United States,NASDAQ,USD,0.34,LRCX
+PM,PHILIP MORRIS INTERNATIONAL INC,Consumer Staples,United States,NYSE,USD,0.32,PM
+RTX,RTX CORP,Industrials,United States,NYSE,USD,0.32,RTX
+NESN,NESTLE SA,Consumer Staples,Switzerland,SIX Swiss Exchange,USD,0.31,NESN.SW
+GS,GOLDMAN SACHS GROUP INC,Financials,United States,NYSE,USD,0.31,GS
+WFC,WELLS FARGO,Financials,United States,NYSE,USD,0.31,WFC
+ORCL,ORACLE CORP,Information Technology,United States,NYSE,USD,0.3,ORCL
+UNH,UNITEDHEALTH GROUP INC,Health Care,United States,NYSE,USD,0.3,UNH
+GEV,GE VERNOVA INC,Industrials,United States,NYSE,USD,0.3,GEV
+LIN,LINDE PLC,Materials,United States,NASDAQ,USD,0.29,LIN
+RY,ROYAL BANK OF CANADA,Financials,Canada,Toronto Stock Exchange,USD,0.28,RY.TO
+IBM,INTERNATIONAL BUSINESS MACHINES CO,Information Technology,United States,NYSE,USD,0.28,IBM
+MCD,MCDONALDS CORP,Consumer Discretionary,United States,NYSE,USD,0.28,MCD
+VZ,VERIZON COMMUNICATIONS INC,Communication,United States,NYSE,USD,0.27,VZ
+PEP,PEPSICO INC,Consumer Staples,United States,NASDAQ,USD,0.27,PEP
+T,AT&T INC,Communication,United States,NYSE,USD,0.26,T
+7203,TOYOTA MOTOR CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.26,7203.T
+CBA,COMMONWEALTH BANK OF AUSTRALIA,Financials,Australia,Asx - All Markets,USD,0.26,CBA.AX
+INTC,INTEL CORPORATION CORP,Information Technology,United States,NASDAQ,USD,0.25,INTC
+C,CITIGROUP INC,Financials,United States,NYSE,USD,0.24,C
+8306,MITSUBISHI UFJ FINANCIAL GROUP INC,Financials,Japan,Tokyo Stock Exchange,USD,0.24,8306.T
+KLAC,KLA CORP,Information Technology,United States,NASDAQ,USD,0.24,KLAC
+MS,MORGAN STANLEY,Financials,United States,NYSE,USD,0.24,MS
+NEE,NEXTERA ENERGY INC,Utilities,United States,NYSE,USD,0.24,NEE
+AMGN,AMGEN INC,Health Care,United States,NASDAQ,USD,0.24,AMGN
+ABT,ABBOTT LABORATORIES,Health Care,United States,NYSE,USD,0.23,ABT
+TTE,TOTALENERGIES,Energy,France,Nyse Euronext - Euronext Paris,USD,0.23,TTE.PA
+SIE,SIEMENS N AG,Industrials,Germany,Xetra,USD,0.23,SIE.DE
+TMO,THERMO FISHER SCIENTIFIC INC,Health Care,United States,NYSE,USD,0.23,TMO
+BHP,BHP GROUP LTD,Materials,Australia,Asx - All Markets,USD,0.22,BHP.AX
+TJX,TJX INC,Consumer Discretionary,United States,NYSE,USD,0.22,TJX
+TXN,TEXAS INSTRUMENT INC,Information Technology,United States,NASDAQ,USD,0.22,TXN
+SAP,SAP,Information Technology,Germany,Xetra,USD,0.22,SAP.DE
+CRM,SALESFORCE INC,Information Technology,United States,NYSE,USD,0.21,CRM
+COP,CONOCOPHILLIPS,Energy,United States,NYSE,USD,0.21,COP
+GILD,GILEAD SCIENCES INC,Health Care,United States,NASDAQ,USD,0.21,GILD
+DIS,WALT DISNEY,Communication,United States,NYSE,USD,0.21,DIS
+AXP,AMERICAN EXPRESS,Financials,United States,NYSE,USD,0.21,AXP
+ISRG,INTUITIVE SURGICAL INC,Health Care,United States,NASDAQ,USD,0.21,ISRG
+SAN,BANCO SANTANDER SA,Financials,Spain,Bolsa De Madrid,USD,0.2,SAN.MC
+SCHW,CHARLES SCHWAB CORP,Financials,United States,NYSE,USD,0.2,SCHW
+ALV,ALLIANZ,Financials,Germany,Xetra,USD,0.2,ALV.DE
+TD,TORONTO DOMINION,Financials,Canada,Toronto Stock Exchange,USD,0.2,TD.TO
+PFE,PFIZER INC,Health Care,United States,NYSE,USD,0.19,PFE
+ADI,ANALOG DEVICES INC,Information Technology,United States,NASDAQ,USD,0.19,ADI
+APH,AMPHENOL CORP CLASS A,Information Technology,United States,NYSE,USD,0.19,APH
+BA,BOEING,Industrials,United States,NYSE,USD,0.19,BA
+DE,DEERE,Industrials,United States,NYSE,USD,0.19,DE
+SU,SCHNEIDER ELECTRIC,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.18,SU.PA
+IBE,IBERDROLA SA,Utilities,Spain,Bolsa De Madrid,USD,0.18,IBE.MC
+UNP,UNION PACIFIC CORP,Industrials,United States,NYSE,USD,0.18,UNP
+HON,HONEYWELL INTERNATIONAL INC,Industrials,United States,NASDAQ,USD,0.18,HON
+ETN,EATON PLC,Industrials,United States,NYSE,USD,0.18,ETN
+UBER,UBER TECHNOLOGIES INC,Industrials,United States,NYSE,USD,0.17,UBER
+BLK,BLACKROCK INC,Financials,United States,NYSE,USD,0.17,BLK
+6501,HITACHI LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.17,6501.T
+SHOP,SHOPIFY SUBORDINATE VOTING INC CLA,Information Technology,Canada,Toronto Stock Exchange,USD,0.17,SHOP.TO
+QCOM,QUALCOMM INC,Information Technology,United States,NASDAQ,USD,0.17,QCOM
+DTE,DEUTSCHE TELEKOM N AG,Communication,Germany,Xetra,USD,0.17,DTE.DE
+BKNG,BOOKING HOLDINGS INC,Consumer Discretionary,United States,NASDAQ,USD,0.17,BKNG
+ULVR,UNILEVER PLC,Consumer Staples,United Kingdom,London Stock Exchange,USD,0.17,ULVR.L
+MC,LVMH,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,USD,0.17,MC.PA
+WELL,WELLTOWER INC,Real Estate,United States,NYSE,USD,0.17,WELL
+LMT,LOCKHEED MARTIN CORP,Industrials,United States,NYSE,USD,0.16,LMT
+ENR,SIEMENS ENERGY N AG,Industrials,Germany,Xetra,USD,0.16,ENR.DE
+LOW,LOWES COMPANIES INC,Consumer Discretionary,United States,NYSE,USD,0.16,LOW
+ANET,ARISTA NETWORKS INC,Information Technology,United States,NYSE,USD,0.16,ANET
+SPGI,S&P GLOBAL INC,Financials,United States,NYSE,USD,0.16,SPGI
+BATS,BRITISH AMERICAN TOBACCO,Consumer Staples,United Kingdom,London Stock Exchange,USD,0.16,BATS.L
+ABBN,ABB LTD,Industrials,Switzerland,SIX Swiss Exchange,USD,0.16,ABBN.SW
+RR.,ROLLS-ROYCE HOLDINGS PLC,Industrials,United Kingdom,London Stock Exchange,USD,0.16,RR..L
+BP.,BP PLC,Energy,United Kingdom,London Stock Exchange,USD,0.16,BP..L
+6758,SONY GROUP CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.16,6758.T
+CB,CHUBB,Financials,United States,NYSE,USD,0.15,CB
+ACN,ACCENTURE PLC CLASS A,Information Technology,United States,NYSE,USD,0.15,ACN
+8316,SUMITOMO MITSUI FINANCIAL GROUP IN,Financials,Japan,Tokyo Stock Exchange,USD,0.15,8316.T
+PLD,PROLOGIS REIT INC,Real Estate,United States,NYSE,USD,0.15,PLD
+BMY,BRISTOL MYERS SQUIBB,Health Care,United States,NYSE,USD,0.15,BMY
+ENB,ENBRIDGE INC,Energy,Canada,Toronto Stock Exchange,USD,0.15,ENB.TO
+BBVA,BANCO BILBAO VIZCAYA ARGENTARIA SA,Financials,Spain,Bolsa De Madrid,USD,0.15,BBVA.MC
+DHR,DANAHER CORP,Health Care,United States,NYSE,USD,0.15,DHR
+1299,AIA GROUP LTD,Financials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.15,1299.HK
+UBSG,UBS GROUP AG,Financials,Switzerland,SIX Swiss Exchange,USD,0.15,UBSG.SW
+8058,MITSUBISHI CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.15,8058.T
+INTU,INTUIT INC,Information Technology,United States,NASDAQ,USD,0.15,INTU
+PANW,PALO ALTO NETWORKS INC,Information Technology,United States,NASDAQ,USD,0.15,PANW
+PGR,PROGRESSIVE CORP,Financials,United States,NYSE,USD,0.15,PGR
+SAF,SAFRAN SA,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.15,SAF.PA
+AI,LAIR LIQUIDE SOCIETE ANONYME POUR,Materials,France,Nyse Euronext - Euronext Paris,USD,0.15,AI.PA
+NOVO B,NOVO NORDISK CLASS B,Health Care,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.14,NOVO B.CO
+PH,PARKER-HANNIFIN CORP,Industrials,United States,NYSE,USD,0.14,PH
+COF,CAPITAL ONE FINANCIAL CORP,Financials,United States,NYSE,USD,0.14,COF
+SYK,STRYKER CORP,Health Care,United States,NYSE,USD,0.14,SYK
+NEM,NEWMONT,Materials,United States,NYSE,USD,0.14,NEM
+MO,ALTRIA GROUP INC,Consumer Staples,United States,NYSE,USD,0.14,MO
+VRTX,VERTEX PHARMACEUTICALS INC,Health Care,United States,NASDAQ,USD,0.14,VRTX
+MDT,MEDTRONIC PLC,Health Care,United States,NYSE,USD,0.14,MDT
+GLW,CORNING INC,Information Technology,United States,NYSE,USD,0.14,GLW
+8035,TOKYO ELECTRON LTD,Information Technology,Japan,Tokyo Stock Exchange,USD,0.14,8035.T
+AIR,AIRBUS GROUP,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.14,AIR.PA
+GSK,GLAXOSMITHKLINE,Health Care,United Kingdom,London Stock Exchange,USD,0.14,GSK.L
+TMUS,T MOBILE US INC,Communication,United States,NASDAQ,USD,0.14,TMUS
+6857,ADVANTEST CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.14,6857.T
+MCK,MCKESSON CORP,Health Care,United States,NYSE,USD,0.14,MCK
+SAN,SANOFI SA,Health Care,France,Nyse Euronext - Euronext Paris,USD,0.14,SAN.PA
+CME,CME GROUP INC CLASS A,Financials,United States,NASDAQ,USD,0.13,CME
+CMCSA,COMCAST CORP CLASS A,Communication,United States,NASDAQ,USD,0.13,CMCSA
+SO,SOUTHERN,Utilities,United States,NYSE,USD,0.13,SO
+CNQ,CANADIAN NATURAL RESOURCES LTD,Energy,Canada,Toronto Stock Exchange,USD,0.13,CNQ.TO
+NOW,SERVICENOW INC,Information Technology,United States,NYSE,USD,0.13,NOW
+BSX,BOSTON SCIENTIFIC CORP,Health Care,United States,NYSE,USD,0.13,BSX
+8031,MITSUI LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.13,8031.T
+DUK,DUKE ENERGY CORP,Utilities,United States,NYSE,USD,0.13,DUK
+ZURN,ZURICH INSURANCE GROUP AG,Financials,Switzerland,SIX Swiss Exchange,USD,0.13,ZURN.SW
+RIO,RIO TINTO PLC,Materials,United Kingdom,London Stock Exchange,USD,0.13,RIO.L
+8411,MIZUHO FINANCIAL GROUP INC,Financials,Japan,Tokyo Stock Exchange,USD,0.13,8411.T
+SBUX,STARBUCKS CORP,Consumer Discretionary,United States,NASDAQ,USD,0.12,SBUX
+ADBE,ADOBE INC,Information Technology,United States,NASDAQ,USD,0.12,ADBE
+OR,LOREAL SA,Consumer Staples,France,Nyse Euronext - Euronext Paris,USD,0.12,OR.PA
+UCG,UNICREDIT,Financials,Italy,Borsa Italiana,USD,0.12,UCG.MI
+AEM,AGNICO EAGLE MINES LTD,Materials,Canada,Toronto Stock Exchange,USD,0.12,AEM.TO
+WDC,WESTERN DIGITAL CORP,Information Technology,United States,NASDAQ,USD,0.12,WDC
+WBC,WESTPAC BANKING CORPORATION CORP,Financials,Australia,Asx - All Markets,USD,0.12,WBC.AX
+NOC,NORTHROP GRUMMAN CORP,Industrials,United States,NYSE,USD,0.12,NOC
+7011,MITSUBISHI HEAVY INDUSTRIES LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.12,7011.T
+CEG,CONSTELLATION ENERGY CORP,Utilities,United States,NASDAQ,USD,0.12,CEG
+9984,SOFTBANK GROUP CORP,Communication,Japan,Tokyo Stock Exchange,USD,0.12,9984.T
+BMO,BANK OF MONTREAL,Financials,Canada,Toronto Stock Exchange,USD,0.12,BMO.TO
+EQIX,EQUINIX REIT INC,Real Estate,United States,NASDAQ,USD,0.12,EQIX
+CFR,COMPAGNIE FINANCIERE RICHEMONT SA,Consumer Discretionary,Switzerland,SIX Swiss Exchange,USD,0.12,CFR.SW
+BNP,BNP PARIBAS SA,Financials,France,Nyse Euronext - Euronext Paris,USD,0.12,BNP.PA
+TT,TRANE TECHNOLOGIES PLC,Industrials,United States,NYSE,USD,0.12,TT
+CRWD,CROWDSTRIKE HOLDINGS INC CLASS A,Information Technology,United States,NASDAQ,USD,0.12,CRWD
+VRT,VERTIV HOLDINGS CLASS A,Industrials,United States,NYSE,USD,0.12,VRT
+WMB,WILLIAMS INC,Energy,United States,NYSE,USD,0.11,WMB
+WM,WASTE MANAGEMENT INC,Industrials,United States,NYSE,USD,0.11,WM
+CVS,CVS HEALTH CORP,Health Care,United States,NYSE,USD,0.11,CVS
+NAB,NATIONAL AUSTRALIA BANK LTD,Financials,Australia,Asx - All Markets,USD,0.11,NAB.AX
+ICE,INTERCONTINENTAL EXCHANGE INC,Financials,United States,NYSE,USD,0.11,ICE
+APP,APPLOVIN CORP CLASS A,Information Technology,United States,NASDAQ,USD,0.11,APP
+HWM,HOWMET AEROSPACE INC,Industrials,United States,NYSE,USD,0.11,HWM
+D05,DBS GROUP HOLDINGS LTD,Financials,Singapore,Singapore Exchange,USD,0.11,D05.SI
+CM,CANADIAN IMPERIAL BANK OF COMMERCE,Financials,Canada,Toronto Stock Exchange,USD,0.11,CM.TO
+8766,TOKIO MARINE HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,USD,0.11,8766.T
+ENEL,ENEL,Utilities,Italy,Borsa Italiana,USD,0.11,ENEL.MI
+BNS,BANK OF NOVA SCOTIA,Financials,Canada,Toronto Stock Exchange,USD,0.11,BNS.TO
+EOG,EOG RESOURCES INC,Energy,United States,NYSE,USD,0.11,EOG
+ISP,INTESA SANPAOLO,Financials,Italy,Borsa Italiana,USD,0.11,ISP.MI
+SU,SUNCOR ENERGY INC,Energy,Canada,Toronto Stock Exchange,USD,0.11,SU.TO
+MRSH,MARSH INC,Financials,United States,NYSE,USD,0.1,MRSH
+MRVL,MARVELL TECHNOLOGY INC,Information Technology,United States,NASDAQ,USD,0.1,MRVL
+ADP,AUTOMATIC DATA PROCESSING INC,Industrials,United States,NASDAQ,USD,0.1,ADP
+BA.,BAE SYSTEMS PLC,Industrials,United Kingdom,London Stock Exchange,USD,0.1,BA..L
+GD,GENERAL DYNAMICS CORP,Industrials,United States,NYSE,USD,0.1,GD
+JCI,JOHNSON CONTROLS INTERNATIONAL PLC,Industrials,United States,NYSE,USD,0.1,JCI
+SLB,SLB NV,Energy,United States,NYSE,USD,0.1,SLB
+PWR,QUANTA SERVICES INC,Industrials,United States,NYSE,USD,0.1,PWR
+STX,SEAGATE TECHNOLOGY HOLDINGS PLC,Information Technology,United States,NASDAQ,USD,0.1,STX
+MUV2,MUENCHENER RUECKVERSICHERUNGS-GESE,Financials,Germany,Xetra,USD,0.1,MUV2.DE
+BN,BROOKFIELD CORP CLASS A,Financials,Canada,Toronto Stock Exchange,USD,0.1,BN.TO
+FCX,FREEPORT MCMORAN INC,Materials,United States,NYSE,USD,0.1,FCX
+NG.,NATIONAL GRID PLC,Utilities,United Kingdom,London Stock Exchange,USD,0.1,NG..L
+8001,ITOCHU CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.1,8001.T
+PNC,PNC FINANCIAL SERVICES GROUP INC,Financials,United States,NYSE,USD,0.1,PNC
+BK,BANK OF NEW YORK MELLON CORP,Financials,United States,NYSE,USD,0.1,BK
+AMT,AMERICAN TOWER REIT CORP,Real Estate,United States,NYSE,USD,0.1,AMT
+PSX,PHILLIPS,Energy,United States,NYSE,USD,0.1,PSX
+BX,BLACKSTONE INC,Financials,United States,NYSE,USD,0.1,BX
+USB,US BANCORP,Financials,United States,NYSE,USD,0.1,USB
+REGN,REGENERON PHARMACEUTICALS INC,Health Care,United States,NASDAQ,USD,0.1,REGN
+ORLY,OREILLY AUTOMOTIVE INC,Consumer Discretionary,United States,NASDAQ,USD,0.1,ORLY
+FDX,FEDEX CORP,Industrials,United States,NYSE,USD,0.1,FDX
+VLO,VALERO ENERGY CORP,Energy,United States,NYSE,USD,0.1,VLO
+MDLZ,MONDELEZ INTERNATIONAL INC CLASS A,Consumer Staples,United States,NASDAQ,USD,0.1,MDLZ
+MPC,MARATHON PETROLEUM CORP,Energy,United States,NYSE,USD,0.1,MPC
+HCA,HCA HEALTHCARE INC,Health Care,United States,NYSE,USD,0.1,HCA
+MMM,3M,Industrials,United States,NYSE,USD,0.1,MMM
+INGA,ING GROEP NV,Financials,Netherlands,Euronext Amsterdam,USD,0.1,INGA.AS
+SHW,SHERWIN WILLIAMS,Materials,United States,NYSE,USD,0.1,SHW
+ANZ,ANZ GROUP HOLDINGS LTD,Financials,Australia,Asx - All Markets,USD,0.1,ANZ.AX
+MAR,MARRIOTT INTERNATIONAL INC CLASS A,Consumer Discretionary,United States,NASDAQ,USD,0.1,MAR
+CDNS,CADENCE DESIGN SYSTEMS INC,Information Technology,United States,NASDAQ,USD,0.09,CDNS
+CSX,CSX CORP,Industrials,United States,NASDAQ,USD,0.09,CSX
+SPOT,SPOTIFY TECHNOLOGY SA,Communication,Sweden,NYSE,USD,0.09,SPOT
+CS,AXA SA,Financials,France,Nyse Euronext - Euronext Paris,USD,0.09,CS.PA
+MSI,MOTOROLA SOLUTIONS INC,Information Technology,United States,NYSE,USD,0.09,MSI
+RHM,RHEINMETALL AG,Industrials,Germany,Xetra,USD,0.09,RHM.DE
+DG,VINCI SA,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.09,DG.PA
+CP,CANADIAN PACIFIC KANSAS CITY LTD,Industrials,Canada,Toronto Stock Exchange,USD,0.09,CP.TO
+GLEN,GLENCORE PLC,Materials,United Kingdom,London Stock Exchange,USD,0.09,GLEN.L
+MELI,MERCADOLIBRE INC,Consumer Discretionary,United States,NASDAQ,USD,0.09,MELI
+ITW,ILLINOIS TOOL INC,Industrials,United States,NYSE,USD,0.09,ITW
+HLT,HILTON WORLDWIDE HOLDINGS INC,Consumer Discretionary,United States,NYSE,USD,0.09,HLT
+EMR,EMERSON ELECTRIC,Industrials,United States,NYSE,USD,0.09,EMR
+ROST,ROSS STORES INC,Consumer Discretionary,United States,NASDAQ,USD,0.09,ROST
+BARC,BARCLAYS PLC,Financials,United Kingdom,London Stock Exchange,USD,0.09,BARC.L
+CMI,CUMMINS INC,Industrials,United States,NYSE,USD,0.09,CMI
+GM,GENERAL MOTORS,Consumer Discretionary,United States,NYSE,USD,0.09,GM
+CI,CIGNA,Health Care,United States,NYSE,USD,0.09,CI
+SNPS,SYNOPSYS INC,Information Technology,United States,NASDAQ,USD,0.09,SNPS
+UPS,UNITED PARCEL SERVICE INC CLASS B,Industrials,United States,NYSE,USD,0.09,UPS
+AEP,AMERICAN ELECTRIC POWER INC,Utilities,United States,NASDAQ,USD,0.09,AEP
+CRH,CRH PUBLIC LIMITED PLC,Materials,United States,NYSE,USD,0.09,CRH
+MCO,MOODYS CORP,Financials,United States,NYSE,USD,0.09,MCO
+9983,FAST RETAILING LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.09,9983.T
+KMI,KINDER MORGAN INC,Energy,United States,NYSE,USD,0.09,KMI
+RCL,ROYAL CARIBBEAN GROUP LTD,Consumer Discretionary,United States,NYSE,USD,0.09,RCL
+ABI,ANHEUSER-BUSCH INBEV SA,Consumer Staples,Belgium,Nyse Euronext - Euronext Brussels,USD,0.09,ABI.BR
+ABX,BARRICK MINING CORP,Materials,Canada,Toronto Stock Exchange,USD,0.09,ABX.TO
+ECL,ECOLAB INC,Materials,United States,NYSE,USD,0.09,ECL
+6503,MITSUBISHI ELECTRIC CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.08,6503.T
+INVE B,INVESTOR CLASS B,Financials,Sweden,Nasdaq Omx Nordic,USD,0.08,INVE B.ST
+LNG,CHENIERE ENERGY INC,Energy,United States,NYSE,USD,0.08,LNG
+EL,ESSILORLUXOTTICA SA,Health Care,France,Nyse Euronext - Euronext Paris,USD,0.08,EL.PA
+LLOY,LLOYDS BANKING GROUP PLC,Financials,United Kingdom,London Stock Exchange,USD,0.08,LLOY.L
+ELV,ELEVANCE HEALTH INC,Health Care,United States,NYSE,USD,0.08,ELV
+4063,SHIN ETSU CHEMICAL LTD,Materials,Japan,Tokyo Stock Exchange,USD,0.08,4063.T
+TRV,TRAVELERS COMPANIES INC,Financials,United States,NYSE,USD,0.08,TRV
+CL,COLGATE-PALMOLIVE,Consumer Staples,United States,NYSE,USD,0.08,CL
+AON,AON PLC CLASS A,Financials,United States,NYSE,USD,0.08,AON
+APD,AIR PRODUCTS AND CHEMICALS INC,Materials,United States,NYSE,USD,0.08,APD
+TRP,TC ENERGY CORP,Energy,Canada,Toronto Stock Exchange,USD,0.08,TRP.TO
+LHX,L3HARRIS TECHNOLOGIES INC,Industrials,United States,NYSE,USD,0.08,LHX
+NSC,NORFOLK SOUTHERN CORP,Industrials,United States,NYSE,USD,0.08,NSC
+6861,KEYENCE CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.08,6861.T
+7974,NINTENDO LTD,Communication,Japan,Tokyo Stock Exchange,USD,0.08,7974.T
+SRE,SEMPRA,Utilities,United States,NYSE,USD,0.08,SRE
+TDG,TRANSDIGM GROUP INC,Industrials,United States,NYSE,USD,0.08,TDG
+BKR,BAKER HUGHES CLASS A,Energy,United States,NASDAQ,USD,0.08,BKR
+ITX,INDUSTRIA DE DISENO TEXTIL SA,Consumer Discretionary,Spain,Bolsa De Madrid,USD,0.08,ITX.MC
+WBD,WARNER BROS. DISCOVERY INC SERIES,Communication,United States,NASDAQ,USD,0.08,WBD
+NET,CLOUDFLARE INC CLASS A,Information Technology,United States,NYSE,USD,0.08,NET
+NKE,NIKE INC CLASS B,Consumer Discretionary,United States,NYSE,USD,0.08,NKE
+TEL,TE CONNECTIVITY PLC,Information Technology,United States,NYSE,USD,0.08,TEL
+ENI,ENI,Energy,Italy,Borsa Italiana,USD,0.08,ENI.MI
+CTAS,CINTAS CORP,Industrials,United States,NASDAQ,USD,0.08,CTAS
+7741,HOYA CORP,Health Care,Japan,Tokyo Stock Exchange,USD,0.08,7741.T
+PCAR,PACCAR INC,Industrials,United States,NASDAQ,USD,0.08,PCAR
+4502,TAKEDA PHARMACEUTICAL LTD,Health Care,Japan,Tokyo Stock Exchange,USD,0.07,4502.T
+PRX,PROSUS NV CLASS N,Consumer Discretionary,Netherlands,Euronext Amsterdam,USD,0.07,PRX.AS
+RMS,HERMES INTERNATIONAL,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,USD,0.07,RMS.PA
+SPG,SIMON PROPERTY GROUP REIT INC,Real Estate,United States,NYSE,USD,0.07,SPG
+DLR,DIGITAL REALTY TRUST REIT INC,Real Estate,United States,NYSE,USD,0.07,DLR
+REL,RELX PLC,Industrials,United Kingdom,London Stock Exchange,USD,0.07,REL.L
+NWG,NATWEST GROUP PLC,Financials,United Kingdom,London Stock Exchange,USD,0.07,NWG.L
+TFC,TRUIST FINANCIAL CORP,Financials,United States,NYSE,USD,0.07,TFC
+OKE,ONEOK INC,Energy,United States,NYSE,USD,0.07,OKE
+CIEN,CIENA CORP,Information Technology,United States,NYSE,USD,0.07,CIEN
+COR,CENCORA INC,Health Care,United States,NYSE,USD,0.07,COR
+AZO,AUTOZONE INC,Consumer Discretionary,United States,NYSE,USD,0.07,AZO
+WES,WESFARMERS LTD,Consumer Discretionary,Australia,Asx - All Markets,USD,0.07,WES.AX
+6098,RECRUIT HOLDINGS LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.07,6098.T
+MFC,MANULIFE FINANCIAL CORP,Financials,Canada,Toronto Stock Exchange,USD,0.07,MFC.TO
+CTVA,CORTEVA INC,Materials,United States,NYSE,USD,0.07,CTVA
+WPM,WHEATON PRECIOUS METALS CORP,Materials,Canada,Toronto Stock Exchange,USD,0.07,WPM.TO
+DASH,DOORDASH INC CLASS A,Consumer Discretionary,United States,NASDAQ,USD,0.07,DASH
+IFX,INFINEON TECHNOLOGIES AG,Information Technology,Germany,Xetra,USD,0.07,IFX.DE
+ENGI,ENGIE SA,Utilities,France,Nyse Euronext - Euronext Paris,USD,0.07,ENGI.PA
+DBK,DEUTSCHE BANK AG,Financials,Germany,Xetra,USD,0.07,DBK.DE
+KKR,KKR AND CO INC,Financials,United States,NYSE,USD,0.07,KKR
+CNR,CANADIAN NATIONAL RAILWAY,Industrials,Canada,Toronto Stock Exchange,USD,0.07,CNR.TO
+AFL,AFLAC INC,Financials,United States,NYSE,USD,0.07,AFL
+TGT,TARGET CORP,Consumer Staples,United States,NYSE,USD,0.07,TGT
+ABNB,AIRBNB INC CLASS A,Consumer Discretionary,United States,NASDAQ,USD,0.07,ABNB
+DELL,DELL TECHNOLOGIES INC CLASS C,Information Technology,United States,NYSE,USD,0.07,DELL
+MNST,MONSTER BEVERAGE CORP,Consumer Staples,United States,NASDAQ,USD,0.07,MNST
+ALL,ALLSTATE CORP,Financials,United States,NYSE,USD,0.07,ALL
+O,REALTY INCOME REIT CORP,Real Estate,United States,NYSE,USD,0.07,O
+AJG,ARTHUR J GALLAGHER,Financials,United States,NYSE,USD,0.07,AJG
+TRGP,TARGA RESOURCES CORP,Energy,United States,NYSE,USD,0.07,TRGP
+BAS,BASF N,Materials,Germany,Xetra,USD,0.07,BAS.DE
+VST,VISTRA CORP,Utilities,United States,NYSE,USD,0.07,VST
+O39,OVERSEA-CHINESE BANKING LTD,Financials,Singapore,Singapore Exchange,USD,0.07,O39.SI
+DB1,DEUTSCHE BOERSE AG,Financials,Germany,Xetra,USD,0.07,DB1.DE
+D,DOMINION ENERGY INC,Utilities,United States,NYSE,USD,0.07,D
+FTNT,FORTINET INC,Information Technology,United States,NASDAQ,USD,0.07,FTNT
+FAST,FASTENAL,Industrials,United States,NASDAQ,USD,0.07,FAST
+LSEG,LONDON STOCK EXCHANGE GROUP PLC,Financials,United Kingdom,London Stock Exchange,USD,0.07,LSEG.L
+GLE,SOCIETE GENERALE SA,Financials,France,Nyse Euronext - Euronext Paris,USD,0.07,GLE.PA
+MPWR,MONOLITHIC POWER SYSTEMS INC,Information Technology,United States,NASDAQ,USD,0.07,MPWR
+ZTS,ZOETIS INC CLASS A,Health Care,United States,NYSE,USD,0.07,ZTS
+CAH,CARDINAL HEALTH INC,Health Care,United States,NYSE,USD,0.06,CAH
+VOLV B,VOLVO CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.06,VOLV B.ST
+MQG,MACQUARIE GROUP LTD DEF,Financials,Australia,Asx - All Markets,USD,0.06,MQG.AX
+EA,ELECTRONIC ARTS INC,Communication,United States,NASDAQ,USD,0.06,EA
+BN,DANONE SA,Consumer Staples,France,Nyse Euronext - Euronext Paris,USD,0.06,BN.PA
+8002,MARUBENI CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.06,8002.T
+NDA FI,NORDEA BANK,Financials,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.06,NDA FI.HE
+LITE,LUMENTUM HOLDINGS INC,Information Technology,United States,NASDAQ,USD,0.06,LITE
+9433,KDDI CORP,Communication,Japan,Tokyo Stock Exchange,USD,0.06,9433.T
+,NATIONAL BANK OF CANADA,Financials,Canada,Toronto Stock Exchange,USD,0.06,nan.TO
+NXPI,NXP SEMICONDUCTORS NV,Information Technology,United States,NASDAQ,USD,0.06,NXPI
+ADSK,AUTODESK INC,Information Technology,United States,NASDAQ,USD,0.06,ADSK
+EXC,EXELON CORP,Utilities,United States,NASDAQ,USD,0.06,EXC
+FIX,COMFORT SYSTEMS USA INC,Industrials,United States,NYSE,USD,0.06,FIX
+ETR,ENTERGY CORP,Utilities,United States,NYSE,USD,0.06,ETR
+SNOW,SNOWFLAKE INC,Information Technology,United States,NYSE,USD,0.06,SNOW
+KEYS,KEYSIGHT TECHNOLOGIES INC,Information Technology,United States,NYSE,USD,0.06,KEYS
+HOOD,ROBINHOOD MARKETS INC CLASS A,Financials,United States,NASDAQ,USD,0.06,HOOD
+URI,UNITED RENTALS INC,Industrials,United States,NYSE,USD,0.06,URI
+AME,AMETEK INC,Industrials,United States,NYSE,USD,0.06,AME
+CSL,CSL LTD,Health Care,Australia,Asx - All Markets,USD,0.06,CSL.AX
+SREN,SWISS RE AG,Financials,Switzerland,SIX Swiss Exchange,USD,0.06,SREN.SW
+GWW,WW GRAINGER INC,Industrials,United States,NYSE,USD,0.06,GWW
+CABK,CAIXABANK SA,Financials,Spain,Bolsa De Madrid,USD,0.06,CABK.MC
+EOAN,E.ON N,Utilities,Germany,Xetra,USD,0.06,EOAN.DE
+APO,APOLLO GLOBAL MANAGEMENT INC,Financials,United States,NYSE,USD,0.06,APO
+RSG,REPUBLIC SERVICES INC,Industrials,United States,NYSE,USD,0.06,RSG
+DHL,DEUTSCHE POST AG,Industrials,Germany,Xetra,USD,0.06,DHL.DE
+CCO,CAMECO CORP,Energy,Canada,Toronto Stock Exchange,USD,0.06,CCO.TO
+2914,JAPAN TOBACCO INC,Consumer Staples,Japan,Tokyo Stock Exchange,USD,0.06,2914.T
+EW,EDWARDS LIFESCIENCES CORP,Health Care,United States,NYSE,USD,0.06,EW
+DSV,DSV,Industrials,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.06,DSV.CO
+TER,TERADYNE INC,Information Technology,United States,NASDAQ,USD,0.06,TER
+KR,KROGER,Consumer Staples,United States,NYSE,USD,0.06,KR
+ATCO A,ATLAS COPCO CLASS A,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.06,ATCO A.ST
+WDS,WOODSIDE ENERGY GROUP LTD,Energy,Australia,Asx - All Markets,USD,0.06,WDS.AX
+5803,FUJIKURA LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.06,5803.T
+OXY,OCCIDENTAL PETROLEUM CORP,Energy,United States,NYSE,USD,0.06,OXY
+LONN,LONZA GROUP AG,Health Care,Switzerland,SIX Swiss Exchange,USD,0.06,LONN.SW
+IDXX,IDEXX LABORATORIES INC,Health Care,United States,NASDAQ,USD,0.06,IDXX
+RKT,RECKITT BENCKISER GROUP PLC,Consumer Staples,United Kingdom,London Stock Exchange,USD,0.06,RKT.L
+AAL,ANGLO AMERICAN PLC,Materials,United Kingdom,London Stock Exchange,USD,0.06,AAL.L
+CPG,COMPASS GROUP PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,USD,0.06,CPG.L
+FERG,FERGUSON ENTERPRISES INC,Industrials,United States,NYSE,USD,0.06,FERG
+XEL,XCEL ENERGY INC,Utilities,United States,NASDAQ,USD,0.06,XEL
+NOKIA,NOKIA,Information Technology,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.06,NOKIA.HE
+F,FORD MOTOR CO,Consumer Discretionary,United States,NYSE,USD,0.06,F
+BDX,BECTON DICKINSON,Health Care,United States,NYSE,USD,0.06,BDX
+FNV,FRANCO NEVADA CORP,Materials,Canada,Toronto Stock Exchange,USD,0.06,FNV.TO
+MBG,MERCEDES-BENZ GROUP N AG,Consumer Discretionary,Germany,Xetra,USD,0.06,MBG.DE
+HLN,HALEON PLC,Health Care,United Kingdom,London Stock Exchange,USD,0.06,HLN.L
+388,HONG KONG EXCHANGES AND CLEARING L,Financials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.06,388.HK
+5802,SUMITOMO ELECTRIC INDUSTRIES LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.05,5802.T
+BAYN,BAYER AG,Health Care,Germany,Xetra,USD,0.05,BAYN.DE
+YUM,YUM BRANDS INC,Consumer Discretionary,United States,NYSE,USD,0.05,YUM
+AD,KONINKLIJKE AHOLD DELHAIZE NV,Consumer Staples,Netherlands,Euronext Amsterdam,USD,0.05,AD.AS
+ARGX,ARGENX,Health Care,Belgium,Nyse Euronext - Euronext Brussels,USD,0.05,ARGX.BR
+ATD,ALIMENTATION COUCHE TARD INC,Consumer Staples,Canada,Toronto Stock Exchange,USD,0.05,ATD.TO
+HOLN,HOLCIM LTD AG,Materials,Switzerland,SIX Swiss Exchange,USD,0.05,HOLN.SW
+9434,SOFTBANK CORP,Communication,Japan,Tokyo Stock Exchange,USD,0.05,9434.T
+CARR,CARRIER GLOBAL CORP,Industrials,United States,NYSE,USD,0.05,CARR
+CMG,CHIPOTLE MEXICAN GRILL INC,Consumer Discretionary,United States,NYSE,USD,0.05,CMG
+PSA,PUBLIC STORAGE REIT,Real Estate,United States,NYSE,USD,0.05,PSA
+WAB,WESTINGHOUSE AIR BRAKE TECHNOLOGIE,Industrials,United States,NYSE,USD,0.05,WAB
+DGE,DIAGEO PLC,Consumer Staples,United Kingdom,London Stock Exchange,USD,0.05,DGE.L
+EBAY,EBAY INC,Consumer Discretionary,United States,NASDAQ,USD,0.05,EBAY
+WCN,WASTE CONNECTIONS INC,Industrials,United States,NYSE,USD,0.05,WCN
+ALNY,ALNYLAM PHARMACEUTICALS INC,Health Care,United States,NASDAQ,USD,0.05,ALNY
+AIG,AMERICAN INTERNATIONAL GROUP INC,Financials,United States,NYSE,USD,0.05,AIG
+CBRE,CBRE GROUP INC CLASS A,Real Estate,United States,NYSE,USD,0.05,CBRE
+ROK,ROCKWELL AUTOMATION INC,Industrials,United States,NYSE,USD,0.05,ROK
+STAN,STANDARD CHARTERED PLC,Financials,United Kingdom,London Stock Exchange,USD,0.05,STAN.L
+FITB,FIFTH THIRD BANCORP,Financials,United States,NASDAQ,USD,0.05,FITB
+6752,PANASONIC HOLDINGS CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.05,6752.T
+TSCO,TESCO PLC,Consumer Staples,United Kingdom,London Stock Exchange,USD,0.05,TSCO.L
+PEG,PUBLIC SERVICE ENTERPRISE GROUP IN,Utilities,United States,NYSE,USD,0.05,PEG
+RACE,FERRARI NV,Consumer Discretionary,Italy,Borsa Italiana,USD,0.05,RACE.MI
+SYY,SYSCO CORP,Consumer Staples,United States,NYSE,USD,0.05,SYY
+MSCI,MSCI INC,Financials,United States,NYSE,USD,0.05,MSCI
+SSE,SSE PLC,Utilities,United Kingdom,London Stock Exchange,USD,0.05,SSE.L
+CVNA,CARVANA CLASS A,Consumer Discretionary,United States,NYSE,USD,0.05,CVNA
+PYPL,PAYPAL HOLDINGS INC,Financials,United States,NASDAQ,USD,0.05,PYPL
+8053,SUMITOMO CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.05,8053.T
+6981,MURATA MANUFACTURING LTD,Information Technology,Japan,Tokyo Stock Exchange,USD,0.05,6981.T
+AMP,AMERIPRISE FINANCE INC,Financials,United States,NYSE,USD,0.05,AMP
+NUE,NUCOR CORP,Materials,United States,NYSE,USD,0.05,NUE
+ED,CONSOLIDATED EDISON INC,Utilities,United States,NYSE,USD,0.05,ED
+RIO,RIO TINTO LTD,Materials,Australia,Asx - All Markets,USD,0.05,RIO.AX
+MET,METLIFE INC,Financials,United States,NYSE,USD,0.05,MET
+SAND,SANDVIK,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.05,SAND.ST
+FANG,DIAMONDBACK ENERGY INC,Energy,United States,NASDAQ,USD,0.05,FANG
+HIG,HARTFORD INSURANCE GROUP INC,Financials,United States,NYSE,USD,0.05,HIG
+COHR,COHERENT CORP,Information Technology,United States,NYSE,USD,0.05,COHR
+EQT,EQT CORP,Energy,United States,NYSE,USD,0.05,EQT
+RWE,RWE AG,Utilities,Germany,Xetra,USD,0.05,RWE.DE
+PCG,PG&E CORP,Utilities,United States,NYSE,USD,0.05,PCG
+NDAQ,NASDAQ INC,Financials,United States,NASDAQ,USD,0.05,NDAQ
+DHI,D R HORTON INC,Consumer Discretionary,United States,NYSE,USD,0.05,DHI
+GRMN,GARMIN LTD,Consumer Discretionary,United States,NYSE,USD,0.05,GRMN
+ORA,ORANGE SA,Communication,France,Nyse Euronext - Euronext Paris,USD,0.05,ORA.PA
+NTR,NUTRIEN LTD,Materials,Canada,Toronto Stock Exchange,USD,0.05,NTR.TO
+LR,LEGRAND SA,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.05,LR.PA
+CVE,CENOVUS ENERGY,Other,Canada,Toronto Stock Exchange,USD,0.05,CVE.TO
+ODFL,OLD DOMINION FREIGHT LINE INC,Industrials,United States,NASDAQ,USD,0.05,ODFL
+WEC,WEC ENERGY GROUP INC,Utilities,United States,NYSE,USD,0.05,WEC
+HAL,HALLIBURTON,Energy,United States,NYSE,USD,0.05,HAL
+ROP,ROPER TECHNOLOGIES INC,Information Technology,United States,NASDAQ,USD,0.05,ROP
+8591,ORIX CORP,Financials,Japan,Tokyo Stock Exchange,USD,0.05,8591.T
+6301,KOMATSU LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.05,6301.T
+VTR,VENTAS REIT INC,Real Estate,United States,NYSE,USD,0.05,VTR
+PRU,PRUDENTIAL PLC,Financials,United Kingdom,London Stock Exchange,USD,0.05,PRU.L
+6367,DAIKIN INDUSTRIES LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.05,6367.T
+ALC,ALCON AG,Health Care,Switzerland,SIX Swiss Exchange,USD,0.05,ALC.SW
+6146,DISCO CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.05,6146.T
+SGO,COMPAGNIE DE SAINT GOBAIN SA,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.05,SGO.PA
+EQNR,EQUINOR,Energy,Norway,Oslo Bors Asa,USD,0.04,EQNR.OL
+CSU,CONSTELLATION SOFTWARE INC,Information Technology,Canada,Toronto Stock Exchange,USD,0.04,CSU.TO
+GMG,GOODMAN GROUP UNITS,Real Estate,Australia,Asx - All Markets,USD,0.04,GMG.AX
+TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,Communication,United States,NASDAQ,USD,0.04,TTWO
+STT,STATE STREET CORP,Financials,United States,NYSE,USD,0.04,STT
+K,KINROSS GOLD CORP,Materials,Canada,Toronto Stock Exchange,USD,0.04,K.TO
+ADM,ARCHER DANIELS MIDLAND,Consumer Staples,United States,NYSE,USD,0.04,ADM
+6702,FUJITSU LTD,Information Technology,Japan,Tokyo Stock Exchange,USD,0.04,6702.T
+4519,CHUGAI PHARMACEUTICAL LTD,Health Care,Japan,Tokyo Stock Exchange,USD,0.04,4519.T
+8630,SOMPO HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,USD,0.04,8630.T
+VMC,VULCAN MATERIALS,Materials,United States,NYSE,USD,0.04,VMC
+U11,UNITED OVERSEAS BANK LTD,Financials,Singapore,Singapore Exchange,USD,0.04,U11.SI
+ASSA B,ASSA ABLOY B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.04,ASSA B.ST
+8750,DAI-ICHI LIFE HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,USD,0.04,8750.T
+ASM,ASM INTERNATIONAL NV,Information Technology,Netherlands,Euronext Amsterdam,USD,0.04,ASM.AS
+7267,HONDA MOTOR LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.04,7267.T
+KVUE,KENVUE INC,Consumer Staples,United States,NYSE,USD,0.04,KVUE
+UCB,UCB SA,Health Care,Belgium,Nyse Euronext - Euronext Brussels,USD,0.04,UCB.BR
+KDP,KEURIG DR PEPPER INC,Consumer Staples,United States,NASDAQ,USD,0.04,KDP
+8725,MS&AD INSURANCE GROUP HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,USD,0.04,8725.T
+ERIC B,ERICSSON B,Information Technology,Sweden,Nasdaq Omx Nordic,USD,0.04,ERIC B.ST
+EBS,ERSTE GROUP BANK AG,Financials,Austria,Wiener Boerse Ag,USD,0.04,EBS.VI
+CCI,CROWN CASTLE INC,Real Estate,United States,NYSE,USD,0.04,CCI
+SLF,SUN LIFE FINANCIAL INC,Financials,Canada,Toronto Stock Exchange,USD,0.04,SLF.TO
+TEVA,TEVA PHARMACEUTICAL INDUSTRIES ADR,Health Care,Israel,NYSE,USD,0.04,TEVA
+MCHP,MICROCHIP TECHNOLOGY INC,Information Technology,United States,NASDAQ,USD,0.04,MCHP
+MLM,MARTIN MARIETTA MATERIALS INC,Materials,United States,NYSE,USD,0.04,MLM
+ACGL,ARCH CAPITAL GROUP LTD,Financials,United States,NASDAQ,USD,0.04,ACGL
+EME,EMCOR GROUP INC,Industrials,United States,NYSE,USD,0.04,EME
+DDOG,DATADOG INC CLASS A,Information Technology,United States,NASDAQ,USD,0.04,DDOG
+MSTR,STRATEGY INC CLASS A,Information Technology,United States,NASDAQ,USD,0.04,MSTR
+9432,NTT INC,Communication,Japan,Tokyo Stock Exchange,USD,0.04,9432.T
+G,ASSICURAZIONI GENERALI,Financials,Italy,Borsa Italiana,USD,0.04,G.MI
+FER,FERROVIAL,Industrials,Spain,Bolsa De Madrid,USD,0.04,FER.MC
+4568,DAIICHI SANKYO LTD,Health Care,Japan,Tokyo Stock Exchange,USD,0.04,4568.T
+KMB,KIMBERLY CLARK CORP,Consumer Staples,United States,NASDAQ,USD,0.04,KMB
+DOL,DOLLARAMA INC,Consumer Discretionary,Canada,Toronto Stock Exchange,USD,0.04,DOL.TO
+REP,REPSOL SA,Energy,Spain,Bolsa De Madrid,USD,0.04,REP.MC
+IR,INGERSOLL RAND INC,Industrials,United States,NYSE,USD,0.04,IR
+FFH,FAIRFAX FINANCIAL HOLDINGS SUB VOT,Financials,Canada,Toronto Stock Exchange,USD,0.04,FFH.TO
+CLS,CELESTICA INC,Information Technology,Canada,Toronto Stock Exchange,USD,0.04,CLS.TO
+COIN,COINBASE GLOBAL INC CLASS A,Financials,United States,NASDAQ,USD,0.04,COIN
+RMD,RESMED INC,Health Care,United States,NYSE,USD,0.04,RMD
+PRU,PRUDENTIAL FINANCIAL INC,Financials,United States,NYSE,USD,0.04,PRU
+DVN,DEVON ENERGY CORP,Energy,United States,NYSE,USD,0.04,DVN
+6954,FANUC CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.04,6954.T
+GEHC,GE HEALTHCARE TECHNOLOGIES INC,Health Care,United States,NASDAQ,USD,0.04,GEHC
+7182,JAPAN POST BANK LTD,Financials,Japan,Tokyo Stock Exchange,USD,0.04,7182.T
+A,AGILENT TECHNOLOGIES INC,Health Care,United States,NYSE,USD,0.04,A
+MTB,M&T BANK CORP,Financials,United States,NYSE,USD,0.04,MTB
+4503,ASTELLAS PHARMA INC,Health Care,Japan,Tokyo Stock Exchange,USD,0.04,4503.T
+4578,OTSUKA HOLDINGS LTD,Health Care,Japan,Tokyo Stock Exchange,USD,0.04,4578.T
+INSM,INSMED INC,Health Care,United States,NASDAQ,USD,0.04,INSM
+SDZ,SANDOZ GROUP AG,Health Care,Switzerland,SIX Swiss Exchange,USD,0.04,SDZ.SW
+IMB,IMPERIAL BRANDS PLC,Consumer Staples,United Kingdom,London Stock Exchange,USD,0.04,IMB.L
+8801,MITSUI FUDOSAN LTD,Real Estate,Japan,Tokyo Stock Exchange,USD,0.04,8801.T
+XYZ,BLOCK INC CLASS A,Financials,United States,NYSE,USD,0.04,XYZ
+AXON,AXON ENTERPRISE INC,Industrials,United States,NASDAQ,USD,0.04,AXON
+HSY,HERSHEY FOODS,Consumer Staples,United States,NYSE,USD,0.04,HSY
+TCL,TRANSURBAN GROUP STAPLED UNITS,Industrials,Australia,Asx - All Markets,USD,0.04,TCL.AX
+EXPN,EXPERIAN PLC,Industrials,United Kingdom,London Stock Exchange,USD,0.04,EXPN.L
+IFC,INTACT FINANCIAL CORP,Financials,Canada,Toronto Stock Exchange,USD,0.04,IFC.TO
+HBAN,HUNTINGTON BANCSHARES INC,Financials,United States,NASDAQ,USD,0.04,HBAN
+Z74,SINGAPORE TELECOMMUNICATIONS LTD,Communication,Singapore,Singapore Exchange,USD,0.04,Z74.SI
+NRG,NRG ENERGY INC,Utilities,United States,NYSE,USD,0.04,NRG
+GIVN,GIVAUDAN SA,Materials,Switzerland,SIX Swiss Exchange,USD,0.04,GIVN.SW
+LUMI,BANK LEUMI LE ISRAEL,Financials,Israel,Tel Aviv Stock Exchange,USD,0.04,LUMI.TA
+BE,BLOOM ENERGY CLASS A CORP,Industrials,United States,NYSE,USD,0.04,BE
+FISV,FISERV INC,Financials,United States,NASDAQ,USD,0.04,FISV
+HPE,HEWLETT PACKARD ENTERPRISE,Information Technology,United States,NYSE,USD,0.04,HPE
+CPRT,COPART INC,Industrials,United States,NASDAQ,USD,0.04,CPRT
+SE,SEA ADS REPRESENTING LTD CLASS A,Consumer Discretionary,Singapore,NYSE,USD,0.04,SE
+6701,NEC CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.04,6701.T
+III,3I GROUP PLC,Financials,United Kingdom,London Stock Exchange,USD,0.04,III.L
+OTIS,OTIS WORLDWIDE CORP,Industrials,United States,NYSE,USD,0.04,OTIS
+RBLX,ROBLOX CORP CLASS A,Communication,United States,NYSE,USD,0.04,RBLX
+CTSH,COGNIZANT TECHNOLOGY SOLUTIONS COR,Information Technology,United States,NASDAQ,USD,0.04,CTSH
+PAYX,PAYCHEX INC,Industrials,United States,NASDAQ,USD,0.04,PAYX
+AEE,AMEREN CORP,Utilities,United States,NYSE,USD,0.04,AEE
+L,LOBLAW COMPANIES LTD,Consumer Staples,Canada,Toronto Stock Exchange,USD,0.04,L.TO
+WOW,WOOLWORTHS GROUP LTD,Consumer Staples,Australia,Asx - All Markets,USD,0.04,WOW.AX
+CBOE,CBOE GLOBAL MARKETS INC,Financials,United States,Cboe BZX,USD,0.04,CBOE
+DANSKE,DANSKE BANK,Financials,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.04,DANSKE.CO
+SLHN,SWISS LIFE HOLDING AG,Financials,Switzerland,SIX Swiss Exchange,USD,0.04,SLHN.SW
+GALD,GALDERMA GROUP N AG,Health Care,Switzerland,SIX Swiss Exchange,USD,0.04,GALD.SW
+TPL,TEXAS PACIFIC LAND CORP,Energy,United States,NYSE,USD,0.04,TPL
+DTE,DTE ENERGY,Utilities,United States,NYSE,USD,0.04,DTE
+TPR,TAPESTRY INC,Consumer Discretionary,United States,NYSE,USD,0.04,TPR
+IRM,IRON MOUNTAIN INC,Real Estate,United States,NYSE,USD,0.04,IRM
+FTS,FORTIS INC,Utilities,Canada,Toronto Stock Exchange,USD,0.04,FTS.TO
+PRY,PRYSMIAN,Industrials,Italy,Borsa Italiana,USD,0.04,PRY.MI
+DOV,DOVER CORP,Industrials,United States,NYSE,USD,0.04,DOV
+XYL,XYLEM INC,Industrials,United States,NYSE,USD,0.04,XYL
+NTRS,NORTHERN TRUST CORP,Financials,United States,NASDAQ,USD,0.04,NTRS
+ATO,ATMOS ENERGY CORP,Utilities,United States,NYSE,USD,0.04,ATO
+FE,FIRSTENERGY CORP,Utilities,United States,NYSE,USD,0.04,FE
+RJF,RAYMOND JAMES INC,Financials,United States,NYSE,USD,0.04,RJF
+3382,SEVEN & I HOLDINGS LTD,Consumer Staples,Japan,Tokyo Stock Exchange,USD,0.04,3382.T
+EXPE,EXPEDIA GROUP INC,Consumer Discretionary,United States,NASDAQ,USD,0.04,EXPE
+JBL,JABIL INC,Information Technology,United States,NYSE,USD,0.04,JBL
+16,SUN HUNG KAI PROPERTIES LTD,Real Estate,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.04,16.HK
+PPL,PPL CORP,Utilities,United States,NYSE,USD,0.04,PPL
+VOD,VODAFONE GROUP PLC,Communication,United Kingdom,London Stock Exchange,USD,0.04,VOD.L
+TDY,TELEDYNE TECHNOLOGIES INC,Information Technology,United States,NYSE,USD,0.04,TDY
+DOW,DOW INC,Materials,United States,NYSE,USD,0.04,DOW
+IBKR,INTERACTIVE BROKERS GROUP INC CLAS,Financials,United States,NASDAQ,USD,0.04,IBKR
+KBC,KBC GROEP,Financials,Belgium,Nyse Euronext - Euronext Brussels,USD,0.04,KBC.BR
+IQV,IQVIA HOLDINGS INC,Health Care,United States,NYSE,USD,0.04,IQV
+VICI,VICI PPTYS INC,Real Estate,United States,NYSE,USD,0.04,VICI
+WAT,WATERS CORP,Health Care,United States,NYSE,USD,0.04,WAT
+AMRZ,AMRIZE AG,Materials,United States,NYSE,USD,0.04,AMRZ
+8267,AEON LTD,Consumer Staples,Japan,Tokyo Stock Exchange,USD,0.04,8267.T
+8015,TOYOTA TSUSHO CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.04,8015.T
+WTW,WILLIS TOWERS WATSON PLC,Financials,United States,NASDAQ,USD,0.03,WTW
+1605,INPEX CORP,Energy,Japan,Tokyo Stock Exchange,USD,0.03,1605.T
+HEI,HEIDELBERG MATERIALS AG,Materials,Germany,Xetra,USD,0.03,HEI.DE
+SWED A,SWEDBANK,Financials,Sweden,Nasdaq Omx Nordic,USD,0.03,SWED A.ST
+EIX,EDISON INTERNATIONAL,Utilities,United States,NYSE,USD,0.03,EIX
+6762,TDK CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.03,6762.T
+EXR,EXTRA SPACE STORAGE REIT INC,Real Estate,United States,NYSE,USD,0.03,EXR
+6723,RENESAS ELECTRONICS CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.03,6723.T
+CNP,CENTERPOINT ENERGY INC,Utilities,United States,NYSE,USD,0.03,CNP
+POLI,BANK HAPOALIM BM,Financials,Israel,Tel Aviv Stock Exchange,USD,0.03,POLI.TA
+POW,POWER CORPORATION OF CANADA,Financials,Canada,Toronto Stock Exchange,USD,0.03,POW.TO
+SEB A,SKANDINAVISKA ENSKILDA BANKEN,Financials,Sweden,Nasdaq Omx Nordic,USD,0.03,SEB A.ST
+8802,MITSUBISHI ESTATE CO LTD,Real Estate,Japan,Tokyo Stock Exchange,USD,0.03,8802.T
+BIIB,BIOGEN INC,Health Care,United States,NASDAQ,USD,0.03,BIIB
+CBK,COMMERZBANK AG,Financials,Germany,Xetra,USD,0.03,CBK.DE
+VWS,VESTAS WIND SYSTEMS,Industrials,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.03,VWS.CO
+HO,THALES SA,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.03,HO.PA
+WDAY,WORKDAY INC CLASS A,Information Technology,United States,NASDAQ,USD,0.03,WDAY
+MTD,METTLER TOLEDO INC,Health Care,United States,NYSE,USD,0.03,MTD
+5020,ENEOS HOLDINGS INC,Energy,Japan,Tokyo Stock Exchange,USD,0.03,5020.T
+CTRA,COTERRA ENERGY INC,Energy,United States,NYSE,USD,0.03,CTRA
+CASY,CASEYS GENERAL STORES INC,Consumer Staples,United States,NASDAQ,USD,0.03,CASY
+RKLB,ROCKET LAB CORP,Industrials,United States,NASDAQ,USD,0.03,RKLB
+STLD,STEEL DYNAMICS INC,Materials,United States,NASDAQ,USD,0.03,STLD
+DG,DOLLAR GENERAL CORP,Consumer Staples,United States,NYSE,USD,0.03,DG
+SUNB,SUNBELT RENTALS HOLDINGS INC,Industrials,United Kingdom,London Stock Exchange,USD,0.03,SUNB.L
+LDO,LEONARDO FINMECCANICA SPA,Industrials,Italy,Borsa Italiana,USD,0.03,LDO.MI
+PPL,PEMBINA PIPELINE CORP,Energy,Canada,Toronto Stock Exchange,USD,0.03,PPL.TO
+HUBB,HUBBELL INC,Industrials,United States,NYSE,USD,0.03,HUBB
+VEEV,VEEVA SYSTEMS INC CLASS A,Health Care,United States,NYSE,USD,0.03,VEEV
+SAMPO,SAMPO CLASS A,Financials,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.03,SAMPO.HE
+ADS,ADIDAS N AG,Consumer Discretionary,Germany,Xetra,USD,0.03,ADS.DE
+DNB,DNB BANK,Financials,Norway,Oslo Bors Asa,USD,0.03,DNB.OL
+FICO,FAIR ISAAC CORP,Information Technology,United States,NYSE,USD,0.03,FICO
+DTG,DAIMLER TRUCK HOLDING E AG,Industrials,Germany,Xetra,USD,0.03,DTG.DE
+ON,ON SEMICONDUCTOR CORP,Information Technology,United States,NASDAQ,USD,0.03,ON
+AWK,AMERICAN WATER WORKS INC,Utilities,United States,NYSE,USD,0.03,AWK
+FIS,FIDELITY NATIONAL INFORMATION SERV,Financials,United States,NYSE,USD,0.03,FIS
+VRSK,VERISK ANALYTICS INC,Industrials,United States,NASDAQ,USD,0.03,VRSK
+CFG,CITIZENS FINANCIAL GROUP INC,Financials,United States,NYSE,USD,0.03,CFG
+BMW,BMW AG,Consumer Discretionary,Germany,Xetra,USD,0.03,BMW.DE
+ADYEN,ADYEN NV,Financials,Netherlands,Euronext Amsterdam,USD,0.03,ADYEN.AS
+CCL,CARNIVAL CORP,Consumer Discretionary,United States,NYSE,USD,0.03,CCL
+AMS,AMADEUS IT GROUP SA,Consumer Discretionary,Spain,Bolsa De Madrid,USD,0.03,AMS.MC
+VIE,VEOLIA ENVIRON. SA,Utilities,France,Nyse Euronext - Euronext Paris,USD,0.03,VIE.PA
+IMO,IMPERIAL OIL LTD,Energy,Canada,Toronto Stock Exchange,USD,0.03,IMO.TO
+FLEX,FLEX LTD,Information Technology,United States,NASDAQ,USD,0.03,FLEX
+7751,CANON INC,Information Technology,Japan,Tokyo Stock Exchange,USD,0.03,7751.T
+FTAI,FTAI AVIATION LTD,Industrials,United States,NASDAQ,USD,0.03,FTAI
+SIKA,SIKA AG,Materials,Switzerland,SIX Swiss Exchange,USD,0.03,SIKA.SW
+2802,AJINOMOTO INC,Consumer Staples,Japan,Tokyo Stock Exchange,USD,0.03,2802.T
+ULTA,ULTA BEAUTY INC,Consumer Discretionary,United States,NASDAQ,USD,0.03,ULTA
+CW,CURTISS WRIGHT CORP,Industrials,United States,NYSE,USD,0.03,CW
+SYF,SYNCHRONY FINANCIAL,Financials,United States,NYSE,USD,0.03,SYF
+ES,EVERSOURCE ENERGY,Utilities,United States,NYSE,USD,0.03,ES
+MKL,MARKEL GROUP INC,Financials,United States,NYSE,USD,0.03,MKL
+TSCO,TRACTOR SUPPLY,Consumer Discretionary,United States,NASDAQ,USD,0.03,TSCO
+8308,RESONA HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,USD,0.03,8308.T
+6902,DENSO CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.03,6902.T
+8604,NOMURA HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,USD,0.03,8604.T
+RYA,RYANAIR HOLDINGS PLC,Industrials,Ireland,Irish Stock Exchange - All Market,USD,0.03,RYA
+STZ,CONSTELLATION BRANDS INC CLASS A,Consumer Staples,United States,NYSE,USD,0.03,STZ
+DXCM,DEXCOM INC,Health Care,United States,NASDAQ,USD,0.03,DXCM
+OMC,OMNICOM GROUP INC,Communication,United States,NYSE,USD,0.03,OMC
+FMG,FORTESCUE LTD,Materials,Australia,Asx - All Markets,USD,0.03,FMG.AX
+669,TECHTRONIC INDUSTRIES LTD,Industrials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.03,669.HK
+VRSN,VERISIGN INC,Information Technology,United States,NASDAQ,USD,0.03,VRSN
+PPG,PPG INDUSTRIES INC,Materials,United States,NYSE,USD,0.03,PPG
+ATCO B,ATLAS COPCO CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.03,ATCO B.ST
+AER,AERCAP HOLDINGS NV,Industrials,Netherlands,NYSE,USD,0.03,AER
+LPLA,LPL FINANCIAL HOLDINGS INC,Financials,United States,NASDAQ,USD,0.03,LPLA
+PGHN,PARTNERS GROUP HOLDING AG,Financials,Switzerland,SIX Swiss Exchange,USD,0.03,PGHN.SW
+6178,JAPAN POST HOLDINGS LTD,Financials,Japan,Tokyo Stock Exchange,USD,0.03,6178.T
+Q,QNITY ELECTRONICS INC,Information Technology,United States,NYSE,USD,0.03,Q
+AV.,AVIVA PLC,Financials,United Kingdom,London Stock Exchange,USD,0.03,AV..L
+RF,REGIONS FINANCIAL CORP,Financials,United States,NYSE,USD,0.03,RF
+EXE,EXPAND ENERGY CORP,Energy,United States,NASDAQ,USD,0.03,EXE
+LYV,LIVE NATION ENTERTAINMENT INC,Communication,United States,NYSE,USD,0.03,LYV
+ARES,ARES MANAGEMENT CORP CLASS A,Financials,United States,NYSE,USD,0.03,ARES
+CINF,CINCINNATI FINANCIAL CORP,Financials,United States,NASDAQ,USD,0.03,CINF
+4901,FUJIFILM HOLDINGS CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.03,4901.T
+AVB,AVALONBAY COMMUNITIES REIT INC,Real Estate,United States,NYSE,USD,0.03,AVB
+NTRA,NATERA INC,Health Care,United States,NASDAQ,USD,0.03,NTRA
+DGX,QUEST DIAGNOSTICS INC,Health Care,United States,NYSE,USD,0.03,DGX
+UTHR,UNITED THERAPEUTICS CORP,Health Care,United States,NASDAQ,USD,0.03,UTHR
+PHM,PULTEGROUP INC,Consumer Discretionary,United States,NYSE,USD,0.03,PHM
+GEBN,GEBERIT AG,Industrials,Switzerland,SIX Swiss Exchange,USD,0.03,GEBN.SW
+HBAN,HELVETIA BALOISE HOLDING N AG,Financials,Switzerland,SIX Swiss Exchange,USD,0.03,HBAN.SW
+ML,MICHELIN,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,USD,0.03,ML.PA
+STE,STERIS,Health Care,United States,NYSE,USD,0.03,STE
+QSR,RESTAURANTS BRANDS INTERNATIONAL I,Consumer Discretionary,Canada,Toronto Stock Exchange,USD,0.03,QSR.TO
+CF,CF INDUSTRIES HOLDINGS INC,Materials,United States,NYSE,USD,0.03,CF
+NTAP,NETAPP INC,Information Technology,United States,NASDAQ,USD,0.03,NTAP
+285A,KIOXIA HOLDINGS CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.03,285A.T
+CHD,CHURCH AND DWIGHT INC,Consumer Staples,United States,NYSE,USD,0.03,CHD
+FRE,FRESENIUS SE AND CO KGAA,Health Care,Germany,Xetra,USD,0.03,FRE.DE
+IHG,INTERCONTINENTAL HOTELS GROUP PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,USD,0.03,IHG.L
+ESLT,ELBIT SYSTEMS LTD,Industrials,Israel,Tel Aviv Stock Exchange,USD,0.03,ESLT.TA
+QBE,QBE INSURANCE GROUP LTD,Financials,Australia,Asx - All Markets,USD,0.03,QBE.AX
+KNEBV,KONE,Industrials,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.03,KNEBV.HE
+PAAS,PAN AMERICAN SILVER CORP,Materials,Canada,Toronto Stock Exchange,USD,0.03,PAAS.TO
+CMS,CMS ENERGY CORP,Utilities,United States,NYSE,USD,0.03,CMS
+LH,LABCORP HOLDINGS INC,Health Care,United States,NYSE,USD,0.03,LH
+DRI,DARDEN RESTAURANTS INC,Consumer Discretionary,United States,NYSE,USD,0.03,DRI
+TECK.B,TECK RESOURCES SUBORDINATE VOTING,Materials,Canada,Toronto Stock Exchange,USD,0.03,TECK.B.TO
+NBIS,NEBIUS NV CLASS A,Information Technology,Netherlands,NASDAQ,USD,0.03,NBIS
+STMPA,STMICROELECTRONICS NV,Information Technology,France,Nyse Euronext - Euronext Paris,USD,0.03,STMPA.PA
+KER,KERING SA,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,USD,0.03,KER.PA
+MT,ARCELORMITTAL SA,Materials,France,Euronext Amsterdam,USD,0.03,MT.AS
+5108,BRIDGESTONE CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.03,5108.T
+NI,NISOURCE INC,Utilities,United States,NYSE,USD,0.03,NI
+PHIA,KONINKLIJKE PHILIPS NV,Health Care,Netherlands,Euronext Amsterdam,USD,0.03,PHIA.AS
+ACA,CREDIT AGRICOLE SA,Financials,France,Nyse Euronext - Euronext Paris,USD,0.03,ACA.PA
+KPN,KONINKLIJKE KPN NV,Communication,Netherlands,Euronext Amsterdam,USD,0.03,KPN.AS
+WSM,WILLIAMS SONOMA INC,Consumer Discretionary,United States,NYSE,USD,0.03,WSM
+EFX,EQUIFAX INC,Industrials,United States,NYSE,USD,0.03,EFX
+CCEP,COCA COLA EUROPACIFIC PARTNERS PLC,Consumer Staples,Netherlands,NASDAQ,USD,0.03,CCEP
+2388,BOC HONG KONG HOLDINGS LTD,Financials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.03,2388.HK
+9022,CENTRAL JAPAN RAILWAY,Industrials,Japan,Tokyo Stock Exchange,USD,0.03,9022.T
+GIS,GENERAL MILLS INC,Consumer Staples,United States,NYSE,USD,0.03,GIS
+6971,KYOCERA CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.03,6971.T
+ACS,ACS ACTIVIDADES DE CONSTRUCCION Y,Industrials,Spain,Bolsa De Madrid,USD,0.03,ACS.MC
+VLTO,VERALTO CORP,Industrials,United States,NYSE,USD,0.03,VLTO
+COL,COLES GROUP LTD,Consumer Staples,Australia,Asx - All Markets,USD,0.03,COL.AX
+DLTR,DOLLAR TREE INC,Consumer Staples,United States,NASDAQ,USD,0.03,DLTR
+BXB,BRAMBLES LTD,Industrials,Australia,Asx - All Markets,USD,0.03,BXB.AX
+NSIS B,NOVOZYMES B,Materials,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.03,NSIS B.CO
+LDOS,LEIDOS HOLDINGS INC,Industrials,United States,NYSE,USD,0.03,LDOS
+CHTR,CHARTER COMMUNICATIONS INC CLASS A,Communication,United States,NASDAQ,USD,0.03,CHTR
+EXPD,EXPEDITORS INTERNATIONAL OF WASHIN,Industrials,United States,NYSE,USD,0.03,EXPD
+HEIA,HEINEKEN NV,Consumer Staples,Netherlands,Euronext Amsterdam,USD,0.03,HEIA.AS
+6273,SMC (JAPAN) CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.03,6273.T
+AENA,AENA SME SA,Industrials,Spain,Bolsa De Madrid,USD,0.03,AENA.MC
+CPAY,CORPAY INC,Financials,United States,NYSE,USD,0.03,CPAY
+7269,SUZUKI MOTOR CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.03,7269.T
+NXT,NEXT PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,USD,0.03,NXT.L
+9020,EAST JAPAN RAILWAY,Industrials,Japan,Tokyo Stock Exchange,USD,0.03,9020.T
+HUM,HUMANA INC,Health Care,United States,NYSE,USD,0.03,HUM
+BURL,BURLINGTON STORES INC,Consumer Discretionary,United States,NYSE,USD,0.03,BURL
+EQR,EQUITY RESIDENTIAL REIT,Real Estate,United States,NYSE,USD,0.03,EQR
+ZM,ZOOM COMMUNICATIONS INC CLASS A,Information Technology,United States,NASDAQ,USD,0.03,ZM
+KHC,KRAFT HEINZ,Consumer Staples,United States,NASDAQ,USD,0.03,KHC
+LYB,LYONDELLBASELL INDUSTRIES NV CLASS,Materials,United States,NYSE,USD,0.03,LYB
+NVR,NVR INC,Consumer Discretionary,United States,NYSE,USD,0.03,NVR
+FSLR,FIRST SOLAR INC,Information Technology,United States,NASDAQ,USD,0.03,FSLR
+7013,IHI CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.03,7013.T
+UMG,UNIVERSAL MUSIC GROUP NV,Communication,Netherlands,Euronext Amsterdam,USD,0.03,UMG.AS
+9531,TOKYO GAS LTD,Utilities,Japan,Tokyo Stock Exchange,USD,0.02,9531.T
+VOW3,VOLKSWAGEN NON-VOTING PREF AG,Consumer Discretionary,Germany,Xetra,USD,0.02,VOW3.DE
+TWLO,TWILIO INC CLASS A,Information Technology,United States,NYSE,USD,0.02,TWLO
+4543,TERUMO CORP,Health Care,Japan,Tokyo Stock Exchange,USD,0.02,4543.T
+PFG,PRINCIPAL FINANCIAL GROUP INC,Financials,United States,NASDAQ,USD,0.02,PFG
+SW,SMURFIT WESTROCK PLC,Materials,United States,NYSE,USD,0.02,SW
+PKG,PACKAGING CORP OF AMERICA,Materials,United States,NYSE,USD,0.02,PKG
+8309,SUMITOMO MITSUI TRUST GROUP INC,Financials,Japan,Tokyo Stock Exchange,USD,0.02,8309.T
+SAAB B,SAAB CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.02,SAAB B.ST
+MDB,MONGODB INC CLASS A,Information Technology,United States,NASDAQ,USD,0.02,MDB
+LEN,LENNAR A CORP CLASS A,Consumer Discretionary,United States,NYSE,USD,0.02,LEN
+FTV,FORTIVE CORP,Industrials,United States,NYSE,USD,0.02,FTV
+HPQ,HP INC,Information Technology,United States,NYSE,USD,0.02,HPQ
+RPRX,ROYALTY PHARMA PLC CLASS A,Health Care,United States,NASDAQ,USD,0.02,RPRX
+HEXA B,HEXAGON CLASS B,Information Technology,Sweden,Nasdaq Omx Nordic,USD,0.02,HEXA B.ST
+TSEM,TOWER SEMICONDUCTOR LTD,Information Technology,Israel,Tel Aviv Stock Exchange,USD,0.02,TSEM.TA
+DD,DUPONT DE NEMOURS INC,Materials,United States,NYSE,USD,0.02,DD
+1,CK HUTCHISON HOLDINGS LTD,Industrials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.02,1.HK
+5713,SUMITOMO METAL MINING LTD,Materials,Japan,Tokyo Stock Exchange,USD,0.02,5713.T
+SCMN,SWISSCOM AG,Communication,Switzerland,SIX Swiss Exchange,USD,0.02,SCMN.SW
+WSP,WSP GLOBAL INC,Industrials,Canada,Toronto Stock Exchange,USD,0.02,WSP.TO
+SNA,SNAP ON INC,Industrials,United States,NYSE,USD,0.02,SNA
+BRO,BROWN & BROWN INC,Financials,United States,NYSE,USD,0.02,BRO
+NN,NN GROUP NV,Financials,Netherlands,Euronext Amsterdam,USD,0.02,NN.AS
+ZBH,ZIMMER BIOMET HOLDINGS INC,Health Care,United States,NYSE,USD,0.02,ZBH
+IFF,INTERNATIONAL FLAVORS & FRAGRANCES,Materials,United States,NYSE,USD,0.02,IFF
+HOLX,HOLOGIC INC,Health Care,United States,NASDAQ,USD,0.02,HOLX
+L,LOEWS CORP,Financials,United States,NYSE,USD,0.02,L
+SAB,BANCO DE SABADELL SA,Financials,Spain,Bolsa De Madrid,USD,0.02,SAB.MC
+EVRG,EVERGY INC,Utilities,United States,NASDAQ,USD,0.02,EVRG
+SBAC,SBA COMMUNICATIONS REIT CORP CLASS,Real Estate,United States,NASDAQ,USD,0.02,SBAC
+SHB A,SVENSKA HANDELSBANKEN-A SHS,Financials,Sweden,Nasdaq Omx Nordic,USD,0.02,SHB A.ST
+VACN,VAT GROUP AG,Industrials,Switzerland,SIX Swiss Exchange,USD,0.02,VACN.SW
+LGEN,LEGAL AND GENERAL GROUP PLC,Financials,United Kingdom,London Stock Exchange,USD,0.02,LGEN.L
+BPE,BPER BANCA,Financials,Italy,Borsa Italiana,USD,0.02,BPE.MI
+TSN,TYSON FOODS INC CLASS A,Consumer Staples,United States,NYSE,USD,0.02,TSN
+BG,BUNGE GLOBAL SA,Consumer Staples,United States,NYSE,USD,0.02,BG
+STO,SANTOS LTD,Energy,Australia,Asx - All Markets,USD,0.02,STO.AX
+WRT1V,WARTSILA,Industrials,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.02,WRT1V.HE
+PSTG,EVERPURE INC CLASS A,Information Technology,United States,NYSE,USD,0.02,PSTG
+KEY,KEYCORP,Financials,United States,NYSE,USD,0.02,KEY
+4507,SHIONOGI LTD,Health Care,Japan,Tokyo Stock Exchange,USD,0.02,4507.T
+WST,WEST PHARMACEUTICAL SERVICES INC,Health Care,United States,NYSE,USD,0.02,WST
+BIRG,BANK OF IRELAND GROUP PLC,Financials,Ireland,Irish Stock Exchange - All Market,USD,0.02,BIRG
+A5G,AIB GROUP PLC,Financials,Ireland,Irish Stock Exchange - All Market,USD,0.02,A5G
+ABN,ABN AMRO BANK NV,Financials,Netherlands,Euronext Amsterdam,USD,0.02,ABN.AS
+PUB,PUBLICIS GROUPE SA,Communication,France,Nyse Euronext - Euronext Paris,USD,0.02,PUB.PA
+TROW,T ROWE PRICE GROUP INC,Financials,United States,NASDAQ,USD,0.02,TROW
+AMCR,AMCOR PLC,Materials,United States,NYSE,USD,0.02,AMCR
+BAM,BROOKFIELD ASSET MANAGEMENT VOTING,Financials,Canada,Toronto Stock Exchange,USD,0.02,BAM.TO
+ILMN,ILLUMINA INC,Health Care,United States,NASDAQ,USD,0.02,ILMN
+VNA,VONOVIA SE,Real Estate,Germany,Xetra,USD,0.02,VNA.DE
+AGI,ALAMOS GOLD INC CLASS A,Materials,Canada,Toronto Stock Exchange,USD,0.02,AGI.TO
+ASTS,AST SPACEMOBILE INC CLASS A,Communication,United States,NASDAQ,USD,0.02,ASTS
+ALL,ARISTOCRAT LEISURE LTD,Consumer Discretionary,Australia,Asx - All Markets,USD,0.02,ALL.AX
+ENTG,ENTEGRIS INC,Information Technology,United States,NASDAQ,USD,0.02,ENTG
+CDE,COEUR MINING INC,Materials,United States,NYSE,USD,0.02,CDE
+LNT,ALLIANT ENERGY CORP,Utilities,United States,NASDAQ,USD,0.02,LNT
+BT.A,BT GROUP PLC,Communication,United Kingdom,London Stock Exchange,USD,0.02,BT.A.L
+IP,INTERNATIONAL PAPER,Materials,United States,NYSE,USD,0.02,IP
+BR,BROADRIDGE FINANCIAL SOLUTIONS INC,Industrials,United States,NYSE,USD,0.02,BR
+CRWV,COREWEAVE INC CLASS A,Information Technology,United States,NASDAQ,USD,0.02,CRWV
+CAP,CAPGEMINI,Information Technology,France,Nyse Euronext - Euronext Paris,USD,0.02,CAP.PA
+2,CLP HOLDINGS LTD,Utilities,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.02,2.HK
+CHRW,CH ROBINSON WORLDWIDE INC,Industrials,United States,NASDAQ,USD,0.02,CHRW
+FCNCA,FIRST CITIZENS BANCSHARES INC CLAS,Financials,United States,NASDAQ,USD,0.02,FCNCA
+HLMA,HALMA PLC,Information Technology,United Kingdom,London Stock Exchange,USD,0.02,HLMA.L
+MTX,MTU AERO ENGINES HOLDING AG,Industrials,Germany,Xetra,USD,0.02,MTX.DE
+NST,NORTHERN STAR RESOURCES LTD,Materials,Australia,Asx - All Markets,USD,0.02,NST.AX
+WY,WEYERHAEUSER REIT,Real Estate,United States,NYSE,USD,0.02,WY
+FWONK,LIBERTY MEDIA FORMULA ONE SERIES C,Communication,United States,NASDAQ,USD,0.02,FWONK
+GMAB,GENMAB,Health Care,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.02,GMAB.CO
+EVN,EVOLUTION MINING LTD,Materials,Australia,Asx - All Markets,USD,0.02,EVN.AX
+GPN,GLOBAL PAYMENTS INC,Financials,United States,NYSE,USD,0.02,GPN
+BMPS,BANCA MONTE DEI PASCHI DI SIENA SP,Financials,Italy,Borsa Italiana,USD,0.02,BMPS.MI
+INCY,INCYTE CORP,Health Care,United States,NASDAQ,USD,0.02,INCY
+SOFI,SOFI TECHNOLOGIES INC,Financials,United States,NASDAQ,USD,0.02,SOFI
+CNC,CENTENE CORP,Health Care,United States,NYSE,USD,0.02,CNC
+WKL,WOLTERS KLUWER NV,Industrials,Netherlands,Euronext Amsterdam,USD,0.02,WKL.AS
+CSGP,COSTAR GROUP INC,Real Estate,United States,NASDAQ,USD,0.02,CSGP
+9104,MITSUI OSK LINES LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.02,9104.T
+FLUT,FLUTTER ENTERTAINMENT PLC,Consumer Discretionary,United States,NYSE,USD,0.02,FLUT
+RS,RELIANCE STEEL & ALUMINUM,Materials,United States,NYSE,USD,0.02,RS
+4452,KAO CORP,Consumer Staples,Japan,Tokyo Stock Exchange,USD,0.02,4452.T
+RBA,RB GLOBAL INC,Industrials,Canada,Toronto Stock Exchange,USD,0.02,RBA.TO
+HNR1,HANNOVER RUECK,Financials,Germany,Xetra,USD,0.02,HNR1.DE
+JBHT,JB HUNT TRANSPORT SERVICES INC,Industrials,United States,NASDAQ,USD,0.02,JBHT
+5401,NIPPON STEEL CORP,Materials,Japan,Tokyo Stock Exchange,USD,0.02,5401.T
+TXT,TEXTRON INC,Industrials,United States,NYSE,USD,0.02,TXT
+SATS,ECHOSTAR CORP CLASS A,Communication,United States,NASDAQ,USD,0.02,SATS
+TEF,TELEFONICA SA,Communication,Spain,Bolsa De Madrid,USD,0.02,TEF.MC
+8830,SUMITOMO REALTY & DEVELOPMENT LTD,Real Estate,Japan,Tokyo Stock Exchange,USD,0.02,8830.T
+PTC,PTC INC,Information Technology,United States,NASDAQ,USD,0.02,PTC
+8601,DAIWA SECURITIES GROUP INC,Financials,Japan,Tokyo Stock Exchange,USD,0.02,8601.T
+FFIV,F5 INC,Information Technology,United States,NASDAQ,USD,0.02,FFIV
+4661,ORIENTAL LAND LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.02,4661.T
+FM,FIRST QUANTUM MINERALS LTD,Materials,Canada,Toronto Stock Exchange,USD,0.02,FM.TO
+KOG,KONGSBERG GRUPPEN,Industrials,Norway,Oslo Bors Asa,USD,0.02,KOG.OL
+UPM,UPM-KYMMENE,Materials,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.02,UPM.HE
+9532,OSAKA GAS LTD,Utilities,Japan,Tokyo Stock Exchange,USD,0.02,9532.T
+TOU,TOURMALINE OIL CORP,Energy,Canada,Toronto Stock Exchange,USD,0.02,TOU.TO
+1812,KAJIMA CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.02,1812.T
+SGSN,SGS SA,Industrials,Switzerland,SIX Swiss Exchange,USD,0.02,SGSN.SW
+1925,DAIWA HOUSE INDUSTRY LTD,Real Estate,Japan,Tokyo Stock Exchange,USD,0.02,1925.T
+SUI,SUN COMMUNITIES REIT INC,Real Estate,United States,NYSE,USD,0.02,SUI
+6920,LASERTEC CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.02,6920.T
+9101,NIPPON YUSEN,Industrials,Japan,Tokyo Stock Exchange,USD,0.02,9101.T
+WRB,WR BERKLEY CORP,Financials,United States,NYSE,USD,0.02,WRB
+EPI A,EPIROC CLASS A,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.02,EPI A.ST
+CLNX,CELLNEX TELECOM,Communication,Spain,Bolsa De Madrid,USD,0.02,CLNX.MC
+LULU,LULULEMON ATHLETICA INC,Consumer Discretionary,United States,NASDAQ,USD,0.02,LULU
+J,JACOBS SOLUTIONS INC,Industrials,United States,NYSE,USD,0.02,J
+LVS,LAS VEGAS SANDS CORP,Consumer Discretionary,United States,NYSE,USD,0.02,LVS
+BALL,BALL CORP,Materials,United States,NYSE,USD,0.02,BALL
+EL,ESTEE LAUDER INC CLASS A,Consumer Staples,United States,NYSE,USD,0.02,EL
+ANTO,ANTOFAGASTA PLC,Materials,United Kingdom,London Stock Exchange,USD,0.02,ANTO.L
+BAMI,BANCO BPM,Financials,Italy,Borsa Italiana,USD,0.02,BAMI.MI
+MRK,MERCK,Health Care,Germany,Xetra,USD,0.02,MRK.DE
+ALFA,ALFA LAVAL,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.02,ALFA.ST
+MRU,METRO INC,Consumer Staples,Canada,Toronto Stock Exchange,USD,0.02,MRU.TO
+CDW,CDW CORP,Information Technology,United States,NASDAQ,USD,0.02,CDW
+TRMB,TRIMBLE INC,Information Technology,United States,NASDAQ,USD,0.02,TRMB
+KIM,KIMCO REALTY REIT CORP,Real Estate,United States,NYSE,USD,0.02,KIM
+ALAB,ASTERA LABS INC,Information Technology,United States,NASDAQ,USD,0.02,ALAB
+INVH,INVITATION HOMES INC,Real Estate,United States,NYSE,USD,0.02,INVH
+2502,ASAHI GROUP HOLDINGS LTD,Consumer Staples,Japan,Tokyo Stock Exchange,USD,0.02,2502.T
+EDP,EDP ENERGIAS DE PORTUGAL SA,Utilities,Portugal,Nyse Euronext - Euronext Lisbon,USD,0.02,EDP
+BAER,JULIUS BAER GRUPPE AG,Financials,Switzerland,SIX Swiss Exchange,USD,0.02,BAER.SW
+SSNC,SS AND C TECHNOLOGIES HOLDINGS INC,Industrials,United States,NASDAQ,USD,0.02,SSNC
+RI,PERNOD RICARD SA,Consumer Staples,France,Nyse Euronext - Euronext Paris,USD,0.02,RI.PA
+CRDO,CREDO TECHNOLOGY GROUP HOLDING LTD,Information Technology,United States,NASDAQ,USD,0.02,CRDO
+9503,KANSAI ELECTRIC POWER INC,Utilities,Japan,Tokyo Stock Exchange,USD,0.02,9503.T
+3407,ASAHI KASEI CORP,Materials,Japan,Tokyo Stock Exchange,USD,0.02,3407.T
+BBD.B,BOMBARDIER INC CLASS B,Industrials,Canada,Toronto Stock Exchange,USD,0.02,BBD.B.TO
+ROL,ROLLINS INC,Industrials,United States,NYSE,USD,0.02,ROL
+HEIA,HEICO CORP CLASS A,Industrials,United States,NYSE,USD,0.02,HEIA
+7936,ASICS CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.02,7936.T
+LUN,LUNDIN MINING CORP,Materials,Canada,Toronto Stock Exchange,USD,0.02,LUN.TO
+ESSITY B,ESSITY CLASS B,Consumer Staples,Sweden,Nasdaq Omx Nordic,USD,0.02,ESSITY B.ST
+APTV,APTIV PLC,Consumer Discretionary,United States,NYSE,USD,0.02,APTV
+BESI,BE SEMICONDUCTOR INDUSTRIES NV,Information Technology,Netherlands,Euronext Amsterdam,USD,0.02,BESI.AS
+EMA,EMERA INC,Utilities,Canada,Toronto Stock Exchange,USD,0.02,EMA.TO
+SCHP,SCHINDLER HOLDING PAR AG,Industrials,Switzerland,SIX Swiss Exchange,USD,0.02,SCHP.SW
+9735,SECOM LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.02,9735.T
+PODD,INSULET CORP,Health Care,United States,NASDAQ,USD,0.02,PODD
+MG,MAGNA INTERNATIONAL INC,Consumer Discretionary,Canada,Toronto Stock Exchange,USD,0.02,MG.TO
+LOGN,LOGITECH INTERNATIONAL SA,Information Technology,Switzerland,SIX Swiss Exchange,USD,0.02,LOGN.SW
+CSL,CARLISLE COMPANIES INC,Industrials,United States,NYSE,USD,0.02,CSL
+ESS,ESSEX PROPERTY TRUST REIT INC,Real Estate,United States,NYSE,USD,0.02,ESS
+TRN,TERNA RETE ELETTRICA NAZIONALE,Utilities,Italy,Borsa Italiana,USD,0.02,TRN.MI
+EQT,EQT,Financials,Sweden,Nasdaq Omx Nordic,USD,0.02,EQT.ST
+NDSN,NORDSON CORP,Industrials,United States,NASDAQ,USD,0.02,NDSN
+6326,KUBOTA CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.02,6326.T
+DECK,DECKERS OUTDOOR CORP,Consumer Discretionary,United States,NYSE,USD,0.02,DECK
+GIB.A,CGI INC CLASS A,Information Technology,Canada,Toronto Stock Exchange,USD,0.02,GIB.A.TO
+6988,NITTO DENKO CORP,Materials,Japan,Tokyo Stock Exchange,USD,0.02,6988.T
+GPC,GENUINE PARTS,Consumer Discretionary,United States,NYSE,USD,0.02,GPC
+MAS,MASCO CORP,Industrials,United States,NYSE,USD,0.02,MAS
+TYL,TYLER TECHNOLOGIES INC,Information Technology,United States,NYSE,USD,0.02,TYL
+TRI,THOMSON REUTERS CORP,Industrials,Canada,Toronto Stock Exchange,USD,0.02,TRI.TO
+TLS,TELSTRA GROUP LTD,Communication,Australia,Asx - All Markets,USD,0.02,TLS.AX
+SPSN,SWISS PRIME SITE AG,Real Estate,Switzerland,SIX Swiss Exchange,USD,0.02,SPSN.SW
+ORG,ORIGIN ENERGY LTD,Utilities,Australia,Asx - All Markets,USD,0.02,ORG.AX
+WPC,W. P. CAREY REIT INC,Real Estate,United States,NYSE,USD,0.02,WPC
+RTO,RENTOKIL INITIAL PLC,Industrials,United Kingdom,London Stock Exchange,USD,0.02,RTO.L
+TW,TRADEWEB MARKETS INC CLASS A,Financials,United States,NASDAQ,USD,0.02,TW
+CCH,COCA COLA HBC AG,Consumer Staples,United Kingdom,London Stock Exchange,USD,0.02,CCH.L
+FBK,FINECOBANK BANCA FINECO,Financials,Italy,Borsa Italiana,USD,0.02,FBK.MI
+SRG,SNAM,Utilities,Italy,Borsa Italiana,USD,0.02,SRG.MI
+SHL,SIEMENS HEALTHINEERS AG,Health Care,Germany,Xetra,USD,0.02,SHL.DE
+7832,BANDAI NAMCO HOLDINGS INC,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.02,7832.T
+IEX,IDEX CORP,Industrials,United States,NYSE,USD,0.02,IEX
+ARX,ARC RESOURCES LTD,Energy,Canada,Toronto Stock Exchange,USD,0.02,ARX.TO
+GGG,GRACO INC,Industrials,United States,NYSE,USD,0.02,GGG
+MKC,MCCORMICK & CO NON-VOTING INC,Consumer Staples,United States,NYSE,USD,0.02,MKC
+WCP,WHITECAP RESOURCES INC,Energy,Canada,Toronto Stock Exchange,USD,0.02,WCP.TO
+INF,INFORMA PLC,Communication,United Kingdom,London Stock Exchange,USD,0.02,INF.L
+REG,REGENCY CENTERS REIT CORP,Real Estate,United States,NASDAQ,USD,0.02,REG
+RO,ROCHE HOLDING AG,Health Care,Switzerland,SIX Swiss Exchange,USD,0.02,RO.SW
+CHKP,CHECK POINT SOFTWARE TECHNOLOGIES,Information Technology,Israel,NASDAQ,USD,0.02,CHKP
+FOXA,FOX CORP CLASS A,Communication,United States,NASDAQ,USD,0.02,FOXA
+LII,LENNOX INTERNATIONAL INC,Industrials,United States,NYSE,USD,0.02,LII
+MAA,MID AMERICA APARTMENT COMMUNITIES,Real Estate,United States,NYSE,USD,0.02,MAA
+RVMD,REVOLUTION MEDICINES INC,Health Care,United States,NASDAQ,USD,0.02,RVMD
+8473,SBI HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,USD,0.02,8473.T
+COO,COOPER INC,Health Care,United States,NASDAQ,USD,0.02,COO
+CNA,CENTRICA PLC,Utilities,United Kingdom,London Stock Exchange,USD,0.02,CNA.L
+AVY,AVERY DENNISON CORP,Materials,United States,NYSE,USD,0.02,AVY
+NHY,NORSK HYDRO,Materials,Norway,Oslo Bors Asa,USD,0.02,NHY.OL
+ZS,ZSCALER INC,Information Technology,United States,NASDAQ,USD,0.02,ZS
+CLX,CLOROX,Consumer Staples,United States,NYSE,USD,0.02,CLX
+STLAM,STELLANTIS NV,Consumer Discretionary,Italy,Borsa Italiana,USD,0.02,STLAM.MI
+DSFIR,DSM FIRMENICH AG,Materials,Netherlands,Euronext Amsterdam,USD,0.02,DSFIR.AS
+4062,IBIDEN LTD,Information Technology,Japan,Tokyo Stock Exchange,USD,0.02,4062.T
+S63,SINGAPORE TECHNOLOGIES ENGINEERING,Industrials,Singapore,Singapore Exchange,USD,0.02,S63.SI
+7532,PAN PACIFIC INTERNATIONAL HOLDINGS,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.02,7532.T
+PNR,PENTAIR,Industrials,United States,NYSE,USD,0.02,PNR
+TEN,TENARIS SA,Energy,Italy,Borsa Italiana,USD,0.02,TEN.MI
+2503,KIRIN HOLDINGS LTD,Consumer Staples,Japan,Tokyo Stock Exchange,USD,0.02,2503.T
+NVMI,NOVA LTD,Information Technology,Israel,Tel Aviv Stock Exchange,USD,0.02,NVMI.TA
+6361,EBARA CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.02,6361.T
+GWO,GREAT WEST LIFECO INC,Financials,Canada,Toronto Stock Exchange,USD,0.02,GWO.TO
+H,HYDRO ONE LTD,Utilities,Canada,Toronto Stock Exchange,USD,0.02,H.TO
+BBY,BEST BUY INC,Consumer Discretionary,United States,NYSE,USD,0.02,BBY
+SN.,SMITH AND NEPHEW PLC,Health Care,United Kingdom,London Stock Exchange,USD,0.02,SN..L
+RCI.B,ROGERS COMMUNICATIONS NON-VOTING I,Communication,Canada,Toronto Stock Exchange,USD,0.02,RCI.B.TO
+EG,EVEREST GROUP LTD,Financials,United States,NYSE,USD,0.02,EG
+TELIA,TELIA COMPANY,Communication,Sweden,Nasdaq Omx Nordic,USD,0.02,TELIA.ST
+MONC,MONCLER,Consumer Discretionary,Italy,Borsa Italiana,USD,0.02,MONC.MI
+LISN,CHOCOLADEFABRIKEN LINDT & SPRUENGL,Consumer Staples,Switzerland,SIX Swiss Exchange,USD,0.02,LISN.SW
+HEN3,HENKEL & KGAA PREF AG,Consumer Staples,Germany,Xetra,USD,0.02,HEN3.DE
+5016,JX ADVANCED METALS CORP,Materials,Japan,Tokyo Stock Exchange,USD,0.02,5016.T
+LYC,LYNAS RARE EARTHS LTD,Materials,Australia,Asx - All Markets,USD,0.02,LYC.AX
+DSY,DASSAULT SYSTEMES,Information Technology,France,Nyse Euronext - Euronext Paris,USD,0.02,DSY.PA
+RDDT,REDDIT INC CLASS A,Communication,United States,NYSE,USD,0.02,RDDT
+6383,DAIFUKU LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.02,6383.T
+KRZ,KERRY GROUP PLC,Consumer Staples,Ireland,Irish Stock Exchange - All Market,USD,0.02,KRZ
+RKT,ROCKET COMPANIES INC CLASS A,Financials,United States,NYSE,USD,0.02,RKT
+6,POWER ASSETS HOLDINGS LTD,Utilities,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.02,6.HK
+ENX,EURONEXT NV,Financials,France,Nyse Euronext - Euronext Paris,USD,0.02,ENX.PA
+URW,UNIBAIL RODAMCO WE STAPLED UNITS,Real Estate,France,Nyse Euronext - Euronext Paris,USD,0.02,URW.PA
+PNFP,PINNACLE FINANCIAL PARTNERS INC,Financials,United States,NYSE,USD,0.02,PNFP
+9502,CHUBU ELECTRIC POWER INC,Utilities,Japan,Tokyo Stock Exchange,USD,0.02,9502.T
+SCG,SCENTRE GROUP,Real Estate,Australia,Asx - All Markets,USD,0.02,SCG.AX
+BOL,BOLIDEN,Materials,Sweden,Nasdaq Omx Nordic,USD,0.02,BOL.ST
+NESTE,NESTE,Energy,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.02,NESTE.HE
+IAG,INSURANCE AUSTRALIA GROUP LTD,Financials,Australia,Asx - All Markets,USD,0.02,IAG.AX
+NBIX,NEUROCRINE BIOSCIENCES INC,Health Care,United States,NASDAQ,USD,0.02,NBIX
+RPM,RPM INTERNATIONAL INC,Materials,United States,NYSE,USD,0.02,RPM
+TRU,TRANSUNION,Industrials,United States,NYSE,USD,0.02,TRU
+BN4,KEPPEL LTD,Industrials,Singapore,Singapore Exchange,USD,0.02,BN4.SI
+IT,GARTNER INC,Information Technology,United States,NYSE,USD,0.02,IT
+S32,SOUTH32 LTD,Materials,Australia,Asx - All Markets,USD,0.02,S32.AX
+EN,BOUYGUES SA,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.02,EN.PA
+GLPI,GAMING AND LEISURE PROPERTIES REIT,Real Estate,United States,NASDAQ,USD,0.02,GLPI
+FPH,FISHER AND PAYKEL HEALTHCARE CORPO,Health Care,New Zealand,New Zealand Exchange Ltd,USD,0.02,FPH
+ALLE,ALLEGION PLC,Industrials,United States,NYSE,USD,0.02,ALLE
+ELE,ENDESA SA,Utilities,Spain,Bolsa De Madrid,USD,0.02,ELE.MC
+ORSTED,ORSTED A/S,Utilities,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.02,ORSTED.CO
+WSO,WATSCO INC,Industrials,United States,NYSE,USD,0.02,WSO
+1802,OBAYASHI CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.02,1802.T
+KRX,KINGSPAN GROUP PLC,Industrials,Ireland,Irish Stock Exchange - All Market,USD,0.02,KRX
+DPZ,DOMINOS PIZZA INC,Consumer Discretionary,United States,NASDAQ,USD,0.02,DPZ
+823,LINK REAL ESTATE INVESTMENT TRUST,Real Estate,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.02,823.HK
+OKTA,OKTA INC CLASS A,Information Technology,United States,NASDAQ,USD,0.02,OKTA
+1113,CK ASSET HOLDINGS LTD,Real Estate,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.01,1113.HK
+RIVN,RIVIAN AUTOMOTIVE INC CLASS A,Consumer Discretionary,United States,NASDAQ,USD,0.01,RIVN
+HEI,HEICO CORP,Industrials,United States,NYSE,USD,0.01,HEI
+7012,KAWASAKI HEAVY INDUSTRIES LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,7012.T
+FNF,FIDELITY NATIONAL FINANCIAL INC,Financials,United States,NYSE,USD,0.01,FNF
+AGS,AGEAS SA,Financials,Belgium,Nyse Euronext - Euronext Brussels,USD,0.01,AGS.BR
+SUN,SUNCORP GROUP LTD,Financials,Australia,Asx - All Markets,USD,0.01,SUN.AX
+TOST,TOAST INC CLASS A,Financials,United States,NYSE,USD,0.01,TOST
+DOC,HEALTHPEAK PROPERTIES INC,Real Estate,United States,NYSE,USD,0.01,DOC
+SMCI,SUPER MICRO COMPUTER INC,Information Technology,United States,NASDAQ,USD,0.01,SMCI
+IREN,IREN LTD,Information Technology,United States,NASDAQ,USD,0.01,IREN
+WN,GEORGE WESTON LTD,Consumer Staples,Canada,Toronto Stock Exchange,USD,0.01,WN.TO
+SOON,SONOVA HOLDING AG,Health Care,Switzerland,SIX Swiss Exchange,USD,0.01,SOON.SW
+AFRM,AFFIRM HOLDINGS INC CLASS A,Financials,United States,NASDAQ,USD,0.01,AFRM
+SVT,SEVERN TRENT PLC,Utilities,United Kingdom,London Stock Exchange,USD,0.01,SVT.L
+CICT,CAPITALAND INTEGRATED COMMERCIAL T,Real Estate,Singapore,Singapore Exchange,USD,0.01,CICT.SI
+8795,T&D HOLDINGS INC,Financials,Japan,Tokyo Stock Exchange,USD,0.01,8795.T
+STMN,STRAUMANN HOLDING AG,Health Care,Switzerland,SIX Swiss Exchange,USD,0.01,STMN.SW
+DKS,DICKS SPORTING INC,Consumer Discretionary,United States,NYSE,USD,0.01,DKS
+FGR,EIFFAGE SA,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.01,FGR.PA
+MAERSK B,A P MOLLER MAERSK B,Industrials,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.01,MAERSK B.CO
+CARL B,CARLSBERG AS CL B,Consumer Staples,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.01,CARL B.CO
+PST,POSTE ITALIANE,Financials,Italy,Borsa Italiana,USD,0.01,PST.MI
+NLY,ANNALY CAPITAL MANAGEMENT REIT INC,Financials,United States,NYSE,USD,0.01,NLY
+JKHY,JACK HENRY AND ASSOCIATES INC,Financials,United States,NASDAQ,USD,0.01,JKHY
+3,HONG KONG AND CHINA GAS LTD,Utilities,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.01,3.HK
+7733,OLYMPUS CORP,Health Care,Japan,Tokyo Stock Exchange,USD,0.01,7733.T
+SY1,SYMRISE AG,Materials,Germany,Xetra,USD,0.01,SY1.DE
+288,WH GROUP LTD,Consumer Staples,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.01,288.HK
+TEL,TELENOR,Communication,Norway,Oslo Bors Asa,USD,0.01,TEL.OL
+GALP,GALP ENERGIA SGPS SA CLASS B,Energy,Portugal,Nyse Euronext - Euronext Lisbon,USD,0.01,GALP
+BG,BAWAG GROUP AG,Financials,Austria,Wiener Boerse Ag,USD,0.01,BG.VI
+HUBS,HUBSPOT INC,Information Technology,United States,NYSE,USD,0.01,HUBS
+1801,TAISEI CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,1801.T
+EDV,ENDEAVOUR MINING,Materials,United Kingdom,London Stock Exchange,USD,0.01,EDV.L
+DSCT,ISRAEL DISCOUNT BANK LTD,Financials,Israel,Tel Aviv Stock Exchange,USD,0.01,DSCT.TA
+SMIN,SMITHS GROUP PLC,Industrials,United Kingdom,London Stock Exchange,USD,0.01,SMIN.L
+6594,NIDEC CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,6594.T
+IAG,IA FINANCIAL INC,Financials,Canada,Toronto Stock Exchange,USD,0.01,IAG.TO
+3402,TORAY INDUSTRIES INC,Materials,Japan,Tokyo Stock Exchange,USD,0.01,3402.T
+KNIN,KUEHNE UND NAGEL INTERNATIONAL AG,Industrials,Switzerland,SIX Swiss Exchange,USD,0.01,KNIN.SW
+SGE,THE SAGE GROUP PLC,Information Technology,United Kingdom,London Stock Exchange,USD,0.01,SGE.L
+ACM,AECOM,Industrials,United States,NYSE,USD,0.01,ACM
+GDDY,GODADDY INC CLASS A,Information Technology,United States,NYSE,USD,0.01,GDDY
+DAL,DELTA AIR LINES INC,Industrials,United States,NYSE,USD,0.01,DAL
+UHS,UNIVERSAL HEALTH SERVICES INC CLAS,Health Care,United States,NYSE,USD,0.01,UHS
+SGRO,SEGRO REIT PLC,Real Estate,United Kingdom,London Stock Exchange,USD,0.01,SGRO.L
+AKRBP,AKER BP,Energy,Norway,Oslo Bors Asa,USD,0.01,AKRBP.OL
+CG,CARLYLE GROUP INC,Financials,United States,NASDAQ,USD,0.01,CG
+GEN,GEN DIGITAL INC,Information Technology,United States,NASDAQ,USD,0.01,GEN
+TEAM,ATLASSIAN CORP CLASS A,Information Technology,United States,NASDAQ,USD,0.01,TEAM
+UU.,UNITED UTILITIES GROUP PLC,Utilities,United Kingdom,London Stock Exchange,USD,0.01,UU..L
+1928,SEKISUI HOUSE LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.01,1928.T
+PINS,PINTEREST INC CLASS A,Communication,United States,NYSE,USD,0.01,PINS
+8697,JAPAN EXCHANGE GROUP INC,Financials,Japan,Tokyo Stock Exchange,USD,0.01,8697.T
+TIH,TOROMONT INDUSTRIES LTD,Industrials,Canada,Toronto Stock Exchange,USD,0.01,TIH.TO
+7453,RYOHIN KEIKAKU LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.01,7453.T
+METSO,METSO CORPORATION,Industrials,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.01,METSO.HE
+MOWI,MOWI,Consumer Staples,Norway,Oslo Bors Asa,USD,0.01,MOWI.OL
+ZBRA,ZEBRA TECHNOLOGIES CORP CLASS A,Information Technology,United States,NASDAQ,USD,0.01,ZBRA
+CA,CARREFOUR SA,Consumer Staples,France,Nyse Euronext - Euronext Paris,USD,0.01,CA.PA
+7911,TOPPAN HOLDINGS INC,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,7911.T
+ATRL,ATKINSREALIS GROUP INC,Industrials,Canada,Toronto Stock Exchange,USD,0.01,ATRL.TO
+4307,NOMURA RESEARCH INSTITUTE LTD,Information Technology,Japan,Tokyo Stock Exchange,USD,0.01,4307.T
+PHOE,PHOENIX FINANCIAL LTD,Financials,Israel,Tel Aviv Stock Exchange,USD,0.01,PHOE.TA
+J36,JARDINE MATHESON HOLDINGS LTD,Industrials,Hong Kong,Singapore Exchange,USD,0.01,J36.SI
+BKT,BANKINTER SA,Financials,Spain,Bolsa De Madrid,USD,0.01,BKT.MC
+4523,EISAI LTD,Health Care,Japan,Tokyo Stock Exchange,USD,0.01,4523.T
+ASRNL,ASR NEDERLAND NV,Financials,Netherlands,Euronext Amsterdam,USD,0.01,ASRNL.AS
+CNH,CNH INDUSTRIAL N.V. NV,Industrials,United States,NYSE,USD,0.01,CNH
+FORTUM,FORTUM,Utilities,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.01,FORTUM.HE
+UDR,UDR REIT INC,Real Estate,United States,NYSE,USD,0.01,UDR
+ADM,ADMIRAL GROUP PLC,Financials,United Kingdom,London Stock Exchange,USD,0.01,ADM.L
+S68,SINGAPORE EXCHANGE LTD,Financials,Singapore,Singapore Exchange,USD,0.01,S68.SI
+AGN,AEGON LTD,Financials,Netherlands,Euronext Amsterdam,USD,0.01,AGN.AS
+AKZA,AKZO NOBEL NV,Materials,Netherlands,Euronext Amsterdam,USD,0.01,AKZA.AS
+G1A,GEA GROUP AG,Industrials,Germany,Xetra,USD,0.01,G1A.DE
+CPU,COMPUTERSHARE LTD,Industrials,Australia,Asx - All Markets,USD,0.01,CPU.AX
+9021,WEST JAPAN RAILWAY,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,9021.T
+ALO,ALSTOM SA,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.01,ALO.PA
+OMV,OMV AG,Energy,Austria,Wiener Boerse Ag,USD,0.01,OMV.VI
+NWSA,NEWS CORP CLASS A,Communication,United States,NASDAQ,USD,0.01,NWSA
+BVI,BUREAU VERITAS SA,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.01,BVI.PA
+TEL2 B,TELE2 B,Communication,Sweden,Nasdaq Omx Nordic,USD,0.01,TEL2 B.ST
+H78,HONGKONG LAND HOLDINGS LTD,Real Estate,Hong Kong,Singapore Exchange,USD,0.01,H78.SI
+MZTF,MIZRAHI TEFAHOT BANK LTD,Financials,Israel,Tel Aviv Stock Exchange,USD,0.01,MZTF.TA
+EFN,ELEMENT FLEET MANAGEMENT CORP,Industrials,Canada,Toronto Stock Exchange,USD,0.01,EFN.TO
+GIL,GILDAN ACTIVEWEAR INC,Consumer Discretionary,Canada,Toronto Stock Exchange,USD,0.01,GIL.TO
+SOL,WASHINGTON H SOUL PATTINSON & COMP,Financials,Australia,Asx - All Markets,USD,0.01,SOL.AX
+BLDR,BUILDERS FIRSTSOURCE INC,Industrials,United States,NYSE,USD,0.01,BLDR
+ALA,ALTAGAS LTD,Utilities,Canada,Toronto Stock Exchange,USD,0.01,ALA.TO
+DKNG,DRAFTKINGS INC CLASS A,Consumer Discretionary,United States,NASDAQ,USD,0.01,DKNG
+BNR,BRENNTAG,Industrials,Germany,Xetra,USD,0.01,BNR.DE
+GBLB,GROUPE BRUXELLES LAMBERT NV,Financials,Belgium,Nyse Euronext - Euronext Brussels,USD,0.01,GBLB.BR
+6504,FUJI ELECTRIC LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,6504.T
+TTD,TRADE DESK INC CLASS A,Communication,United States,NASDAQ,USD,0.01,TTD
+FRES,FRESNILLO PLC,Materials,United Kingdom,London Stock Exchange,USD,0.01,FRES.L
+GFL,GFL ENVIRONMENTAL SUBORDINATE VOTI,Industrials,Canada,Toronto Stock Exchange,USD,0.01,GFL.TO
+MAERSK A,A P MOLLER MAERSK,Industrials,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.01,MAERSK A.CO
+ERF,EUROFINS SCIENTIFIC,Health Care,France,Nyse Euronext - Euronext Paris,USD,0.01,ERF.PA
+4684,OBIC LTD,Information Technology,Japan,Tokyo Stock Exchange,USD,0.01,4684.T
+4188,MITSUBISHI CHEMICAL GROUP CORP,Materials,Japan,Tokyo Stock Exchange,USD,0.01,4188.T
+HEIO,HEINEKEN HOLDING NV,Consumer Staples,Netherlands,Euronext Amsterdam,USD,0.01,HEIO.AS
+LISP,CHOCOLADEFABRIKEN LINDT & SPRUENGL,Consumer Staples,Switzerland,SIX Swiss Exchange,USD,0.01,LISP.SW
+AC,ACCOR SA,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,USD,0.01,AC.PA
+1803,SHIMIZU CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,1803.T
+STN,STANTEC INC,Industrials,Canada,Toronto Stock Exchange,USD,0.01,STN.TO
+CCL.B,CCL INDUSTRIES INC CLASS B,Materials,Canada,Toronto Stock Exchange,USD,0.01,CCL.B.TO
+X,TMX GROUP LTD,Financials,Canada,Toronto Stock Exchange,USD,0.01,X.TO
+C6L,SINGAPORE AIRLINES LTD,Industrials,Singapore,Singapore Exchange,USD,0.01,C6L.SI
+BNZL,BUNZL,Industrials,United Kingdom,London Stock Exchange,USD,0.01,BNZL.L
+5019,IDEMITSU KOSAN LTD,Energy,Japan,Tokyo Stock Exchange,USD,0.01,5019.T
+HM B,HENNES & MAURITZ,Consumer Discretionary,Sweden,Nasdaq Omx Nordic,USD,0.01,HM B.ST
+PSON,PEARSON PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,USD,0.01,PSON.L
+ORK,ORKLA,Consumer Staples,Norway,Oslo Bors Asa,USD,0.01,ORK.OL
+YAR,YARA INTERNATIONAL,Materials,Norway,Oslo Bors Asa,USD,0.01,YAR.OL
+FOX,FOX CORP CLASS B,Communication,United States,NASDAQ,USD,0.01,FOX
+SOLV,SOLVENTUM CORP,Health Care,United States,NYSE,USD,0.01,SOLV
+7270,SUBARU CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.01,7270.T
+MNG,M&G PLC,Financials,United Kingdom,London Stock Exchange,USD,0.01,MNG.L
+9766,KONAMI GROUP CORP,Communication,Japan,Tokyo Stock Exchange,USD,0.01,9766.T
+COLO B,COLOPLAST B,Health Care,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.01,COLO B.CO
+FME,FRESENIUS MEDICAL CARE AG,Health Care,Germany,Xetra,USD,0.01,FME.DE
+GET,GETLINK,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.01,GET.PA
+7912,DAI NIPPON PRINTING LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,7912.T
+MKS,MARKS AND SPENCER GROUP PLC,Consumer Staples,United Kingdom,London Stock Exchange,USD,0.01,MKS.L
+27,GALAXY ENTERTAINMENT GROUP LTD,Consumer Discretionary,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.01,27.HK
+6841,YOKOGAWA ELECTRIC CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.01,6841.T
+SKA B,SKANSKA B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.01,SKA B.ST
+ADDT B,ADDTECH CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.01,ADDT B.ST
+KEY,KEYERA CORP,Energy,Canada,Toronto Stock Exchange,USD,0.01,KEY.TO
+SKF B,SKF B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.01,SKF B.ST
+MRO,MELROSE INDUSTRIES PLC,Industrials,United Kingdom,London Stock Exchange,USD,0.01,MRO.L
+IONQ,IONQ INC,Information Technology,United States,NYSE,USD,0.01,IONQ
+EVO,EVOLUTION,Consumer Discretionary,Sweden,Nasdaq Omx Nordic,USD,0.01,EVO.ST
+RXL,REXEL SA,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.01,RXL.PA
+UNI,UNIPOL ASSICURAZIONI SPA,Financials,Italy,Borsa Italiana,USD,0.01,UNI.MI
+4911,SHISEIDO LTD,Consumer Staples,Japan,Tokyo Stock Exchange,USD,0.01,4911.T
+3659,NEXON LTD,Communication,Japan,Tokyo Stock Exchange,USD,0.01,3659.T
+GRAB,GRAB HOLDINGS LTD CLASS A,Industrials,Singapore,NASDAQ,USD,0.01,GRAB
+XRO,XERO LTD,Information Technology,Australia,Asx - All Markets,USD,0.01,XRO.AX
+7186,YOKOHAMA FINANCIAL GROUP INC,Financials,Japan,Tokyo Stock Exchange,USD,0.01,7186.T
+TFII,TFI INTERNATIONAL INC,Industrials,Canada,Toronto Stock Exchange,USD,0.01,TFII.TO
+COH,COCHLEAR LTD,Health Care,Australia,Asx - All Markets,USD,0.01,COH.AX
+BEI,BEIERSDORF AG,Consumer Staples,Germany,Xetra,USD,0.01,BEI.DE
+8113,UNICHARM CORP,Consumer Staples,Japan,Tokyo Stock Exchange,USD,0.01,8113.T
+AM,DASSAULT AVIATION SA,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.01,AM.PA
+9697,CAPCOM LTD,Communication,Japan,Tokyo Stock Exchange,USD,0.01,9697.T
+ABF,ASSOCIATED BRITISH FOODS PLC,Consumer Staples,United Kingdom,London Stock Exchange,USD,0.01,ABF.L
+MPL,MEDIBANK PRIVATE LTD,Financials,Australia,Asx - All Markets,USD,0.01,MPL.AX
+TRYG,TRYG,Financials,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.01,TRYG.CO
+IOT,SAMSARA INC CLASS A,Information Technology,United States,NYSE,USD,0.01,IOT
+9042,HANKYU HANSHIN HOLDINGS INC,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,9042.T
+CLAR,CAPITALAND ASCENDAS REIT,Real Estate,Singapore,Singapore Exchange,USD,0.01,CLAR.SI
+66,MTR CORPORATION CORP LTD,Industrials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.01,66.HK
+TLC,THE LOTTERY CORPORATION LTD,Consumer Discretionary,Australia,Asx - All Markets,USD,0.01,TLC.AX
+CAE,CAE INC,Industrials,Canada,Toronto Stock Exchange,USD,0.01,CAE.TO
+4689,LY CORP,Communication,Japan,Tokyo Stock Exchange,USD,0.01,4689.T
+ORNBV,ORION CLASS B,Health Care,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.01,ORNBV.HE
+SECU B,SECURITAS B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.01,SECU B.ST
+BCP,BANCO COMERCIAL PORTUGUES SA,Financials,Portugal,Nyse Euronext - Euronext Lisbon,USD,0.01,BCP
+EXO,EXOR NV,Financials,Netherlands,Euronext Amsterdam,USD,0.01,EXO.AS
+EPI B,EPIROC CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.01,EPI B.ST
+APA,APA GROUP UNITS,Utilities,Australia,Asx - All Markets,USD,0.01,APA.AX
+QIA,QIAGEN NV,Health Care,Germany,Xetra,USD,0.01,QIA.DE
+FUTU,FUTU HOLDINGS ADR LTD,Financials,Hong Kong,NASDAQ,USD,0.01,FUTU
+LUG,LUNDIN GOLD INC,Materials,Canada,Toronto Stock Exchange,USD,0.01,LUG.TO
+TREL B,TRELLEBORG B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.01,TREL B.ST
+SOBI,SWEDISH ORPHAN BIOVITRUM,Health Care,Sweden,Nasdaq Omx Nordic,USD,0.01,SOBI.ST
+8593,MITSUBISHI HC CAPITAL INC,Financials,Japan,Tokyo Stock Exchange,USD,0.01,8593.T
+KBX,KNORR BREMSE AG,Industrials,Germany,Xetra,USD,0.01,KBX.DE
+BEAN,BELIMO N AG,Industrials,Switzerland,SIX Swiss Exchange,USD,0.01,BEAN.SW
+UAL,UNITED AIRLINES HOLDINGS INC,Industrials,United States,NASDAQ,USD,0.01,UAL
+SAP,SAPUTO INC,Consumer Staples,Canada,Toronto Stock Exchange,USD,0.01,SAP.TO
+INDU C,INDUSTRIVARDEN SERIES,Financials,Sweden,Nasdaq Omx Nordic,USD,0.01,INDU C.ST
+EQH,EQUITABLE HOLDINGS INC,Financials,United States,NYSE,USD,0.01,EQH
+4755,RAKUTEN GROUP INC,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.01,4755.T
+UHR,THE SWATCH GROUP AG,Consumer Discretionary,Switzerland,SIX Swiss Exchange,USD,0.01,UHR.SW
+LI,KLEPIERRE REIT SA,Real Estate,France,Nyse Euronext - Euronext Paris,USD,0.01,LI.PA
+7701,SHIMADZU CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.01,7701.T
+TLX,TALANX AG,Financials,Germany,Xetra,USD,0.01,TLX.DE
+ELI,ELIA GROUP SA,Utilities,Belgium,Nyse Euronext - Euronext Brussels,USD,0.01,ELI.BR
+ITRK,INTERTEK GROUP PLC,Industrials,United Kingdom,London Stock Exchange,USD,0.01,ITRK.L
+BS6,YANGZIJIANG SHIPBUILDING (HOLDINGS,Industrials,Singapore,Singapore Exchange,USD,0.01,BS6.SI
+MICC,MAGNUM ICE CREAM NV,Consumer Staples,Netherlands,Euronext Amsterdam,USD,0.01,MICC.AS
+CTC.A,CANADIAN TIRE LTD CLASS A,Consumer Discretionary,Canada,Toronto Stock Exchange,USD,0.01,CTC.A.TO
+SBRY,SAINSBURY(J) PLC,Consumer Staples,United Kingdom,London Stock Exchange,USD,0.01,SBRY.L
+KGF,KINGFISHER PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,USD,0.01,KGF.L
+SIG,SIGMA HEALTHCARE LTD,Health Care,Australia,Asx - All Markets,USD,0.01,SIG.AX
+HRL,HORMEL FOODS CORP,Consumer Staples,United States,NYSE,USD,0.01,HRL
+CON,CONTINENTAL AG,Consumer Discretionary,Germany,Xetra,USD,0.01,CON.DE
+SGP,STOCKLAND STAPLED UNITS LTD,Real Estate,Australia,Asx - All Markets,USD,0.01,SGP.AX
+WISE,WISE PLC CLASS A,Financials,United Kingdom,London Stock Exchange,USD,0.01,WISE.L
+HEN,HENKEL AG,Consumer Staples,Germany,Xetra,USD,0.01,HEN.DE
+HOT,HOCHTIEF AG,Industrials,Germany,Xetra,USD,0.01,HOT.DE
+Z,ZILLOW GROUP INC CLASS C,Real Estate,United States,NASDAQ,USD,0.01,Z
+9107,KAWASAKI KISEN LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,9107.T
+IG,ITALGAS,Utilities,Italy,Borsa Italiana,USD,0.01,IG.MI
+7202,ISUZU MOTORS LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.01,7202.T
+H,HYATT HOTELS CORP CLASS A,Consumer Discretionary,United States,NYSE,USD,0.01,H
+7272,YAMAHA MOTOR LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.01,7272.T
+6479,MINEBEA MITSUMI INC,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,6479.T
+SCHN,SCHINDLER HOLDING AG,Industrials,Switzerland,SIX Swiss Exchange,USD,0.01,SCHN.SW
+4204,SEKISUI CHEMICAL LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,4204.T
+BARN,BARRY CALLEBAUT AG,Consumer Staples,Switzerland,SIX Swiss Exchange,USD,0.01,BARN.SW
+TIT,TELECOM ITALIA,Communication,Italy,Borsa Italiana,USD,0.01,TIT.MI
+8951,NIPPON BUILDING FUND REIT INC,Real Estate,Japan,Tokyo Stock Exchange,USD,0.01,8951.T
+LIFCO B,LIFCO CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.01,LIFCO B.ST
+PNDORA,PANDORA,Consumer Discretionary,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.01,PNDORA.CO
+SCA B,SVENSKA CELLULOSA B,Materials,Sweden,Nasdaq Omx Nordic,USD,0.01,SCA B.ST
+ELISA,ELISA,Communication,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.01,ELISA.HE
+DSG,DESCARTES SYSTEMS GROUP INC,Information Technology,Canada,Toronto Stock Exchange,USD,0.01,DSG.TO
+JDEP,JDE PEETS NV,Consumer Staples,Netherlands,Euronext Amsterdam,USD,0.01,JDEP.AS
+AVOL,AVOLTA AG,Consumer Discretionary,Switzerland,SIX Swiss Exchange,USD,0.01,AVOL.SW
+IPN,IPSEN SA,Health Care,France,Nyse Euronext - Euronext Paris,USD,0.01,IPN.PA
+ASX,ASX LTD,Financials,Australia,Asx - All Markets,USD,0.01,ASX.AX
+JMT,JERONIMO MARTINS SA,Consumer Staples,Portugal,Nyse Euronext - Euronext Lisbon,USD,0.01,JMT
+STERV,STORA ENSO CLASS R,Materials,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.01,STERV.HE
+NICE,NICE LTD,Information Technology,Israel,Tel Aviv Stock Exchange,USD,0.01,NICE.TA
+EMSN,EMS-CHEMIE HOLDING AG,Materials,Switzerland,SIX Swiss Exchange,USD,0.01,EMSN.SW
+6823,HKT TRUST AND HKT UNITS LTD,Communication,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.01,6823.HK
+G24,SCOUT24 N,Communication,Germany,Xetra,USD,0.01,G24.DE
+ANA,ACCIONA SA,Utilities,Spain,Bolsa De Madrid,USD,0.01,ANA.MC
+ERIE,ERIE INDEMNITY CLASS A,Financials,United States,NASDAQ,USD,0.01,ERIE
+5411,JFE HOLDINGS INC,Materials,Japan,Tokyo Stock Exchange,USD,0.01,5411.T
+SHL,SONIC HEALTHCARE LTD,Health Care,Australia,Asx - All Markets,USD,0.01,SHL.AX
+VCX,VICINITY CENTRES,Real Estate,Australia,Asx - All Markets,USD,0.01,VCX.AX
+SRT3,SARTORIUS PREF AG,Health Care,Germany,Xetra,USD,0.01,SRT3.DE
+RNO,RENAULT SA,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,USD,0.01,RNO.PA
+BEIJ B,BEIJER REF CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.01,BEIJ B.ST
+AIA,AUCKLAND INTERNATIONAL AIRPORT LTD,Industrials,New Zealand,New Zealand Exchange Ltd,USD,0.01,AIA
+IVN,IVANHOE MINES LTD CLASS A,Materials,Canada,Toronto Stock Exchange,USD,0.01,IVN.TO
+IAG,INTERNATIONAL AIRLINES GROUP SA,Industrials,Spain,Bolsa De Madrid,USD,0.01,IAG.MC
+8729,SONY FINANCIAL GROUP INC,Financials,Japan,Tokyo Stock Exchange,USD,0.01,8729.T
+8331,CHIBA BANK LTD,Financials,Japan,Tokyo Stock Exchange,USD,0.01,8331.T
+3088,MATSUKIYOKARA,Consumer Staples,Japan,Tokyo Stock Exchange,USD,0.01,3088.T
+4151,KYOWA KIRIN LTD,Health Care,Japan,Tokyo Stock Exchange,USD,0.01,4151.T
+SPX,SPIRAX GROUP PLC,Industrials,United Kingdom,London Stock Exchange,USD,0.01,SPX.L
+IFT,INFRATIL LTD,Financials,New Zealand,New Zealand Exchange Ltd,USD,0.01,IFT
+EMP.A,EMPIRE LTD CLASS A,Consumer Staples,Canada,Toronto Stock Exchange,USD,0.01,EMP.A.TO
+4612,NIPPON PAINT HOLDINGS LTD,Materials,Japan,Tokyo Stock Exchange,USD,0.01,4612.T
+4768,OTSUKA CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.01,4768.T
+OKLO,OKLO INC CLASS A,Utilities,United States,NYSE,USD,0.01,OKLO
+7735,SCREEN HOLDINGS LTD,Information Technology,Japan,Tokyo Stock Exchange,USD,0.01,7735.T
+SDLF,STANDARD LIFE PLC,Financials,United Kingdom,London Stock Exchange,USD,0.01,SDLF.L
+BKW,BKW N AG,Utilities,Switzerland,SIX Swiss Exchange,USD,0.01,BKW.SW
+7259,AISIN CORP,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.01,7259.T
+RBI,RAIFFEISEN BANK INTERNATIONAL AG,Financials,Austria,Wiener Boerse Ag,USD,0.01,RBI.VI
+SGH,SGH LTD,Industrials,Australia,Asx - All Markets,USD,0.01,SGH.AX
+WTB,WHITBREAD PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,USD,0.01,WTB.L
+REC,RECORDATI INDUSTRIA CHIMICA E FARM,Health Care,Italy,Borsa Italiana,USD,0.01,REC.MI
+9CI,CAPITALAND INVESTMENT LTD,Real Estate,Singapore,Singapore Exchange,USD,0.01,9CI.SI
+KESKOB,KESKO CLASS B,Consumer Staples,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.01,KESKOB.HE
+OTEX,OPEN TEXT CORP,Information Technology,Canada,Toronto Stock Exchange,USD,0.01,OTEX.TO
+INDT,INDUTRADE,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.01,INDT.ST
+WTC,WISETECH GLOBAL LTD,Information Technology,Australia,Asx - All Markets,USD,0.01,WTC.AX
+BEPC,BROOKFIELD RENEWABLE SUBORDINATE V,Utilities,Canada,Toronto Stock Exchange,USD,0.01,BEPC.TO
+CAR,CAR GROUP LTD,Communication,Australia,Asx - All Markets,USD,0.01,CAR.AX
+CSG,CSG CLASS A NV,Industrials,Netherlands,Euronext Amsterdam,USD,0.01,CSG.AS
+LHA,DEUTSCHE LUFTHANSA AG,Industrials,Germany,Xetra,USD,0.01,LHA.DE
+F34,WILMAR INTERNATIONAL LTD,Consumer Staples,Singapore,Singapore Exchange,USD,0.01,F34.SI
+T,TELUS,Communication,Canada,Toronto Stock Exchange,USD,0.01,T.TO
+7201,NISSAN MOTOR LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.01,7201.T
+INDU A,INDUSTRIVARDEN A,Financials,Sweden,Nasdaq Omx Nordic,USD,0.01,INDU A.ST
+9024,SEIBU HOLDINGS INC,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,9024.T
+NIBE B,NIBE INDUSTRIER CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.01,NIBE B.ST
+QAN,QANTAS AIRWAYS LTD,Industrials,Australia,Asx - All Markets,USD,0.01,QAN.AX
+AZRG,AZRIELI GROUP LTD,Real Estate,Israel,Tel Aviv Stock Exchange,USD,0.01,AZRG.TA
+AUTO,AUTOTRADER GROUP PLC,Communication,United Kingdom,London Stock Exchange,USD,0.01,AUTO.L
+9005,TOKYU CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,9005.T
+SDR,SCHRODERS PLC,Financials,United Kingdom,London Stock Exchange,USD,0.01,SDR.L
+PAH3,PORSCHE AUTOMOBIL HOLDING PREF,Consumer Discretionary,Germany,Xetra,USD,0.01,PAH3.DE
+REA,REA GROUP LTD,Communication,Australia,Asx - All Markets,USD,0.01,REA.AX
+FSV,FIRSTSERVICE SUBORDINATE VOTING CO,Real Estate,Canada,Toronto Stock Exchange,USD,0.01,FSV.TO
+1038,CHEUNG KONG INFRASTRUCTURE HOLDING,Utilities,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.01,1038.HK
+BMW3,BMW PREF AG,Consumer Discretionary,Germany,Xetra,USD,0.01,BMW3.DE
+DIM,SARTORIUS STEDIM BIOTECH SA,Health Care,France,Nyse Euronext - Euronext Paris,USD,0.01,DIM.PA
+HAG,HENSOLDT AG,Industrials,Germany,Xetra,USD,0.01,HAG.DE
+TITR,TELECOM ITALIA S.P.A.,Communication,Italy,Borsa Italiana,USD,0.01,TITR.MI
+ZAL,ZALANDO,Consumer Discretionary,Germany,Xetra,USD,0.01,ZAL.DE
+BCVN,BC VAUD N,Financials,Switzerland,SIX Swiss Exchange,USD,0.01,BCVN.SW
+AMUN,AMUNDI SA,Financials,France,Nyse Euronext - Euronext Paris,USD,0.01,AMUN.PA
+CPR,DAVIDE CAMPARI MILANO NV,Consumer Staples,Italy,Borsa Italiana,USD,0.01,CPR.MI
+12,HENDERSON LAND DEVELOPMENT LTD,Real Estate,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.01,12.HK
+EVK,EVONIK INDUSTRIES AG,Materials,Germany,Xetra,USD,0.01,EVK.DE
+2801,KIKKOMAN CORP,Consumer Staples,Japan,Tokyo Stock Exchange,USD,0.01,2801.T
+TUB,FINANCIERE DE TUBIZE SA,Health Care,Belgium,Nyse Euronext - Euronext Brussels,USD,0.01,TUB.BR
+GJF,GJENSIDIGE FORSIKRING,Financials,Norway,Oslo Bors Asa,USD,0.01,GJF.OL
+BOL,BOLLORE,Energy,France,Nyse Euronext - Euronext Paris,USD,0.01,BOL.PA
+7309,SHIMANO INC,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.01,7309.T
+3003,HULIC LTD,Real Estate,Japan,Tokyo Stock Exchange,USD,0.01,3003.T
+P911,DR ING HC F PORSCHE PRF AG,Consumer Discretionary,Germany,Xetra,USD,0.01,P911.DE
+VER,VERBUND AG,Utilities,Austria,Wiener Boerse Ag,USD,0.01,VER.VI
+ICL,ICL GROUP LTD,Materials,Israel,Tel Aviv Stock Exchange,USD,0.01,ICL.TA
+LAND,LAND SECURITIES GROUP REIT PLC,Real Estate,United Kingdom,London Stock Exchange,USD,0.01,LAND.L
+PME,PRO MEDICUS LTD,Health Care,Australia,Asx - All Markets,USD,0.01,PME.AX
+BTRW,BARRATT REDROW PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,USD,0.01,BTRW.L
+CU,CANADIAN UTILITIES LTD CLASS A,Utilities,Canada,Toronto Stock Exchange,USD,0.01,CU.TO
+9843,NITORI HOLDINGS LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.01,9843.T
+8136,SANRIO LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.01,8136.T
+BMED,BANCA MEDIOLANUM,Financials,Italy,Borsa Italiana,USD,0.01,BMED.MI
+U96,SEMBCORP INDUSTRIES LTD,Utilities,Singapore,Singapore Exchange,USD,0.01,U96.SI
+2413,M3 INC,Health Care,Japan,Tokyo Stock Exchange,USD,0.01,2413.T
+AAF,AIRTEL AFRICA PLC,Communication,United Kingdom,London Stock Exchange,USD,0.01,AAF.L
+LEG,LEG IMMOBILIEN N,Real Estate,Germany,Xetra,USD,0.01,LEG.DE
+SAGA B,SAGAX CLASS B,Real Estate,Sweden,Nasdaq Omx Nordic,USD,0.01,SAGA B.ST
+SNAP,SNAP INC CLASS A,Communication,United States,NYSE,USD,0.01,SNAP
+EDPR,EDP RENOVAVEIS SA,Utilities,Portugal,Nyse Euronext - Euronext Lisbon,USD,0.01,EDPR
+4091,NIPPON SANSO HOLDINGS CORP,Materials,Japan,Tokyo Stock Exchange,USD,0.01,4091.T
+1928,SANDS CHINA LTD,Consumer Discretionary,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.01,1928.HK
+NTGY,NATURGY ENERGY GROUP SA,Utilities,Spain,Bolsa De Madrid,USD,0.01,NTGY.MC
+6586,MAKITA CORP,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,6586.T
+CEN,CONTACT ENERGY LTD,Utilities,New Zealand,New Zealand Exchange Ltd,USD,0.01,CEN
+IDR,INDRA SISTEMAS SA,Information Technology,Spain,Bolsa De Madrid,USD,0.01,IDR.MC
+1878,DAITO TRUST CONSTRUCTION LTD,Real Estate,Japan,Tokyo Stock Exchange,USD,0.01,1878.T
+MAP,MAPFRE SA,Financials,Spain,Bolsa De Madrid,USD,0.01,MAP.MC
+SW,SODEXO SA,Consumer Discretionary,France,Nyse Euronext - Euronext Paris,USD,0.01,SW.PA
+DIE,DIETEREN (D) SA,Consumer Discretionary,Belgium,Nyse Euronext - Euronext Brussels,USD,0.01,DIE.BR
+3064,MONOTARO LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.01,3064.T
+ENT,ENTAIN PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,USD,0.01,ENT.L
+AYV,AYVENS SA,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.01,AYV.PA
+LUND B,LUNDBERGFORETAGEN CLASS B,Financials,Sweden,Nasdaq Omx Nordic,USD,0.01,LUND B.ST
+BIM,BIOMERIEUX SA,Health Care,France,Nyse Euronext - Euronext Paris,USD,0.01,BIM.PA
+3626,TIS INC,Information Technology,Japan,Tokyo Stock Exchange,USD,0.01,3626.T
+6869,SYSMEX CORP,Health Care,Japan,Tokyo Stock Exchange,USD,0.01,6869.T
+SYENS,SYENSQO NV,Materials,Belgium,Nyse Euronext - Euronext Brussels,USD,0.01,SYENS.BR
+MEL,MERIDIAN ENERGY LTD,Utilities,New Zealand,New Zealand Exchange Ltd,USD,0.01,MEL
+9602,TOHO (TOKYO) LTD,Communication,Japan,Tokyo Stock Exchange,USD,0.01,9602.T
+IGM,IGM FINANCIAL INC,Financials,Canada,Toronto Stock Exchange,USD,0.0,IGM.TO
+BZU,BUZZI,Materials,Italy,Borsa Italiana,USD,0.0,BZU.MI
+7181,JAPAN POST INSURANCE LTD,Financials,Japan,Tokyo Stock Exchange,USD,0.0,7181.T
+NEM,NEMETSCHEK,Information Technology,Germany,Xetra,USD,0.0,NEM.DE
+DHER,DELIVERY HERO,Consumer Discretionary,Germany,Xetra,USD,0.0,DHER.DE
+1997,WHARF REAL ESTATE INVESTMENT COMPA,Real Estate,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.0,1997.HK
+SALM,SALMAR,Consumer Staples,Norway,Oslo Bors Asa,USD,0.0,SALM.OL
+83,SINO LAND LTD,Real Estate,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.0,83.HK
+19,SWIRE PACIFIC LTD A,Industrials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.0,19.HK
+9435,HIKARI TSUSHIN INC,Industrials,Japan,Tokyo Stock Exchange,USD,0.0,9435.T
+INPST,INPOST SA,Industrials,Netherlands,Euronext Amsterdam,USD,0.0,INPST.AS
+BALD B,FASTIGHETS BALDER CLASS B,Real Estate,Sweden,Nasdaq Omx Nordic,USD,0.0,BALD B.ST
+EVD,CTS EVENTIM AG,Communication,Germany,Xetra,USD,0.0,EVD.DE
+5201,AGC INC,Industrials,Japan,Tokyo Stock Exchange,USD,0.0,5201.T
+GFC,GECINA SA,Real Estate,France,Nyse Euronext - Euronext Paris,USD,0.0,GFC.PA
+RAND,RANDSTAD HOLDING,Industrials,Netherlands,Euronext Amsterdam,USD,0.0,RAND.AS
+SOF,SOFINA SA,Financials,Belgium,Nyse Euronext - Euronext Brussels,USD,0.0,SOF.BR
+RAA,RATIONAL AG,Industrials,Germany,Xetra,USD,0.0,RAA.DE
+ADP,AEROPORTS DE PARIS SA,Industrials,France,Nyse Euronext - Euronext Paris,USD,0.0,ADP.PA
+7550,ZENSHO HOLDINGS LTD,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.0,7550.T
+MNDY,MONDAYCOM LTD,Information Technology,Israel,NASDAQ,USD,0.0,MNDY
+DEMANT,DEMANT,Health Care,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.0,DEMANT.CO
+LATO B,LATOUR INVESTMENT CLASS B,Industrials,Sweden,Nasdaq Omx Nordic,USD,0.0,LATO B.ST
+COV,COVIVIO SA,Real Estate,France,Nyse Euronext - Euronext Paris,USD,0.0,COV.PA
+3092,ZOZO INC,Consumer Discretionary,Japan,Tokyo Stock Exchange,USD,0.0,3092.T
+HOLM B,HOLMEN CLASS B,Materials,Sweden,Nasdaq Omx Nordic,USD,0.0,HOLM B.ST
+CVC,CVC CAPITAL PARTNERS PLC,Financials,Netherlands,Euronext Amsterdam,USD,0.0,CVC.AS
+LOTB,LOTUS BAKERIES NV,Consumer Staples,Belgium,Nyse Euronext - Euronext Brussels,USD,0.0,LOTB.BR
+GRF,GRIFOLS SA CLASS A,Health Care,Spain,Bolsa De Madrid,USD,0.0,GRF.MC
+ROCK B,ROCKWOOL CLASS B,Industrials,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,0.0,ROCK B.CO
+2587,SUNTORY BEVERAGE & FOOD LTD,Consumer Staples,Japan,Tokyo Stock Exchange,USD,0.0,2587.T
+JD.,JD SPORTS FASHION PLC,Consumer Discretionary,United Kingdom,London Stock Exchange,USD,0.0,JD..L
+-,CYBERARK SOFTWARE CONTRA,Information Technology,Israel,NO MARKET (E.G. UNLISTED),USD,0.0,-
+1308,SITC INTERNATIONAL HOLDINGS LTD,Industrials,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.0,1308.HK
+BCE,BCE INC,Communication,Canada,Toronto Stock Exchange,USD,0.0,BCE.TO
+4,WHARF (HOLDINGS) LTD,Real Estate,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,0.0,4.HK
+RED,REDEIA CORPORACION SA,Utilities,Spain,Bolsa De Madrid,USD,0.0,RED.MC
+9202,ANA HOLDINGS INC,Industrials,Japan,Tokyo Stock Exchange,USD,0.0,9202.T
+9201,JAPAN AIRLINES LTD,Industrials,Japan,Tokyo Stock Exchange,USD,0.0,9201.T
+4716,ORACLE JAPAN CORP,Information Technology,Japan,Tokyo Stock Exchange,USD,0.0,4716.T
+2299955D,CONSTELLATION SOFTWARE INC,Information Technology,Canada,Toronto Stock Exchange,USD,0.0,2299955D.TO

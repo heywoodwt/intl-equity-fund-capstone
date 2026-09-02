@@ -1,0 +1,130 @@
+ticker,fsym_id,factset_entity_id,name,country,sector
+ASM.AS,GM7H09-R,002T5L-E,ASM International NV,NL,Technology
+KAHOT.OL,FR4B9H-R,0G1J6W-E,Kahoot! ASA,NO,Technology
+2146.T,SXD4G8-R,06Q756-E,"UT Group Co., Ltd.",JP,Business Services
+AMS.SW,C5K9GL-R,05ZTWT-E,ams-OSRAM AG,AT,Technology
+ZAL.DE,PM6KP2-R,0850ZM-E,Zalando SE,DE,Consumer Cyclicals
+FNAC.PA,X9KJT3-R,0D6K1F-E,Fnac Darty SA,FR,Consumer Cyclicals
+2678.T,JZY038-R,05HZ19-E,ASKUL Corp.,JP,Consumer Non-Cyclicals
+OVS.MI,MP8K4H-R,09CFGH-E,OVS SpA,IT,Consumer Cyclicals
+AML.L,N8P36V-R,0JYTPM-E,Aston Martin Lagonda Global Holdings Plc,GB,Consumer Cyclicals
+FEVR.L,WWF124-R,0DYL69-E,Fevertree Drinks Plc,GB,Consumer Non-Cyclicals
+PUB.PA,LZ645K-R,00117S-E,Publicis Groupe SA,FR,Business Services
+EBRO.MC,RBH78M-R,05HK52-E,Ebro Foods SA,ES,Consumer Non-Cyclicals
+GVC.L,TY565Q-R,061D73-E,Entain Plc,GB,Consumer Services
+BOOZT.ST,TY2YK8-R,0CMPST-E,Boozt AB,SE,Consumer Non-Cyclicals
+4689.T,JQZ6DN-R,05HWFY-E,LY Corp.,JP,Consumer Non-Cyclicals
+AMP.MI,WJWHT6-R,05HJ29-E,Amplifon SpA,IT,Healthcare
+ZOO.L,DP2M95-R,004HCY-E,ZOO Digital Group Plc,GB,Consumer Services
+6861.T,R4NT59-R,05HWCX-E,KEYENCE Corp.,JP,Industrials
+6544.T,KGQVSF-R,08XG7V-E,"Japan Elevator Service Holdings Co., Ltd.",JP,Business Services
+4751.T,G37DWR-R,05J328-E,"CyberAgent, Inc.",JP,Business Services
+DMP.DE,K4VMR1-R,0HYHCT-E,Dermapharm Holding SE,DE,Healthcare
+BOKU.L,XJM8M0-R,07RPGM-E,"BOKU, Inc.",US,Finance
+DIA.MI,KXDF6J-R,05MGK0-E,DiaSorin SpA,IT,Healthcare
+NEM.DE,FYP7N8-R,002VJY-E,Nemetschek SE,DE,Technology
+AF.PA,FPW2T0-R,05ZKN9-E,Air France-KLM SA,FR,Industrials
+SCHA.OL,G4GNVN-R,05HXQY-E,Vend Marketplaces ASA,NO,Technology
+NAS.OL,QTFZXZ-R,05LQHV-E,Norwegian Air Shuttle ASA,NO,Industrials
+TPE.DE,DKP314-R,05JHJ9-E,PVA TePla AG,DE,Technology
+MC.PA,GQH86W-R,002LGW-E,LVMH Moët Hennessy Louis Vuitton SE,FR,Consumer Cyclicals
+3844.T,FXRN3F-R,06RFN1-E,Comture Corp.,JP,Technology
+LTG.L,JF74F9-R,0DF8QQ-E,Learning Technologies Group Plc,GB,Technology
+6840.T,GDGB62-R,05JB0L-E,"AKIBA Holdings Co., Ltd.",JP,Industrials
+6929.T,JK9MJW-R,05J0MM-E,"Nippon Ceramic Co., Ltd.",JP,Technology
+UMI.BR,L1YNFY-R,001ZCT-E,Umicore SA,BE,Non-Energy Materials
+OCDO.L,LHPBFK-R,09XNY6-E,Ocado Group Plc,GB,Industrials
+3064.T,MR4TNK-R,06MG3Q-E,"MonotaRO Co., Ltd.",JP,Industrials
+SGO.PA,RK87TQ-R,002X73-E,Compagnie de Saint-Gobain SA,FR,Non-Energy Materials
+3031.T,R05C6F-R,06FFT3-E,"Raccoon Holdings, Inc.",JP,Consumer Non-Cyclicals
+BCART.BR,VHJB07-R,0FFVT4-E,Biocartis Group NV,BE,Healthcare
+ACSO.L,SRS2M0-R,05JG36-E,accesso Technology Group Plc,GB,Consumer Services
+MOON.L,CQZMC1-R,0N9MCC-E,Moonpig Group Plc,GB,Consumer Cyclicals
+TOBII.ST,SJ6JSD-R,06LRB9-E,Tobii AB,SE,Technology
+6594.T,D79WDP-R,003HN5-E,NIDEC Corp.,JP,Industrials
+VITB.ST,JKHFMB-R,05KBJN-E,Vitec Software Group AB,SE,Technology
+AIXA.DE,VBDWB1-R,05HSCQ-E,AIXTRON SE,DE,Technology
+AGL.MI,HD34QG-R,05HWKK-E,Autogrill SpA,IT,Consumer Services
+RAY.ST,B3MGHK-R,05JTKX-E,RaySearch Laboratories AB,SE,Healthcare
+FDEV.L,WD63JS-R,0817G2-E,Frontier Developments Plc,GB,Technology
+MDW.PA,H7LN62-R,0G3LMK-E,Mediawan SAS,FR,Consumer Services
+NOD.OL,CSQ76Z-R,05JLV0-E,Nordic Semiconductor ASA,NO,Technology
+INTRUM.ST,D2Y4J9-R,05JLR5-E,Intrum AB,SE,Finance
+6951.T,KGPLVQ-R,05HZRF-E,JEOL Ltd.,JP,Healthcare
+4921.T,GFG621-R,003JTG-E,FANCL Corp.,JP,Consumer Non-Cyclicals
+TOM2.AS,BYRC4M-R,0079K9-E,TomTom NV,NL,Technology
+DSY.PA,VMHPTJ-R,001H2S-E,Dassault Systèmes SE,FR,Technology
+MONC.MI,VK44PN-R,07FT56-E,Moncler SpA,IT,Consumer Cyclicals
+WMH.L,RH0YNP-R,05JLQT-E,William Hill Ltd.,GB,Consumer Services
+ETO.L,KDMMVP-R,0094D6-E,Entertainment One Ltd.,CA,Consumer Services
+UCB.BR,KNHDSG-R,05HHCX-E,UCB SA,BE,Healthcare
+LBIRD.PA,NL6284-R,0JKF4N-E,Lumibird SA,FR,Healthcare
+CAPC.L,J2R4L9-R,0VWV6C-E,Shaftesbury Capital Plc,GB,Finance
+WOSG.L,F5L9LT-R,0815NN-E,Watches of Switzerland Group Plc,GB,Consumer Cyclicals
+WDI.DE,X42QXQ-R,008K53-E,Wirecard AG,DE,Finance
+SMDS.L,QCZ86Y-R,05HXRH-E,DS Smith Ltd.,GB,Non-Energy Materials
+BAS1V.HE,BFP734-R,05JYR4-E,Basware Oy,FI,Technology
+AM3D.DE,VJ2Q9P-R,0D3R6P-E,Nikon SLM Solutions AG,DE,Industrials
+ADYEN.AS,B8DGF3-R,0C1SVC-E,Adyen NV,NL,Finance
+4385.T,RQ314Y-R,0D81SW-E,"Mercari, Inc.",JP,Consumer Non-Cyclicals
+FAG.ST,BXLTC8-R,05J2JW-E,Fagerhult Group AB,SE,Industrials
+3990.T,WRR2XC-R,0G32NQ-E,"UUUM Co., Ltd.",JP,Business Services
+IFX.DE,P59ZZH-R,00354T-E,Infineon Technologies AG,DE,Technology
+7269.T,CB1FV5-R,05GFS5-E,Suzuki Motor Corp.,JP,Consumer Cyclicals
+INRN.SW,TLX4L7-R,05J5LN-E,Interroll Holding AG,CH,Industrials
+FDP.L,G22X5F-R,004K90-E,FD Technologies Ltd.,GB,Finance
+PNDORA.CO,C6RB2B-R,0B1R98-E,Pandora AS,DK,Consumer Cyclicals
+DUST.ST,JTKY01-R,08DLMY-E,Dustin Group AB,SE,Technology
+MUSTI.HE,NQVWVF-R,0H4NWT-E,Musti Group Oyj,FI,Consumer Cyclicals
+ALK-B.CO,SJKQMD-R,05MSBZ-E,ALK-Abello A/S,DK,Healthcare
+6857.T,KL74SJ-R,003QTP-E,Advantest Corp.,JP,Technology
+G5EN.ST,TSHCZT-R,008RY3-E,G5 Entertainment AB,SE,Technology
+PCELL.ST,VBY93Y-R,085RQ1-E,PowerCell Sweden AB,SE,Industrials
+4755.T,TTK7NN-R,05HXHH-E,"Rakuten Group, Inc.",JP,Consumer Non-Cyclicals
+CAP.PA,F86QBP-R,002G6H-E,Capgemini SE,FR,Technology
+PETS.L,VZY7HR-R,00FZ67-E,Pets At Home Group Plc,GB,Consumer Cyclicals
+ADE.OL,WY3QLM-R,0KRF06-E,Adevinta ASA,NO,Technology
+IBAB.BR,V84K61-R,002F5J-E,Ion Beam Applications SA,BE,Healthcare
+FUTR.L,GM88J1-R,05J0HN-E,Future Plc,GB,Technology
+ROSE.SW,NB7GLC-R,06HMJH-E,DocMorris Ltd.,CH,Consumer Non-Cyclicals
+7733.T,QG6F3V-R,05HWHD-E,Olympus Corp.,JP,Healthcare
+6146.T,J4TH5K-R,05HWQT-E,DISCO Corp.,JP,Technology
+AF-B.ST,XJLJJN-R,05J4TH-E,AFRY AB,SE,Industrials
+6481.T,LLWRYR-R,05HWL7-E,"THK CO., LTD.",JP,Industrials
+BOSS.DE,QVQPN7-R,05HR0P-E,Hugo Boss AG,DE,Consumer Cyclicals
+ORP.PA,K01WHX-R,05J77X-E,Emeis SA,FR,Healthcare
+6920.T,Q3WN7R-R,05J2S3-E,Lasertec Corp.,JP,Technology
+SAX.DE,JCTTTN-R,05LB02-E,Ströer SE & Co. KGaA,DE,Business Services
+ASC.L,PP8053-R,004X95-E,ASOS Plc,GB,Consumer Cyclicals
+IQE.L,WC6J51-R,05J1V4-E,IQE Plc,GB,Technology
+ONWD.BR,X9PJS6-R,0G61KX-E,ONWARD Medical NV,NL,Healthcare
+MRX.DE,GGGVQ0-R,07VFD8-E,Mister Spex Se,DE,Consumer Non-Cyclicals
+7270.T,QH66VR-R,05HWHX-E,Subaru Corp.,JP,Consumer Cyclicals
+BC.MI,LNW87G-R,09CCBT-E,Brunello Cucinelli SpA,IT,Consumer Cyclicals
+FANUY,GB0DHY-R,05HWCD-E,FANUC Corp.,JP,Industrials
+TSM,N28HXY-R,001Y70-E,"Taiwan Semiconductor Manufacturing Co., Ltd.",TW,Technology
+MTLS,CRHQ9D-R,05N6PK-E,Materialise NV,BE,Business Services
+BHP,CSSFF1-R,0010VG-E,BHP Group Ltd.,AU,Non-Energy Materials
+NTR,TW27V9-R,0HTSZC-E,Nutrien Ltd.,CA,Non-Energy Materials
+RKUNY,SSMH3Y-R,05HXHH-E,"Rakuten Group, Inc.",JP,Consumer Non-Cyclicals
+BB,L8N0YK-R,002TMH-E,BlackBerry Ltd.,CA,Technology
+HSBC,RWBRW0-R,002J95-E,HSBC Holdings Plc,GB,Finance
+ASR,DP1CY0-R,05HZXN-E,Grupo Aeroportuario del Sureste SA de CV,MX,Industrials
+FTCH,D2X4MC-R,07F0FH-E,"Mesa Home Resources, Inc.",US,Energy
+ASML,GL3H8G-R,000CBQ-E,ASML Holding NV,NL,Technology
+SODA,CBC387-R,00CVCG-E,SodaStream International Ltd.,IL,Non-Energy Materials
+SEDG,CQY5QT-R,009T6H-E,"SolarEdge Technologies, Inc.",IL,Technology
+GWPH,D2DFTS-R,05J212-E,GW Pharmaceuticals Ltd.,GB,Healthcare
+CRESY,S6KYTP-R,001MSF-E,Cresud SA,AR,Consumer Non-Cyclicals
+ESLT,QG6H7X-R,003KHD-E,Elbit Systems Ltd.,IL,Industrials
+LN,JV8XYP-R,06MM8N-E,A Holdings Corp.,JP,Technology
+NOK,X699Q2-R,000RCG-E,Nokia Oyj,FI,Technology
+BZUN,GXXP1J-R,0FGNFG-E,"Baozun, Inc.",CN,Business Services
+RYAAY,Q630MX-R,001Y6H-E,Ryanair Holdings Plc,IE,Industrials
+NTDOY,KRR3VZ-R,05HWBQ-E,"Nintendo Co., Ltd.",JP,Technology
+MELI,B8366W-R,05LLMQ-E,"MercadoLibre, Inc.",UY,Consumer Non-Cyclicals
+JAZZ,C5GQP9-R,0CBRZ9-E,Jazz Pharmaceuticals Plc,IE,Healthcare
+RACE,RSKRFX-R,0FNTCP-E,Ferrari NV,IT,Consumer Cyclicals
+STM,TZ751N-R,0018FZ-E,STMicroelectronics NV,CH,Technology
+RIO,M9L7HV-R,000VLZ-E,Rio Tinto Plc,GB,Non-Energy Materials
+SHOP,VC0Z7G-R,0958JJ-E,"Shopify, Inc.",CA,Finance

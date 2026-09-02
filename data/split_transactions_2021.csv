@@ -1,0 +1,728 @@
+Date Posted,Activity,Quantity,Unit Type,Asset Name,Trade Date,Broker,Price Per Unit,Principal Cash
+01/04/21,Purchase,"25,695.99",Units,First Am Govt Ob Fd Cl X,1/4/21,,,0.00
+01/05/21,Purchase,"4,256.31",Units,First Am Govt Ob Fd Cl X,1/5/21,,,0.00
+01/06/21,Purchase,"21,030.69",Units,First Am Govt Ob Fd Cl X,1/6/21,,,0.00
+01/07/21,Sale,"183,134.89",Units,"183,134.89 -183,134.89 First Am Govt Ob Fd Cl X",1/7/21,,,0.00
+01/08/21,Purchase,"6,828.52",Units,First Am Govt Ob Fd Cl X,1/8/21,,,0.00
+01/11/21,Purchase,"82,311.73",Units,First Am Govt Ob Fd Cl X,1/11/21,,,0.00
+01/12/21,Purchase,"374,323.2",Units,First Am Govt Ob Fd Cl X,1/12/21,,,"-349,316.40"
+01/12/21,Sale,"4,500",Shares,"351,770.72 -64,594.09 Materialise Nv A D R",1/8/21,J.P. Morgan Securities LLC,78.183 USD,"2,454.32"
+01/13/21,Purchase,"304,906.19",Units,First Am Govt Ob Fd Cl X,1/13/21,,,"-307,914.91"
+01/13/21,Sale,"2,454.32",Units,"2,454.32 -2,454.32 First Am Govt Ob Fd Cl X",1/13/21,,,"-305,460.59"
+01/13/21,Sale,"13,093",Shares,"305,460.59 -293,130.01 Ams Ag Net Proceeds 305,460.59 USD",1/11/21,Jpmsgb2l Jp Morgan Sec London,20.80500038 CHF,0.00
+01/14/21,Purchase,"8,056.65",Units,First Am Govt Ob Fd Cl X,1/14/21,,,"2,133.70"
+01/15/21,Purchase,,,"Ams Ag Net Cost 305,460.59 USD",1/11/21,Jpmsgb2l Jp Morgan Sec London,20.80500038 CHF,"-303,326.89"
+01/15/21,Purchase,"9,152.88",Units,First Am Govt Ob Fd Cl X,1/15/21,,,"-305,460.59"
+01/15/21,Sale,"13,093",Shares,"305,460.59 -305,460.59 Ams Ag Net Proceeds 305,460.59 USD",1/11/21,Jpmsgb2l Jp Morgan Sec London,20.80500038 CHF,0.00
+01/19/21,Sale,"187,560.34",Units,"187,560.34 -187,560.34 First Am Govt Ob Fd Cl X",1/19/21,,,"192,619.73"
+01/19/21,Purchase,"10,000",Shares,"Gvc Holdings Plc Net Cost 192,619.73 USD",1/15/21,Crst 871,14.1546 GBP,0.00
+01/20/21,Sale,"51,007.24",Units,"51,007.24 -51,007.24 First Am Govt Ob Fd Cl X",1/20/21,,,"83,047.82"
+01/20/21,Purchase,"5,000",Shares,"Uuum Inc Net Cost 83,006.32 USD",1/18/21,Jpmsgb2l Jp Morgan Sec London,"1,722.68 JPY",41.50
+01/20/21,Purchase,,,,,,103.905 JPY,0.00
+01/21/21,Purchase,"290,615.42",Units,First Am Govt Ob Fd Cl X,1/21/21,,,"-293,654.16"
+01/21/21,Sale,"3,098",Shares,"73,093.50 -91,371.08 Slm Solutions Group Ag Net Proceeds 73,093.50 USD",1/19/21,Jpmsgb2leql Jp Morgan Eq Lndn,19.46979987 EUR,"-220,560.66"
+01/21/21,Sale,"118,839",Shares,"220,560.66 -306,566.14 Capital Counties Properties Plc Net Proceeds 220,560.66 USD",1/19/21,Crst 871,1.36500004 GBP,0.00
+01/22/21,Sale,163.02,Units,163.02 -163.02 First Am Govt Ob Fd Cl X,1/22/21,,,"38,273.00"
+01/22/21,Sale,"260,501.18",Units,"260,501.18 -260,501.18 First Am Govt Ob Fd Cl X",1/22/21,,,"298,774.18"
+01/22/21,Sale,0.8,Units,0.80 -0.80 First Am Govt Ob Fd Cl X,1/22/21,,,"298,774.98"
+01/22/21,Purchase,"200,000",Shares,"Iqe Plc Net Cost 231,619.93 USD",1/20/21,Crst 871,0.847 GBP,"67,155.05"
+01/22/21,Purchase,"1,500",Shares,"Asm International N V Net Cost 403,725.22 USD",1/20/21,Jpmsgb2l Jp Morgan Sec London,222.2535 EUR,"-336,570.17"
+01/22/21,Sale,"31,161",Shares,"58,442.32 -54,303.68 Capital Counties Properties Plc Net Proceeds 58,442.32 USD",1/20/21,Crst 871,1.37659978 GBP,"-278,127.85"
+01/22/21,Sale,"11,952",Shares,"278,127.85 -154,973.25 Slm Solutions Group Ag Net Proceeds 278,127.85 USD",1/20/21,Jpmsgb2leql Jp Morgan Eq Lndn,19.235 EUR,0.00
+01/25/21,Purchase,"6,556.3",Units,First Am Govt Ob Fd Cl X,1/25/21,,,0.00
+01/26/21,Purchase,"15,606.43",Units,First Am Govt Ob Fd Cl X,1/26/21,,,0.00
+01/27/21,Purchase,"7,989.25",Units,First Am Govt Ob Fd Cl X,1/27/21,,,0.00
+01/28/21,Purchase,"766,208.88",Units,First Am Govt Ob Fd Cl X,1/28/21,,,"-759,085.36"
+01/28/21,Sale,"31,050",Shares,"605,154.22 -297,211.44 Blackberry Ltd",1/26/21,J.P. Morgan Securities LLC,19.5001 USD,"-153,931.14"
+01/28/21,Sale,50,Shares,"153,931.14 -106,518.31 Interroll Holding Ag Net Proceeds 153,931.14 USD",1/26/21,Jpmsgb2l Jp Morgan Sec London,"2,735 CHF",0.00
+01/29/21,Purchase,"888,078.97",Units,First Am Govt Ob Fd Cl X,1/29/21,,,"-982,845.25"
+01/29/21,Sale,"25,000",Shares,"517,113.56 -142,557.00 Blackberry Ltd",1/27/21,J.P. Morgan Securities LLC,20.695 USD,"-465,731.69"
+01/29/21,Sale,"10,000",Shares,"219,895.13 -40,050.00 Blackberry Ltd",1/27/21,J.P. Morgan Securities LLC,22.00 USD,"-245,836.56"
+01/29/21,Sale,"10,000",Shares,"245,836.56 -34,954.80 Blackberry Ltd",1/27/21,J.P. Morgan Securities LLC,24.5942 USD,0.00
+02/01/21,Purchase,"6,955.39",Units,First Am Govt Ob Fd Cl X,2/1/21,,,0.00
+02/02/21,Purchase,"155,808.44",Units,First Am Govt Ob Fd Cl X,2/2/21,,,"-273,333.96"
+02/02/21,Sale,"251,030",Shares,"273,333.96 -261,744.61 Iqe Plc Net Proceeds 273,333.96 USD",1/29/21,Crst 871,0.79450002 GBP,0.00
+02/03/21,Sale,"42,714.7",Units,"42,714.70 -42,714.70 First Am Govt Ob Fd Cl X",2/3/21,,,"42,906.93"
+02/03/21,Purchase,"30,000",Shares,"Watches Of Switzerland Group Net Cost 265,028.50 USD",2/1/21,Crst 784 Jpmorgan Secs Ltd,6.423 GBP,"-222,121.57"
+02/03/21,Sale,"5,000",Shares,"222,121.57 -69,317.68 Frontier Developments Plc Net Proceeds 222,121.57 USD",2/1/21,Plhcgb3l United Kingdom,32.5405 GBP,0.00
+02/04/21,Sale,,,"232,844.22 -232,704.93 Adevinta Asa B Net Proceeds 232,844.22 USD",2/2/21,Jpmsgb2l Jp Morgan Sec London,133.49579997 NOK,"232,844.22"
+02/04/21,Purchase,"232,844.22",Units,First Am Govt Ob Fd Cl X,2/4/21,,,"-153,283.08"
+02/04/21,Sale,"910,031.07",Units,"910,031.07 -910,031.07 First Am Govt Ob Fd Cl X",2/4/21,,,"756,747.99"
+02/04/21,Purchase,"15,000",Shares,"Adevinta Asa B Net Cost 232,844.22 USD",2/2/21,Jpmsgb2l Jp Morgan Sec London,133.49579997 NOK,"523,903.77"
+02/04/21,Purchase,"4,000",Shares,"Dermapharm Hldg Net Cost 291,059.55 USD",2/2/21,Jpmsgb2leql Jp Morgan Eq Lndn,60.4811 EUR,"232,844.22"
+02/04/21,Purchase,"15,000",Shares,"Adevinta Asa B Net Cost 232,844.22 USD",2/2/21,Jpmsgb2l Jp Morgan Sec London,133.4958 NOK,0.00
+02/05/21,Sale,"293,173.6",Units,"293,173.60 -293,173.60 First Am Govt Ob Fd Cl X",2/5/21,,,"300,862.75"
+02/05/21,Sale,"126,026.72",Units,"126,026.72 -126,026.72 First Am Govt Ob Fd Cl X",2/5/21,,,"426,889.47"
+02/05/21,Purchase,500,Shares,"Asm International N V Net Cost 133,715.87 USD",2/3/21,Jpmsgb2l Jp Morgan Sec London,222.2576 EUR,"293,173.60"
+02/05/21,Purchase,"4,000",Shares,"Dermapharm Hldg Net Cost 293,173.60 USD",2/3/21,Jpmsgb2leql Jp Morgan Eq Lndn,60.9209 EUR,0.00
+02/08/21,Sale,"365,486.5",Units,"365,486.50 -365,486.50 First Am Govt Ob Fd Cl X",2/8/21,,,"262,520.24"
+02/08/21,Purchase,"30,000",Shares,"Watches Of Switzerland Group Net Cost 262,520.24 USD",2/4/21,Crst 871,6.3613 GBP,0.00
+02/09/21,Sale,"150,929.67",Units,"150,929.67 -150,929.67 First Am Govt Ob Fd Cl X",2/9/21,,,0.00
+02/10/21,Sale,"673,456.09",Units,"673,456.09 -673,456.09 First Am Govt Ob Fd Cl X",2/10/21,,,0.00
+02/11/21,Sale,"295,655.77",Units,"295,655.77 -295,655.77 First Am Govt Ob Fd Cl X",2/11/21,,,"320,993.06"
+02/11/21,Purchase,"55,000",Shares,"Moonpig Group Plc Ord Net Cost 320,993.06 USD",2/9/21,Jpmsgb2l Jp Morgan Sec London,4.2081 GBP,0.00
+02/12/21,Purchase,"1,901,379.95",Units,First Am Govt Ob Fd Cl X,2/12/21,,,"-862,053.86"
+02/12/21,Sale,"4,020",Shares,"862,053.86 -456,155.44 Gw Pharmaceuticals A D R",2/10/21,J.P. Morgan Securities LLC,0.719937 GBP,0.00
+02/16/21,Sale,482.40,Units,670.06 -670.06 British Pound,2/16/21,,0.719937 GBP,"1,340.12"
+02/16/21,Purchase,670.06,Units,First Am Govt Ob Fd Cl X,2/16/21,,,"12,664.98"
+02/16/21,Sale,"606,626.89",Units,"606,626.89 -606,626.89 First Am Govt Ob Fd Cl X",2/16/21,,,"619,291.87"
+02/16/21,Purchase,"6,000",Shares,"Mercari Inc Net Cost 322,468.36 USD",2/12/21,Jpmsgb2l Jp Morgan Sec London,"5,640 JPY","296,823.51"
+02/16/21,Purchase,"50,000",Shares,"Moonpig Group Plc Ord Net Cost 296,153.45 USD",2/12/21,Crst 871,4.2518 GBP,670.06
+02/17/21,Sale,"319,827.4",Units,"319,827.40 -319,827.40 First Am Govt Ob Fd Cl X",2/17/21,,,"335,209.28"
+02/17/21,Purchase,"1,000",Shares,"Disco Corporation Net Cost 335,209.28 USD",2/15/21,Jpmsgb2l Jp Morgan Sec London,"35,300 JPY",0.00
+02/18/21,Sale,"303,129.57",Units,"303,129.57 -303,129.57 First Am Govt Ob Fd Cl X",2/18/21,,,"345,839.44"
+02/18/21,Purchase,"3,900",Shares,"Advantest Corp Ord(Jp) Net Cost 345,839.44 USD",2/16/21,Jpmsgb2l Jp Morgan Sec London,"9,347.17948718 JPY",0.00
+02/19/21,Purchase,"7,554,391.88",Units,First Am Govt Ob Fd Cl X,2/19/21,,,0.00
+02/22/21,Purchase,"39,848.14",Units,First Am Govt Ob Fd Cl X,2/22/21,,,0.00
+02/23/21,Sale,"2,629,063.88",Units,"2,629,063.88 -2,629,063.88 First Am Govt Ob Fd Cl X",2/23/21,,,"2,915,642.91"
+02/23/21,Purchase,"8,000",Shares,Rio Tinto Plc A D R,2/19/21,J.P. Morgan Securities LLC,89.22 USD,"2,201,802.91"
+02/23/21,Purchase,"9,000",Shares,B H P Billiton Limited A D R,2/19/21,J.P. Morgan Securities LLC,76.39 USD,"1,514,202.91"
+02/23/21,Purchase,"25,000",Shares,Blackberry Ltd,2/19/21,J.P. Morgan Securities LLC,10.90 USD,"1,241,452.91"
+02/23/21,Purchase,"30,000",Shares,"Ds Smith Plc Net Cost 161,602.63 USD",2/19/21,Crst 871,3.8174 GBP,"1,079,850.28"
+02/23/21,Purchase,"100,000",Shares,"Capital Counties Properties Plc Net Cost 236,157.50 USD",2/19/21,Crst 871,1.6729 GBP,"843,692.78"
+02/23/21,Purchase,"7,389",Shares,"Biocartis Nv Net Cost 40,195.86 USD",2/19/21,Jpmsgb2l Jp Morgan Sec London,4.48 EUR,"803,496.92"
+02/23/21,Purchase,"1,000",Shares,"Ucb Sa Net Cost 102,288.25 USD",2/19/21,Jpmsgb2l Jp Morgan Sec London,84.238 EUR,"701,208.67"
+02/23/21,Purchase,"5,000",Shares,"Umicore Net Cost 289,860.64 USD",2/19/21,Jpmsgb2l Jp Morgan Sec London,47.7421 EUR,"411,348.03"
+02/23/21,Purchase,811,Shares,"Lumibird Net Cost 16,426.10 USD",2/19/21,Jpmsgb2l Jp Morgan Sec London,16.68 EUR,"394,921.93"
+02/23/21,Purchase,"5,000",Shares,"Publicis Groupe Net Cost 289,514.30 USD",2/19/21,Jpmsgb2l Jp Morgan Sec London,47.542498 EUR,"105,407.63"
+02/23/21,Purchase,"2,394",Shares,"Basware Oyj Npv Net Cost 105,407.63 USD",2/19/21,Jpmsgb2l Jp Morgan Sec London,36.2602005 EUR,0.00
+02/24/21,Sale,"14,926.05",Units,"14,926.05 -14,926.05 First Am Govt Ob Fd Cl X",2/24/21,,,"118,769.70"
+02/24/21,Purchase,"8,308",Shares,"Biocartis Nv Net Cost 45,266.68 USD",2/22/21,Jpmsgb2l Jp Morgan Sec London,4.48209976 EUR,"73,503.02"
+02/24/21,Purchase,"1,215",Shares,"Basware Oyj Npv Net Cost 53,573.89 USD",2/22/21,Jpmsgb2l Jp Morgan Sec London,36.27240329 EUR,"19,929.13"
+02/24/21,Purchase,991,Shares,"Lumibird Net Cost 19,929.13 USD",2/22/21,Jpmsgb2l Jp Morgan Sec London,16.54299697 EUR,0.00
+02/25/21,Sale,"2,401,261.98",Units,"2,401,261.98 -2,401,261.98 First Am Govt Ob Fd Cl X",2/25/21,,,"2,422,882.36"
+02/25/21,Purchase,"4,000",Shares,"Cyberagent Inc Npv Net Cost 265,331.83 USD",2/22/21,Jpmsgb2l Jp Morgan Sec London,"7,000 JPY","2,157,550.53"
+02/25/21,Purchase,"7,000",Shares,"Japan Elevator Ser Net Cost 153,150.47 USD",2/22/21,Jpmsgb2l Jp Morgan Sec London,"2,308.81428571 JPY","2,004,400.06"
+02/25/21,Purchase,"6,000",Shares,"Mercari Inc Net Cost 311,575.38 USD",2/22/21,Jpmsgb2l Jp Morgan Sec London,"5,480 JPY","1,692,824.68"
+02/25/21,Purchase,"20,000",Shares,"Rakuten Inc Net Cost 213,402.60 USD",2/22/21,Jpmsgb2l Jp Morgan Sec London,"1,126 JPY","1,479,422.08"
+02/25/21,Purchase,"10,000",Shares,"Uuum Inc Net Cost 175,293.37 USD",2/22/21,Jpmsgb2l Jp Morgan Sec London,"1,849.84 JPY","1,304,128.71"
+02/25/21,Purchase,"40,000",Shares,"Yahoo Japan Corporation Net Cost 243,650.43 USD",2/22/21,Jpmsgb2l Jp Morgan Sec London,642.8 JPY,"1,060,478.28"
+02/25/21,Purchase,"24,303",Shares,"Biocartis Nv Net Cost 132,449.94 USD",2/23/21,Jpmsgb2l Jp Morgan Sec London,4.48149981 EUR,"928,028.34"
+02/25/21,Purchase,"1,000",Shares,"Zur Rose Group Ag Net Cost 470,441.19 USD",2/23/21,Jpmsgb2l Jp Morgan Sec London,423.919 CHF,"457,587.15"
+02/25/21,Purchase,391,Shares,"Basware Oyj Npv Net Cost 16,991.50 USD",2/23/21,Jpmsgb2l Jp Morgan Sec London,35.73439898 EUR,"440,595.65"
+02/25/21,Purchase,"3,000",Shares,"Eurofins Scientific Net Cost 277,339.97 USD",2/23/21,Jpmsgb2l Jp Morgan Sec London,76.0191 EUR,"163,255.68"
+02/25/21,Purchase,"8,198",Shares,"Lumibird Net Cost 163,255.68 USD",2/23/21,Jpmsgb2l Jp Morgan Sec London,106.43 JPY,0.00
+02/26/21,Sale,"144,913.00",Units,"1,361.58 -1,361.58 Yen",2/26/21,,106.43 JPY,"2,723.16"
+02/26/21,Sale,"507,022.62",Units,"507,022.62 -507,022.62 First Am Govt Ob Fd Cl X",2/26/21,,,"566,777.14"
+02/26/21,Sale,"1,035,728.42",Units,"1,035,728.42 -1,035,728.42 First Am Govt Ob Fd Cl X",2/26/21,,,"1,602,505.56"
+02/26/21,Purchase,"10,000",Shares,"Future Plc Net Cost 276,208.20 USD",2/24/21,Jpmsgb2l Jp Morgan Sec London,19.48 GBP,"1,326,297.36"
+02/26/21,Purchase,"10,000",Shares,"Ocado Group Plc Net Cost 329,379.42 USD",2/24/21,Jpmsgb2l Jp Morgan Sec London,23.23 GBP,"996,917.94"
+02/26/21,Purchase,"12,000",Shares,"Amplifon Spa Net Cost 487,172.16 USD",2/24/21,Jpmsgb2l Jp Morgan Sec London,33.422 EUR,"509,745.78"
+02/26/21,Purchase,"3,000",Shares,Jazz Pharmaceuticals Plc,2/24/21,J.P. Morgan Securities LLC,169.4514 USD,"1,361.58"
+03/01/21,Sale,"462,183.34",Units,"462,183.34 -462,183.34 First Am Govt Ob Fd Cl X",3/1/21,,,"414,488.88"
+03/01/21,Purchase,"10,000",Shares,"Aston Martin Lagonda Gbl Hldgs Plc O Net Cost 306,173.48 USD",2/25/21,Crst 871,21.505 GBP,"108,315.40"
+03/01/21,Purchase,"4,750",Shares,"Raysearch Laboratories Ab Net Cost 54,157.70 USD",2/25/21,Parbfrpp Banque Paribas Fr,93.8815 SEK,"54,157.70"
+03/01/21,Purchase,"4,750",Shares,"Raysearch Laboratories Ab Net Cost 54,157.70 USD",2/25/21,Parbfrpp Banque Paribas Fr,0.83249995 EUR,0.00
+03/02/21,Sale,"1,791.44",Units,"2,151.88 -2,151.88 Euro",3/2/21,,0.83249995 EUR,"4,374.79"
+03/02/21,Purchase,"2,151.88",Units,First Am Govt Ob Fd Cl X,3/2/21,,,"-5,742.99"
+03/02/21,Sale,"198,757.97",Units,"198,757.97 -198,757.97 First Am Govt Ob Fd Cl X",3/2/21,,,"193,014.98"
+03/02/21,Purchase,"17,350",Shares,"Raysearch Laboratories Ab Net Cost 190,863.10 USD",2/26/21,Parbfrpp Banque Paribas Fr,92.50630029 SEK,"2,151.88"
+03/03/21,Sale,,,"54,157.70 -54,157.70 Raysearch Laboratories Ab Net Proceeds 54,157.70 USD",2/25/21,Parbfrpp Banque Paribas Fr,93.88149998 SEK,"54,157.70"
+03/03/21,Sale,,,"54,157.70 -53,737.06 Raysearch Laboratories Ab Net Proceeds 54,157.70 USD",2/25/21,Parbfrpp Banque Paribas Fr,93.88149998 SEK,"108,315.40"
+03/03/21,Sale,,,"190,863.10 -190,863.10 Raysearch Laboratories Ab Net Proceeds 190,863.10 USD",2/26/21,Parbfrpp Banque Paribas Fr,92.50630028 SEK,"299,178.50"
+03/03/21,Purchase,"100,330.63",Units,First Am Govt Ob Fd Cl X,3/3/21,,,"295,922.34"
+03/03/21,Sale,"245,020.8",Units,"245,020.80 -245,020.80 First Am Govt Ob Fd Cl X",3/3/21,,,"540,943.14"
+03/03/21,Purchase,"2,000",Shares,"Zalando SE Net Cost 207,473.47 USD",3/1/21,Eclr 15001,85.33643567 EUR,"333,469.67"
+03/03/21,Purchase,"7,900",Shares,"Raysearch Laboratories Ab Net Cost 88,448.87 USD",3/1/21,Eclr 15001,94.3152 SEK,"245,020.80"
+03/03/21,Purchase,"4,750",Shares,"Raysearch Laboratories Ab Net Cost 54,157.70 USD",2/25/21,Eclr 15001,93.88149998 SEK,"190,863.10"
+03/03/21,Purchase,"17,350",Shares,"Raysearch Laboratories Ab Net Cost 190,863.10 USD",2/26/21,Eclr 15001,92.50630028 SEK,0.00
+03/04/21,Purchase,"188,729.14",Units,First Am Govt Ob Fd Cl X,3/4/21,,,0.00
+03/05/21,Sale,,,"88,448.87 -88,448.87 Raysearch Laboratories Ab Net Proceeds 88,448.87 USD",3/1/21,Eclr 15001,107.69 JPY,"88,448.87"
+03/05/21,Sale,"67,748.00",Units,629.10 -629.10 Yen,3/5/21,,107.69 JPY,"89,707.07"
+03/05/21,Sale,"163,294.77",Units,"163,294.77 -163,294.77 First Am Govt Ob Fd Cl X",3/5/21,,,"279,174.67"
+03/05/21,Purchase,"5,000",Shares,"Amplifon Spa Net Cost 189,467.60 USD",3/3/21,Jpmsgb2l Jp Morgan Sec London,31.3322 EUR,"89,707.07"
+03/05/21,Purchase,"7,900",Shares,"Raysearch Laboratories Ab Net Cost 88,448.87 USD",3/1/21,Eclr 15001,94.31519999 SEK,"1,258.20"
+03/08/21,Purchase,"157,963.52",Units,First Am Govt Ob Fd Cl X,3/8/21,,,"176,585.67"
+03/08/21,Purchase,"5,320",Shares,"Frontier Developments Plc Net Cost 176,585.67 USD",3/4/21,Jpmsgb2l Jp Morgan Sec London,23.68340038 GBP,0.00
+03/09/21,Sale,"179,489.79",Units,"179,489.79 -179,489.79 First Am Govt Ob Fd Cl X",3/9/21,,,"152,754.80"
+03/09/21,Purchase,"4,680",Shares,"Frontier Developments Plc Net Cost 152,754.80 USD",3/5/21,Jpmsgb2l Jp Morgan Sec London,23.618 GBP,0.00
+03/10/21,Purchase,"77,094.75",Units,First Am Govt Ob Fd Cl X,3/10/21,,,0.00
+03/10/21,Sale,"239,372.5",Units,"239,372.50 -239,372.50 First Am Govt Ob Fd Cl X",3/10/21,,,"239,372.50"
+03/10/21,Purchase,"25,000",Shares,Blackberry Ltd,3/8/21,J.P. Morgan Securities LLC,9.5649 USD,0.00
+03/11/21,Purchase,"104,200.42",Units,First Am Govt Ob Fd Cl X,3/11/21,,,0.00
+03/12/21,Sale,"361,225.44",Units,"361,225.44 -361,225.44 First Am Govt Ob Fd Cl X",3/12/21,,,"406,711.32"
+03/12/21,Sale,"2,058.45",Units,"2,058.45 -2,058.45 First Am Govt Ob Fd Cl X",3/12/21,,,"408,769.77"
+03/12/21,Purchase,"10,000",Shares,"Hugo Boss Ag Net Cost 408,769.77 USD",3/10/21,Jpmsgb2leql Jp Morgan Eq Lndn,109.19 JPY,0.00
+03/15/21,Sale,"58,306.00",Units,533.99 -533.99 Yen,3/15/21,,109.19 JPY,"1,067.98"
+03/15/21,Purchase,"74,201.01",Units,First Am Govt Ob Fd Cl X,3/15/21,,,"1,067.98"
+03/15/21,Purchase,533.99,Units,First Am Govt Ob Fd Cl X,3/15/21,,,533.99
+03/16/21,Purchase,"70,834.14",Units,First Am Govt Ob Fd Cl X,3/16/21,,,0.00
+03/17/21,Sale,"397,320.75",Units,"397,320.75 -397,320.75 First Am Govt Ob Fd Cl X",3/17/21,,,"377,578.55"
+03/17/21,Purchase,990,Shares,"Alk Abello A S Net Cost 377,578.55 USD",3/15/21,Jpmsgb2l Jp Morgan Sec London,"2,378.35659596 DKK",0.00
+03/18/21,Sale,,,"232,844.22 -232,844.22 Adevinta Asa B Net Proceeds 232,844.22 USD",2/2/21,Jpmsgb2l Jp Morgan Sec London,133.49579997 NOK,"232,844.22"
+03/18/21,Purchase,"232,844.22",Units,First Am Govt Ob Fd Cl X,3/18/21,,,"126,794.39"
+03/18/21,Purchase,"126,794.39",Units,First Am Govt Ob Fd Cl X,3/18/21,,,0.00
+03/19/21,Purchase,"42,517.74",Units,First Am Govt Ob Fd Cl X,3/19/21,,108.98 JPY,0.00
+03/22/21,Sale,"63,831.00",Units,585.71 -585.71 Yen,3/22/21,,108.98 JPY,"1,524.71"
+03/22/21,Purchase,"27,725.11",Units,First Am Govt Ob Fd Cl X,3/22/21,,,"1,524.71"
+03/23/21,Purchase,"52,982.38",Units,First Am Govt Ob Fd Cl X,3/23/21,,,"18,180.00"
+03/24/21,Sale,"379,582.11",Units,"379,582.11 -379,582.11 First Am Govt Ob Fd Cl X",3/24/21,,,"404,905.86"
+03/24/21,Purchase,500,Shares,"Zur Rose Group Ag Net Cost 179,835.46 USD",3/22/21,Jpmsgb2l Jp Morgan Sec London,332.5545 CHF,"225,070.40"
+03/24/21,Purchase,"100,000",Shares,"Learning Technologies Group Net Cost 225,070.40 USD",3/22/21,Jpmsgb2l Jp Morgan Sec London,1.6227 GBP,0.00
+03/25/21,Purchase,"19,454.23",Units,First Am Govt Ob Fd Cl X,3/25/21,,,0.00
+03/26/21,Sale,"182,548.81",Units,"182,548.81 -182,548.81 First Am Govt Ob Fd Cl X",3/26/21,,,"183,353.19"
+03/26/21,Purchase,"5,000",Shares,"Jeol Ltd Net Cost 183,353.19 USD",3/24/21,Jpmsgb2l Jp Morgan Sec London,109.81 JPY,0.00
+03/29/21,Sale,"68,785.00",Units,626.40 -626.40 Yen,3/29/21,,109.81 JPY,"1,252.80"
+03/29/21,Purchase,"62,037.53",Units,First Am Govt Ob Fd Cl X,3/29/21,,,"68,134.26"
+03/29/21,Purchase,626.4,Units,First Am Govt Ob Fd Cl X,3/29/21,,,"67,507.86"
+03/29/21,Purchase,"12,000",Shares,"Pva Tepla Ag Net Cost 345,649.76 USD",3/25/21,Parbfrpp Banque Paribas Fr,24.4232 EUR,"-278,141.90"
+03/29/21,Sale,"3,000",Shares,"278,768.30 -260,809.13 Ucb Sa Net Proceeds 278,768.30 USD",3/25/21,Jpmsgb2l Jp Morgan Sec London,78.7875 EUR,626.40
+03/30/21,Purchase,360.57,Units,First Am Govt Ob Fd Cl X,3/30/21,,,"-5,555.08"
+03/30/21,Sale,"5,555.08",Units,"5,555.08 -5,555.08 First Am Govt Ob Fd Cl X",3/30/21,,8.7516411 SEK,0.00
+03/31/21,Sale,"2,333.10",Units,266.59 -266.59 Swedish Krona,3/30/21,,8.7516411 SEK,533.18
+03/31/21,Purchase,"198,358.05",Units,First Am Govt Ob Fd Cl X,3/31/21,,,533.18
+03/31/21,Purchase,266.59,Units,First Am Govt Ob Fd Cl X,3/31/21,,,266.59
+04/01/21,Sale,"28,147.25",Units,"28,147.25 -28,147.25 First Am Govt Ob Fd Cl X",4/1/21,,,0.00
+04/05/21,Sale,"107,976.49",Units,"107,976.49 -107,976.49 First Am Govt Ob Fd Cl X",4/5/21,,,0.00
+04/06/21,Sale,"245,273.3",Units,"245,273.30 -245,273.30 First Am Govt Ob Fd Cl X",4/6/21,,,"356,192.80"
+04/06/21,Purchase,"14,000",Shares,"Raccoon Holdings I Npv Net Cost 356,192.80 USD",4/2/21,Jpmsgb2l Jp Morgan Sec London,"2,813 JPY",0.00
+04/07/21,Purchase,"42,707.44",Units,First Am Govt Ob Fd Cl X,4/7/21,,,"-1,895.05"
+04/07/21,Sale,20,Shares,"1,895.05 -1,492.92 Ucb Sa Net Proceeds 1,895.05 USD",4/1/21,Jpmsgb2l Jp Morgan Sec London,80.6 EUR,0.00
+04/08/21,Purchase,"34,672.42",Units,First Am Govt Ob Fd Cl X,4/8/21,,,0.00
+04/09/21,Purchase,"126,131.72",Units,First Am Govt Ob Fd Cl X,4/9/21,,,0.00
+04/12/21,Purchase,"23,322.9",Units,First Am Govt Ob Fd Cl X,4/12/21,,,0.00
+04/13/21,Purchase,"101,697.8",Units,First Am Govt Ob Fd Cl X,4/13/21,,,0.00
+04/14/21,Purchase,"37,697.32",Units,First Am Govt Ob Fd Cl X,4/14/21,,,0.00
+04/15/21,Purchase,"7,223",Units,First Am Govt Ob Fd Cl X,4/15/21,,,"32,160.00"
+04/15/21,Purchase,"32,160",Units,First Am Govt Ob Fd Cl X,4/15/21,,,0.00
+04/16/21,Sale,"197,494.73",Units,"197,494.73 -197,494.73 First Am Govt Ob Fd Cl X",4/16/21,,,"262,337.60"
+04/16/21,Purchase,"15,000",Shares,"Adevinta Asa B Net Cost 260,235.35 USD",4/14/21,Jpmsgb2l Jp Morgan Sec London,145.9 NOK,"2,102.25"
+04/19/21,Purchase,"18,920.89",Units,First Am Govt Ob Fd Cl X,4/19/21,,,156.51
+04/19/21,Purchase,156.51,Units,First Am Govt Ob Fd Cl X,4/19/21,,,0.00
+04/20/21,Purchase,"17,083.9",Units,First Am Govt Ob Fd Cl X,4/20/21,,,0.00
+04/21/21,Sale,"100,429.1",Units,"100,429.10 -100,429.10 First Am Govt Ob Fd Cl X",4/21/21,,,0.00
+04/22/21,Purchase,"180,966.63",Units,First Am Govt Ob Fd Cl X,4/22/21,,,"-195,058.23"
+04/22/21,Sale,"250,000",Shares,"195,058.23 -144,331.67 Iqe Plc Net Proceeds 195,058.23 USD",4/20/21,Jpmsgb2l Jp Morgan Sec London,0.56 GBP,0.00
+04/23/21,Purchase,"52,691.32",Units,First Am Govt Ob Fd Cl X,4/23/21,,,0.00
+04/26/21,Sale,"33,023.13",Units,"33,023.13 -33,023.13 First Am Govt Ob Fd Cl X",4/26/21,,,0.00
+04/27/21,Sale,"4,128.14",Units,"4,128.14 -4,128.14 First Am Govt Ob Fd Cl X",4/27/21,,,0.00
+04/28/21,Sale,"49,622.06",Units,"49,622.06 -49,622.06 First Am Govt Ob Fd Cl X",4/28/21,,,0.00
+04/29/21,Purchase,"786,919.33",Units,First Am Govt Ob Fd Cl X,4/29/21,,,"-580,308.04"
+04/29/21,Sale,"3,000",Shares,"305,832.31 -277,339.97 Eurofins Scientific Net Proceeds 305,832.31 USD",4/27/21,Jpmsgb2l Jp Morgan Sec London,84.3974 EUR,"-274,475.73"
+04/29/21,Sale,"4,235",Shares,"274,475.73 -245,218.61 Publicis Groupe Net Proceeds 274,475.73 USD",4/27/21,Jpmsgb2l Jp Morgan Sec London,53.65590083 EUR,0.00
+04/30/21,Purchase,"14,467.45",Units,First Am Govt Ob Fd Cl X,4/30/21,,,0.00
+05/03/21,Purchase,"37,941.25",Units,First Am Govt Ob Fd Cl X,5/3/21,,0.722536 GBP,0.00
+05/04/21,Sale,"4,600.00",Units,"6,366.46 -6,366.46 British Pound",5/4/21,,0.722536 GBP,"12,749.79"
+05/04/21,Sale,"545,664.25",Units,"545,664.25 -545,664.25 First Am Govt Ob Fd Cl X",5/4/21,,,"604,883.47"
+05/04/21,Purchase,"70,000",Shares,"Pets At Home Group Plc Net Cost 430,669.11 USD",4/29/21,Jpmsgb2l Jp Morgan Sec London,4.3876 GBP,"174,214.36"
+05/04/21,Purchase,500,Shares,"Zur Rose Group Ag Net Cost 167,847.90 USD",4/30/21,Jpmsgb2l Jp Morgan Sec London,305.25 CHF,"6,366.46"
+05/05/21,Purchase,"136,197.2",Units,First Am Govt Ob Fd Cl X,5/5/21,,0.83402826 EUR,0.00
+05/06/21,Sale,"3,510.50",Units,"4,209.09 -4,209.09 Euro",5/5/21,,0.83402826 EUR,"8,418.18"
+05/06/21,Purchase,"399,420.5",Units,First Am Govt Ob Fd Cl X,5/6/21,,,"-340,130.13"
+05/06/21,Sale,"10,050",Shares,"348,548.31 -276,195.87 Thk Co Ltd Net Proceeds 348,548.31 USD",4/28/21,Jpmsgb2l Jp Morgan Sec London,"3,781.36819939 JPY","8,418.18"
+05/07/21,Purchase,"11,744.07",Units,First Am Govt Ob Fd Cl X,5/7/21,,,"-8,408.98"
+05/10/21,Sale,"1,418,054.97",Units,"1,418,054.97 -1,418,054.97 First Am Govt Ob Fd Cl X",5/10/21,,,"47,288.17"
+05/10/21,Purchase,"10,000",Shares,"Pva Tepla Ag Net Cost 287,135.47 USD",5/6/21,Jpmsgb2leql Jp Morgan Eq Lndn,23.8055 EUR,"-239,847.30"
+05/11/21,Purchase,"15,000",Shares,"Monotaro Co Ltd First Section Net Cost 347,832.88 USD",5/7/21,Jpmsgb2l Jp Morgan Sec London,"2,530.14666667 JPY","-1,195,872.89"
+05/12/21,Sale,"5,000",Shares,"214,186.14 -202,988.40 Amplifon Spa Net Proceeds 214,186.14 USD",5/10/21,Jpmsgb2l Jp Morgan Sec London,35.2317 EUR,"-982,396.43"
+05/12/21,Sale,"3,530",Shares,"302,457.84 -248,648.71 Stroeer SE and Co Kgaa Net Proceeds 302,457.84 USD",5/10/21,Jpmsgb2leql Jp Morgan Eq Lndn,70.45 EUR,"-679,938.59"
+05/12/21,Sale,"10,000",Shares,"244,356.58 -64,929.84 Nordic Semiconductor Asa Net Proceeds 244,356.58 USD",5/10/21,Jpmsgb2l Jp Morgan Sec London,200.9567 NOK,"-435,582.01"
+05/13/21,Purchase,"1,157,136.07",Units,First Am Govt Ob Fd Cl X,5/13/21,,,"-1,617,786.86"
+05/13/21,Sale,"5,000",Shares,"102,624.99 -54,162.87 Slm Solutions Group Ag Net Proceeds 102,624.99 USD",5/11/21,Jpmsgb2leql Jp Morgan Eq Lndn,16.8734 EUR,"-1,515,161.87"
+05/13/21,Sale,"2,090",Shares,"209,584.92 -112,961.25 Zalando SE Net Proceeds 209,584.92 USD",5/11/21,Jpmsgb2leql Jp Morgan Eq Lndn,82.43910048 EUR,"-1,305,576.95"
+05/13/21,Sale,"4,100",Shares,"183,646.37 -178,813.59 Basware Oyj Npv Net Proceeds 183,646.37 USD",5/11/21,Jpmsgb2l Jp Morgan Sec London,36.8229 EUR,"-1,121,930.58"
+05/13/21,Sale,"6,000",Shares,"401,346.46 -232,985.38 Publicis Groupe Net Proceeds 401,346.46 USD",5/11/21,Jpmsgb2l Jp Morgan Sec London,54.9905 EUR,"-720,584.12"
+05/13/21,Sale,"20,000",Shares,"191,815.08 -176,685.67 Watches Of Switzerland Group Net Proceeds 191,815.08 USD",5/11/21,Jpmsgb2l Jp Morgan Sec London,6.7804 GBP,"-528,769.04"
+05/13/21,Sale,"10,000",Shares,"410,936.65 -397,864.32 Amplifon Spa Net Proceeds 410,936.65 USD",5/11/21,Jpmsgb2l Jp Morgan Sec London,33.7827 EUR,"-117,832.39"
+05/13/21,Sale,"10,000",Shares,"117,832.39 -74,640.00 Rakuten Group Inc A D R",5/11/21,J.P. Morgan Securities LLC,11.7933 USD,0.00
+05/14/21,Purchase,"619,523.73",Units,First Am Govt Ob Fd Cl X,5/14/21,,,"-586,250.61"
+05/14/21,Purchase,"1,176,091.77",Units,First Am Govt Ob Fd Cl X,5/14/21,,,"-1,762,342.38"
+05/14/21,Purchase,"2,000",Shares,"Nippon Ceramic Npv Net Cost 49,484.68 USD",5/13/21,Jpmsgb2l Jp Morgan Sec London,"2,710.95 JPY","-1,811,827.06"
+05/14/21,Purchase,"3,000",Shares,"Akiba Holding Co Ltd Net Cost 170,488.95 USD",5/13/21,Jpmsgb2l Jp Morgan Sec London,"6,226.66666667 JPY","-1,982,316.01"
+05/14/21,Sale,"20,000",Shares,"468,064.74 -113,555.20 Nordic Semiconductor Asa Net Proceeds 468,064.74 USD",5/11/21,Jpmsgb2l Jp Morgan Sec London,193.281 NOK,"-1,514,251.27"
+05/14/21,Sale,"10,000",Shares,"216,229.64 -66,995.70 Boozt Ab Net Proceeds 216,229.64 USD",5/11/21,Jpmsgb2l Jp Morgan Sec London,179.7248 SEK,"-1,298,021.63"
+05/14/21,Sale,"16,200",Shares,"196,842.41 -140,398.95 Dustin Group Ab Net Proceeds 196,842.41 USD",5/11/21,Jpmsgb2l Jp Morgan Sec London,100.9942 SEK,"-1,101,179.22"
+05/14/21,Sale,"30,000",Shares,"253,852.50 -127,872.44 Tobii Ab Net Proceeds 253,852.50 USD",5/11/21,Jpmsgb2l Jp Morgan Sec London,70.332 SEK,"-847,326.72"
+05/14/21,Sale,"2,000",Shares,"50,432.45 -49,484.68 Nippon Ceramic Npv Net Proceeds 50,432.45 USD",5/12/21,Jpmsgb2l Jp Morgan Sec London,"2,742.4 JPY","-796,894.27"
+05/14/21,Sale,"3,000",Shares,"177,370.54 -170,488.95 Akiba Holding Co Ltd Net Proceeds 177,370.54 USD",5/12/21,Jpmsgb2l Jp Morgan Sec London,0.84917756 EUR,"-619,523.73"
+05/14/21,Sale,"22,000",Shares,"619,523.73 -632,785.23 Pva Tepla Ag Net Proceeds 619,523.73 USD",5/11/21,Jpmsgb2leql Jp Morgan Eq Lndn,0.82453734 EUR,0.00
+05/17/21,Sale,294.50,Units,357.17 -357.17 Euro,5/17/21,,0.90300074 CHF,714.34
+05/17/21,Sale,"1,755.00",Units,"1,943.52 -1,943.52 Swiss Franc",5/14/21,,0.90300074 CHF,"4,601.38"
+05/17/21,Purchase,"562,127.62",Units,First Am Govt Ob Fd Cl X,5/17/21,,,"-545,106.06"
+05/17/21,Sale,"3,000",Shares,"246,661.02 -266,030.34 Advantest Corp Ord(Jp) Net Proceeds 246,661.02 USD",5/13/21,Jpmsgb2l Jp Morgan Sec London,"9,017.66666667 JPY","-298,445.04"
+05/17/21,Sale,"2,000",Shares,"302,689.25 -45,696.17 Lasertec Corp Net Proceeds 302,689.25 USD",5/13/21,Jpmsgb2l Jp Morgan Sec London,"16,599 JPY","4,244.21"
+05/18/21,Purchase,"41,092.54",Units,First Am Govt Ob Fd Cl X,5/18/21,,,"-1,047.01"
+05/18/21,Sale,"1,047.01",Units,"1,047.01 -1,047.01 First Am Govt Ob Fd Cl X",5/18/21,,,0.00
+05/19/21,Purchase,"23,377.31",Units,First Am Govt Ob Fd Cl X,5/19/21,,,0.00
+05/20/21,Sale,"271,938.89",Units,"271,938.89 -271,938.89 First Am Govt Ob Fd Cl X",5/20/21,,,"290,533.98"
+05/20/21,Purchase,136,Shares,"Adyen Bv Net Cost 290,533.98 USD",5/18/21,Jpmsgb2l Jp Morgan Sec London,"1,748.75441176 EUR",0.00
+05/21/21,Purchase,"32,280.71",Units,First Am Govt Ob Fd Cl X,5/21/21,,,0.00
+05/24/21,Sale,"18,749.82",Units,"18,749.82 -18,749.82 First Am Govt Ob Fd Cl X",5/24/21,,,0.00
+05/25/21,Sale,"393,028.28",Units,"393,028.28 -393,028.28 First Am Govt Ob Fd Cl X",5/25/21,,,"378,646.25"
+05/25/21,Purchase,"15,000",Shares,"Nordic Semiconductor Asa Net Cost 378,646.25 USD",5/20/21,Jpmsgb2l Jp Morgan Sec London,0.81928438 EUR,0.00
+05/26/21,Sale,"1,628.00",Units,"1,987.10 -1,987.10 Euro",5/26/21,,0.81928438 EUR,"3,974.20"
+05/26/21,Purchase,"1,987.1",Units,First Am Govt Ob Fd Cl X,5/26/21,,,"-37,571.59"
+05/26/21,Sale,"603,070.21",Units,"603,070.21 -603,070.21 First Am Govt Ob Fd Cl X",5/26/21,,,"565,498.62"
+05/26/21,Purchase,"243,120.13",Units,British Pound,5/24/21,,1 GBP,"220,920.59"
+05/26/21,Purchase,"10,000",Shares,"Boozt Ab Net Cost 218,933.49 USD",5/24/21,Jpmsgb2l Jp Morgan Sec London,182.1054 SEK,"1,987.10"
+05/26/21,Purchase,"5,000",Shares,"Asos Plc Net Cost 243,120.13 GBP",5/24/21,Crst 871,0.820762 EUR,"-342,295.23"
+05/27/21,Sale,"3,400.00",Units,"4,142.49 -4,142.49 Euro",5/27/21,,0.820762 EUR,"8,284.98"
+05/27/21,Purchase,"4,142.49",Units,First Am Govt Ob Fd Cl X,5/27/21,,,"-25,899.78"
+05/27/21,Sale,"30,042.27",Units,"30,042.27 -30,042.27 First Am Govt Ob Fd Cl X",5/27/21,,,"4,142.49"
+05/28/21,Sale,"670,935.67",Units,"670,935.67 -670,935.67 First Am Govt Ob Fd Cl X",5/28/21,,,"1,107,900.61"
+05/28/21,Purchase,"50,000",Shares,"Kahoot Asa Net Cost 399,195.61 USD",5/26/21,Jpmsgb2l Jp Morgan Sec London,66.4536 NOK,"708,705.00"
+05/28/21,Purchase,"75,000",Shares,Blackberry Ltd,5/26/21,J.P. Morgan Securities LLC,9.4394 USD,0.00
+06/01/21,Purchase,"153,934.48",Units,First Am Govt Ob Fd Cl X,6/1/21,,109.8 JPY,0.00
+06/02/21,Sale,"133,125.00",Units,"1,212.43 -1,212.43 Yen",6/1/21,,109.8 JPY,"2,472.28"
+06/02/21,Sale,"31,502.49",Units,"31,502.49 -31,502.49 First Am Govt Ob Fd Cl X",6/2/21,,,"2,424.86"
+06/02/21,Purchase,"1,212.43",Units,First Am Govt Ob Fd Cl X,6/2/21,,109.74 JPY,"1,212.43"
+06/03/21,Sale,"541,984.00",Units,"4,938.80 -4,938.80 Yen",6/3/21,,109.74 JPY,"9,877.60"
+06/03/21,Purchase,"181,506.61",Units,First Am Govt Ob Fd Cl X,6/3/21,,,"9,877.60"
+06/03/21,Purchase,"4,938.8",Units,First Am Govt Ob Fd Cl X,6/3/21,,110.37 JPY,"4,938.80"
+06/04/21,Sale,"473,203.00",Units,"4,287.42 -4,287.42 Yen",6/4/21,,110.37 JPY,"8,574.84"
+06/04/21,Purchase,"24,338",Units,First Am Govt Ob Fd Cl X,6/4/21,,,"8,574.84"
+06/04/21,Purchase,"4,287.42",Units,First Am Govt Ob Fd Cl X,6/4/21,,,"4,287.42"
+06/07/21,Sale,"280,448.35",Units,"280,448.35 -280,448.35 First Am Govt Ob Fd Cl X",6/7/21,,,0.00
+06/08/21,Purchase,"95,060.52",Units,First Am Govt Ob Fd Cl X,6/8/21,,,0.00
+06/08/21,Sale,"232,844.22",Units,"232,844.22 -232,844.22 First Am Govt Ob Fd Cl X",6/8/21,,,"232,844.22"
+06/08/21,Purchase,"15,000",Shares,"Adevinta Asa B Net Cost 232,844.22 USD",5/17/21,Jpmsgb2l Jp Morgan Sec London,133.49579997 NOK,0.00
+06/09/21,Sale,"13,628.99",Units,"13,628.99 -13,628.99 First Am Govt Ob Fd Cl X",6/9/21,,,0.00
+06/10/21,Purchase,"122,053.87",Units,First Am Govt Ob Fd Cl X,6/10/21,,,0.00
+06/11/21,Sale,"545,407.03",Units,"545,407.03 -545,407.03 First Am Govt Ob Fd Cl X",6/11/21,,,"631,303.59"
+06/11/21,Sale,"272,972.86",Units,"272,972.86 -272,972.86 First Am Govt Ob Fd Cl X",6/11/21,,,"904,276.45"
+06/11/21,Purchase,"190,550.20",Units,Euro,6/10/21,,1 EUR,"672,145.01"
+06/11/21,Purchase,"50,000",Shares,"Kahoot Asa Net Cost 399,172.15 USD",6/9/21,Jpmsgb2l Jp Morgan Sec London,65.9039 NOK,"272,972.86"
+06/11/21,Purchase,"10,000",Shares,"Ocado Group Plc Net Cost 192,721.02 GBP",6/9/21,Crst 871,19.1474 GBP,272.70
+06/11/21,Purchase,"2,000",Shares,"Zalando SE Net Cost 190,550.20 EUR",6/9/21,Parbfrpp Banque Paribas Fr,95.1324 EUR,"-231,941.34"
+06/11/21,Purchase,"192,721.02",Units,British Pound,6/10/21,,1 GBP,"-504,914.20"
+06/14/21,Purchase,"34,265.4",Units,First Am Govt Ob Fd Cl X,6/14/21,,,0.00
+06/15/21,Sale,"775,506.87",Units,"775,506.87 -775,506.87 First Am Govt Ob Fd Cl X",6/15/21,,,"782,191.82"
+06/15/21,Purchase,"553,328.75",Units,British Pound,6/11/21,,1 GBP,0.00
+06/15/21,Purchase,"325,000",Shares,"Boku Inc Net Cost 553,328.75 GBP",6/11/21,Jpmsgb2l Jp Morgan Sec London,110.2 JPY,"-782,572.37"
+06/16/21,Sale,"144,913.00",Units,"1,315.00 -1,315.00 Yen",6/16/21,,110.2 JPY,"2,630.00"
+06/16/21,Purchase,"105,227.82",Units,First Am Govt Ob Fd Cl X,6/16/21,,,"2,680.00"
+06/16/21,Purchase,50,Units,First Am Govt Ob Fd Cl X,6/16/21,,,"2,630.00"
+06/17/21,Purchase,"41,455.69",Units,First Am Govt Ob Fd Cl X,6/17/21,,,0.00
+06/18/21,Purchase,"1,005,271.29",Units,First Am Govt Ob Fd Cl X,6/18/21,,,"-1,008,768.53"
+06/18/21,Sale,"244,967.42",Units,"244,967.42 -244,967.42 First Am Govt Ob Fd Cl X",6/18/21,,,"-763,801.11"
+06/18/21,Purchase,"15,000",Shares,"Pva Tepla Ag Net Cost 413,532.08 USD",6/16/21,Jpmsgb2leql Jp Morgan Eq Lndn,22.75 EUR,"-1,177,333.19"
+06/18/21,Purchase,"10,000",Shares,"Musti Group Oy Net Cost 76,937.90 USD",6/16/21,Jpmsgb2l Jp Morgan Sec London,6.345939 EUR,"-1,254,271.09"
+06/18/21,Sale,"75,000",Shares,"1,254,271.09 -748,357.50 Blackberry Ltd",6/8/21,J.P. Morgan Securities LLC,16.7337 USD,0.00
+06/21/21,Sale,"272,669.94",Units,"272,669.94 -272,669.94 First Am Govt Ob Fd Cl X",6/21/21,,,"288,750.49"
+06/21/21,Purchase,"7,950",Shares,"Musti Group Oy Net Cost 288,750.49 USD",6/17/21,Jpmsgb2l Jp Morgan Sec London,30.46036701 EUR,0.00
+06/22/21,Purchase,"45,852.94",Units,First Am Govt Ob Fd Cl X,6/22/21,,,0.00
+06/23/21,Sale,,,"76,937.90 -76,937.90 Musti Group Oy Net Proceeds 76,937.90 USD",6/16/21,Jpmsgb2l Jp Morgan Sec London,6.345939 EUR,"76,937.90"
+06/23/21,Purchase,"12,260.23",Units,First Am Govt Ob Fd Cl X,6/23/21,,,"76,937.90"
+06/23/21,Purchase,"76,937.9",Units,First Am Govt Ob Fd Cl X,6/23/21,,,0.00
+06/23/21,Sale,"76,937.9",Units,"76,937.90 -76,937.90 First Am Govt Ob Fd Cl X",6/23/21,,,"76,937.90"
+06/23/21,Purchase,"7,950",Shares,"Musti Group Oy Net Cost 288,750.49 USD",6/17/21,Jpmsgb2l Jp Morgan Sec London,29.95759073 EUR,"-211,812.59"
+06/23/21,Purchase,"2,050",Shares,"Musti Group Oy Net Cost 76,937.90 USD",6/16/21,Jpmsgb2l Jp Morgan Sec London,30.93653855 EUR,"-288,750.49"
+06/24/21,Purchase,"673,158.14",Units,First Am Govt Ob Fd Cl X,6/24/21,,,"-944,061.78"
+06/24/21,Sale,"15,000",Shares,"291,431.34 -260,235.35 Adevinta Asa B Net Proceeds 291,431.34 USD",6/22/21,Jpmsgb2l Jp Morgan Sec London,166.8657 NOK,"-652,630.44"
+06/24/21,Sale,"30,000",Shares,"363,879.95 -182,579.20 Dustin Group Ab Net Proceeds 363,879.95 USD",6/22/21,Jpmsgb2l Jp Morgan Sec London,103.3305 SEK,"-288,750.49"
+06/25/21,Sale,,,"288,750.49 -288,750.49 Musti Group Oy Net Proceeds 288,750.49 USD",6/17/21,Jpmsgb2l Jp Morgan Sec London,0.720456 GBP,0.00
+06/25/21,Sale,"1,750.00",Units,"2,429.02 -2,429.02 British Pound",6/25/21,,0.720456 GBP,"4,858.04"
+06/25/21,Purchase,"288,750.49",Units,First Am Govt Ob Fd Cl X,6/25/21,,,"-343,543.59"
+06/25/21,Purchase,"172,063.34",Units,First Am Govt Ob Fd Cl X,6/25/21,,,"-515,606.93"
+06/25/21,Sale,"5,000",Shares,"239,290.99 -157,434.25 Amplifon Spa Net Proceeds 239,290.99 USD",6/23/21,Jpmsgb2l Jp Morgan Sec London,40.0684 EUR,"-276,315.94"
+06/25/21,Sale,600,Shares,"281,173.98 -228,835.48 Alk Abello A S Net Proceeds 281,173.98 USD",6/23/21,Jpmsgb2leql Jp Morgan Eq Lndn,110.93 JPY,"4,858.04"
+06/28/21,Sale,"213,406.00",Units,"1,923.79 -1,923.79 Yen",6/28/21,,110.93 JPY,"6,276.60"
+06/28/21,Sale,"102,130.00",Units,920.67 -920.67 Yen,6/28/21,,110.93 JPY,"8,117.94"
+06/28/21,Purchase,906.39,Units,First Am Govt Ob Fd Cl X,6/28/21,,0.839625 EUR,"5,688.92"
+06/29/21,Sale,"7,040.00",Units,"8,384.70 -8,384.70 Euro",6/28/21,,0.839625 EUR,"20,128.96"
+06/29/21,Purchase,"791,777.59",Units,First Am Govt Ob Fd Cl X,6/29/21,,,"-658,958.99"
+06/29/21,Purchase,"8,899.8",Units,First Am Govt Ob Fd Cl X,6/29/21,,,"-667,858.79"
+06/29/21,Sale,"50,000",Shares,"129,451.40 -112,535.20 Learning Technologies Group Net Proceeds 93,164.04 GBP",6/25/21,Crst 871,1.8661 GBP,"-538,407.39"
+06/29/21,Sale,100,Shares,"400,377.86 -192,496.97 Interroll Holding Ag Net Proceeds 367,947.25 CHF",6/25/21,Parbfrpp Banque Paribas Fr,"3,685 CHF","-138,029.53"
+06/29/21,Sale,"25,000",Shares,"146,370.94 -134,668.86 Ds Smith Plc Net Proceeds 105,340.75 GBP",6/25/21,Crst 871,4.22 GBP,"8,341.41"
+06/29/21,Sale,"93,164.04",Units,"129,275.46 -129,451.41 British Pound",6/25/21,,0.72066299 GBP,"137,616.87"
+06/29/21,Sale,"367,947.25",Units,"400,806.58 -400,377.86 Swiss Franc",6/25/21,,0.91801699 CHF,"538,423.45"
+06/29/21,Sale,"105,340.75",Units,"146,161.45 -146,370.93 British Pound",6/25/21,,110.6 JPY,"684,584.90"
+06/30/21,Sale,"931,162.00",Units,"8,419.19 -8,419.19 Yen",6/30/21,,110.6 JPY,"16,838.38"
+06/30/21,Purchase,"190,788.42",Units,First Am Govt Ob Fd Cl X,6/30/21,,,"275,152.39"
+06/30/21,Purchase,"8,419.19",Units,First Am Govt Ob Fd Cl X,6/30/21,,,"266,733.20"
+06/30/21,Purchase,"12,000",Shares,"Raccoon Holdings I Npv Net Cost 258,314.01 USD",6/28/21,Jpmsgb2l Jp Morgan Sec London,8.51881 SEK,"8,419.19"
+07/01/21,Sale,"2,898.70",Units,340.27 -340.27 Swedish Krona,6/30/21,,8.51881 SEK,680.54
+07/01/21,Purchase,"16,597.87",Units,First Am Govt Ob Fd Cl X,7/1/21,,,680.54
+07/02/21,Purchase,"223,337.21",Units,First Am Govt Ob Fd Cl X,7/2/21,,,"-210,768.75"
+07/02/21,Sale,"11,000",Shares,"210,768.75 -178,223.82 Adevinta Asa B Net Proceeds 210,768.75 USD",6/30/21,Jpmsgb2l Jp Morgan Sec London,0.845655 EUR,0.00
+07/06/21,Sale,"2,312.00",Units,"2,733.98 -2,733.98 Euro",7/5/21,,0.845655 EUR,"5,467.96"
+07/06/21,Purchase,"10,056.29",Units,First Am Govt Ob Fd Cl X,7/6/21,,,"-92,537.47"
+07/06/21,Sale,"95,271.45",Units,"95,271.45 -95,271.45 First Am Govt Ob Fd Cl X",7/6/21,,0.846155 EUR,"2,733.98"
+07/07/21,Sale,"6,615.00",Units,"7,817.72 -7,817.72 Euro",7/7/21,,0.846155 EUR,"15,635.44"
+07/07/21,Purchase,"231,298.84",Units,First Am Govt Ob Fd Cl X,7/7/21,,,"16,584.64"
+07/07/21,Purchase,"7,817.72",Units,First Am Govt Ob Fd Cl X,7/7/21,,,"8,766.92"
+07/08/21,Purchase,"39,341.25",Units,First Am Govt Ob Fd Cl X,7/8/21,,,0.00
+07/09/21,Purchase,"26,971.39",Units,First Am Govt Ob Fd Cl X,7/9/21,,,0.00
+07/12/21,Sale,"19,683.04",Units,"19,683.04 -19,683.04 First Am Govt Ob Fd Cl X",7/12/21,,0.723005 GBP,0.00
+07/13/21,Sale,"3,850.00",Units,"5,325.00 -5,325.00 British Pound",7/13/21,,0.723005 GBP,"10,650.00"
+07/13/21,Purchase,"43,401.02",Units,First Am Govt Ob Fd Cl X,7/13/21,,,"10,650.00"
+07/13/21,Purchase,"5,325",Units,First Am Govt Ob Fd Cl X,7/13/21,,,"5,325.00"
+07/14/21,Sale,"106,885.62",Units,"106,885.62 -106,885.62 First Am Govt Ob Fd Cl X",7/14/21,,,0.00
+07/15/21,Purchase,"7,605.78",Units,First Am Govt Ob Fd Cl X,7/15/21,,,"2,129.75"
+07/16/21,Purchase,"174,135.43",Units,First Am Govt Ob Fd Cl X,7/16/21,,,0.00
+07/19/21,Purchase,"57,852.73",Units,First Am Govt Ob Fd Cl X,7/19/21,,,0.00
+07/20/21,Purchase,"30,137.73",Units,First Am Govt Ob Fd Cl X,7/20/21,,,0.00
+07/21/21,Purchase,"61,165.74",Units,First Am Govt Ob Fd Cl X,7/21/21,,,0.00
+07/22/21,Sale,"37,255.15",Units,"37,255.15 -37,255.15 First Am Govt Ob Fd Cl X",7/22/21,,,"147,521.28"
+07/22/21,Purchase,"20,000",Shares,"Tobii Ab Net Cost 147,521.28 USD",7/20/21,Jpmsgb2l Jp Morgan Sec London,64.2112 SEK,0.00
+07/23/21,Sale,"2,462,431.69",Units,"2,462,431.69 -2,462,431.69 First Am Govt Ob Fd Cl X",7/23/21,,,"458,983.80"
+07/23/21,Purchase,"100,000",Shares,"Kahoot Asa Net Cost 458,983.80 USD",7/21/21,Jpmsgb2l Jp Morgan Sec London,40.8819 NOK,0.00
+07/26/21,Purchase,"298,530.71",Units,First Am Govt Ob Fd Cl X,7/26/21,,110.64 JPY,0.00
+07/27/21,Sale,"106,703.00",Units,964.42 -964.42 Yen,7/26/21,,110.64 JPY,"1,928.84"
+07/27/21,Purchase,"114,672.51",Units,First Am Govt Ob Fd Cl X,7/27/21,,,"220,483.28"
+07/27/21,Purchase,964.42,Units,First Am Govt Ob Fd Cl X,7/27/21,,,"219,518.86"
+07/27/21,Purchase,"10,000",Shares,"Boozt Ab Net Cost 218,554.44 USD",7/23/21,Jpmsgb2l Jp Morgan Sec London,189.9403 SEK,964.42
+07/28/21,Sale,"63,358.01",Units,"63,358.01 -63,358.01 First Am Govt Ob Fd Cl X",7/28/21,,,0.00
+07/29/21,Sale,"44,744.64",Units,"44,744.64 -44,744.64 First Am Govt Ob Fd Cl X",7/29/21,,,0.00
+07/30/21,Purchase,"35,960.39",Units,First Am Govt Ob Fd Cl X,7/30/21,,,0.00
+08/02/21,Sale,"3,254.41",Units,"3,254.41 -3,254.41 First Am Govt Ob Fd Cl X",8/2/21,,,0.00
+08/02/21,Sale,"454,354.76",Units,"454,354.76 -454,354.76 First Am Govt Ob Fd Cl X",8/2/21,,,"454,354.76"
+08/02/21,Purchase,"20,000",Shares,Materialise Nv A D R,7/29/21,Stonex Financial Inc.,22.687738 USD,0.00
+08/03/21,Purchase,"3,533.98",Units,First Am Govt Ob Fd Cl X,8/3/21,,,0.00
+08/04/21,Purchase,"171,419.75",Units,First Am Govt Ob Fd Cl X,8/4/21,,,0.00
+08/05/21,Sale,"131,511.46",Units,"131,511.46 -131,511.46 First Am Govt Ob Fd Cl X",8/5/21,,,"266,149.62"
+08/05/21,Purchase,900,Shares,Solaredge Technologies Inc,8/3/21,J.P. Morgan Securities LLC,295.7118 USD,0.00
+08/06/21,Purchase,"95,027.59",Units,First Am Govt Ob Fd Cl X,8/6/21,,,0.00
+08/09/21,Purchase,"10,877.71",Units,First Am Govt Ob Fd Cl X,8/9/21,,,0.00
+08/10/21,Purchase,"24,755.92",Units,First Am Govt Ob Fd Cl X,8/10/21,,,0.00
+08/11/21,Purchase,"31,748.31",Units,First Am Govt Ob Fd Cl X,8/11/21,,,0.00
+08/12/21,Purchase,"16,848.93",Units,First Am Govt Ob Fd Cl X,8/12/21,,,0.00
+08/13/21,Purchase,"856,485.55",Units,First Am Govt Ob Fd Cl X,8/13/21,,,"-759,620.48"
+08/13/21,Sale,"5,000",Shares,"302,722.74 -204,384.89 Hugo Boss Ag Net Proceeds 258,306.96 EUR",8/11/21,Parbdeff Bnp Paribas Frankfurt,51.739 EUR,"-456,897.74"
+08/13/21,Sale,"11,060",Shares,"455,734.03 -187,953.18 Infineon Technologies A G Net Proceeds 388,868.28 EUR",8/11/21,Parbfrpp Banque Paribas Fr,35.2127 EUR,"-1,163.71"
+08/13/21,Sale,"258,306.96",Units,"302,768.52 -302,722.74 Euro",8/12/21,,0.85314999 EUR,"301,604.81"
+08/13/21,Sale,"388,868.28",Units,"456,851.96 -455,734.03 Euro",8/13/21,,0.85119101 EUR,"758,456.77"
+08/16/21,Purchase,"2,543,694.48",Units,First Am Govt Ob Fd Cl X,8/16/21,,,"-279,377.27"
+08/16/21,Sale,600,Shares,"279,377.27 -188,490.28 Alk Abello A S Net Proceeds 279,377.27 USD",8/12/21,Jpmsgb2leql Jp Morgan Eq Lndn,"2,953.5167 DKK",0.00
+08/17/21,Purchase,"59,549.93",Units,First Am Govt Ob Fd Cl X,8/17/21,,,0.00
+08/18/21,Sale,"69,813.29",Units,"69,813.29 -69,813.29 First Am Govt Ob Fd Cl X",8/18/21,,,0.00
+08/19/21,Purchase,"38,087.55",Units,First Am Govt Ob Fd Cl X,8/19/21,,,0.00
+08/20/21,Purchase,"5,030.87",Units,First Am Govt Ob Fd Cl X,8/20/21,,,0.00
+08/23/21,Purchase,"479,274.62",Units,First Am Govt Ob Fd Cl X,8/23/21,,,"-352,464.57"
+08/23/21,Sale,"1,000",Shares,"352,464.57 -269,672.79 Asm International N V Net Proceeds 352,464.57 USD",8/19/21,Jpmsgb2l Jp Morgan Sec London,0.852859 EUR,0.00
+08/24/21,Sale,"1,755.25",Units,"2,058.08 -2,058.08 Euro",8/24/21,,0.852859 EUR,"4,116.16"
+08/24/21,Purchase,"655,481.31",Units,First Am Govt Ob Fd Cl X,8/24/21,,,"-642,329.17"
+08/24/21,Sale,"5,000",Shares,"277,763.68 -204,384.88 Hugo Boss Ag Net Proceeds 277,763.68 USD",8/20/21,Jpmsgb2leql Jp Morgan Eq Lndn,47.6093 EUR,"-364,565.49"
+08/24/21,Sale,"1,000",Shares,"366,623.57 -268,574.47 Asm International N V Net Proceeds 366,623.57 USD",8/20/21,Jpmsgb2l Jp Morgan Sec London,314.2004 EUR,"2,058.08"
+08/25/21,Sale,"74,402.47",Units,"74,402.47 -74,402.47 First Am Govt Ob Fd Cl X",8/25/21,,,0.00
+08/26/21,Sale,"170,807.14",Units,"170,807.14 -170,807.14 First Am Govt Ob Fd Cl X",8/26/21,,,"213,535.32"
+08/26/21,Purchase,"30,000",Shares,"Tobii Ab Net Cost 213,535.32 USD",8/24/21,Jpmsgb2l Jp Morgan Sec London,61.8324 SEK,0.00
+08/27/21,Purchase,"2,774.02",Units,First Am Govt Ob Fd Cl X,8/27/21,,,0.00
+08/30/21,Purchase,"6,257,265.58",Units,First Am Govt Ob Fd Cl X,8/30/21,,,"-5,459,749.15"
+08/30/21,Sale,"5,459,749.15",Units,"5,459,749.15 -5,459,749.15 First Am Govt Ob Fd Cl X",8/30/21,,,0.00
+08/31/21,Purchase,"4,335,597.65",Units,First Am Govt Ob Fd Cl X,8/31/21,,,"1,130,723.30"
+08/31/21,Purchase,900,Shares,Solaredge Technologies Inc,8/27/21,J.P. Morgan Securities LLC,292.548 USD,"867,421.10"
+08/31/21,Purchase,"25,000",Shares,Blackberry Ltd,8/27/21,J.P. Morgan Securities LLC,11.3115 USD,"584,383.60"
+08/31/21,Purchase,"2,000",Shares,Taiwan Semiconductor A D R,8/27/21,J.P. Morgan Securities LLC,118.5113 USD,"347,341.00"
+08/31/21,Purchase,"1,000",Shares,Jazz Pharmaceuticals Plc,8/27/21,J.P. Morgan Securities LLC,133.461 USD,"213,870.00"
+08/31/21,Purchase,"10,000",Shares,Materialise Nv A D R,8/27/21,J.P. Morgan Securities LLC,109.89 JPY,0.00
+09/01/21,Sale,"154,262.00",Units,"1,403.79 -1,403.79 Yen",8/31/21,,109.89 JPY,"2,807.58"
+09/01/21,Sale,"2,150,973.9",Units,"2,150,973.90 -2,150,973.90 First Am Govt Ob Fd Cl X",9/1/21,,,"2,162,342.35"
+09/01/21,Purchase,"24,144",Shares,"Biocartis Nv Net Cost 117,961.24 USD",8/30/21,Jpmsgb2l Jp Morgan Sec London,4.14 EUR,"2,044,381.11"
+09/01/21,Purchase,"8,997",Shares,"Pva Tepla Ag Net Cost 361,106.57 USD",8/30/21,Jpmsgb2leql Jp Morgan Eq Lndn,34.01010003 EUR,"1,683,274.54"
+09/01/21,Purchase,"3,000",Shares,"Zalando SE Net Cost 338,237.12 USD",8/30/21,Jpmsgb2leql Jp Morgan Eq Lndn,95.5367 EUR,"1,345,037.42"
+09/01/21,Purchase,400,Shares,"Alk Abello A S Net Cost 194,874.59 USD",8/30/21,Jpmsgb2leql Jp Morgan Eq Lndn,"3,069.64000002 DKK","1,150,162.83"
+09/01/21,Purchase,"5,000",Shares,"Musti Group Oy Net Cost 199,122.70 USD",8/30/21,Jpmsgb2l Jp Morgan Sec London,33.7459 EUR,"951,040.13"
+09/01/21,Purchase,"7,000",Shares,"Fnac Darty Net Cost 475,681.65 USD",8/30/21,Jpmsgb2l Jp Morgan Sec London,57.4101 EUR,"475,358.48"
+09/01/21,Purchase,"5,000",Shares,"Amplifon Spa Net Cost 259,665.37 USD",8/30/21,Jpmsgb2l Jp Morgan Sec London,43.9623 EUR,"215,693.11"
+09/01/21,Purchase,"10,000",Shares,"Adevinta Asa B Net Cost 212,885.53 USD",8/30/21,Jpmsgb2l Jp Morgan Sec London,184.2795 NOK,"2,807.58"
+09/02/21,Sale,"3,535,812.29",Units,"3,535,812.29 -3,535,812.29 First Am Govt Ob Fd Cl X",9/2/21,,,"3,518,804.60"
+09/02/21,Purchase,"15,856",Shares,"Biocartis Nv Net Cost 80,246.82 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,4.2874 EUR,"3,438,557.78"
+09/02/21,Purchase,"1,003",Shares,"Pva Tepla Ag Net Cost 40,564.62 USD",8/31/21,Jpmsgb2leql Jp Morgan Eq Lndn,34.2615 EUR,"3,397,993.16"
+09/02/21,Purchase,"4,000",Shares,"Asos Plc Net Cost 217,467.45 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,39.4189 GBP,"3,180,525.71"
+09/02/21,Purchase,"10,000",Shares,"Aston Martin Lagonda Gbl Hldgs Plc O Net Cost 272,068.32 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,19.6283 GBP,"2,908,457.39"
+09/02/21,Purchase,"30,000",Shares,"Ds Smith Plc Net Cost 184,820.54 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,4.4446 GBP,"2,723,636.85"
+09/02/21,Purchase,"10,000",Shares,"Frontier Developments Plc Net Cost 384,559.36 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,27.8827 GBP,"2,339,077.49"
+09/02/21,Purchase,"30,000",Shares,"Pets At Home Group Plc Net Cost 210,897.17 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,5.07169987 GBP,"2,128,180.32"
+09/02/21,Purchase,"1,000",Shares,"Disco Corporation Net Cost 286,809.27 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,"31,500 JPY","1,841,371.05"
+09/02/21,Purchase,"10,000",Shares,"Japan Elevator Ser Net Cost 262,729.12 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,"2,885.53 JPY","1,578,641.93"
+09/02/21,Purchase,"5,000",Shares,"Jeol Ltd Net Cost 357,136.73 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,"7,844.8 JPY","1,221,505.20"
+09/02/21,Purchase,"5,000",Shares,"Mercari Inc Net Cost 241,739.24 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,"5,310 JPY","979,765.96"
+09/02/21,Purchase,"2,000",Shares,"Nidec Corp Net Cost 228,810.06 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,"12,565 JPY","750,955.90"
+09/02/21,Purchase,"30,000",Shares,"Rakuten Group Inc Net Cost 305,929.89 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,"1,120.00000034 JPY","445,026.01"
+09/02/21,Purchase,"10,000",Shares,"Uuum Inc Net Cost 127,259.55 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,"1,397.68 JPY","317,766.46"
+09/02/21,Purchase,"50,000",Shares,"Yahoo Japan Corporation Net Cost 317,766.46 USD",8/31/21,Jpmsgb2l Jp Morgan Sec London,698 JPY,0.00
+09/03/21,Purchase,"83,562.53",Units,First Am Govt Ob Fd Cl X,9/3/21,,,0.00
+09/07/21,Sale,"820,814.12",Units,"820,814.12 -820,814.12 First Am Govt Ob Fd Cl X",9/7/21,,,"818,822.91"
+09/07/21,Purchase,"347,449.39",Units,Euro,9/3/21,,1 EUR,"405,605.41"
+09/07/21,Purchase,"10,000",Shares,"Musti Group Oy Net Cost 405,605.41 USD",9/2/21,Jpmsgb2l Jp Morgan Sec London,34.1691 EUR,0.00
+09/07/21,Purchase,"15,000",Shares,"Slm Solutions Group Ag Net Cost 347,449.39 EUR",9/2/21,Parbfrpp Banque Paribas Fr,23.1286 EUR,"-411,866.55"
+09/07/21,Purchase,"10,000",Shares,"Adevinta Asa B Net Cost 1,672,434.90 NOK",9/3/21,Parbfrpp Banque Paribas Fr,166.993 NOK,"-605,374.93"
+09/08/21,Sale,"178,778.1",Units,"178,778.10 -178,778.10 First Am Govt Ob Fd Cl X",9/8/21,,,"192,909.70"
+09/08/21,Purchase,"1,672,434.90",Units,Norwegian Krone,9/7/21,,1 NOK,0.00
+09/09/21,Purchase,"18,173.8",Units,First Am Govt Ob Fd Cl X,9/9/21,,109.88 JPY,0.00
+09/10/21,Sale,"156,307.00",Units,"1,422.52 -1,422.52 Yen",9/10/21,,109.88 JPY,"2,845.04"
+09/10/21,Purchase,"1,422.52",Units,First Am Govt Ob Fd Cl X,9/10/21,,,"-65,813.39"
+09/10/21,Sale,"67,235.91",Units,"67,235.91 -67,235.91 First Am Govt Ob Fd Cl X",9/10/21,,,"1,422.52"
+09/13/21,Sale,"552,545.66",Units,"552,545.66 -552,545.66 First Am Govt Ob Fd Cl X",9/13/21,,,"547,350.00"
+09/13/21,Purchase,"50,000",Shares,Blackberry Ltd,9/9/21,Stonex Financial Inc.,10.917 USD,0.00
+09/14/21,Sale,"11,561.44",Units,"11,561.44 -11,561.44 First Am Govt Ob Fd Cl X",9/14/21,,,0.00
+09/15/21,Purchase,"21,363.62",Units,First Am Govt Ob Fd Cl X,9/15/21,,,"-12,393.97"
+09/15/21,Sale,"2,669",Shares,"12,421.60 -39,300.73 Biocartis Nv Net Proceeds 10,496.09 EUR",9/13/21,Plhcgb3l United Kingdom,3.9385 EUR,27.63
+09/15/21,Sale,"10,496.09",Units,"12,393.97 -12,421.60 Euro",9/15/21,,0.8468707 EUR,"12,421.60"
+09/16/21,Purchase,"1,176,250.96",Units,First Am Govt Ob Fd Cl X,9/16/21,,,0.00
+09/16/21,Sale,"14,933",Shares,"68,086.82 -182,956.71 Biocartis Nv Net Proceeds 57,651.83 EUR",9/14/21,Plhcgb3l United Kingdom,3.8665 EUR,"68,086.82"
+09/17/21,Purchase,"67,857.46",Units,First Am Govt Ob Fd Cl X,9/17/21,,,"995,803.66"
+09/17/21,Purchase,"1,221,654.84",Units,First Am Govt Ob Fd Cl X,9/17/21,,,"-225,851.18"
+09/17/21,Sale,"35,703",Shares,"158,305.91 -211,319.28 Biocartis Nv Net Proceeds 133,913.58 EUR",9/15/21,Plhcgb3l United Kingdom,3.7564 EUR,"-67,545.27"
+09/17/21,Sale,"133,913.58",Units,"157,993.72 -158,305.91 Euro",9/15/21,,0.84758799 EUR,"90,448.45"
+09/17/21,Sale,"57,651.83",Units,"67,857.46 -68,086.82 Euro",9/17/21,,0.84960195 EUR,"158,305.91"
+09/20/21,Purchase,"31,868.63",Units,First Am Govt Ob Fd Cl X,9/20/21,,,"-37,048.71"
+09/20/21,Sale,"8,374",Shares,"37,354.41 -45,565.18 Biocartis Nv Net Proceeds 31,605.40 EUR",9/16/21,Plhcgb3l United Kingdom,3.7799 EUR,305.70
+09/20/21,Sale,"31,605.40",Units,"37,048.71 -37,354.41 Euro",9/17/21,,0.85307694 EUR,"37,354.41"
+09/21/21,Purchase,"316,814.4",Units,First Am Govt Ob Fd Cl X,9/21/21,,,"10,393.61"
+09/21/21,Sale,"5,771",Shares,"25,764.51 -31,383.85 Biocartis Nv Net Proceeds 21,902.09 EUR",9/17/21,Plhcgb3l United Kingdom,3.8009 EUR,"36,158.12"
+09/21/21,Sale,"21,902.09",Units,"25,606.39 -25,764.51 Euro",9/20/21,,0.85533689 EUR,"61,764.51"
+09/22/21,Sale,"80,039.59",Units,"80,039.59 -80,039.59 First Am Govt Ob Fd Cl X",9/22/21,,,"198,676.39"
+09/22/21,Purchase,"166,667.57",Units,British Pound,9/20/21,,1 GBP,"-29,185.87"
+09/22/21,Sale,"6,644",Shares,"29,242.48 -34,624.66 Biocartis Nv Net Proceeds 24,914.78 EUR",9/20/21,Plhcgb3l United Kingdom,3.7556 EUR,56.61
+09/22/21,Purchase,"10,000",Shares,"Ocado Group Plc Net Cost 166,667.57 GBP",9/20/21,Crst 871,16.5589 GBP,"-229,061.28"
+09/22/21,Sale,"24,914.78",Units,"29,185.87 -29,242.48 Euro",9/20/21,,0.7328425 GBP,"-199,875.41"
+09/23/21,Purchase,"69,872.55",Units,First Am Govt Ob Fd Cl X,9/23/21,,,"6,080.25"
+09/23/21,Purchase,"44,840",Units,First Am Govt Ob Fd Cl X,9/23/21,,,"-38,759.75"
+09/23/21,Sale,"8,821",Shares,"38,772.09 -44,642.86 Biocartis Nv Net Proceeds 33,067.88 EUR",9/21/21,Parbfrpp Banque Paribas Fr,3.7544 EUR,12.34
+09/23/21,Sale,"33,067.88",Units,"38,759.75 -38,772.09 Euro",9/22/21,,0.85314998 EUR,"38,772.09"
+09/24/21,Sale,"1,470,151.79",Units,"1,470,151.79 -1,470,151.79 First Am Govt Ob Fd Cl X",9/24/21,,,"1,474,946.59"
+09/24/21,Purchase,"24,925.60",Units,Euro,9/23/21,,1 EUR,"1,445,714.56"
+09/24/21,Purchase,"201,091.14",Units,British Pound,9/23/21,,1 GBP,"1,169,742.94"
+09/24/21,Purchase,"258,275.86",Units,British Pound,9/23/21,,1 GBP,"815,292.67"
+09/24/21,Purchase,"3,219,277.68",Units,Swedish Krona,9/23/21,,1 SEK,"442,921.49"
+09/24/21,Sale,"10,553",Shares,"45,885.12 -52,092.09 Biocartis Nv Net Proceeds 39,136.11 EUR",9/22/21,Plhcgb3l United Kingdom,3.7141 EUR,"488,806.61"
+09/24/21,Purchase,"4,000",Shares,"Orpea Net Cost 488,727.51 USD",9/22/21,Jpmsgb2l Jp Morgan Sec London,103.8331 EUR,79.10
+09/24/21,Purchase,"50,000",Shares,"Pets At Home Group Plc Net Cost 258,275.86 GBP",9/22/21,Crst 871,5.1321 GBP,"-352,286.71"
+09/24/21,Purchase,752,Shares,"Basware Oyj Npv Net Cost 24,925.60 EUR",9/22/21,Plhcgb3l United Kingdom,33.0961 EUR,"-381,510.72"
+09/24/21,Purchase,"20,000",Shares,"Watches Of Switzerland Group Net Cost 201,091.14 GBP",9/22/21,Crst 871,9.9895 GBP,"-655,859.41"
+09/24/21,Purchase,"20,000",Shares,"Boozt Ab Net Cost 3,219,277.68 SEK",9/22/21,Plhcgb3l United Kingdom,160.7228 SEK,"-1,026,850.79"
+09/24/21,Sale,"39,136.11",Units,"45,806.02 -45,885.12 Euro",9/23/21,,0.85438792 EUR,"-981,044.77"
+09/27/21,Sale,"140,222.15",Units,"140,222.15 -140,222.15 First Am Govt Ob Fd Cl X",9/27/21,,,"153,430.81"
+09/27/21,Purchase,"252,120.22",Units,Euro,9/24/21,,1 EUR,"-142,324.22"
+09/27/21,Sale,"31,632",Shares,"142,642.85 -143,399.08 Biocartis Nv Net Proceeds 121,568.94 EUR",9/23/21,Parbfrpp Banque Paribas Fr,3.84900006 EUR,318.63
+09/27/21,Purchase,"7,248",Shares,"Basware Oyj Npv Net Cost 252,120.22 EUR",9/23/21,Plhcgb3l United Kingdom,34.7327 EUR,"-295,506.50"
+09/27/21,Sale,"121,568.94",Units,"142,324.22 -142,609.05 Euro",9/24/21,,0.85416902 EUR,"-153,182.28"
+09/28/21,Purchase,"19,791.72",Units,First Am Govt Ob Fd Cl X,9/28/21,,111.48 JPY,0.00
+09/29/21,Sale,"93,153.00",Units,835.60 -835.60 Yen,9/29/21,,111.48 JPY,"2,186.30"
+09/29/21,Sale,"170,869.64",Units,"170,869.64 -170,869.64 First Am Govt Ob Fd Cl X",9/29/21,,,"1,748.47"
+09/30/21,Sale,"600,667.08",Units,"600,667.08 -600,667.08 First Am Govt Ob Fd Cl X",9/30/21,,,"369,744.66"
+09/30/21,Purchase,"8,795",Shares,"Lumibird Net Cost 197,733.93 USD",9/28/21,Jpmsgb2l Jp Morgan Sec London,19.236 EUR,"172,010.73"
+09/30/21,Purchase,"10,000",Shares,"Adevinta Asa B Net Cost 172,010.73 USD",9/28/21,Jpmsgb2l Jp Morgan Sec London,8.779471 SEK,0.00
+10/01/21,Sale,"2,898.70",Units,330.17 -330.17 Swedish Krona,9/30/21,,8.779471 SEK,660.34
+10/01/21,Sale,"21,434.06",Units,"21,434.06 -21,434.06 First Am Govt Ob Fd Cl X",10/1/21,,,"27,663.33"
+10/01/21,Purchase,"1,205",Shares,"Lumibird Net Cost 27,002.99 USD",9/29/21,Jpmsgb2l Jp Morgan Sec London,19.22750207 EUR,660.34
+10/04/21,Sale,"198,740.26",Units,"198,740.26 -198,740.26 First Am Govt Ob Fd Cl X",10/4/21,,,"207,672.64"
+10/04/21,Purchase,"153,223.99",Units,British Pound,10/1/21,,1 GBP,0.00
+10/04/21,Purchase,"5,000",Shares,"Asos Plc Net Cost 153,223.99 GBP",9/30/21,Crst 871,30.5987 GBP,"-205,703.19"
+10/05/21,Purchase,"19,828.55",Units,First Am Govt Ob Fd Cl X,10/5/21,,,0.00
+10/06/21,Purchase,"9,313.47",Units,First Am Govt Ob Fd Cl X,10/6/21,,,0.00
+10/07/21,Sale,"537,477.21",Units,"537,477.21 -537,477.21 First Am Govt Ob Fd Cl X",10/7/21,,,"478,341.56"
+10/07/21,Purchase,"2,000",Shares,"Eurofins Scientific Net Cost 213,740.73 EUR",10/5/21,Parbfrpp Banque Paribas Fr,106.7103 EUR,"229,889.32"
+10/07/21,Purchase,"2,000",Shares,"Orpea Net Cost 199,510.98 EUR",10/5/21,Parbfrpp Banque Paribas Fr,99.3086 EUR,"-2,022.26"
+10/07/21,Purchase,"213,740.73",Units,Euro,10/7/21,,1 EUR,"-249,428.55"
+10/07/21,Purchase,"199,510.98",Units,Euro,10/7/21,,1 EUR,"-480,363.82"
+10/08/21,Sale,"435,544.39",Units,"435,544.39 -435,544.39 First Am Govt Ob Fd Cl X",10/8/21,,,"421,781.43"
+10/08/21,Purchase,"5,000",Shares,"Advantest Corp Ord(Jp) Net Cost 421,781.43 USD",10/6/21,Jpmsgb2l Jp Morgan Sec London,"9,397.4 JPY",0.00
+10/12/21,Purchase,"11,164,828.81",Units,First Am Govt Ob Fd Cl X,10/12/21,,,"527,555.02"
+10/12/21,Purchase,"156,822.92",Units,British Pound,10/8/21,,1 GBP,"313,685.95"
+10/12/21,Purchase,"16,088.53",Units,Euro,10/8/21,,1 EUR,"295,040.02"
+10/12/21,Purchase,"8,000",Shares,"Asos Plc Net Cost 295,040.02 USD",10/7/21,Crst 784 Jpmorgan Secs Ltd,27.0761 GBP,0.00
+10/12/21,Purchase,"40,000",Shares,"Ds Smith Plc Net Cost 156,822.92 GBP",10/7/21,Crst 871,3.8952 GBP,"-212,777.28"
+10/12/21,Purchase,495,Shares,"Basware Oyj Npv Net Cost 16,088.53 EUR",10/7/21,Parbfrpp Banque Paribas Fr,32.45339394 EUR,"-231,347.46"
+10/12/21,Purchase,"25,000",Shares,"Accesso Technology Group Plc Net Cost 221,582.88 GBP",10/8/21,Crst 871,8.85 GBP,"-533,198.80"
+10/12/21,Purchase,"10,000",Shares,"Ocado Group Plc Net Cost 161,779.97 GBP",10/8/21,Crst 871,16.0733 GBP,"-753,583.61"
+10/12/21,Purchase,"2,890",Shares,"Basware Oyj Npv Net Cost 94,808.00 EUR",10/8/21,Parbfrpp Banque Paribas Fr,32.7564 EUR,"-863,186.40"
+10/12/21,Purchase,"221,582.88",Units,British Pound,10/8/21,,1 GBP,"-1,165,173.29"
+10/12/21,Purchase,"161,779.97",Units,British Pound,10/8/21,,1 GBP,"-1,385,657.07"
+10/12/21,Purchase,"94,808.00",Units,Euro,10/8/21,,1 EUR,"-1,495,469.13"
+10/13/21,Sale,"2,568,946.6",Units,"2,568,946.60 -2,568,946.60 First Am Govt Ob Fd Cl X",10/13/21,,,"1,925,739.11"
+10/13/21,Purchase,"52,283.67",Units,Euro,10/12/21,,1 EUR,"1,865,259.69"
+10/13/21,Purchase,"176,889.66",Units,British Pound,10/12/21,,1 GBP,"1,624,626.23"
+10/13/21,Purchase,"10,000",Shares,"Comture Corp Net Cost 259,662.29 USD",10/11/21,Jpmsgb2l Jp Morgan Sec London,"2,930.2 JPY","1,364,963.94"
+10/13/21,Purchase,"10,000",Shares,"Cyberagent Inc Npv Net Cost 185,916.14 USD",10/11/21,Jpmsgb2l Jp Morgan Sec London,"2,098 JPY","1,179,047.80"
+10/13/21,Purchase,"10,000",Shares,"Japan Elevator Ser Net Cost 213,407.45 USD",10/11/21,Jpmsgb2l Jp Morgan Sec London,"2,408.23 JPY","965,640.35"
+10/13/21,Purchase,"30,000",Shares,"Raccoon Holdings I Npv Net Cost 411,471.93 USD",10/11/21,Jpmsgb2l Jp Morgan Sec London,"1,547.7733 JPY","554,168.42"
+10/13/21,Purchase,"25,000",Shares,"Rakuten Group Inc Net Cost 243,472.16 USD",10/11/21,Jpmsgb2l Jp Morgan Sec London,"1,099 JPY","310,696.26"
+10/13/21,Purchase,"3,000",Shares,"Orpea Net Cost 310,696.26 USD",10/11/21,Jpmsgb2l Jp Morgan Sec London,89.206 EUR,0.00
+10/13/21,Purchase,"1,615",Shares,"Basware Oyj Npv Net Cost 52,283.67 EUR",10/11/21,Parbfrpp Banque Paribas Fr,32.3253 EUR,"-60,513.12"
+10/13/21,Purchase,"10,000",Shares,"Aston Martin Lagonda Gbl Hldgs Plc O Net Cost 176,889.66 GBP",10/11/21,Crst 871,17.5745 GBP,"-301,746.30"
+10/14/21,Purchase,"3,124.08",Units,First Am Govt Ob Fd Cl X,10/14/21,,,"-106,795.75"
+10/14/21,Sale,"2,889,860.11",Units,"2,889,860.11 -2,889,860.11 First Am Govt Ob Fd Cl X",10/14/21,,,"2,783,064.36"
+10/14/21,Purchase,"205,529.04",Units,Euro,10/13/21,,1 EUR,"2,545,008.84"
+10/14/21,Purchase,800,Shares,"Alk Abello A S Net Cost 341,836.76 USD",10/12/21,Jpmsgb2leql Jp Morgan Eq Lndn,"2,752.5888 DKK","2,203,172.08"
+10/14/21,Purchase,"5,000",Shares,"Amplifon Spa Net Cost 205,529.04 EUR",10/12/21,Parbfrpp Banque Paribas Fr,41.0033 EUR,"1,965,323.73"
+10/14/21,Purchase,800,Shares,"Alk Abello A S Net Cost 341,836.76 USD",10/12/21,Jpmsgb2leql Jp Morgan Eq Lndn,"2,752.5888 DKK","1,623,486.97"
+10/15/21,Sale,"418,457.23",Units,"418,457.23 -418,457.23 First Am Govt Ob Fd Cl X",10/15/21,,,"2,527,437.17"
+10/15/21,Sale,"486,365",Units,"486,365.00 -486,365.00 First Am Govt Ob Fd Cl X",10/15/21,,,"3,013,802.17"
+10/15/21,Purchase,"410,218.41",Units,Euro,10/14/21,,1 EUR,"2,537,103.34"
+10/15/21,Purchase,"222,672.74",Units,Euro,10/14/21,,1 EUR,"2,278,344.03"
+10/15/21,Purchase,"447,718.18",Units,British Pound,10/14/21,,1 GBP,"1,663,594.79"
+10/15/21,Purchase,"154,890.42",Units,British Pound,10/14/21,,1 GBP,"1,450,919.11"
+10/15/21,Purchase,"340,927.23",Units,British Pound,10/14/21,,1 GBP,"982,801.52"
+10/15/21,Purchase,"25,000",Shares,"Aston Martin Lagonda Gbl Hldgs Plc O Net Cost 447,718.18 GBP",10/13/21,Crst 871,17.7929 GBP,"373,792.88"
+10/15/21,Purchase,"40,000",Shares,"Ds Smith Plc Net Cost 154,890.42 GBP",10/13/21,Crst 871,3.8472 GBP,"163,103.19"
+10/15/21,Purchase,"20,000",Shares,"Ocado Group Plc Net Cost 340,927.23 GBP",10/13/21,Crst 871,16.9361 GBP,"-300,643.06"
+10/15/21,Purchase,"5,000",Shares,"Dermapharm Hldg Net Cost 410,218.41 EUR",10/13/21,Parbfrpp Banque Paribas Fr,81.9208 EUR,"-774,404.21"
+10/15/21,Purchase,"4,000",Shares,"Fnac Darty Net Cost 222,672.74 EUR",10/13/21,Parbfrpp Banque Paribas Fr,55.4188 EUR,"-1,031,568.91"
+10/15/21,Purchase,"10,000",Shares,"Future Plc Shs Net Cost 360,683.97 GBP",10/13/21,Crst 871,48.74469334 USD,"-1,522,189.27"
+10/15/21,Purchase,"360,683.97",Units,British Pound,10/15/21,,1 GBP,"-2,018,625.79"
+10/15/21,Purchase,"50,000",Shares,Blackberry Ltd,10/13/21,Jefferies LLC,9.6873 USD,"-2,504,990.79"
+10/18/21,Sale,"834,888.04",Units,"834,888.04 -834,888.04 First Am Govt Ob Fd Cl X",10/18/21,,,"849,067.20"
+10/18/21,Purchase,"2,726,419.50",Units,Norwegian Krone,10/14/21,,1 NOK,"525,957.22"
+10/18/21,Purchase,"178,436.25",Units,Euro,10/14/21,,1 EUR,"318,764.24"
+10/18/21,Purchase,"231,596.88",Units,British Pound,10/15/21,,1 GBP,0.00
+10/18/21,Purchase,"125,000",Shares,"Boku Inc Net Cost 231,596.88 GBP",10/14/21,Crst 871,1.85 GBP,"-315,747.55"
+10/18/21,Purchase,"10,000",Shares,"Nordic Semiconductor Asa Net Cost 2,726,419.50 NOK",10/14/21,Parbfrpp Banque Paribas Fr,272.2336 NOK,"-635,374.69"
+10/18/21,Purchase,"10,000",Shares,"Slm Solutions Group Ag Net Cost 178,436.25 EUR",10/14/21,Parbfrpp Banque Paribas Fr,17.8169 EUR,"-841,905.78"
+10/19/21,Purchase,"42,937.2",Units,First Am Govt Ob Fd Cl X,10/19/21,,,0.00
+10/19/21,Purchase,"10,000",Shares,Rio Tinto Plc A D R,10/14/21,Jefferies LLC,70.5581 USD,"-705,981.00"
+10/19/21,Purchase,"10,000",Shares,Stmicroelectronics N V,10/14/21,Jefferies LLC,42.02 USD,"-1,126,581.00"
+10/19/21,Purchase,"11,000",Shares,B H P Billiton Limited A D R,10/14/21,Jefferies LLC,56.9064 USD,"-1,752,991.40"
+10/20/21,Sale,,,"341,836.76 -341,836.76 Alk Abello A S Net Proceeds 341,836.76 USD",10/12/21,Jpmsgb2leql Jp Morgan Eq Lndn,"2,752.58880002 DKK","-1,411,154.64"
+10/20/21,Purchase,"2,010,031.5",Units,First Am Govt Ob Fd Cl X,10/20/21,,,"-1,411,154.64"
+10/20/21,Purchase,"341,836.76",Units,First Am Govt Ob Fd Cl X,10/20/21,,,"-1,752,991.40"
+10/20/21,Sale,"1,752,991.4",Units,"1,752,991.40 -1,752,991.40 First Am Govt Ob Fd Cl X",10/19/21,,,0.00
+10/20/21,Purchase,"3,056",Shares,"Raysearch Laboratories Ab Net Cost 177,606.00 SEK",10/14/21,Parbfrpp Banque Paribas Fr,58.03010144 SEK,"-20,373.74"
+10/20/21,Purchase,"4,518",Shares,"Raysearch Laboratories Ab Net Cost 265,619.79 SEK",10/15/21,Parbfrpp Banque Paribas Fr,58.70339973 SEK,"-51,101.30"
+10/20/21,Purchase,"1,191",Shares,"Raysearch Laboratories Ab Net Cost 69,629.63 SEK",10/18/21,Parbfrpp Banque Paribas Fr,58.37560034 SEK,"-59,184.19"
+10/21/21,Purchase,"21,405.77",Units,First Am Govt Ob Fd Cl X,10/21/21,,,"20,705.28"
+10/21/21,Purchase,"177,606.00",Units,Swedish Krona,10/20/21,,1 SEK,0.00
+10/21/21,Purchase,"3,891",Shares,"Raysearch Laboratories Ab Net Cost 227,628.25 SEK",10/19/21,Parbfrpp Banque Paribas Fr,58.4136 SEK,"-26,283.35"
+10/22/21,Sale,"836,272.12",Units,"836,272.12 -836,272.12 First Am Govt Ob Fd Cl X",10/22/21,,,"887,283.86"
+10/22/21,Purchase,"321,928.73",Units,Swedish Krona,10/21/21,,1 SEK,"849,849.38"
+10/22/21,Purchase,"69,629.63",Units,Swedish Krona,10/21/21,,1 SEK,"841,747.26"
+10/22/21,Purchase,"265,619.79",Units,Swedish Krona,10/21/21,,1 SEK,"810,838.95"
+10/22/21,Purchase,"227,628.25",Units,Swedish Krona,10/21/21,,1 SEK,"784,320.00"
+10/22/21,Purchase,"3,000",Shares,Jazz Pharmaceuticals Plc,10/20/21,Jefferies LLC,145.00 USD,"349,200.00"
+10/22/21,Purchase,"15,000",Shares,Materialise Nv A D R,10/20/21,Jefferies LLC,23.24 USD,0.00
+10/22/21,Purchase,"5,475",Shares,"Raysearch Laboratories Ab Net Cost 321,928.73 SEK",10/20/21,Parbfrpp Banque Paribas Fr,58.71170046 SEK,"-37,395.53"
+10/25/21,Sale,"500,597.19",Units,"500,597.19 -500,597.19 First Am Govt Ob Fd Cl X",10/25/21,,,"544,336.15"
+10/25/21,Purchase,"384,173.37",Units,Swedish Krona,10/21/21,,1 SEK,"499,645.57"
+10/25/21,Purchase,"30,796,125.00",Units,Yen,10/22/21,,1 JPY,"227,955.01"
+10/25/21,Purchase,"25,838,700.00",Units,Yen,10/22/21,,1 JPY,0.00
+10/25/21,Purchase,"6,428",Shares,"Raysearch Laboratories Ab Net Cost 384,173.37 SEK",10/21/21,Parbfrpp Banque Paribas Fr,59.6761 SEK,"-44,716.56"
+10/25/21,Purchase,"1,000",Shares,"Disco Corporation Net Cost 30,796,125 JPY",10/21/21,Jeffus33 Jefferies Jersey City,"30,750 JPY","-314,113.62"
+10/25/21,Purchase,"1,000",Shares,"Lasertec Corp Net Cost 25,838,700 JPY",10/21/21,Jeffus33 Jefferies Jersey City,"25,800 JPY","-540,144.32"
+10/25/21,Purchase,"100,000",Shares,"Learning Technologies Group Net Cost 211,938.42 GBP",10/20/21,Jeffgb2x Jefferies Intl London,2.1162 GBP,"-832,587.53"
+10/25/21,Purchase,"10,000",Shares,"Vitec Software Group Ab B Sh Net Cost 4,720,625.33 SEK",10/20/21,Jeffus33 Jefferies Jersey City,471.3555 SEK,"-1,380,939.54"
+10/25/21,Purchase,"3,000",Shares,"Eurofins Scientific Net Cost 336,820.07 EUR",10/20/21,Jeffus33 Jefferies Jersey City,112.1052 EUR,"-1,773,149.68"
+10/25/21,Purchase,"100,000",Shares,"Capital Counties Properties Plc Net Cost 158,928.53 GBP",10/20/21,Jeffgb2x Jefferies Intl London,1.579 GBP,"-1,992,447.20"
+10/26/21,Sale,"1,440,288.13",Units,"1,440,288.13 -1,440,288.13 First Am Govt Ob Fd Cl X",10/26/21,,,"1,490,350.37"
+10/26/21,Purchase,"328,835.10",Units,Swedish Krona,10/22/21,,1 SEK,"1,451,995.18"
+10/26/21,Purchase,"336,820.07",Units,Euro,10/25/21,,1 EUR,"1,060,488.70"
+10/26/21,Purchase,"4,720,625.33",Units,Swedish Krona,10/25/21,,1 SEK,"511,157.07"
+10/26/21,Purchase,"5,441",Shares,"Raysearch Laboratories Ab Net Cost 328,835.10 SEK",10/22/21,Parbfrpp Banque Paribas Fr,60.34600074 SEK,"472,868.56"
+10/26/21,Purchase,"211,938.42",Units,British Pound,10/25/21,,1 GBP,"180,758.89"
+10/26/21,Purchase,"158,928.53",Units,British Pound,10/25/21,,1 GBP,"-38,288.51"
+10/27/21,Purchase,"447,338.33",Units,First Am Govt Ob Fd Cl X,10/27/21,,,0.00
+10/28/21,Sale,"1,365,355.12",Units,"1,365,355.12 -1,365,355.12 First Am Govt Ob Fd Cl X",10/28/21,,,"1,378,309.24"
+10/28/21,Purchase,"307,871.12",Units,Euro,10/26/21,,1 EUR,"1,020,790.99"
+10/28/21,Purchase,"34,596,818.00",Units,Yen,10/26/21,,1 JPY,"717,416.58"
+10/28/21,Purchase,"199,439.71",Units,British Pound,10/26/21,,1 GBP,"442,613.12"
+10/28/21,Purchase,"50,475,600.00",Units,Yen,10/26/21,,1 JPY,0.00
+10/28/21,Purchase,"50,000",Shares,"Yahoo Japan Corporation Net Cost 34,596,818 JPY",10/26/21,Jeffus33 Jefferies Jersey City,690.9 JPY,"-304,455.65"
+10/28/21,Purchase,"3,000",Shares,"Eurofins Scientific Net Cost 307,871.12 EUR",10/26/21,Jeffus33 Jefferies Jersey City,102.47 EUR,"-661,986.35"
+10/28/21,Purchase,"4,000",Shares,"Nidec Corp Net Cost 50,475,600 JPY",10/26/21,Jeffus33 Jefferies Jersey City,"12,600 JPY","-1,106,176.96"
+10/28/21,Purchase,"10,000",Shares,"Gvc Holdings Plc Net Cost 199,439.71 GBP",10/26/21,Crest 393,0.726258 GBP,"-1,380,795.39"
+10/29/21,Sale,900.00,Units,"1,239.23 -1,239.23 British Pound",10/29/21,,0.726258 GBP,"2,478.46"
+10/29/21,Sale,"17,218.51",Units,"17,218.51 -17,218.51 First Am Govt Ob Fd Cl X",10/29/21,,,"340,265.50"
+10/29/21,Purchase,"245,453.63",Units,British Pound,10/28/21,,1 GBP,"2,478.46"
+10/29/21,Purchase,"10,000",Shares,"Frontier Developments Plc Net Cost 245,453.63 GBP",10/27/21,Jeffgb2x Jefferies Intl London,0.732154 GBP,"-336,026.68"
+11/01/21,Sale,"9,720.00",Units,"13,275.90 -13,275.90 British Pound",11/1/21,,0.732154 GBP,"27,791.03"
+11/01/21,Purchase,"89,550.53",Units,First Am Govt Ob Fd Cl X,11/1/21,,,"13,275.90"
+11/02/21,Sale,"365,036.86",Units,"365,036.86 -365,036.86 First Am Govt Ob Fd Cl X",11/2/21,,,"455,767.94"
+11/02/21,Purchase,"393,800.82",Units,Euro,10/29/21,,1 EUR,0.00
+11/02/21,Purchase,"10,000",Shares,"Pva Tepla Ag Net Cost 393,800.82 EUR",10/29/21,Jeffus33 Jefferies Jersey City,39.3211 EUR,"-459,821.54"
+11/03/21,Purchase,"50,671.2",Units,First Am Govt Ob Fd Cl X,11/3/21,,,0.00
+11/04/21,Purchase,"28,658.39",Units,First Am Govt Ob Fd Cl X,11/4/21,,,0.00
+11/05/21,Purchase,"33,389.12",Units,First Am Govt Ob Fd Cl X,11/5/21,,,0.00
+11/08/21,Purchase,"22,276.99",Units,First Am Govt Ob Fd Cl X,11/8/21,,,0.00
+11/08/21,Purchase,"549,931.66",Units,Euro,11/4/21,,1 EUR,"-635,585.74"
+11/08/21,Purchase,"35,453,100.00",Units,Yen,11/4/21,,1 JPY,"-947,700.36"
+11/08/21,Purchase,"10,000",Shares,"Hugo Boss Ag Net Cost 549,931.66 EUR",11/4/21,Jeffus33 Jefferies Jersey City,54.9108 EUR,"-1,584,768.62"
+11/08/21,Purchase,"15,000",Shares,"Monotaro Co Ltd First Section Net Cost 35,453,100 JPY",11/4/21,Jeffus33 Jefferies Jersey City,"2,360 JPY","-1,895,556.26"
+11/09/21,Purchase,"316,929.08",Units,Euro,11/5/21,,1 EUR,"-1,240,419.10"
+11/09/21,Purchase,"2,354,982.18",Units,Norwegian Krone,11/5/21,,1 NOK,"-1,516,063.62"
+11/09/21,Purchase,"8,000",Shares,"Pva Tepla Ag Net Cost 316,929.08 EUR",11/5/21,Jeffus33 Jefferies Jersey City,39.5568 EUR,"-1,881,974.01"
+11/09/21,Purchase,"50,000",Shares,"Kahoot Asa Net Cost 2,354,982.18 NOK",11/5/21,Jeffus33 Jefferies Jersey City,47.0291 NOK,"-2,157,059.83"
+11/10/21,Purchase,"13,856.07",Units,First Am Govt Ob Fd Cl X,11/10/21,,,"-1,516,063.62"
+11/12/21,Sale,"729,704.41",Units,"729,704.41 -729,704.41 First Am Govt Ob Fd Cl X",11/12/21,,,"-792,843.57"
+11/12/21,Purchase,"3,500",Shares,Grupo Aeroportuario Sure Spon A D R,11/5/21,Jefferies LLC,206.5943 USD,"-1,516,063.62"
+11/15/21,Purchase,"45,847.93",Units,First Am Govt Ob Fd Cl X,11/15/21,,,"-1,516,063.62"
+11/16/21,Sale,"84,056.04",Units,"84,056.04 -84,056.04 First Am Govt Ob Fd Cl X",11/16/21,,,"-1,516,063.62"
+11/17/21,Purchase,"3,796.25",Units,First Am Govt Ob Fd Cl X,11/17/21,,,"-1,516,063.62"
+11/18/21,Purchase,"122,674.7",Units,First Am Govt Ob Fd Cl X,11/18/21,,,"-1,516,063.62"
+11/18/21,Purchase,"582,388.22",Units,First Am Govt Ob Fd Cl X,11/18/21,,,"-2,098,451.84"
+11/18/21,Sale,"1,600",Shares,"582,388.22 -470,940.22 Solaredge Technologies Inc",11/15/21,Jefferies LLC,364.0345 USD,"-1,516,063.62"
+11/19/21,Purchase,"12,599.09",Units,First Am Govt Ob Fd Cl X,11/19/21,,,"-1,516,063.62"
+11/19/21,Purchase,"2,148,845.22",Units,First Am Govt Ob Fd Cl X,11/19/21,,,"-3,664,908.84"
+11/19/21,Sale,"20,000",Shares,"1,055,244.61 -1,314,010.40 B H P Billiton Limited A D R",11/17/21,Jefferies LLC,52.8025 USD,"-2,609,664.23"
+11/19/21,Sale,"18,000",Shares,"1,093,600.61 -1,419,821.00 Rio Tinto Plc A D R",11/17/21,Jefferies LLC,60.7959 USD,"-1,516,063.62"
+11/22/21,Sale,"141,852.05",Units,"141,852.05 -141,852.05 First Am Govt Ob Fd Cl X",11/22/21,,,"-1,445,041.32"
+11/22/21,Purchase,"62,666.81",Units,Euro,11/19/21,,1 EUR,"-1,516,063.62"
+11/22/21,Purchase,"4,500",Shares,"Mister Spex SE Npv Net Cost 62,666.81 EUR",11/18/21,Parbdeff Bnp Paribas Frankfurt,13.9051 EUR,"-1,586,927.26"
+11/23/21,Purchase,"114,860.02",Units,First Am Govt Ob Fd Cl X,11/23/21,,,"-1,516,063.62"
+11/24/21,Purchase,"109,037.71",Units,First Am Govt Ob Fd Cl X,11/24/21,,,"-1,632,466.99"
+11/24/21,Sale,"7,365.66",Units,"7,365.66 -7,365.66 First Am Govt Ob Fd Cl X",11/24/21,,,"-1,625,101.33"
+11/24/21,Purchase,"20,000",Shares,"Cyberagent Inc Npv Net Cost 44,406,510 JPY",11/19/21,Jeffus33 Jefferies Jersey City,"2,217 JPY","-2,013,660.72"
+11/24/21,Sale,"24,362",Shares,"110,062.71 -144,297.81 Moonpig Group Plc Ord Net Proceeds 81,776.32 GBP",11/22/21,Crst 871,3.36179993 GBP,"-1,903,598.01"
+11/24/21,Sale,"81,776.32",Units,"109,037.71 -110,062.71 British Pound",11/24/21,,0.749982 GBP,"-1,794,560.30"
+11/26/21,Sale,"763,404.99",Units,"763,404.99 -763,404.99 First Am Govt Ob Fd Cl X",11/26/21,,,"-730,680.94"
+11/26/21,Purchase,"44,406,510.00",Units,Yen,11/24/21,,1 JPY,"-1,116,656.69"
+11/26/21,Purchase,"127,995.49",Units,Euro,11/24/21,,1 EUR,"-1,260,078.16"
+11/26/21,Purchase,"35,426.52",Units,Euro,11/24/21,,1 EUR,"-1,299,777.79"
+11/26/21,Purchase,"509,414.63",Units,Euro,11/24/21,,1 EUR,"-1,870,688.65"
+11/26/21,Sale,"33,228",Shares,"146,890.34 -196,152.68 Moonpig Group Plc Ord Net Proceeds 109,619.63 GBP",11/23/21,Plhcgb3l United Kingdom,3.304 GBP,"-1,723,798.31"
+11/26/21,Sale,"47,410",Shares,"209,150.75 -276,696.02 Moonpig Group Plc Ord Net Proceeds 156,444.55 GBP",11/24/21,Plhcgb3l United Kingdom,3.3048 GBP,"-1,514,647.56"
+11/26/21,Purchase,"7,803",Shares,"Slm Solutions Group Ag Net Cost 127,995.49 EUR",11/23/21,Jeffus33 Jefferies Jersey City,16.3788 EUR,"-1,658,597.69"
+11/26/21,Purchase,"2,197",Shares,"Slm Solutions Group Ag Net Cost 35,426.52 EUR",11/24/21,Jeffus33 Jefferies Jersey City,16.1008 EUR,"-1,698,500.35"
+11/26/21,Purchase,"40,500",Shares,"Mister Spex SE Npv Net Cost 509,414.63 EUR",11/24/21,Jeffus33 Jefferies Jersey City,12.5593 EUR,"-2,272,279.52"
+11/26/21,Sale,"109,619.63",Units,"146,371.06 -146,890.34 British Pound",11/23/21,,0.74891601 GBP,"-2,125,908.46"
+11/26/21,Sale,"156,444.55",Units,"208,253.97 -209,150.75 British Pound",11/24/21,,0.75122001 GBP,"-1,917,654.49"
+11/29/21,Sale,"947,700.36",Units,"947,700.36 -947,700.36 First Am Govt Ob Fd Cl X",11/8/21,,,"-568,363.26"
+11/29/21,Sale,"568,363.26",Units,"568,363.26 -568,363.26 First Am Govt Ob Fd Cl X",11/9/21,,,0.00
+11/29/21,Purchase,"38,599.48",Units,First Am Govt Ob Fd Cl X,11/29/21,,113.87 JPY,0.00
+11/30/21,Sale,"154,262.00",Units,"1,354.72 -1,354.72 Yen",11/30/21,,113.87 JPY,"2,709.44"
+11/30/21,Purchase,"3,806.88",Units,First Am Govt Ob Fd Cl X,11/30/21,,113.18 JPY,"2,709.44"
+12/01/21,Sale,"498,829.00",Units,"4,407.40 -4,407.40 Yen",12/1/21,,113.18 JPY,"10,169.52"
+12/01/21,Sale,"183,936.00",Units,"1,625.16 -1,625.16 Yen",12/1/21,,113.18 JPY,"13,419.84"
+12/01/21,Sale,"211,712.00",Units,"1,870.58 -1,870.58 Yen",12/1/21,,113.18 JPY,"17,161.00"
+12/01/21,Purchase,"100,160.93",Units,First Am Govt Ob Fd Cl X,12/1/21,,,"15,206.28"
+12/01/21,Purchase,"7,303.14",Units,First Am Govt Ob Fd Cl X,12/1/21,,,"7,903.14"
+12/02/21,Sale,"424,271.23",Units,"424,271.23 -424,271.23 First Am Govt Ob Fd Cl X",12/2/21,,,"-11,342.72"
+12/02/21,Sale,"11,342.72",Units,"11,342.72 -11,342.72 First Am Govt Ob Fd Cl X",12/2/21,,,0.00
+12/03/21,Purchase,"24,153.02",Units,First Am Govt Ob Fd Cl X,12/3/21,,113.2 JPY,0.00
+12/06/21,Sale,"178,431.00",Units,"1,576.25 -1,576.25 Yen",12/6/21,,113.2 JPY,"3,152.50"
+12/06/21,Sale,"580,085.35",Units,"580,085.35 -580,085.35 First Am Govt Ob Fd Cl X",12/6/21,,,"592,956.79"
+12/06/21,Purchase,"248,100.59",Units,British Pound,12/3/21,,1 GBP,"263,298.82"
+12/06/21,Purchase,"229,723.77",Units,Euro,12/3/21,,1 EUR,"3,152.50"
+12/06/21,Purchase,"15,000",Shares,"Gvc Holdings Plc Net Cost 248,100.59 GBP",12/2/21,Parbfrpp Banque Paribas Fr,16.5152 GBP,"-327,255.32"
+12/06/21,Purchase,"3,000",Shares,"Zalando SE Net Cost 229,723.77 EUR",12/2/21,Parbfrpp Banque Paribas Fr,76.4599 EUR,"-587,624.25"
+12/07/21,Sale,"59,708.7",Units,"59,708.70 -59,708.70 First Am Govt Ob Fd Cl X",12/7/21,,,0.00
+12/08/21,Purchase,"538,592.44",Units,First Am Govt Ob Fd Cl X,12/8/21,,,"-536,062.79"
+12/08/21,Sale,"56,000",Shares,"534,713.46 -1,025,978.74 Raccoon Holdings I Npv Net Proceeds 60,542,931 JPY",12/6/21,Jeffus33 Jefferies Jersey City,"1,082.7479 JPY","-1,349.33"
+12/08/21,Sale,"60,542,931.00",Units,"536,062.79 -534,713.46 Yen",12/6/21,,99.00 SEK,"534,713.46"
+12/09/21,Purchase,"24,791.8",Units,First Am Govt Ob Fd Cl X,12/9/21,,,0.00
+12/10/21,Sale,"1,176,584.07",Units,"1,176,584.07 -1,176,584.07 First Am Govt Ob Fd Cl X",12/10/21,,,"1,186,659.84"
+12/10/21,Purchase,"250,872.06",Units,Euro,12/8/21,,1 EUR,"901,735.63"
+12/10/21,Purchase,"263,301.86",Units,Euro,12/8/21,,1 EUR,"602,720.95"
+12/10/21,Purchase,500,Shares,Mercadolibre Inc,12/8/21,Jefferies LLC,"1,205.4019 USD",0.00
+12/10/21,Purchase,"3,000",Shares,"Orpea Net Cost 250,872.06 EUR",12/8/21,Jeffus33 Jefferies Jersey City,83.2494 EUR,"-282,155.80"
+12/10/21,Purchase,"5,000",Shares,"Hugo Boss Ag Net Cost 263,301.86 EUR",12/8/21,Jeffus33 Jefferies Jersey City,113.44 JPY,"-578,291.40"
+12/13/21,Sale,"336,470.00",Units,"2,966.06 -2,966.06 Yen",12/13/21,,113.44 JPY,"5,932.12"
+12/13/21,Purchase,"2,966.06",Units,First Am Govt Ob Fd Cl X,12/13/21,,,"6,720.58"
+12/13/21,Purchase,"3,754.52",Units,First Am Govt Ob Fd Cl X,12/13/21,,,"2,966.06"
+12/14/21,Purchase,"949,503.61",Units,First Am Govt Ob Fd Cl X,12/14/21,,,"-967,896.48"
+12/14/21,Sale,"20,100",Shares,"967,896.48 -621,067.03 Stmicroelectronics N V",12/10/21,Jefferies LLC,48.1943 USD,0.00
+12/15/21,Sale,"55,116.97",Units,"55,116.97 -55,116.97 First Am Govt Ob Fd Cl X",12/15/21,,,0.00
+12/16/21,Purchase,"22,116.35",Units,First Am Govt Ob Fd Cl X,12/16/21,,,0.00
+12/17/21,Purchase,"7,264.32",Units,First Am Govt Ob Fd Cl X,12/17/21,,,0.00
+12/20/21,Purchase,"24,035.73",Units,First Am Govt Ob Fd Cl X,12/20/21,,,0.00
+12/21/21,Sale,"2,369,475.82",Units,"2,369,475.82 -2,369,475.82 First Am Govt Ob Fd Cl X",12/21/21,,,"-396,791.25"
+12/21/21,Sale,"10,030",Shares,"399,733.96 -524,886.57 Umicore Net Proceeds 353,527.91 EUR",12/17/21,Jeffus33 Jefferies Jersey City,35.3 EUR,"2,942.71"
+12/21/21,Sale,"353,527.91",Units,"396,791.25 -399,733.96 Euro",12/17/21,,0.890967 EUR,"399,733.96"
+12/22/21,Purchase,"115,775.26",Units,First Am Govt Ob Fd Cl X,12/22/21,,,0.00
+12/23/21,Purchase,"590,539.52",Units,First Am Govt Ob Fd Cl X,12/23/21,,,"-611,484.23"
+12/23/21,Sale,"185,708.87",Units,"185,708.87 -185,708.87 First Am Govt Ob Fd Cl X",12/23/21,,,"-425,775.36"
+12/23/21,Sale,"5,000",Shares,"611,419.34 -640,662.38 Eurofins Scientific Net Proceeds 541,582.41 EUR",12/21/21,Jeffus33 Jefferies Jersey City,108.4792 EUR,"185,643.98"
+12/23/21,Sale,"541,582.41",Units,"611,484.23 -611,419.34 Euro",12/22/21,,0.885685 EUR,"797,128.21"
+12/23/21,Purchase,250,Shares,Mercadolibre Inc,12/20/21,Jefferies LLC,"1,192.8262 USD","498,911.66"
+12/24/21,Sale,"29,030",Shares,"186,384.42 -562,333.56 Uuum Inc Net Proceeds 21,263,666 JPY",12/22/21,Jeffus33 Jefferies Jersey City,733.57247675 JPY,"73,876.74"
+12/24/21,Sale,"21,263,666.00",Units,"185,708.87 -186,384.42 Yen",12/23/21,,114.50000207 JPY,"259,585.61"
+12/27/21,Sale,"1,116,628.98",Units,"1,116,628.98 -1,116,628.98 First Am Govt Ob Fd Cl X",12/27/21,,,"-1,016,615.45"
+12/29/21,Purchase,"762,824.04",Units,First Am Govt Ob Fd Cl X,12/29/21,,,"-1,533,778.61"
+12/29/21,Sale,"10,000",Shares,"468,813.63 -459,821.54 Pva Tepla Ag Net Proceeds 413,817.34 EUR",12/27/21,Jeffus33 Jefferies Jersey City,41.4439 EUR,"-1,064,964.98"
+12/29/21,Sale,"2,000",Shares,"250,658.44 -238,353.80 Eurofins Scientific Net Proceeds 221,253.82 EUR",12/27/21,Jeffus33 Jefferies Jersey City,110.7931 EUR,"-814,306.54"
+12/29/21,Sale,"60,000",Shares,"559,317.13 -666,182.50 Blackberry Ltd",12/27/21,Jefferies LLC,9.362 USD,"-254,989.41"
+12/29/21,Sale,"2,000",Shares,"256,070.09 -338,922.80 Jazz Pharmaceuticals Plc",12/27/21,Jefferies LLC,128.0757 USD,"1,080.68"
+12/29/21,Sale,"413,817.34",Units,"468,138.23 -468,813.64 Euro",12/27/21,,0.88396399 EUR,"469,218.91"
+12/29/21,Sale,"221,253.82",Units,"250,253.16 -250,658.43 Euro",12/27/21,,0.88411998 EUR,"719,472.07"
+12/30/21,Sale,"762,824.04",Units,"762,824.04 -762,824.04 First Am Govt Ob Fd Cl X",12/30/21,Jpmsgb2l Jp Morgan Sec London,82.43910048 EUR,"-84,118.16"

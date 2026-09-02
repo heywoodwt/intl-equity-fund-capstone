@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#1f6feb"
+
+[server]
+# Prevents the dev server from restarting on data-file writes during a pipeline run.
+fileWatcherType = "auto"

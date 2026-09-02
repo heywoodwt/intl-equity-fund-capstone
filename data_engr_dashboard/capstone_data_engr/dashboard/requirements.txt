@@ -1,0 +1,8 @@
+# Deploy-time deps (Streamlit Community Cloud reads this file).
+# For local dev use the repo's uv env instead:  uv run streamlit run dashboard/app.py
+streamlit>=1.58
+plotly>=6.8
+scikit-learn>=1.7
+statsmodels>=0.14
+pandas>=2.2,<3.0
+numpy>=1.24

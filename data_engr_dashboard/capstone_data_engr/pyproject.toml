@@ -1,0 +1,33 @@
+[project]
+name = "capstone-data-engr"
+version = "0.1.0"
+description = "Data engineering & enrichment for the UVA fund capstone."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.2,<3.0",
+    "numpy>=1.24",
+    "requests>=2.28",
+    "yfinance>=0.2",
+    "python-dotenv>=1.0",
+    "wrds>=3.1.6",
+]
+
+[dependency-groups]
+dashboard = [
+    "plotly>=6.8.0",
+    "pyarrow>=15.0",
+    "scikit-learn>=1.7.2",
+    "statsmodels>=0.14.6",
+    "streamlit>=1.58.0",
+]
+dev = [
+    "matplotlib>=3.10.9",
+    "pytest>=8.0",
+]
+
+[tool.uv]
+# Application-style repo: manage the environment but don't build/install this
+# project as a package. Scripts/tests put the repo root on sys.path themselves.
+package = false
+default-groups = ["dev", "dashboard"]

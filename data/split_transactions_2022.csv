@@ -1,0 +1,763 @@
+Date Posted,Activity,Quantity,Unit Type,Asset Name,Trade Date,Broker,Price Per Unit,Principal Cash
+01/03/22,Sale,"5,768.70",Units,638.69 -638.69 Swedish Krona,12/30/21,,9.032123 SEK,"-81,408.35"
+01/03/22,Purchase,"506,029.27",Units,First Am Govt Ob Fd Cl X,1/3/22,,,"-564,249.89"
+01/03/22,Sale,"5,000",Shares,"320,638.14 -339,772.61 Fnac Darty Net Proceeds 282,488.13 EUR",12/30/21,Jeffus33 Jefferies Jersey City,56.5825 EUR,"-243,611.75"
+01/03/22,Sale,"10,000",Shares,"245,985.74 -232,800.00 Materialise Nv A D R",12/30/21,Jefferies LLC,24.6387 USD,"2,373.99"
+01/03/22,Sale,"282,488.13",Units,"319,541.53 -320,638.14 Euro",12/31/21,,0.88404199 EUR,"321,915.52"
+01/04/22,Sale,"506,029.27",Units,"506,029.27 -506,029.27 First Am Govt Ob Fd Cl X",1/4/22,,,"-540,936.23"
+01/04/22,Sale,"45,000",Shares,"100,165.10 -113,669.12 Boku Inc Net Proceeds 74,273.42 GBP",12/30/21,Jeffgb2x Jefferies Intl London,1.653 GBP,"-440,771.13"
+01/04/22,Sale,"10,000",Shares,"337,831.31 -319,627.14 Nordic Semiconductor Asa Net Proceeds 2,965,719.74 NOK",12/30/21,Parbfrpp Banque Paribas Fr,297.0175 NOK,"-102,939.82"
+01/04/22,Sale,"74,273.42",Units,"100,450.80 -100,165.10 British Pound",12/31/21,,0.73940098 GBP,"-2,489.02"
+01/04/22,Sale,"2,965,719.74",Units,"333,358.48 -337,831.31 Norwegian Krone",1/3/22,,8.89648807 NOK,"330,869.46"
+01/05/22,Purchase,"244,253.24",Units,First Am Govt Ob Fd Cl X,1/5/22,,,"-352,389.12"
+01/05/22,Sale,"3,000",Shares,"353,293.58 -339,857.71 Nidec Corp Net Proceeds 40,605,798 JPY",12/31/21,Jeffus33 Jefferies Jersey City,"13,555.59933333 JPY",904.46
+01/05/22,Sale,"40,605,798.00",Units,"352,389.12 -353,293.58 Yen",12/31/21,,116.12 JPY,"353,293.58"
+01/06/22,Purchase,"777,818.91",Units,First Am Govt Ob Fd Cl X,1/6/22,,,"-794,044.12"
+01/06/22,Sale,"10,000",Shares,"212,028.31 -137,174.35 Watches Of Switzerland Group Net Proceeds 157,671.14 GBP",1/4/22,Parbfrpp Banque Paribas Fr,15.7909 GBP,"-582,015.81"
+01/06/22,Sale,"5,000",Shares,"580,249.78 -307,401.92 Eurofins Scientific Net Proceeds 513,859.05 EUR",1/4/22,Parbfrpp Banque Paribas Fr,102.9262 EUR,"-1,766.03"
+01/06/22,Sale,"157,671.14",Units,"213,399.30 -212,028.31 British Pound",1/5/22,,0.738855 GBP,"211,633.27"
+01/06/22,Sale,"513,859.05",Units,"580,644.82 -580,249.78 Euro",1/5/22,,0.739073 GBP,"792,278.09"
+01/07/22,Sale,"6,450.00",Units,"8,727.14 -8,727.15 British Pound",1/7/22,,0.739073 GBP,"17,454.29"
+01/07/22,Purchase,"349,014.09",Units,First Am Govt Ob Fd Cl X,1/7/22,,,"-291,385.54"
+01/07/22,Sale,"1,977",Shares,"115,731.26 -108,409.19 Vitec Software Group Ab B Sh Net Proceeds 1,055,260.81 SEK",1/4/22,Parbfrpp Banque Paribas Fr,534.5706 SEK,"-175,654.28"
+01/07/22,Sale,"3,123",Shares,"184,299.80 -171,250.33 Vitec Software Group Ab B Sh Net Proceeds 1,672,990.61 SEK",1/5/22,Parbfrpp Banque Paribas Fr,536.5046 SEK,"8,645.52"
+01/07/22,Sale,"1,055,260.81",Units,"116,277.49 -116,249.52 Swedish Krona",1/5/22,,9.07536626 SEK,"124,923.01"
+01/07/22,Sale,"1,672,990.61",Units,"183,835.20 -183,781.54 Swedish Krona",1/5/22,,9.10049115 SEK,"308,758.21"
+01/10/22,Sale,"3,299.84",Units,"3,299.84 -3,299.84 First Am Govt Ob Fd Cl X",1/10/22,,,0.00
+01/11/22,Sale,"20,069.07",Units,"20,069.07 -20,069.07 First Am Govt Ob Fd Cl X",1/11/22,,115.38 JPY,0.00
+01/12/22,Sale,"474,236.00",Units,"4,110.21 -4,110.21 Yen",1/11/22,,115.38 JPY,"8,220.42"
+01/12/22,Sale,"1,347,717.33",Units,"1,347,717.33 -1,347,717.33 First Am Govt Ob Fd Cl X",1/12/22,,,"-1,082,105.86"
+01/14/22,Purchase,"1,066,462.07",Units,First Am Govt Ob Fd Cl X,1/14/22,,,"-1,515,597.15"
+01/14/22,Sale,"6,145",Shares,"34,782.35 -82,866.66 Raysearch Laboratories Ab Net Proceeds 315,964.57 SEK",1/12/22,Jeffus33 Jefferies Jersey City,51.4954 SEK,"-1,480,814.80"
+01/14/22,Sale,"6,000",Shares,"515,302.69 -547,054.55 Dermapharm Hldg Net Proceeds 454,391.59 EUR",1/12/22,Jeffus33 Jefferies Jersey City,75.8457 EUR,"-965,512.11"
+01/14/22,Sale,"25,000",Shares,"479,151.53 -700,043.53 Aston Martin Lagonda Gbl Hldgs Plc O Net Proceeds 352,174.94 GBP",1/12/22,Jeffgb2x Jefferies Intl London,14.1082 GBP,"-486,360.58"
+01/14/22,Sale,"10,000",Shares,"475,971.26 -276,208.20 Future Plc Net Proceeds 349,837.45 GBP",1/12/22,Jeffgb2x Jefferies Intl London,35.0364 GBP,"-10,389.32"
+01/14/22,Sale,"454,391.59",Units,"519,440.62 -515,302.69 Euro",1/12/22,,0.874771 EUR,"509,051.30"
+01/14/22,Sale,"352,174.94",Units,"482,102.54 -479,151.53 British Pound",1/12/22,,0.730498 GBP,"991,153.84"
+01/14/22,Sale,"349,837.45",Units,"478,763.08 -475,971.26 British Pound",1/12/22,,0.730711 GBP,"1,469,916.92"
+01/14/22,Sale,"315,964.57",Units,"35,290.91 -34,782.35 Swedish Krona",1/12/22,,8.95314317 SEK,"1,505,207.83"
+01/18/22,Sale,"1,066,462.07",Units,"1,066,462.07 -1,066,462.07 First Am Govt Ob Fd Cl X",1/18/22,,,"-597,449.65"
+01/18/22,Sale,"4,574",Shares,"25,744.20 -56,409.98 Raysearch Laboratories Ab Net Proceeds 230,733.69 SEK",1/13/22,Jeffus33 Jefferies Jersey City,50.5204 SEK,"-571,705.45"
+01/18/22,Sale,"12,025",Shares,"66,544.41 -127,405.18 Raysearch Laboratories Ab Net Proceeds 593,895.59 SEK",1/14/22,Jeffus33 Jefferies Jersey City,49.4626 SEK,"-505,161.04"
+01/18/22,Sale,"230,733.69",Units,"25,776.14 -25,853.09 Swedish Krona",1/13/22,,8.95144463 SEK,"-479,384.90"
+01/18/22,Sale,"593,895.59",Units,"65,675.10 -66,435.52 Swedish Krona",1/14/22,,9.04293393 SEK,"-413,709.80"
+01/19/22,Purchase,"352,113.54",Units,First Am Govt Ob Fd Cl X,1/19/22,,,"-847,583.40"
+01/19/22,Sale,"30,000",Shares,"287,479.54 -315,379.23 Rakuten Group Inc Net Proceeds 32,710,860 JPY",1/17/22,Jeffus33 Jefferies Jersey City,"1,092 JPY","-560,103.86"
+01/19/22,Sale,"30,120",Shares,"477,732.74 -576,465.52 Cyberagent Inc Npv Net Proceeds 54,358,820 JPY",1/17/22,Jeffus33 Jefferies Jersey City,"1,807.45288845 JPY","-82,371.12"
+01/19/22,Sale,"16,845",Shares,"89,373.08 -151,202.99 Raysearch Laboratories Ab Net Proceeds 804,053.86 SEK",1/17/22,Jeffus33 Jefferies Jersey City,47.8042 SEK,"7,001.96"
+01/19/22,Sale,"54,358,820.00",Units,"474,004.36 -477,732.74 Yen",1/18/22,,114.67999999 JPY,"481,006.32"
+01/19/22,Sale,"32,710,860.00",Units,"285,235.96 -287,479.54 Yen",1/18/22,,114.68000038 JPY,"766,242.28"
+01/19/22,Sale,"804,053.86",Units,"88,343.08 -89,373.08 Swedish Krona",1/18/22,,9.10149227 SEK,"854,585.36"
+01/20/22,Purchase,"78,478.57",Units,First Am Govt Ob Fd Cl X,1/20/22,,,"-52,095.33"
+01/20/22,Sale,"10,280",Shares,"52,924.53 -72,441.01 Raysearch Laboratories Ab Net Proceeds 476,961.16 SEK",1/18/22,Jeffus33 Jefferies Jersey City,46.4667 SEK,829.20
+01/20/22,Sale,"476,961.16",Units,"52,095.33 -52,924.53 Swedish Krona",1/18/22,,9.15554542 SEK,"52,924.53"
+01/21/22,Purchase,"21,174.77",Units,First Am Govt Ob Fd Cl X,1/21/22,,,"-42,278.51"
+01/21/22,Sale,"8,260",Shares,"42,277.57 -56,647.49 Raysearch Laboratories Ab Net Proceeds 385,009.16 SEK",1/19/22,Jeffus33 Jefferies Jersey City,46.68130024 SEK,-0.94
+01/21/22,Sale,"385,009.16",Units,"42,278.51 -42,277.57 Swedish Krona",1/19/22,,9.10649784 SEK,"42,277.57"
+01/24/22,Sale,"50,291.2",Units,"50,291.20 -50,291.20 First Am Govt Ob Fd Cl X",1/24/22,,,0.00
+01/25/22,Purchase,"299,509.03",Units,First Am Govt Ob Fd Cl X,1/25/22,,,"-290,030.90"
+01/25/22,Sale,"11,568",Shares,"58,926.08 -78,108.60 Raysearch Laboratories Ab Net Proceeds 536,660.43 SEK",1/21/22,Jeffus33 Jefferies Jersey City,46.46149983 SEK,"-231,104.82"
+01/25/22,Sale,"2,879",Shares,"233,034.46 -211,011.70 Dermapharm Hldg Net Proceeds 205,352.88 EUR",1/21/22,Parbfrpp Banque Paribas Fr,71.43500174 EUR,"1,929.64"
+01/25/22,Sale,"536,660.43",Units,"58,255.38 -58,926.08 Swedish Krona",1/21/22,,9.21220375 SEK,"60,185.02"
+01/25/22,Sale,"205,352.88",Units,"231,775.52 -233,034.46 Euro",1/24/22,,0.885999 EUR,"291,960.54"
+01/26/22,Purchase,"850,680.6",Units,First Am Govt Ob Fd Cl X,1/26/22,,,"-825,588.51"
+01/26/22,Purchase,"25,092.09",Units,First Am Govt Ob Fd Cl X,1/26/22,,,"-850,680.60"
+01/26/22,Sale,"100,000",Shares,"232,610.50 -219,601.51 Capital Counties Properties Plc Net Proceeds 171,611.19 GBP",1/24/22,Crst 871,1.7187 GBP,"-618,070.10"
+01/26/22,Sale,"105,000",Shares,"230,216.32 -262,276.30 Boku Inc Net Proceeds 169,844.85 GBP",1/24/22,Crst 871,1.62 GBP,"-387,853.78"
+01/26/22,Sale,"10,000",Shares,"173,748.63 -219,112.53 Boozt Ab Net Proceeds 1,594,621.47 SEK",1/24/22,Jeffus33 Jefferies Jersey City,159.7017 SEK,"-214,105.15"
+01/26/22,Sale,"3,000",Shares,"219,441.01 -344,959.75 Zalando SE Net Proceeds 193,391.28 EUR",1/24/22,Jeffus33 Jefferies Jersey City,64.5606 EUR,"5,335.86"
+01/26/22,Sale,"171,611.19",Units,"231,340.54 -232,610.51 British Pound",1/25/22,,0.74181201 GBP,"236,676.40"
+01/26/22,Sale,"169,844.85",Units,"228,976.40 -230,216.31 British Pound",1/25/22,,0.74175701 GBP,"465,652.80"
+01/26/22,Sale,"1,594,621.47",Units,"172,146.71 -173,748.63 Swedish Krona",1/25/22,,9.26315391 SEK,"637,799.51"
+01/26/22,Sale,"193,391.28",Units,"218,216.95 -219,441.01 Euro",1/25/22,,0.886234 EUR,"856,016.46"
+01/27/22,Purchase,"688,568.25",Units,First Am Govt Ob Fd Cl X,1/27/22,,,"-710,788.71"
+01/27/22,Sale,"43,296.97",Units,"43,296.97 -43,296.97 First Am Govt Ob Fd Cl X",1/27/22,,,"-667,491.74"
+01/27/22,Sale,"2,000",Shares,"171,945.14 -172,601.01 Advantest Corp Ord(Jp) Net Proceeds 19,590,570 JPY",1/25/22,Jeffus33 Jefferies Jersey City,"9,810 JPY","-495,546.60"
+01/27/22,Sale,"5,000",Shares,"210,111.36 -269,411.32 Mercari Inc Net Proceeds 23,939,038 JPY",1/25/22,Jeffus33 Jefferies Jersey City,"4,795 JPY","-285,435.24"
+01/27/22,Sale,"1,000",Shares,"285,698.86 -335,209.28 Disco Corporation Net Proceeds 32,551,100 JPY",1/25/22,Jeffus33 Jefferies Jersey City,"32,600 JPY",263.62
+01/27/22,Sale,"23,939,038.00",Units,"210,028.41 -210,111.36 Yen",1/25/22,,113.97999918 JPY,"210,292.03"
+01/27/22,Sale,"32,551,100.00",Units,"285,586.07 -285,698.86 Yen",1/25/22,,113.97999909 JPY,"495,878.10"
+01/27/22,Sale,"19,590,570.00",Units,"171,877.26 -171,945.14 Yen",1/25/22,,113.97999945 JPY,"667,755.36"
+01/28/22,Sale,"46,527.52",Units,"46,527.52 -46,527.52 First Am Govt Ob Fd Cl X",1/28/22,,,0.00
+01/28/22,Sale,"10,000",Shares,"22,114.52 -24,079.15 Boku Inc Net Proceeds 16,385.38 GBP",12/31/21,Jeffgb2x Jefferies Intl London,1.641 GBP,"22,114.52"
+01/31/22,Sale,"378,845.29",Units,"378,845.29 -378,845.29 First Am Govt Ob Fd Cl X",1/31/22,,,"-21,911.53"
+01/31/22,Sale,"16,385.38",Units,"21,911.53 -22,114.52 British Pound",1/28/22,,0.74779716 GBP,0.00
+02/01/22,Sale,"391,947.47",Units,"391,947.47 -391,947.47 First Am Govt Ob Fd Cl X",2/1/22,,,"469,721.46"
+02/01/22,Purchase,"417,744.43",Units,Euro,1/31/22,,1 EUR,0.00
+02/01/22,Purchase,"10,000",Shares,"Orpea Net Cost 417,744.43 EUR",1/28/22,Parbfrpp Banque Paribas Fr,8.4001 SEK,"-465,743.23"
+02/01/22,Sale,"14,447",Shares,"75,741.33 -162,778.21 Raysearch Laboratories Ab Net Proceeds 690,132.29 SEK",1/20/22,Jeffus33 Jefferies Jersey City,47.8417 SEK,"-390,001.90"
+02/01/22,Sale,"16,056",Shares,"76,282.24 -176,910.95 Raysearch Laboratories Ab Net Proceeds 700,099.34 SEK",1/24/22,Jeffus33 Jefferies Jersey City,9.3341 SEK,"-313,719.66"
+02/02/22,Sale,"64,905.39",Units,"64,905.39 -64,905.39 First Am Govt Ob Fd Cl X",2/2/22,,,"-39,313.36"
+02/02/22,Purchase,100,Shares,Mercadolibre Inc,1/31/22,Jefferies LLC,"1,106.01 USD","-149,918.36"
+02/02/22,Sale,"690,132.29",Units,"74,415.30 -75,741.33 Swedish Krona",2/1/22,,9.27406447 SEK,"-75,503.06"
+02/02/22,Sale,"700,099.34",Units,"75,503.06 -76,282.24 Swedish Krona",2/1/22,,9.27246313 SEK,0.00
+02/03/22,Sale,,,"72,524.54 -72,524.54 Mister Spex SE Npv Net Proceeds 64,696.28 EUR",2/1/22,Parbdeff Bnp Paribas Frankfurt,10.57099984 EUR,"72,524.54"
+02/03/22,Purchase,"4,657",Shares,"Mister Spex SE Npv Net Cost 49,302.99 EUR",2/1/22,Parbdeff Bnp Paribas Frankfurt,10.57100064 EUR,"17,255.88"
+02/03/22,Sale,"94,681.34",Units,"94,681.34 -94,681.34 First Am Govt Ob Fd Cl X",2/3/22,,,"90,254.43"
+02/03/22,Purchase,"64,696.28",Units,Euro,2/1/22,,1 EUR,"17,255.88"
+02/03/22,Purchase,"6,111",Shares,"Mister Spex SE Npv Net Cost 64,696.28 EUR",2/1/22,Parbdeff Bnp Paribas Frankfurt,10.57099984 EUR,"-55,268.66"
+02/03/22,Purchase,"1,454",Shares,"Mister Spex SE Npv Net Cost 15,393.29 EUR",2/1/22,Parbdeff Bnp Paribas Frankfurt,10.571 EUR,"-72,524.54"
+02/04/22,Sale,"441,429.96",Units,"441,429.96 -441,429.96 First Am Govt Ob Fd Cl X",2/4/22,,,"460,308.61"
+02/04/22,Purchase,"200,688.31",Units,Euro,2/3/22,,1 EUR,"233,505.00"
+02/04/22,Purchase,200,Shares,Mercadolibre Inc,2/2/22,Jefferies LLC,"1,167.485 USD",0.00
+02/04/22,Purchase,"18,889",Shares,"Mister Spex SE Npv Net Cost 200,688.31 EUR",2/2/22,Parbfrpp Banque Paribas Fr,10.6087 EUR,"-225,754.26"
+02/07/22,Sale,"263,822.49",Units,"263,822.49 -263,822.49 First Am Govt Ob Fd Cl X",2/7/22,,0.87768615 EUR,0.00
+02/08/22,Sale,"3,575.00",Units,"4,073.21 -4,073.21 Euro",2/8/22,,0.87768615 EUR,"8,146.42"
+02/08/22,Purchase,"4,785.45",Units,First Am Govt Ob Fd Cl X,2/8/22,,,"4,073.21"
+02/09/22,Purchase,"34,996.54",Units,First Am Govt Ob Fd Cl X,2/9/22,,0.73891 GBP,0.00
+02/10/22,Sale,"1,124.20",Units,"1,521.43 -1,521.43 British Pound",2/9/22,,0.73891 GBP,"3,042.86"
+02/10/22,Sale,"75,027.63",Units,"75,027.63 -75,027.63 First Am Govt Ob Fd Cl X",2/10/22,,,"-151,002.13"
+02/10/22,Purchase,"162,397.53",Units,Euro,2/8/22,,1 EUR,"-336,661.90"
+02/10/22,Purchase,"485,395.28",Units,Swedish Krona,2/9/22,,1 SEK,"-390,087.14"
+02/10/22,Sale,"10,100",Shares,"175,760.42 -332,106.42 Ocado Group Plc Net Proceeds 129,889.85 GBP",2/8/22,Jeffgb2x Jefferies Intl London,12.8798 GBP,"-214,326.72"
+02/10/22,Sale,"100,000",Shares,"217,528.97 -292,443.21 Learning Technologies Group Net Proceeds 160,757.50 GBP",2/8/22,Jeffgb2x Jefferies Intl London,1.61 GBP,"3,202.25"
+02/10/22,Purchase,100,Shares,"Adyen Bv Net Cost 162,397.53 EUR",2/8/22,Parbfrpp Banque Paribas Fr,"1,621.543 EUR","-182,669.91"
+02/10/22,Purchase,"13,809",Shares,"Tobii Ab Net Cost 485,395.28 SEK",2/8/22,Parbfrpp Banque Paribas Fr,35.09799986 SEK,"-235,895.99"
+02/10/22,Sale,"129,889.85",Units,"175,682.09 -175,760.42 British Pound",2/8/22,,0.739346 GBP,"-60,213.90"
+02/10/22,Sale,"160,757.50",Units,"217,447.91 -217,528.97 British Pound",2/8/22,,0.739292 GBP,"157,234.01"
+02/11/22,Sale,"17,229.2",Units,"17,229.20 -17,229.20 First Am Govt Ob Fd Cl X",2/11/22,,,"62,140.15"
+02/11/22,Purchase,"571,459.12",Units,Swedish Krona,2/10/22,,1 SEK,0.00
+02/11/22,Purchase,"16,191",Shares,"Tobii Ab Net Cost 571,459.12 SEK",2/9/22,Parbfrpp Banque Paribas Fr,35.24199988 SEK,"-62,371.05"
+02/14/22,Purchase,"64,981.84",Units,First Am Govt Ob Fd Cl X,2/14/22,,,0.00
+02/15/22,Purchase,"13,772.54",Units,First Am Govt Ob Fd Cl X,2/15/22,,,0.00
+02/16/22,Purchase,"2,405.75",Units,First Am Govt Ob Fd Cl X,2/16/22,,,0.00
+02/17/22,Purchase,"21,110.92",Units,First Am Govt Ob Fd Cl X,2/17/22,,,0.00
+02/18/22,Purchase,"77,087.91",Units,First Am Govt Ob Fd Cl X,2/18/22,,,0.00
+02/22/22,Sale,"666,753.34",Units,"666,753.34 -666,753.34 First Am Govt Ob Fd Cl X",2/22/22,,,"-519,028.90"
+02/24/22,Sale,"10,000",Shares,"163,043.67 -384,559.36 Frontier Developments Plc Net Proceeds 119,819.00 GBP",2/22/22,Parbfrpp Banque Paribas Fr,12 GBP,"-1,014,411.28"
+02/24/22,Sale,"15,000",Shares,"335,131.59 -384,754.37 Entain Plc Net Proceeds 246,284.52 GBP",2/22/22,Crst 871,16.4437 GBP,"-679,279.69"
+02/24/22,Sale,"2,000",Shares,"501,157.44 -146,055.52 Solaredge Technologies Inc",2/22/22,Jefferies LLC,250.62 USD,"-178,122.25"
+02/24/22,Sale,"246,284.52",Units,"334,341.33 -335,131.59 British Pound",2/22/22,,0.73662601 GBP,"156,219.08"
+02/24/22,Sale,"119,819.00",Units,"162,683.06 -163,043.67 British Pound",2/22/22,,"401,800.00 USD","318,902.14"
+02/25/22,Purchase,"342,498.41",Units,First Am Govt Ob Fd Cl X,2/25/22,,,"-425,493.97"
+02/25/22,Sale,"10,000",Shares,"180,533.98 -272,291.89 Ocado Group Plc Net Proceeds 132,789.51 GBP",2/23/22,Crest 393,13.299 GBP,"-244,959.99"
+02/25/22,Sale,"50,000",Shares,"246,671.90 -291,545.79 Ds Smith Plc Net Proceeds 181,436.43 GBP",2/23/22,Crest 393,3.6342 GBP,"1,711.91"
+02/25/22,Sale,"132,789.51",Units,"179,802.95 -180,533.98 British Pound",2/23/22,,0.73852798 GBP,"181,514.86"
+02/25/22,Sale,"181,436.43",Units,"245,691.02 -246,671.90 British Pound",2/23/22,,115.7 JPY,"427,205.88"
+02/28/22,Sale,"251,294.00",Units,"2,171.94 -2,171.94 Yen",2/28/22,,115.7 JPY,"4,343.88"
+02/28/22,Purchase,"305,706.03",Units,First Am Govt Ob Fd Cl X,2/28/22,,,"-231,102.55"
+02/28/22,Sale,"50,000",Shares,"236,746.10 -317,766.46 Z Holdings Corp Net Proceeds 27,234,088 JPY",2/24/22,Jeffus33 Jefferies Jersey City,545.5 JPY,"5,643.55"
+02/28/22,Sale,"27,234,088.00",Units,"235,446.43 -236,746.10 Yen",2/25/22,,115.66999763 JPY,"241,089.98"
+03/01/22,Sale,"347,442.28",Units,"347,442.28 -347,442.28 First Am Govt Ob Fd Cl X",3/1/22,,,"371,555.61"
+03/01/22,Purchase,"137,205.50",Units,British Pound,2/25/22,,1 GBP,"187,337.95"
+03/01/22,Purchase,"166,075.84",Units,Euro,2/25/22,,1 EUR,0.00
+03/01/22,Purchase,"100,000",Shares,"Boku Inc Net Cost 137,205.50 GBP",2/25/22,Crst 871,1.37 GBP,"-182,160.90"
+03/01/22,Purchase,"3,000",Shares,"Zalando SE Net Cost 166,075.84 EUR",2/25/22,Parbfrpp Banque Paribas Fr,55.2757 EUR,"-366,737.60"
+03/03/22,Purchase,"717,318.92",Units,First Am Govt Ob Fd Cl X,3/3/22,,,"-706,545.32"
+03/03/22,Sale,"15,000",Shares,"283,489.91 -347,832.88 Monotaro Co Ltd First Section Net Proceeds 32,650,950 JPY",3/1/22,Jeffus33 Jefferies Jersey City,"2,180 JPY","-423,055.41"
+03/03/22,Sale,"20,000",Shares,"423,543.42 -412,891.61 Entain Plc Net Proceeds 315,664.79 GBP",3/1/22,Crst 871,15.807 GBP,488.01
+03/03/22,Sale,"32,650,950.00",Units,"283,946.00 -283,489.91 Yen",3/1/22,,114.9899981 JPY,"284,434.01"
+03/03/22,Sale,"315,664.79",Units,"422,599.32 -423,543.42 British Pound",3/2/22,,115.71 JPY,"707,033.33"
+03/04/22,Sale,"81,298.00",Units,702.60 -702.60 Yen,3/4/22,,115.71 JPY,"1,405.20"
+03/04/22,Sale,"30,847.65",Units,"30,847.65 -30,847.65 First Am Govt Ob Fd Cl X",3/4/22,,,"1,405.20"
+03/07/22,Purchase,"245,853.93",Units,First Am Govt Ob Fd Cl X,3/7/22,,,"-273,157.91"
+03/07/22,Sale,"4,121",Shares,"276,921.92 -301,319.73 Dermapharm Hldg Net Proceeds 250,211.83 EUR",3/3/22,Parbfrpp Banque Paribas Fr,60.8075 EUR,"3,764.01"
+03/07/22,Sale,"250,211.83",Units,"273,157.91 -276,921.92 Euro",3/4/22,,0.91599701 EUR,"276,921.92"
+03/08/22,Sale,"365,473.87",Units,"365,473.87 -365,473.87 First Am Govt Ob Fd Cl X",3/8/22,,,"373,196.20"
+03/08/22,Purchase,"341,914.52",Units,Euro,3/7/22,,1 EUR,0.00
+03/08/22,Purchase,"20,000",Shares,"Ebro Foods Sa Net Cost 341,914.52 EUR",3/4/22,Jeffus33 Jefferies Jersey City,17.0361 EUR,"-378,243.06"
+03/09/22,Sale,"119,501.6",Units,"119,501.60 -119,501.60 First Am Govt Ob Fd Cl X",3/9/22,,,"1,396.74"
+03/10/22,Sale,"748,111.89",Units,"748,111.89 -748,111.89 First Am Govt Ob Fd Cl X",3/10/22,,,"-6,985,320.67"
+03/10/22,Sale,"6,000",Shares,"154,796.71 -164,687.52 Comture Corp Net Proceeds 17,861,218 JPY",3/8/22,Jeffus33 Jefferies Jersey City,"2,981.34166667 JPY","-6,830,523.96"
+03/10/22,Sale,600,Shares,"146,056.10 -172,085.56 Disco Corporation Net Proceeds 16,852,683 JPY",3/8/22,Jeffus33 Jefferies Jersey City,"28,130 JPY","-6,684,467.86"
+03/10/22,Sale,"6,000",Shares,"116,512.58 -124,315.06 Monotaro Co Ltd First Section Net Proceeds 13,443,804 JPY",3/8/22,Jeffus33 Jefferies Jersey City,"2,244 JPY","-6,567,955.28"
+03/10/22,Sale,"20,000",Shares,"84,978.72 -121,825.22 Z Holdings Corp Net Proceeds 9,805,270 JPY",3/8/22,Jeffus33 Jefferies Jersey City,491 JPY,"-6,482,976.56"
+03/10/22,Sale,"2,000",Shares,"155,730.87 -222,095.31 Nidec Corp Net Proceeds 17,969,006 JPY",3/8/22,Jeffus33 Jefferies Jersey City,"8,998 JPY","-6,327,245.69"
+03/10/22,Sale,"1,300",Shares,"10,124.76 -13,256.96 Rakuten Group Inc Net Proceeds 1,168,245 JPY",3/8/22,Jeffus33 Jefferies Jersey City,900 JPY,"-6,317,120.93"
+03/10/22,Sale,"5,000",Shares,"57,676.50 -82,916.20 Cyberagent Inc Npv Net Proceeds 6,655,003 JPY",3/8/22,Jeffus33 Jefferies Jersey City,"1,333 JPY","-6,259,444.43"
+03/10/22,Sale,"10,000",Shares,"125,933.80 -262,729.12 Japan Elevator Ser Net Proceeds 14,530,871 JPY",3/8/22,Jeffus33 Jefferies Jersey City,"1,455.27 JPY","-6,133,510.63"
+03/10/22,Sale,"10,000",Shares,"99,027.02 -212,885.53 Adevinta Asa B Net Proceeds 895,575.62 NOK",3/8/22,Jeffus33 Jefferies Jersey City,89.6921 NOK,"-6,034,483.61"
+03/10/22,Sale,"50,000",Shares,"128,797.25 -399,195.61 Kahoot Asa Net Proceeds 1,164,810.16 NOK",3/8/22,Jeffus33 Jefferies Jersey City,23.3312 NOK,"-5,905,686.36"
+03/10/22,Sale,"4,500",Shares,"110,316.66 -113,593.88 Nordic Semiconductor Asa Net Proceeds 997,676.29 NOK",3/8/22,Jeffus33 Jefferies Jersey City,222.0389 NOK,"-5,795,369.70"
+03/10/22,Sale,80,Shares,"129,954.92 -170,902.34 Adyen Bv Net Proceeds 119,493.29 EUR",3/8/22,Jeffus33 Jefferies Jersey City,"1,495.91 EUR","-5,665,414.78"
+03/10/22,Sale,"20,000",Shares,"176,083.44 -241,481.07 Accesso Technology Group Plc Net Proceeds 134,051.62 GBP",3/8/22,Jeffus33 Jefferies Jersey City,6.7127 GBP,"-5,489,331.34"
+03/10/22,Sale,"6,000",Shares,"113,948.69 -84,623.29 Entain Plc Net Proceeds 86,748.68 GBP",3/8/22,Jeffus33 Jefferies Jersey City,14.48 GBP,"-5,375,382.65"
+03/10/22,Sale,"4,400",Shares,"166,826.77 -535,109.83 Orpea Net Proceeds 153,396.88 EUR",3/8/22,Jeffus33 Jefferies Jersey City,34.9153 EUR,"-5,208,555.88"
+03/10/22,Sale,"6,600",Shares,"135,124.94 -148,384.76 Lumibird Net Proceeds 124,247.11 EUR",3/8/22,Jeffus33 Jefferies Jersey City,18.8536 EUR,"-5,073,430.94"
+03/10/22,Sale,"3,000",Shares,"143,622.40 -191,120.48 Hugo Boss Ag Net Proceeds 132,060.51 EUR",3/8/22,Jeffus33 Jefferies Jersey City,44.0863 EUR,"-4,929,808.54"
+03/10/22,Sale,"14,000",Shares,"138,358.19 -205,453.82 Mister Spex SE Npv Net Proceeds 127,220.08 EUR",3/8/22,Jeffus33 Jefferies Jersey City,9.1008 EUR,"-4,791,450.35"
+03/10/22,Sale,"10,000",Shares,"130,770.66 -274,577.70 Slm Solutions Group Ag Net Proceeds 120,243.36 EUR",3/8/22,Jeffus33 Jefferies Jersey City,12.0424 EUR,"-4,660,679.69"
+03/10/22,Sale,"30,000",Shares,"117,356.17 -159,322.01 Ds Smith Plc Net Proceeds 89,342.78 GBP",3/8/22,Jeffus33 Jefferies Jersey City,2.9826 GBP,"-4,543,323.52"
+03/10/22,Sale,"5,000",Shares,"111,857.22 -202,802.71 Musti Group Oy Net Proceeds 102,852.49 EUR",3/8/22,Jeffus33 Jefferies Jersey City,20.6014 EUR,"-4,431,466.30"
+03/10/22,Sale,"4,400",Shares,"100,365.63 -179,584.79 Basware Oyj Npv Net Proceeds 92,286.00 EUR",3/8/22,Jeffus33 Jefferies Jersey City,21.0056 EUR,"-4,331,100.67"
+03/10/22,Sale,400,Shares,"154,580.25 -194,874.59 Alk Abello A S Net Proceeds 1,057,784.94 DKK",3/8/22,Jeffus33 Jefferies Jersey City,"2,648.435 DKK","-4,176,520.42"
+03/10/22,Sale,"3,000",Shares,"141,466.09 -200,200.22 Fnac Darty Net Proceeds 130,077.79 EUR",3/8/22,Jeffus33 Jefferies Jersey City,43.4244 EUR,"-4,035,054.33"
+03/10/22,Sale,"18,000",Shares,"35,309.33 -0.20 Tobii Dynavox Ab Npv Net Proceeds 351,961.66 SEK",3/8/22,Jeffus33 Jefferies Jersey City,19.5828 SEK,"-3,999,745.00"
+03/10/22,Sale,"3,000",Shares,"115,098.97 -164,505.61 Vitec Software Group Ab B Sh Net Proceeds 1,147,300.76 SEK",3/8/22,Jeffus33 Jefferies Jersey City,383.0081 SEK,"-3,884,646.03"
+03/10/22,Sale,"24,000",Shares,"66,160.01 -175,992.66 Tobii Ab Net Proceeds 659,479.69 SEK",3/8/22,Jeffus33 Jefferies Jersey City,27.5196 SEK,"-3,818,486.02"
+03/10/22,Sale,"8,030",Shares,"240,865.09 -449,142.59 Future Plc Net Proceeds 183,369.63 GBP",3/8/22,Jeffus33 Jefferies Jersey City,22.87 GBP,"-3,577,620.93"
+03/10/22,Sale,"3,000",Shares,"123,008.96 -155,799.22 Amplifon Spa Net Proceeds 113,106.49 EUR",3/8/22,Jeffus33 Jefferies Jersey City,37.7588 EUR,"-3,454,611.97"
+03/10/22,Sale,"10,000",Shares,"15,476.63 -24,079.15 Boku Inc Net Proceeds 11,782.30 GBP",3/8/22,Jeffus33 Jefferies Jersey City,1.18 GBP,"-3,439,135.34"
+03/10/22,Sale,"10,000",Shares,"135,548.26 -218,554.44 Boozt Ab Net Proceeds 1,351,138.25 SEK",3/8/22,Jeffus33 Jefferies Jersey City,135.3168 SEK,"-3,303,587.08"
+03/10/22,Sale,"6,600",Shares,"146,494.04 -301,876.07 Pva Tepla Ag Net Proceeds 134,700.98 EUR",3/8/22,Jeffus33 Jefferies Jersey City,20.4399 EUR,"-3,157,093.04"
+03/10/22,Sale,"12,000",Shares,"122,291.91 -292,324.15 Aston Martin Lagonda Gbl Hldgs Plc O Net Proceeds 93,100.34 GBP",3/8/22,Jeffus33 Jefferies Jersey City,7.7701 GBP,"-3,034,801.13"
+03/10/22,Sale,"2,400",Shares,"116,614.63 -260,207.27 Zalando SE Net Proceeds 107,226.92 EUR",3/8/22,Jeffus33 Jefferies Jersey City,44.745 EUR,"-2,918,186.50"
+03/10/22,Sale,"6,415",Shares,"143,248.34 -421,211.44 Asos Plc Net Proceeds 109,054.39 GBP",3/8/22,Jeffus33 Jefferies Jersey City,17.02559938 GBP,"-2,774,938.16"
+03/10/22,Sale,"6,000",Shares,"92,701.10 -203,103.08 Frontier Developments Plc Net Proceeds 70,572.98 GBP",3/8/22,Jeffus33 Jefferies Jersey City,11.78 GBP,"-2,682,237.06"
+03/10/22,Sale,"60,000",Shares,"117,230.26 -127,631.19 Learning Technologies Group Net Proceeds 89,246.93 GBP",3/8/22,Jeffus33 Jefferies Jersey City,1.4897 GBP,"-2,565,006.80"
+03/10/22,Sale,"30,000",Shares,"138,894.92 -211,419.49 Pets At Home Group Plc Net Proceeds 105,740.15 GBP",3/8/22,Jeffus33 Jefferies Jersey City,3.53 GBP,"-2,426,111.88"
+03/10/22,Sale,"10,000",Shares,"125,766.01 -137,174.34 Watches Of Switzerland Group Net Proceeds 95,745.16 GBP",3/8/22,Jeffus33 Jefferies Jersey City,9.589 GBP,"-2,300,345.87"
+03/10/22,Sale,"5,000",Shares,"6,557.90 -7,633.68 Zoo Digital Group Net Proceeds 4,992.50 GBP",3/8/22,Jeffus33 Jefferies Jersey City,1 GBP,"-2,293,787.97"
+03/10/22,Sale,"12,000",Shares,"179,683.99 -278,247.75 Ocado Group Plc Net Proceeds 136,792.70 GBP",3/8/22,Jeffus33 Jefferies Jersey City,11.4166 GBP,"-2,114,103.98"
+03/10/22,Sale,600,Shares,"87,248.05 -282,264.71 Zur Rose Group Ag Net Proceeds 80,769.88 CHF",3/8/22,Jeffus33 Jefferies Jersey City,134.8187 CHF,"-2,026,855.93"
+03/10/22,Sale,"50,000",Shares,"99,501.64 -118,078.75 Capital Counties Properties Plc Net Proceeds 75,750.20 GBP",3/8/22,Jeffgb2x Jefferies Intl London,1.5173 GBP,"-1,927,354.29"
+03/10/22,Sale,210,Shares,"196,491.79 -253,142.80 Mercadolibre Inc",3/8/22,Jefferies LLC,935.72 USD,"-1,730,862.50"
+03/10/22,Sale,700,Shares,"128,343.64 -144,644.01 Grupo Aeroportuario Sure Spon A D R",3/8/22,Jefferies LLC,183.389 USD,"-1,602,518.86"
+03/10/22,Sale,"1,000",Shares,"155,231.80 -169,461.40 Jazz Pharmaceuticals Plc",3/8/22,Jefferies LLC,155.2726 USD,"-1,447,287.06"
+03/10/22,Sale,"1,600",Shares,"159,153.42 -189,634.08 Taiwan Semiconductor A D R",3/8/22,Jefferies LLC,99.5114 USD,"-1,288,133.64"
+03/10/22,Sale,"7,000",Shares,"132,834.82 -161,835.48 Materialise Nv A D R",3/8/22,Jefferies LLC,19.0165 USD,"-1,155,298.82"
+03/10/22,Sale,"28,000",Shares,"177,157.89 -290,659.90 Blackberry Ltd",3/8/22,Jefferies LLC,6.3671 USD,"-978,140.93"
+03/10/22,Sale,"17,861,218.00",Units,"154,281.92 -154,796.72 Yen",3/8/22,,115.77000079 JPY,"-823,859.01"
+03/10/22,Sale,"9,805,270.00",Units,"84,725.40 -84,978.73 Yen",3/8/22,,115.7299936 JPY,"-739,133.61"
+03/10/22,Sale,"13,443,804.00",Units,"116,155.21 -116,512.58 Yen",3/8/22,,115.73999995 JPY,"-622,978.40"
+03/10/22,Sale,"16,852,683.00",Units,"145,608.11 -146,056.10 Yen",3/8/22,,115.74000239 JPY,"-477,370.29"
+03/10/22,Sale,"1,168,245.00",Units,"10,092.83 -10,124.76 Yen",3/8/22,,115.74999282 JPY,"-467,277.46"
+03/10/22,Sale,"6,655,003.00",Units,"57,499.59 -57,676.50 Yen",3/8/22,,115.74000789 JPY,"-409,777.87"
+03/10/22,Sale,"14,530,871.00",Units,"125,525.84 -125,933.79 Yen",3/8/22,,115.7599981 JPY,"-284,252.03"
+03/10/22,Sale,"17,969,006.00",Units,"155,226.38 -155,730.86 Yen",3/8/22,,115.76000162 JPY,"-129,025.65"
+03/10/22,Sale,"1,164,810.16",Units,"130,379.10 -128,797.25 Norwegian Krone",3/9/22,,8.93402516 NOK,"1,353.45"
+03/10/22,Sale,"997,676.29",Units,"111,675.29 -110,316.66 Norwegian Krone",3/9/22,,8.93372464 NOK,"113,028.74"
+03/10/22,Sale,"895,575.62",Units,"100,237.62 -99,027.02 Norwegian Krone",3/9/22,,8.93452598 NOK,"213,266.36"
+03/10/22,Sale,"132,060.51",Units,"145,992.10 -143,622.40 Euro",3/9/22,,0.90457299 EUR,"359,258.46"
+03/10/22,Sale,"119,493.29",Units,"132,099.11 -129,954.92 Euro",3/9/22,,0.90457301 EUR,"491,357.57"
+03/10/22,Sale,"124,247.11",Units,"137,354.43 -135,124.94 Euro",3/9/22,,0.90457301 EUR,"628,712.00"
+03/10/22,Sale,"89,342.78",Units,"117,644.99 -117,356.17 British Pound",3/9/22,,0.75942698 GBP,"746,356.99"
+03/10/22,Sale,"1,057,784.94",Units,"157,145.98 -154,580.25 Danish Krone",3/9/22,,6.73122494 DKK,"903,502.97"
+03/10/22,Sale,"130,077.79",Units,"143,800.21 -141,466.10 Euro",3/9/22,,0.90457302 EUR,"1,047,303.18"
+03/10/22,Sale,"92,286.00",Units,"102,030.75 -100,365.63 Euro",3/9/22,,0.90449203 EUR,"1,149,333.93"
+03/10/22,Sale,"1,147,300.76",Units,"118,324.94 -115,098.97 Swedish Krona",3/9/22,,9.69618713 SEK,"1,267,658.87"
+03/10/22,Sale,"134,051.62",Units,"176,503.31 -176,083.45 British Pound",3/9/22,,0.75948502 GBP,"1,444,162.18"
+03/10/22,Sale,"120,243.36",Units,"132,928.31 -130,770.66 Euro",3/9/22,,0.904573 EUR,"1,577,090.49"
+03/10/22,Sale,"659,479.69",Units,"68,024.87 -66,160.01 Swedish Krona",3/9/22,,9.69468505 SEK,"1,645,115.36"
+03/10/22,Sale,"153,396.88",Units,"169,579.33 -166,826.77 Euro",3/9/22,,0.90457298 EUR,"1,814,694.69"
+03/10/22,Sale,"102,852.49",Units,"113,712.99 -111,857.22 Euro",3/9/22,,0.904492 EUR,"1,928,407.68"
+03/10/22,Sale,"127,220.08",Units,"140,641.03 -138,358.19 Euro",3/9/22,,0.90457301 EUR,"2,069,048.71"
+03/10/22,Sale,"351,961.66",Units,"36,298.60 -35,309.33 Swedish Krona",3/9/22,,9.69628746 SEK,"2,105,347.31"
+03/10/22,Sale,"113,106.49",Units,"125,038.54 -123,008.95 Euro",3/9/22,,0.90457302 EUR,"2,230,385.85"
+03/10/22,Sale,"86,748.68",Units,"114,220.40 -113,948.69 British Pound",3/9/22,,0.759485 GBP,"2,344,606.25"
+03/10/22,Sale,"183,369.63",Units,"241,421.32 -240,865.09 British Pound",3/9/22,,0.75954199 GBP,"2,586,027.57"
+03/10/22,Sale,"6,655,003.00",Units,"57,380.61 -57,380.61 Yen",3/9/22,,115.97999742 JPY,"2,643,408.18"
+03/10/22,Sale,"1,168,245.00",Units,"10,071.08 -10,071.08 Yen",3/9/22,,115.9999722 JPY,"2,653,479.26"
+03/10/22,Sale,"93,100.34",Units,"122,639.38 -122,291.91 British Pound",3/9/22,,0.75913903 GBP,"2,776,118.64"
+03/10/22,Sale,"1,351,138.25",Units,"139,367.53 -135,548.26 Swedish Krona",3/9/22,,9.69478508 SEK,"2,915,486.17"
+03/10/22,Sale,"134,700.98",Units,"149,032.22 -146,494.04 Euro",3/9/22,,0.90383798 EUR,"3,064,518.39"
+03/10/22,Sale,"11,782.30",Units,"15,518.26 -15,476.63 British Pound",3/9/22,,0.75925394 GBP,"3,080,036.65"
+03/10/22,Sale,"9,805,270.00",Units,"84,528.19 -84,528.19 Yen",3/9/22,,115.99999953 JPY,"3,164,564.84"
+03/10/22,Sale,"107,226.92",Units,"118,645.74 -116,614.63 Euro",3/9/22,,0.90375702 EUR,"3,283,210.58"
+03/10/22,Sale,"109,054.39",Units,"143,655.36 -143,248.35 British Pound",3/9/22,,0.75913903 GBP,"3,426,865.94"
+03/10/22,Sale,"16,852,683.00",Units,"145,281.75 -145,281.75 Yen",3/9/22,,116 JPY,"3,572,147.69"
+03/10/22,Sale,"89,246.93",Units,"117,545.55 -117,230.26 British Pound",3/9/22,,0.75925401 GBP,"3,689,693.24"
+03/10/22,Sale,"70,572.98",Units,"92,964.50 -92,701.11 British Pound",3/9/22,,0.75913903 GBP,"3,782,657.74"
+03/10/22,Sale,"105,740.15",Units,"139,194.41 -138,894.92 British Pound",3/9/22,,0.75965802 GBP,"3,921,852.15"
+03/10/22,Sale,"95,745.16",Units,"126,065.90 -125,766.01 British Pound",3/9/22,,0.759485 GBP,"4,047,918.05"
+03/10/22,Sale,"13,443,804.00",Units,"115,904.85 -115,904.85 Yen",3/9/22,,115.99000387 JPY,"4,163,822.90"
+03/10/22,Sale,"17,969,006.00",Units,"154,918.58 -154,918.58 Yen",3/9/22,,115.98999939 JPY,"4,318,741.48"
+03/10/22,Sale,"17,861,218.00",Units,"153,989.29 -153,989.29 Yen",3/9/22,,115.99000164 JPY,"4,472,730.77"
+03/10/22,Sale,"14,530,871.00",Units,"125,276.93 -125,276.93 Yen",3/9/22,,115.98999912 JPY,"4,598,007.70"
+03/10/22,Sale,"80,769.88",Units,"87,080.89 -87,248.05 Swiss Franc",3/9/22,,0.92752704 CHF,"4,685,088.59"
+03/10/22,Sale,"4,992.50",Units,"6,571.53 -6,557.90 British Pound",3/9/22,,0.75971653 GBP,"4,691,660.12"
+03/10/22,Sale,"136,792.70",Units,"180,057.68 -179,683.98 British Pound",3/9/22,,0.759716 GBP,"4,871,717.80"
+03/10/22,Sale,"75,750.20",Units,"99,678.40 -99,501.62 British Pound",3/10/22,,0.75994599 GBP,"4,971,396.20"
+03/11/22,Purchase,"1,167,150.17",Units,First Am Govt Ob Fd Cl X,3/11/22,,,"-1,189,980.57"
+03/11/22,Sale,"10,000",Shares,"13,154.97 -15,267.35 Zoo Digital Group Net Proceeds 10,033.92 GBP",3/9/22,Crest 393,1.005 GBP,"-1,176,825.60"
+03/11/22,Sale,"68,000",Shares,"102,895.52 -163,738.22 Boku Inc Net Proceeds 78,483.30 GBP",3/9/22,Crest 393,1.1559 GBP,"-1,073,930.08"
+03/11/22,Sale,"20,000",Shares,"96,760.89 -140,946.32 Pets At Home Group Plc Net Proceeds 73,804.13 GBP",3/9/22,Parbfrpp Banque Paribas Fr,3.6958 GBP,"-977,169.19"
+03/11/22,Sale,"20,000",Shares,"350,153.66 -378,243.06 Ebro Foods Sa Net Proceeds 321,906.41 EUR",3/9/22,Parbfrpp Banque Paribas Fr,16.1195 EUR,"-627,015.53"
+03/11/22,Sale,"4,000",Shares,"619,937.63 -568,591.00 Jazz Pharmaceuticals Plc",3/9/22,Jefferies LLC,155.0252 USD,"-7,077.90"
+03/11/22,Sale,"78,483.30",Units,"103,361.07 -102,895.52 British Pound",3/9/22,,0.75931199 GBP,"96,283.17"
+03/11/22,Sale,"10,033.92",Units,"13,216.49 -13,154.97 British Pound",3/9/22,,0.75919703 GBP,"109,499.66"
+03/11/22,Sale,"321,906.41",Units,"356,347.78 -350,153.66 Euro",3/10/22,,0.903349 EUR,"465,847.44"
+03/11/22,Sale,"73,804.13",Units,"97,117.60 -96,760.89 British Pound",3/10/22,,117.33 JPY,"562,965.04"
+03/14/22,Sale,"344,117.00",Units,"2,932.90 -2,932.90 Yen",3/14/22,,117.33 JPY,"5,865.80"
+03/14/22,Purchase,"14,842.39",Units,First Am Govt Ob Fd Cl X,3/14/22,,,"5,865.80"
+03/15/22,Purchase,"92,704.89",Units,First Am Govt Ob Fd Cl X,3/15/22,,,0.00
+03/16/22,Purchase,"56,086.64",Units,First Am Govt Ob Fd Cl X,3/16/22,,,0.00
+03/17/22,Purchase,,,Yen,3/9/22,,1 JPY,"-57,380.61"
+03/17/22,Purchase,,,Yen,3/9/22,,1 JPY,"-67,451.69"
+03/17/22,Purchase,,,Yen,3/9/22,,1 JPY,"-151,979.88"
+03/17/22,Purchase,,,Yen,3/9/22,,1 JPY,"-297,261.63"
+03/17/22,Purchase,,,Yen,3/9/22,,1 JPY,"-413,166.48"
+03/17/22,Purchase,,,Yen,3/9/22,,1 JPY,"-568,085.06"
+03/17/22,Purchase,,,Yen,3/9/22,,1 JPY,"-722,074.35"
+03/17/22,Purchase,,,Yen,3/9/22,,1 JPY,"-847,351.28"
+03/17/22,Purchase,"129,429.3",Units,First Am Govt Ob Fd Cl X,3/17/22,,,"-847,351.28"
+03/17/22,Sale,"847,351.28",Units,"847,351.28 -847,351.28 First Am Govt Ob Fd Cl X",3/17/22,,,0.00
+03/18/22,Sale,"407,294.49",Units,"407,294.49 -407,294.49 First Am Govt Ob Fd Cl X",3/18/22,,,"436,083.06"
+03/18/22,Purchase,700,Shares,Asml Holding Nv Ny Reg Shs,3/16/22,Jefferies LLC,622.9358 USD,0.00
+03/21/22,Purchase,"87,314.93",Units,First Am Govt Ob Fd Cl X,3/21/22,,,0.00
+03/22/22,Purchase,"12,372.53",Units,First Am Govt Ob Fd Cl X,3/22/22,,,0.00
+03/23/22,Purchase,"39,963.95",Units,First Am Govt Ob Fd Cl X,3/23/22,,,0.00
+03/24/22,Purchase,"55,735.31",Units,First Am Govt Ob Fd Cl X,3/24/22,,,0.00
+03/25/22,Purchase,"50,940.46",Units,First Am Govt Ob Fd Cl X,3/25/22,,,0.00
+03/28/22,Sale,"400,797.37",Units,"400,797.37 -400,797.37 First Am Govt Ob Fd Cl X",3/28/22,,,0.00
+03/29/22,Sale,"19,472.45",Units,"19,472.45 -19,472.45 First Am Govt Ob Fd Cl X",3/29/22,,,-988.50
+03/29/22,Sale,988.5,Units,988.50 -988.50 First Am Govt Ob Fd Cl X,3/29/22,,122.91 JPY,0.00
+03/30/22,Sale,"229,348.00",Units,"1,865.98 -1,865.98 Yen",3/30/22,,99.00 DKK,"3,731.96"
+03/30/22,Purchase,"201,065.18",Units,First Am Govt Ob Fd Cl X,3/30/22,,,"-291,572.95"
+03/30/22,Sale,"2,400",Shares,"293,811.23 -811,071.70 Zur Rose Group Ag Net Proceeds 273,494.18 CHF",3/28/22,Parbfrpp Banque Paribas Fr,114.1271 CHF,"2,238.28"
+03/30/22,Sale,"273,494.18",Units,"293,438.93 -293,811.23 Swiss Franc",3/29/22,,9.312203 SEK,"295,677.21"
+03/31/22,Sale,"3,444.00",Units,369.84 -369.84 Swedish Krona,3/30/22,,9.312203 SEK,739.68
+03/31/22,Purchase,"75,016.11",Units,First Am Govt Ob Fd Cl X,3/31/22,,,"-65,651.29"
+03/31/22,Sale,"28,192",Shares,"64,725.70 -0.31 Tobii Dynavox Ab Npv Net Proceeds 616,751.74 SEK",3/29/22,Parbfrpp Banque Paribas Fr,21.9097 SEK,-925.59
+03/31/22,Sale,"616,751.74",Units,"66,021.13 -64,725.70 Swedish Krona",3/29/22,,9.34173256 SEK,"65,095.54"
+03/31/22,Sale,400,Shares,"8,669.74 -8,545.92 Alk Abello A S Ser B Net Proceeds 58,712.32 DKK",3/28/22,Parbfrpp Banque Paribas Fr,147.0013 DKK,"73,765.28"
+04/01/22,Purchase,"126,158.98",Units,First Am Govt Ob Fd Cl X,4/1/22,,,"-110,893.56"
+04/01/22,Sale,"43,808",Shares,"101,756.57 -0.49 Tobii Dynavox Ab Npv Net Proceeds 945,664.52 SEK",3/30/22,Parbfrpp Banque Paribas Fr,21.619 SEK,"-9,136.99"
+04/01/22,Sale,"945,664.52",Units,"102,152.85 -101,756.57 Swedish Krona",3/30/22,,9.25734838 SEK,"93,015.86"
+04/01/22,Sale,"58,712.32",Units,"8,740.71 -8,669.74 Danish Krone",3/31/22,,6.71711108 DKK,"101,756.57"
+04/04/22,Sale,592.5,Units,592.50 -592.50 First Am Govt Ob Fd Cl X,4/4/22,,,0.00
+04/05/22,Sale,"19,045.78",Units,"19,045.78 -19,045.78 First Am Govt Ob Fd Cl X",4/5/22,,,0.00
+04/06/22,Purchase,"34,689.3",Units,First Am Govt Ob Fd Cl X,4/6/22,,,"-8,583.72"
+04/06/22,Purchase,"39,222,116.00",Units,Yen,4/4/22,,1 JPY,"-328,268.42"
+04/06/22,Sale,"31,000",Shares,"407,107.66 -519,636.11 Japan Elevator Ser Net Proceeds 50,015,212 JPY",4/4/22,Jeffus33 Jefferies Jersey City,"1,615.81767742 JPY","78,839.24"
+04/06/22,Sale,"200,638",Shares,"446,929.60 -359,761.77 Capital Counties Properties Plc Net Proceeds 340,972.65 GBP",4/4/22,Crst 871,1.70200002 GBP,"525,768.84"
+04/06/22,Purchase,"5,000",Shares,Nutrien Ltd,4/4/22,Jefferies LLC,104.91 USD,"1,018.84"
+04/06/22,Purchase,"30,000",Shares,"Uuum Inc Net Cost 39,222,116 JPY",4/4/22,Jeffus33 Jefferies Jersey City,"1,305.4457 JPY","-318,236.51"
+04/06/22,Sale,"50,015,212.00",Units,"406,859.29 -407,107.66 Yen",4/4/22,,122.92999872 JPY,"88,622.78"
+04/06/22,Sale,"340,972.65",Units,"446,159.13 -446,929.60 British Pound",4/4/22,,0.76423999 GBP,"534,781.91"
+04/07/22,Purchase,"423,796.42",Units,First Am Govt Ob Fd Cl X,4/7/22,,,"-432,137.78"
+04/07/22,Sale,"62,000",Shares,"432,137.78 -596,145.10 Blackberry Ltd",4/5/22,Jefferies LLC,7.01 USD,0.00
+04/08/22,Sale,"219,119.54",Units,"219,119.54 -219,119.54 First Am Govt Ob Fd Cl X",4/8/22,,,"205,037.80"
+04/08/22,Purchase,"2,000",Shares,Nutrien Ltd,4/6/22,Jefferies LLC,102.4789 USD,0.00
+04/11/22,Purchase,634.64,Units,First Am Govt Ob Fd Cl X,4/11/22,,,0.00
+04/12/22,Sale,"61,564.88",Units,"61,564.88 -61,564.88 First Am Govt Ob Fd Cl X",4/12/22,,,"47,209.01"
+04/12/22,Purchase,"19,028,069.00",Units,Yen,4/11/22,,1 JPY,"-104,542.08"
+04/12/22,Purchase,"21,753.75",Units,Euro,4/11/22,,1 EUR,"-128,266.50"
+04/12/22,Sale,"8,000",Shares,"128,823.85 -185,470.95 Ocado Group Plc Net Proceeds 98,590.89 GBP",4/8/22,Crst 871,12.3425 GBP,557.35
+04/12/22,Purchase,"15,000",Shares,"Uuum Inc Net Cost 19,028,069 JPY",4/8/22,Jeffus33 Jefferies Jersey City,"1,266.638 JPY","-152,987.69"
+04/12/22,Purchase,"1,327",Shares,"Ebro Foods Sa Net Cost 21,753.75 EUR",4/8/22,Parbfrpp Banque Paribas Fr,16.3686737 EUR,"-176,724.30"
+04/12/22,Sale,"98,590.89",Units,"128,266.50 -128,823.85 British Pound",4/11/22,,0.76864099 GBP,"-48,457.80"
+04/13/22,Sale,252.28,Units,252.28 -252.28 First Am Govt Ob Fd Cl X,4/13/22,,,0.00
+04/14/22,Sale,"26,550.97",Units,"26,550.97 -26,550.97 First Am Govt Ob Fd Cl X",4/14/22,,,"2,423.48"
+04/14/22,Purchase,"11,334",Shares,"Ebro Foods Sa Net Cost 185,240.67 EUR",4/12/22,Parbfrpp Banque Paribas Fr,16.28679989 EUR,"-199,433.23"
+04/18/22,Purchase,"61,225.58",Units,First Am Govt Ob Fd Cl X,4/18/22,,,0.00
+04/19/22,Sale,"268,368.05",Units,"268,368.05 -268,368.05 First Am Govt Ob Fd Cl X",4/19/22,,,"200,779.17"
+04/19/22,Purchase,"185,240.67",Units,Euro,4/14/22,,1 EUR,0.00
+04/20/22,Purchase,"763,810.02",Units,First Am Govt Ob Fd Cl X,4/20/22,,,"-751,670.47"
+04/20/22,Sale,"277,629",Units,"277,629.00 -277,629.00 First Am Govt Ob Fd Cl X",4/20/22,,,"-474,041.47"
+04/20/22,Sale,"17,600",Shares,"754,893.24 -566,053.83 Basware Oyj Npv Net Proceeds 695,914.56 EUR",4/14/22,Jeffus33 Jefferies Jersey City,39.6 EUR,"280,851.77"
+04/20/22,Sale,"695,914.56",Units,"751,670.47 -754,893.24 Euro",4/14/22,,0.925824 EUR,"1,032,522.24"
+04/20/22,Purchase,"30,000",Shares,Cresud S A Spon A D R,4/14/22,Jefferies LLC,9.2143 USD,"754,893.24"
+04/21/22,Sale,"307,530.76",Units,"307,530.76 -307,530.76 First Am Govt Ob Fd Cl X",4/21/22,,,"288,846.00"
+04/21/22,Purchase,"30,000",Shares,Cresud S A Spon A D R,4/19/22,Jefferies LLC,9.5882 USD,0.00
+04/21/22,Purchase,"7,339",Shares,"Ebro Foods Sa Net Cost 120,724.89 EUR",4/11/22,Parbfrpp Banque Paribas Fr,16.3924 EUR,"-131,270.22"
+04/22/22,Sale,"102,660.01",Units,"102,660.01 -102,660.01 First Am Govt Ob Fd Cl X",4/22/22,,,"131,093.32"
+04/22/22,Purchase,"120,724.89",Units,Euro,4/21/22,,1 EUR,0.00
+04/25/22,Purchase,"15,408.7",Units,First Am Govt Ob Fd Cl X,4/25/22,,,0.00
+04/26/22,Purchase,"1,376,567.58",Units,First Am Govt Ob Fd Cl X,4/26/22,,,0.00
+04/27/22,Purchase,"27,192.76",Units,First Am Govt Ob Fd Cl X,4/27/22,,,0.00
+04/28/22,Purchase,"9,390.49",Units,First Am Govt Ob Fd Cl X,4/28/22,,,0.00
+04/29/22,Sale,"186,154.69",Units,"186,154.69 -186,154.69 First Am Govt Ob Fd Cl X",4/29/22,,,"160,536.00"
+04/29/22,Purchase,"20,000",Shares,Cresud S A Spon A D R,4/27/22,Jefferies LLC,7.9868 USD,0.00
+05/02/22,Sale,"267,117.01",Units,"267,117.01 -267,117.01 First Am Govt Ob Fd Cl X",5/2/22,,,"291,453.54"
+05/02/22,Purchase,"2,701,692.97",Units,Norwegian Krone,4/29/22,,1 NOK,0.00
+05/02/22,Purchase,"15,000",Shares,"Nordic Semiconductor Asa Net Cost 2,701,692.97 NOK",4/28/22,Parbfrpp Banque Paribas Fr,0.800225 GBP,"-288,225.16"
+05/03/22,Sale,"5,760.00",Units,"7,197.98 -7,197.98 British Pound",5/3/22,,0.800225 GBP,"14,527.25"
+05/03/22,Sale,"25,012.36",Units,"25,012.36 -25,012.36 First Am Govt Ob Fd Cl X",5/3/22,,,"14,395.96"
+05/04/22,Purchase,"7,432.43",Units,First Am Govt Ob Fd Cl X,5/4/22,,,78.00
+05/05/22,Sale,"11,176.06",Units,"11,176.06 -11,176.06 First Am Govt Ob Fd Cl X",5/5/22,,,78.00
+05/05/22,Purchase,"5,660",Shares,"Ebro Foods Sa Net Cost 95,062.98 EUR",4/27/22,Parbfrpp Banque Paribas Fr,16.737 EUR,"-101,168.83"
+05/06/22,Sale,"679,120.05",Units,"679,120.05 -679,120.05 First Am Govt Ob Fd Cl X",5/6/22,,,"307,924.47"
+05/06/22,Purchase,"96,852.19",Units,British Pound,5/4/22,,1 GBP,"186,796.40"
+05/06/22,Purchase,"95,062.98",Units,Euro,5/5/22,,1 EUR,"86,614.00"
+05/06/22,Purchase,"5,000",Shares,Materialise Nv A D R,5/4/22,Jefferies LLC,17.2672 USD,78.00
+05/06/22,Purchase,"10,000",Shares,"Watches Of Switzerland Group Net Cost 96,852.19 GBP",5/4/22,Jeffgb2x Jefferies Intl London,9.6225 GBP,"-121,093.79"
+05/09/22,Sale,"70,360.26",Units,"70,360.26 -70,360.26 First Am Govt Ob Fd Cl X",5/9/22,,,"-148,977.98"
+05/09/22,Purchase,"115,301.79",Units,Euro,5/6/22,,1 EUR,"-270,996.91"
+05/09/22,Sale,"4,000",Shares,"273,439.18 -331,514.58 Advantest Corp Ord(Jp) Net Proceeds 35,426,780 JPY",5/2/22,Jeffus33 Jefferies Jersey City,"8,870 JPY","2,442.27"
+05/09/22,Purchase,"3,400",Shares,"Zalando SE Net Cost 115,301.79 EUR",5/5/22,Parbfrpp Banque Paribas Fr,33.8615 EUR,"-119,183.83"
+05/09/22,Sale,"35,426,780.00",Units,"271,074.91 -273,439.18 Yen",5/6/22,,130.69000004 JPY,"151,891.08"
+05/09/22,Purchase,"4,340",Shares,"Ebro Foods Sa Net Cost 74,279.07 EUR",4/28/22,Parbfrpp Banque Paribas Fr,17.05529954 EUR,"73,768.09"
+05/10/22,Sale,,,"71,631.83 -71,631.83 Slm Solutions Group Ag Net Proceeds 68,023.20 EUR",5/6/22,Parbfrpp Banque Paribas Fr,10.38869991 EUR,"71,709.83"
+05/10/22,Purchase,"6,510",Shares,"Slm Solutions Group Ag Net Cost 67,731.88 EUR",5/6/22,Parbfrpp Banque Paribas Fr,10.38870046 EUR,384.77
+05/10/22,Sale,"252,035.76",Units,"252,035.76 -252,035.76 First Am Govt Ob Fd Cl X",5/10/22,,,"150,699.80"
+05/10/22,Purchase,"68,023.20",Units,Euro,5/6/22,,1 EUR,"78,890.83"
+05/10/22,Purchase,"74,279.07",Units,Euro,5/9/22,,1 EUR,306.77
+05/10/22,Purchase,"6,538",Shares,"Slm Solutions Group Ag Net Cost 68,023.20 EUR",5/6/22,Parbfrpp Banque Paribas Fr,10.38869991 EUR,"-71,325.06"
+05/10/22,Purchase,28,Shares,Slm Solutions Group Ag Net Cost 291.32 EUR,5/6/22,Parbfrpp Banque Paribas Fr,10.3887 EUR,"-71,631.83"
+05/11/22,Sale,,,"37,602.57 -37,602.57 Slm Solutions Group Ag Net Proceeds 35,531.10 EUR",5/9/22,Parbfrpp Banque Paribas Fr,10.24779896 EUR,"37,602.57"
+05/11/22,Purchase,"2,361",Shares,"Slm Solutions Group Ag Net Cost 24,231.34 EUR",5/9/22,Parbfrpp Banque Paribas Fr,10.24779896 EUR,"11,958.54"
+05/11/22,Purchase,"184,741.92",Units,First Am Govt Ob Fd Cl X,5/11/22,,,"-178,647.74"
+05/11/22,Purchase,"35,531.10",Units,Euro,5/9/22,,1 EUR,"-216,206.09"
+05/11/22,Sale,"5,050",Shares,"228,348.35 -358,970.26 Jeol Ltd Net Proceeds 29,777,766 JPY",5/9/22,Jeffus33 Jefferies Jersey City,"5,905.44534653 JPY","12,142.26"
+05/11/22,Purchase,"3,462",Shares,"Slm Solutions Group Ag Net Cost 35,531.10 EUR",5/9/22,Parbfrpp Banque Paribas Fr,10.24779896 EUR,"-25,460.31"
+05/11/22,Sale,"29,777,766.00",Units,"228,164.63 -228,348.35 Yen",5/9/22,,130.51000061 JPY,"202,704.32"
+05/11/22,Purchase,"1,101",Shares,"Slm Solutions Group Ag Net Cost 11,299.76 EUR",5/9/22,Parbfrpp Banque Paribas Fr,10.2478 EUR,"190,745.78"
+05/12/22,Purchase,"9,937.91",Units,First Am Govt Ob Fd Cl X,5/12/22,,,"2,319.28"
+05/13/22,Sale,"228,103.02",Units,"228,103.02 -228,103.02 First Am Govt Ob Fd Cl X",5/13/22,,,"183,008.50"
+05/13/22,Purchase,"78,524.61",Units,Euro,5/11/22,,1 EUR,"100,270.80"
+05/13/22,Purchase,140,Shares,Mercadolibre Inc,5/11/22,Jefferies LLC,716.18 USD,0.00
+05/13/22,Purchase,"14,000",Shares,"Mister Spex SE Npv Net Cost 78,524.61 EUR",5/11/22,Jeffus33 Jefferies Jersey City,5.6005 EUR,"-82,788.46"
+05/16/22,Purchase,"636,583.22",Units,First Am Govt Ob Fd Cl X,5/16/22,,,"-988,252.50"
+05/16/22,Sale,"2,360",Shares,"567,930.64 -551,913.01 Disco Corporation Net Proceeds 73,992,844 JPY",5/12/22,Jeffus33 Jefferies Jersey City,"31,400 JPY","-420,321.86"
+05/16/22,Sale,"3,000",Shares,"186,602.28 -252,827.05 Nidec Corp Net Proceeds 24,311,478 JPY",5/12/22,Jeffus33 Jefferies Jersey City,"8,116 JPY","-233,719.58"
+05/16/22,Sale,"30,500",Shares,"100,536.31 -185,760.90 Z Holdings Corp Net Proceeds 13,098,373 JPY",5/12/22,Jeffus33 Jefferies Jersey City,430.1 JPY,"-133,183.27"
+05/16/22,Sale,"6,080",Shares,"126,981.68 -163,801.44 Comture Corp Net Proceeds 16,543,808 JPY",5/12/22,Jeffus33 Jefferies Jersey City,"2,725.10855263 JPY","-6,201.59"
+05/16/22,Sale,"73,992,844.00",Units,"571,814.87 -567,930.65 Yen",5/13/22,,129.39999969 JPY,"565,613.28"
+05/16/22,Sale,"16,543,808.00",Units,"127,692.25 -126,981.68 Yen",5/13/22,,129.5600007 JPY,"693,305.53"
+05/16/22,Sale,"24,311,478.00",Units,"187,646.48 -186,602.27 Yen",5/13/22,,129.56000027 JPY,"880,952.01"
+05/16/22,Sale,"13,098,373.00",Units,"101,098.90 -100,536.31 Yen",5/13/22,,129.55999521 JPY,"982,050.91"
+05/17/22,Sale,"11,882.41",Units,"11,882.41 -11,882.41 First Am Govt Ob Fd Cl X",5/17/22,,,"23,801.81"
+05/17/22,Purchase,"239,915.33",Units,Swedish Krona,5/13/22,,1 SEK,0.00
+05/17/22,Purchase,"4,000",Shares,"Raysearch Laboratories Ab Net Cost 239,915.33 SEK",5/13/22,Parbfrpp Banque Paribas Fr,59.889 SEK,"-23,758.23"
+05/18/22,Sale,"202,093.86",Units,"202,093.86 -202,093.86 First Am Govt Ob Fd Cl X",5/18/22,,,"231,721.67"
+05/18/22,Sale,78,Units,78.00 -78.00 First Am Govt Ob Fd Cl X,5/18/22,,,"231,799.67"
+05/18/22,Purchase,"64,904,990.00",Units,Yen,5/16/22,,1 JPY,"-271,652.01"
+05/18/22,Sale,"4,000",Shares,"271,404.46 -82,584.26 Advantest Corp Ord(Jp) Net Proceeds 35,112,952 JPY",5/16/22,Jeffus33 Jefferies Jersey City,"8,791.425 JPY",-247.55
+05/18/22,Purchase,"30,000",Shares,"Subaru Corporation Net Cost 64,904,990 JPY",5/16/22,Jeffus33 Jefferies Jersey City,"2,160.2593 JPY","-501,928.63"
+05/18/22,Sale,"35,112,952.00",Units,"271,730.01 -271,404.46 Yen",5/16/22,,129.2200004 JPY,"-230,198.62"
+05/19/22,Sale,"44,382.43",Units,"44,382.43 -44,382.43 First Am Govt Ob Fd Cl X",5/19/22,,,78.00
+05/20/22,Sale,,,"110,932.21 -110,932.21 Raysearch Laboratories Ab Net Proceeds 1,101,817.55 SEK",5/18/22,Jeffus33 Jefferies Jersey City,68.51209989 SEK,"111,010.21"
+05/20/22,Purchase,"13,278",Shares,"Raysearch Laboratories Ab Net Cost 911,068.21 SEK",5/18/22,Jeffus33 Jefferies Jersey City,68.51209971 SEK,"19,282.85"
+05/20/22,Purchase,"382,606.31",Units,First Am Govt Ob Fd Cl X,5/20/22,,,"-332,321.76"
+05/20/22,Purchase,"1,101,817.55",Units,Swedish Krona,5/19/22,,1 SEK,"-443,577.28"
+05/20/22,Sale,"17,600",Shares,"460,870.71 -1,244,124.55 Orpea Net Proceeds 437,445.57 EUR",5/18/22,Jeffus33 Jefferies Jersey City,24.8922 EUR,"17,293.43"
+05/20/22,Purchase,"16,058",Shares,"Raysearch Laboratories Ab Net Cost 1,101,817.55 SEK",5/18/22,Jeffus33 Jefferies Jersey City,68.51209989 SEK,"-93,638.78"
+05/20/22,Sale,"437,445.57",Units,"462,704.13 -460,870.71 Euro",5/19/22,,0.94541099 EUR,"369,065.35"
+05/20/22,Purchase,"10,747",Shares,"Raysearch Laboratories Ab Net Cost 741,037.62 SEK",5/17/22,Jeffus33 Jefferies Jersey City,68.84970038 SEK,"295,512.86"
+05/20/22,Purchase,"2,780",Shares,"Raysearch Laboratories Ab Net Cost 190,749.33 SEK",5/18/22,Jeffus33 Jefferies Jersey City,68.51209989 SEK,"276,308.01"
+05/23/22,Sale,"56,757.23",Units,"56,757.23 -56,757.23 First Am Govt Ob Fd Cl X",5/23/22,,,"90,724.26"
+05/23/22,Purchase,"898,912.47",Units,Swedish Krona,5/19/22,,1 SEK,0.00
+05/23/22,Purchase,"13,195",Shares,"Raysearch Laboratories Ab Net Cost 898,912.47 SEK",5/19/22,Jeffus33 Jefferies Jersey City,0.940084 EUR,"-90,200.18"
+05/25/22,Sale,"2,308.80",Units,"2,455.95 -2,455.95 Euro",5/25/22,,0.940084 EUR,"4,911.90"
+05/25/22,Sale,"151,278.72",Units,"151,278.72 -151,278.72 First Am Govt Ob Fd Cl X",5/25/22,,,"191,294.32"
+05/25/22,Purchase,240,Shares,Mercadolibre Inc,5/23/22,Jefferies LLC,776.5534 USD,"4,911.90"
+05/25/22,Purchase,"10,000",Shares,"Watches Of Switzerland Group Net Cost 91,609.28 GBP",5/20/22,Jeffgb2x Jefferies Intl London,9.1016 GBP,"-109,517.24"
+05/26/22,Sale,"312,807.66",Units,"312,807.66 -312,807.66 First Am Govt Ob Fd Cl X",5/26/22,,,"316,040.69"
+05/26/22,Purchase,"91,553.93",Units,British Pound,5/24/22,,1 GBP,"201,135.64"
+05/26/22,Purchase,"91,609.28",Units,British Pound,5/25/22,,1 GBP,"85,812.60"
+05/26/22,Purchase,120,Shares,Mercadolibre Inc,5/24/22,Jefferies LLC,715.065 USD,0.00
+05/26/22,Purchase,"10,000",Shares,"Watches Of Switzerland Group Net Cost 91,553.93 GBP",5/24/22,Parbfrpp Banque Paribas Fr,9.0961 GBP,"-115,110.70"
+05/27/22,Purchase,"40,701.64",Units,First Am Govt Ob Fd Cl X,5/27/22,,0.934816 EUR,0.00
+05/31/22,Sale,"6,184.50",Units,"6,615.74 -6,615.74 Euro",5/30/22,,0.934816 EUR,"13,231.48"
+05/31/22,Sale,"167,853.93",Units,"167,853.93 -167,853.93 First Am Govt Ob Fd Cl X",5/31/22,,,"234,419.77"
+05/31/22,Purchase,"6,291,723.00",Units,Yen,5/27/22,,1 JPY,"184,823.97"
+05/31/22,Purchase,"95,518.56",Units,British Pound,5/27/22,,1 GBP,"64,254.59"
+05/31/22,Purchase,"500,612.19",Units,Swedish Krona,5/27/22,,1 SEK,"13,231.48"
+05/31/22,Purchase,"5,000",Shares,"Uuum Inc Net Cost 6,291,723 JPY",5/26/22,Jeffus33 Jefferies Jersey City,"1,256.46 JPY","-36,171.55"
+05/31/22,Purchase,"10,000",Shares,"Watches Of Switzerland Group Net Cost 95,518.56 GBP",5/27/22,Parbfrpp Banque Paribas Fr,9.49 GBP,"-156,276.64"
+05/31/22,Purchase,"24,000",Shares,"Tobii Ab Net Cost 500,612.19 SEK",5/27/22,Jeffus33 Jefferies Jersey City,128.9 JPY,"-206,992.09"
+06/01/22,Sale,"184,952.00",Units,"1,434.85 -1,434.85 Yen",6/1/22,,128.9 JPY,"9,485.44"
+06/01/22,Sale,"34,790.37",Units,"34,790.37 -34,790.37 First Am Govt Ob Fd Cl X",6/1/22,,,"78,783.79"
+06/01/22,Purchase,"741,037.61",Units,Swedish Krona,5/31/22,,1 SEK,"2,869.70"
+06/02/22,Purchase,"49,820.31",Units,First Am Govt Ob Fd Cl X,6/2/22,,130 JPY,0.00
+06/03/22,Sale,"642,086.00",Units,"4,939.12 -4,939.12 Yen",6/3/22,,130 JPY,"9,878.24"
+06/03/22,Sale,"474,236.00",Units,"3,647.97 -3,647.97 Yen",6/3/22,,130 JPY,"17,174.18"
+06/03/22,Purchase,"11,883.9",Units,First Am Govt Ob Fd Cl X,6/3/22,,,"8,587.09"
+06/06/22,Purchase,"15,734.58",Units,First Am Govt Ob Fd Cl X,6/6/22,,,0.00
+06/07/22,Purchase,"50,959.83",Units,First Am Govt Ob Fd Cl X,6/7/22,,,0.00
+06/08/22,Purchase,"46,668.81",Units,First Am Govt Ob Fd Cl X,6/8/22,,,0.00
+06/09/22,Purchase,"3,268.78",Units,First Am Govt Ob Fd Cl X,6/9/22,,,0.00
+06/10/22,Purchase,"24,910.36",Units,First Am Govt Ob Fd Cl X,6/10/22,,,0.00
+06/13/22,Sale,"1,912.4",Units,"1,912.40 -1,912.40 First Am Govt Ob Fd Cl X",6/13/22,,,0.00
+06/14/22,Purchase,"26,607.56",Units,First Am Govt Ob Fd Cl X,6/14/22,,,"19,287.58"
+06/15/22,Sale,"34,087.86",Units,"34,087.86 -34,087.86 First Am Govt Ob Fd Cl X",6/15/22,,,"62,300.00"
+06/15/22,Purchase,100,Shares,Mercadolibre Inc,6/13/22,Jefferies LLC,622.96 USD,0.00
+06/16/22,Purchase,"162,797.36",Units,First Am Govt Ob Fd Cl X,6/16/22,,,"-154,165.89"
+06/16/22,Sale,293.09,Units,293.09 -293.09 First Am Govt Ob Fd Cl X,6/16/22,,,"-153,872.80"
+06/16/22,Sale,"16,000",Shares,"155,010.64 -256,289.38 Cyberagent Inc Npv Net Proceeds 20,752,824 JPY",6/14/22,Jeffus33 Jefferies Jersey City,"1,299 JPY","1,137.84"
+06/16/22,Sale,"20,752,824.00",Units,"153,872.80 -155,010.64 Yen",6/14/22,,134.86999652 JPY,"155,010.64"
+06/17/22,Sale,"9,567.28",Units,"9,567.28 -9,567.28 First Am Govt Ob Fd Cl X",6/17/22,,135.18 JPY,0.00
+06/21/22,Sale,"248,466.00",Units,"1,838.04 -1,838.04 Yen",6/20/22,,135.18 JPY,"3,676.08"
+06/21/22,Sale,"7,164.75",Units,"7,164.75 -7,164.75 First Am Govt Ob Fd Cl X",6/21/22,,,"3,676.08"
+06/22/22,Purchase,"9,757.48",Units,First Am Govt Ob Fd Cl X,6/22/22,,0.952881 EUR,0.00
+06/23/22,Sale,"18,000.00",Units,"18,890.08 -18,890.08 Euro",6/23/22,,0.952881 EUR,"37,780.16"
+06/23/22,Purchase,"36,545.08",Units,First Am Govt Ob Fd Cl X,6/23/22,,134.69 JPY,"18,890.08"
+06/24/22,Sale,"367,533.00",Units,"2,728.73 -2,728.73 Yen",6/24/22,,134.69 JPY,"5,457.46"
+06/24/22,Sale,"17,130.99",Units,"17,130.99 -17,130.99 First Am Govt Ob Fd Cl X",6/24/22,,,"5,457.46"
+06/27/22,Sale,"792,075.76",Units,"792,075.76 -792,075.76 First Am Govt Ob Fd Cl X",6/27/22,,136.38 JPY,"-45,692.74"
+06/29/22,Sale,"458,823.00",Units,"3,364.30 -3,364.30 Yen",6/29/22,,136.38 JPY,"-48,013.58"
+06/29/22,Purchase,"218,687.94",Units,First Am Govt Ob Fd Cl X,6/29/22,,,"-256,365.52"
+06/29/22,Sale,"3,000",Shares,"133,325.62 -192,873.52 Fnac Darty Net Proceeds 126,440.95 EUR",6/27/22,Parbfrpp Banque Paribas Fr,42.2103 EUR,"-123,039.90"
+06/29/22,Sale,"1,450",Shares,"126,089.11 -94,241.57 Taiwan Semiconductor A D R",6/27/22,Jefferies LLC,87.00 USD,"3,049.21"
+06/29/22,Sale,"126,440.95",Units,"133,640.71 -133,325.62 Euro",6/27/22,,136.55 JPY,"136,689.92"
+06/30/22,Sale,"1,217,127.00",Units,"8,913.42 -8,913.42 Yen",6/30/22,,0.963613 EUR,"17,826.84"
+06/30/22,Sale,"4,617.00",Units,"4,791.34 -4,791.34 Euro",6/30/22,,0.963613 EUR,"27,409.52"
+06/30/22,Purchase,"149,681.94",Units,First Am Govt Ob Fd Cl X,6/30/22,,,"-87,938.52"
+06/30/22,Sale,"10,000",Shares,"102,511.64 -106,418.45 Uuum Inc Net Proceeds 13,859,061 JPY",6/28/22,Jeffus33 Jefferies Jersey City,"1,387.988 JPY","14,573.12"
+06/30/22,Sale,"13,859,061.00",Units,"101,643.28 -102,511.64 Yen",6/28/22,,10.239629 SEK,"116,216.40"
+07/01/22,Sale,"4,200.00",Units,410.17 -410.17 Swedish Krona,6/30/22,,10.239629 SEK,820.34
+07/01/22,Purchase,"6,123.62",Units,First Am Govt Ob Fd Cl X,7/1/22,,,820.34
+07/05/22,Purchase,"7,938.76",Units,First Am Govt Ob Fd Cl X,7/5/22,,,0.00
+07/06/22,Sale,"73,507.61",Units,"73,507.61 -73,507.61 First Am Govt Ob Fd Cl X",7/6/22,,,750.00
+07/07/22,Sale,"18,225.77",Units,"18,225.77 -18,225.77 First Am Govt Ob Fd Cl X",7/7/22,,,-750.00
+07/07/22,Sale,750,Units,750.00 -750.00 First Am Govt Ob Fd Cl X,7/7/22,,,0.00
+07/08/22,Sale,,,"9,177.26 -9,177.26 Raysearch Laboratories Ab Net Proceeds 96,692.09 SEK",7/6/22,Parbfrpp Banque Paribas Fr,60.8747 SEK,"9,177.26"
+07/08/22,Purchase,"1,026",Shares,"Raysearch Laboratories Ab Net Cost 62,551.13 SEK",7/6/22,Parbfrpp Banque Paribas Fr,60.87469786 SEK,"3,240.39"
+07/08/22,Purchase,"225,492.95",Units,First Am Govt Ob Fd Cl X,7/8/22,,,"-170,940.79"
+07/08/22,Purchase,"96,692.09",Units,Swedish Krona,7/7/22,,1 SEK,"-180,112.83"
+07/08/22,Sale,"2,000",Shares,"103,245.91 -127,413.65 Hugo Boss Ag Npv Regd Net Proceeds 100,806.36 EUR",7/6/22,Parbfrpp Banque Paribas Fr,50.4789 EUR,"-76,866.92"
+07/08/22,Sale,"5,000",Shares,"81,564.11 -89,929.16 Ebro Foods Sa Net Proceeds 79,636.87 EUR",7/6/22,Parbfrpp Banque Paribas Fr,15.9513 EUR,"4,697.19"
+07/08/22,Purchase,"1,586",Shares,"Raysearch Laboratories Ab Net Cost 96,692.09 SEK",7/6/22,Parbfrpp Banque Paribas Fr,60.8747 SEK,"-4,480.07"
+07/08/22,Sale,"100,806.36",Units,"102,578.72 -103,245.91 Euro",7/7/22,,0.98272195 EUR,"98,098.65"
+07/08/22,Sale,"79,636.87",Units,"80,774.50 -81,564.11 Euro",7/7/22,,0.98591598 EUR,"178,873.15"
+07/08/22,Purchase,560,Shares,"Raysearch Laboratories Ab Net Cost 34,140.96 SEK",7/6/22,Parbfrpp Banque Paribas Fr,60.8747 SEK,"175,632.76"
+07/11/22,Sale,"121,592.9",Units,"121,592.90 -121,592.90 First Am Govt Ob Fd Cl X",7/11/22,,,"64,442.84"
+07/11/22,Purchase,"246,936.97",Units,Swedish Krona,7/7/22,,1 SEK,"40,996.17"
+07/11/22,Sale,"6,000",Shares,"116,959.11 -128,474.58 Lumibird Net Proceeds 114,727.65 EUR",7/7/22,Jeffus33 Jefferies Jersey City,19.15 EUR,"157,955.28"
+07/11/22,Purchase,"2,000",Shares,Taiwan Semiconductor A D R,7/7/22,Jefferies LLC,78.67 USD,535.28
+07/11/22,Purchase,"3,922",Shares,"Raysearch Laboratories Ab Net Cost 246,936.97 SEK",7/7/22,Parbfrpp Banque Paribas Fr,62.86770015 SEK,"-22,918.42"
+07/11/22,Sale,"114,727.65",Units,"116,423.83 -116,959.11 Euro",7/7/22,,0.84544 GBP,"93,505.41"
+07/12/22,Sale,"7,500.00",Units,"8,871.12 -8,871.12 British Pound",7/12/22,,0.84544 GBP,"17,742.24"
+07/12/22,Sale,"21,405.95",Units,"21,405.95 -21,405.95 First Am Govt Ob Fd Cl X",7/12/22,,,"38,348.87"
+07/12/22,Purchase,"310,184.54",Units,Swedish Krona,7/8/22,,1 SEK,"8,871.12"
+07/12/22,Purchase,"4,771",Shares,"Raysearch Laboratories Ab Net Cost 310,184.54 SEK",7/8/22,Parbfrpp Banque Paribas Fr,64.91719975 SEK,"-20,564.16"
+07/13/22,Sale,"206,862.43",Units,"206,862.43 -206,862.43 First Am Govt Ob Fd Cl X",7/13/22,,,"216,475.06"
+07/13/22,Purchase,"152,414.42",Units,British Pound,7/11/22,,1 GBP,"34,905.25"
+07/13/22,Purchase,"370,783.38",Units,Swedish Krona,7/11/22,,1 SEK,0.00
+07/13/22,Purchase,"20,000",Shares,"Watches Of Switzerland Group Net Cost 152,414.42 GBP",7/11/22,Crest 393,7.5714 GBP,"-183,293.62"
+07/13/22,Purchase,"5,719",Shares,"Raysearch Laboratories Ab Net Cost 370,783.38 SEK",7/11/22,Parbfrpp Banque Paribas Fr,64.73649939 SEK,"-218,523.62"
+07/14/22,Sale,"16,937.14",Units,"16,937.14 -16,937.14 First Am Govt Ob Fd Cl X",7/14/22,,,"26,629.88"
+07/14/22,Purchase,"256,050.47",Units,Swedish Krona,7/12/22,,1 SEK,"2,351.97"
+07/14/22,Purchase,"4,002",Shares,"Raysearch Laboratories Ab Net Cost 256,050.47 SEK",7/12/22,Parbfrpp Banque Paribas Fr,63.8848001 SEK,"-21,797.01"
+07/15/22,Purchase,"231,853.39",Units,First Am Govt Ob Fd Cl X,7/15/22,,,"-195,680.63"
+07/15/22,Sale,"12,799",Shares,"199,320.44 -228,939.75 Ebro Foods Sa Net Proceeds 198,338.69 EUR",7/13/22,Parbfrpp Banque Paribas Fr,15.51969998 EUR,"3,639.81"
+07/15/22,Sale,"198,338.69",Units,"198,536.63 -199,320.44 Euro",7/14/22,,0.99900301 EUR,"202,176.44"
+07/18/22,Purchase,"204,998.79",Units,First Am Govt Ob Fd Cl X,7/18/22,,,"-187,606.84"
+07/18/22,Sale,"12,201",Shares,"189,528.77 -217,364.45 Ebro Foods Sa Net Proceeds 187,475.89 EUR",7/14/22,Parbfrpp Banque Paribas Fr,15.38870011 EUR,"1,921.93"
+07/18/22,Sale,"187,475.89",Units,"187,606.84 -189,528.77 Euro",7/14/22,,0.999302 EUR,"189,528.77"
+07/19/22,Sale,"200,997.29",Units,"200,997.29 -200,997.29 First Am Govt Ob Fd Cl X",7/19/22,,,"210,344.59"
+07/19/22,Purchase,"29,193,725.00",Units,Yen,7/14/22,,1 JPY,0.00
+07/19/22,Purchase,"11,000",Shares,"Olympus Corp Net Cost 29,193,725 JPY",7/14/22,Jeffus33 Jefferies Jersey City,"2,650 JPY","-212,805.52"
+07/20/22,Sale,"3,379.05",Units,"3,379.05 -3,379.05 First Am Govt Ob Fd Cl X",7/20/22,,0.838079 GBP,0.00
+07/21/22,Sale,"1,680.00",Units,"2,004.59 -2,004.58 British Pound",7/21/22,,0.838079 GBP,"4,009.17"
+07/21/22,Purchase,"11,101.59",Units,First Am Govt Ob Fd Cl X,7/21/22,,,"2,004.58"
+07/22/22,Purchase,317.25,Units,First Am Govt Ob Fd Cl X,7/22/22,,,0.00
+07/25/22,Purchase,"16,924.11",Units,First Am Govt Ob Fd Cl X,7/25/22,,,0.00
+07/26/22,Purchase,"13,950.04",Units,First Am Govt Ob Fd Cl X,7/26/22,,,0.00
+07/27/22,Purchase,"11,759.14",Units,First Am Govt Ob Fd Cl X,7/27/22,,,0.00
+07/28/22,Purchase,"24,227.51",Units,First Am Govt Ob Fd Cl X,7/28/22,,,0.00
+07/29/22,Sale,"16,793.65",Units,"16,793.65 -16,793.65 First Am Govt Ob Fd Cl X",7/29/22,,,0.00
+08/01/22,Purchase,"16,239.8",Units,First Am Govt Ob Fd Cl X,8/1/22,,,0.00
+08/02/22,Purchase,"20,722.9",Units,First Am Govt Ob Fd Cl X,8/2/22,,,0.00
+08/03/22,Purchase,"40,594.91",Units,First Am Govt Ob Fd Cl X,8/3/22,,,0.00
+08/04/22,Purchase,"186,692.55",Units,First Am Govt Ob Fd Cl X,8/4/22,,,"-214,709.45"
+08/04/22,Sale,"12,000",Shares,"218,862.60 -607,196.88 Mercari Inc Net Proceeds 28,852,656 JPY",8/2/22,Jeffus33 Jefferies Jersey City,"2,408 JPY","4,153.15"
+08/04/22,Sale,"28,852,656.00",Units,"214,709.45 -218,862.60 Yen",8/3/22,,134.38000051 JPY,"218,862.60"
+08/05/22,Purchase,"33,370.5",Units,First Am Govt Ob Fd Cl X,8/5/22,,,-11.21
+08/05/22,Sale,11.21,Units,11.21 -11.21 First Am Govt Ob Fd Cl X,8/5/22,,,0.00
+08/08/22,Purchase,"1,796.04",Units,First Am Govt Ob Fd Cl X,8/8/22,,,0.00
+08/09/22,Sale,"2,475",Units,"2,475.00 -2,475.00 First Am Govt Ob Fd Cl X",8/9/22,,,"2,275.40"
+08/10/22,Purchase,"3,502.62",Units,First Am Govt Ob Fd Cl X,8/10/22,,,"2,275.40"
+08/11/22,Sale,"3,824.34",Units,"3,824.34 -3,824.34 First Am Govt Ob Fd Cl X",8/11/22,,,"2,275.40"
+08/12/22,Purchase,830.58,Units,First Am Govt Ob Fd Cl X,8/12/22,,,"-7,186.27"
+08/12/22,Sale,"256,116.73",Units,"256,116.73 -256,116.73 First Am Govt Ob Fd Cl X",8/12/22,,,"248,930.46"
+08/12/22,Purchase,"32,963,371.00",Units,Yen,8/10/22,,1 JPY,0.00
+08/12/22,Purchase,"7,000",Shares,"Suzuki Motor Corp Ord Net Cost 32,963,371 JPY",8/9/22,Jeffus33 Jefferies Jersey City,"4,702 JPY","-244,671.52"
+08/15/22,Purchase,"288,881.4",Units,First Am Govt Ob Fd Cl X,8/15/22,,,"-261,226.83"
+08/15/22,Sale,"12,000",Shares,"264,128.22 -482,246.79 Pva Tepla Ag Net Proceeds 255,060.83 EUR",8/11/22,Jeffus33 Jefferies Jersey City,21.287 EUR,"2,901.39"
+08/15/22,Sale,"255,060.83",Units,"261,226.83 -264,128.22 Euro",8/12/22,,0.97639599 EUR,"264,128.22"
+08/16/22,Sale,"233,476.84",Units,"233,476.84 -233,476.84 First Am Govt Ob Fd Cl X",8/16/22,,,"234,641.63"
+08/16/22,Purchase,"230,466.18",Units,Euro,8/15/22,,1 EUR,0.00
+08/16/22,Purchase,"5,000",Shares,"Stroeer SE and Co Kgaa Net Cost 230,466.18 EUR",8/12/22,Jeffus33 Jefferies Jersey City,46.0242 EUR,"-238,428.75"
+08/17/22,Purchase,"230,465.61",Units,First Am Govt Ob Fd Cl X,8/17/22,,,0.00
+08/18/22,Purchase,"637,437.54",Units,First Am Govt Ob Fd Cl X,8/18/22,,,"-637,877.10"
+08/18/22,Sale,"2,000",Shares,"117,511.64 -127,413.65 Hugo Boss Ag Npv Regd Net Proceeds 115,269.64 EUR",8/16/22,Jeffus33 Jefferies Jersey City,57.7214 EUR,"-520,365.46"
+08/18/22,Sale,100,Shares,"189,375.23 -201,415.39 Adyen Bv Net Proceeds 185,762.14 EUR",8/16/22,Jeffus33 Jefferies Jersey City,"1,860.412 EUR","-330,990.23"
+08/18/22,Sale,"14,400",Shares,"316,743.11 -396,990.80 Pva Tepla Ag Net Proceeds 310,699.97 EUR",8/16/22,Jeffus33 Jefferies Jersey City,21.6088 EUR,"-14,247.12"
+08/18/22,Sale,"10,000",Shares,"16,885.42 -15,267.35 Zoo Digital Group Net Proceeds 13,978.00 GBP",8/16/22,Jeffgb2x Jefferies Intl London,1.4 GBP,"2,638.30"
+08/18/22,Sale,"115,269.64",Units,"117,019.91 -117,511.64 Euro",8/16/22,,0.98504297 EUR,"119,658.21"
+08/18/22,Sale,"185,762.14",Units,"188,601.34 -189,375.23 Euro",8/16/22,,0.98494602 EUR,"308,259.55"
+08/18/22,Sale,"310,699.97",Units,"315,448.74 -316,743.11 Euro",8/16/22,,0.98494599 EUR,"623,708.29"
+08/18/22,Sale,"13,978.00",Units,"16,807.11 -16,885.42 British Pound",8/17/22,,0.83167183 GBP,"640,515.40"
+08/19/22,Purchase,"6,029.32",Units,First Am Govt Ob Fd Cl X,8/19/22,,,0.00
+08/22/22,Purchase,"9,677.16",Units,First Am Govt Ob Fd Cl X,8/22/22,,0.98814229 EUR,0.00
+08/23/22,Sale,"2,860.00",Units,"2,894.32 -2,894.32 Euro",8/18/22,,0.98814229 EUR,"5,788.64"
+08/23/22,Purchase,"4,752.92",Units,First Am Govt Ob Fd Cl X,8/23/22,,,"5,788.64"
+08/24/22,Purchase,"630,203.85",Units,First Am Govt Ob Fd Cl X,8/24/22,,,"-596,736.32"
+08/24/22,Sale,"7,000",Shares,"596,736.32 -364,133.66 Taiwan Semiconductor A D R",8/22/22,Jefferies LLC,85.29 USD,0.00
+08/25/22,Purchase,211.68,Units,First Am Govt Ob Fd Cl X,8/25/22,,,0.00
+08/26/22,Sale,"1,437,123.42",Units,"1,437,123.42 -1,437,123.42 First Am Govt Ob Fd Cl X",8/26/22,,,"97,800.60"
+08/26/22,Purchase,"14,661",Shares,Cresud S A Spon A D R,8/24/22,Jefferies LLC,6.6308 USD,0.00
+08/29/22,Purchase,"19,299.41",Units,First Am Govt Ob Fd Cl X,8/29/22,,,0.00
+08/29/22,Sale,"176,123.79",Units,"176,123.79 -176,123.79 First Am Govt Ob Fd Cl X",8/29/22,,,"176,123.79"
+08/29/22,Purchase,"25,339",Shares,Cresud S A Spon A D R,8/25/22,Jefferies LLC,6.91070011 USD,0.00
+08/30/22,Purchase,"38,293.28",Units,First Am Govt Ob Fd Cl X,8/30/22,,139.05 JPY,0.00
+08/31/22,Sale,"186,307.00",Units,"1,339.86 -1,339.86 Yen",8/31/22,,139.05 JPY,"2,679.72"
+08/31/22,Purchase,"976,212.7",Units,First Am Govt Ob Fd Cl X,8/31/22,,,"1,339.86"
+09/01/22,Purchase,"1,536.13",Units,First Am Govt Ob Fd Cl X,9/1/22,,,0.00
+09/02/22,Sale,"83,644",Units,"83,644.00 -83,644.00 First Am Govt Ob Fd Cl X",9/2/22,,,0.00
+09/06/22,Purchase,"79,317.54",Units,First Am Govt Ob Fd Cl X,9/6/22,,,0.00
+09/06/22,Sale,"50,000",Shares,"977,227.69 -793,057.12 Slm Solutions Group Ag Net Proceeds 983,522.50 EUR",9/2/22,Jeffus33 Jefferies Jersey City,19.7 EUR,"977,227.69"
+09/06/22,Purchase,"5,000",Shares,"Compagnie De Saint Gobain Net Cost 206,123.40 EUR",9/2/22,Jeffus33 Jefferies Jersey City,41.04 EUR,"772,423.54"
+09/07/22,Purchase,"206,123.40",Units,Euro,9/6/22,,1 EUR,"-202,682.89"
+09/07/22,Sale,"983,522.50",Units,"973,204.58 -977,061.07 Euro",9/6/22,,1.01060201 EUR,"770,521.69"
+09/08/22,Purchase,"783,968.75",Units,First Am Govt Ob Fd Cl X,9/8/22,,144.2 JPY,0.00
+09/09/22,Sale,"143,668.00",Units,996.31 -996.31 Yen,9/9/22,,144.2 JPY,"1,992.62"
+09/09/22,Purchase,"54,277.24",Units,First Am Govt Ob Fd Cl X,9/9/22,,,996.31
+09/09/22,Purchase,"20,000",Shares,"Watches Of Switzerland Group Net Cost 154,077.17 GBP",9/2/22,Jeffgb2x Jefferies Intl London,1.00 GBP,"-176,608.43"
+09/12/22,Purchase,"2,563.02",Units,First Am Govt Ob Fd Cl X,9/12/22,,,0.00
+09/12/22,Sale,"178,800.24",Units,"178,800.24 -178,800.24 First Am Govt Ob Fd Cl X",9/12/22,,,"178,800.24"
+09/12/22,Purchase,"154,077.17",Units,British Pound,9/9/22,,1 GBP,0.00
+09/13/22,Sale,"263,857.53",Units,"263,857.53 -263,857.53 First Am Govt Ob Fd Cl X",9/13/22,,,"263,440.00"
+09/13/22,Purchase,"25,000",Shares,Farfetch Ltd Class A,9/9/22,Jefferies LLC,10.4976 USD,0.00
+09/14/22,Sale,"225,730.54",Units,"225,730.54 -225,730.54 First Am Govt Ob Fd Cl X",9/14/22,,,"216,771.92"
+09/14/22,Purchase,"214,008.73",Units,Euro,9/12/22,,1 EUR,0.00
+09/14/22,Purchase,"5,000",Shares,"Compagnie De Saint Gobain Net Cost 214,008.73 EUR",9/12/22,Jeffus33 Jefferies Jersey City,42.61 EUR,"-214,918.26"
+09/15/22,Sale,"170,403.29",Units,"170,403.29 -170,403.29 First Am Govt Ob Fd Cl X",9/15/22,,,"153,265.04"
+09/15/22,Purchase,"153,081.28",Units,Euro,9/14/22,,1 EUR,0.00
+09/15/22,Purchase,"20,000",Shares,"Onward Medical Nv Net Cost 153,081.28 EUR",9/13/22,Jeffus33 Jefferies Jersey City,7.6426 EUR,"-155,086.63"
+09/16/22,Sale,"19,354.53",Units,"19,354.53 -19,354.53 First Am Govt Ob Fd Cl X",9/16/22,,,0.00
+09/19/22,Sale,"241,000.17",Units,"241,000.17 -241,000.17 First Am Govt Ob Fd Cl X",9/19/22,,,"119,241.00"
+09/19/22,Purchase,"10,000",Shares,Materialise Nv A D R,9/15/22,Jefferies LLC,11.8841 USD,0.00
+09/20/22,Purchase,"6,904.81",Units,First Am Govt Ob Fd Cl X,9/20/22,,,0.00
+09/21/22,Sale,"3,433.93",Units,"3,433.93 -3,433.93 First Am Govt Ob Fd Cl X",9/21/22,,,0.00
+09/22/22,Sale,"107,367.57",Units,"107,367.57 -107,367.57 First Am Govt Ob Fd Cl X",9/22/22,,,"110,301.94"
+09/22/22,Sale,"10,000",Shares,"16,058.61 -12,196.29 Zoo Digital Group Net Proceeds 14,077.85 GBP",9/20/22,Jeffgb2x Jefferies Intl London,1.41 GBP,"126,360.55"
+09/22/22,Purchase,"8,000",Shares,"Future Plc Ord Net Cost 111,441.51 GBP",9/20/22,Parbfrpp Banque Paribas Fr,13.84 GBP,-760.81
+09/22/22,Sale,"14,077.85",Units,"15,920.18 -15,920.18 British Pound",9/21/22,,0.88427706 GBP,"15,159.37"
+09/22/22,Purchase,"111,441.51",Units,British Pound,9/22/22,,1 GBP,"-111,062.75"
+09/23/22,Sale,,,"155,086.63 -155,086.63 Onward Medical Nv Net Proceeds 153,081.28 EUR",9/13/22,Jeffus33 Jefferies Jersey City,0.904083 GBP,"155,086.63"
+09/23/22,Sale,"2,040.00",Units,"2,256.43 -2,256.43 British Pound",9/22/22,,0.904083 GBP,"159,599.49"
+09/23/22,Purchase,"37,507.25",Units,First Am Govt Ob Fd Cl X,9/23/22,,,"109,778.52"
+09/23/22,Sale,"30,000",Shares,"48,205.54 -27,375.72 Zoo Digital Group Net Proceeds 42,235.55 GBP",9/21/22,Jeffgb2x Jefferies Intl London,1.41 GBP,"157,984.06"
+09/23/22,Sale,"42,235.55",Units,"47,564.54 -48,205.54 British Pound",9/21/22,,0.88796297 GBP,"205,548.60"
+09/26/22,Purchase,"110,578.24",Units,First Am Govt Ob Fd Cl X,9/26/22,,,"-55,423.24"
+09/26/22,Sale,"35,000",Shares,"55,835.94 -31,337.67 Zoo Digital Group Net Proceeds 49,274.97 GBP",9/22/22,Jeffgb2x Jefferies Intl London,1.41 GBP,412.70
+09/26/22,Sale,"49,274.97",Units,"55,423.24 -55,835.94 British Pound",9/22/22,,0.88906693 GBP,"55,835.94"
+09/27/22,Purchase,"100,160.54",Units,First Am Govt Ob Fd Cl X,9/27/22,,,0.00
+09/28/22,Purchase,"197,760.00",Units,British Pound,9/28/22,,1.00 GBP,"-212,230.51"
+09/28/22,Purchase,"192,000",Shares,"Aston Martin Lagon Ord Net Cost 197,760.00 GBP",9/28/22,Global Corporate Actions,1.03 GBP,"-424,461.02"
+09/28/22,Sale,"978,388.12",Units,"978,388.12 -978,388.12 First Am Govt Ob Fd Cl X",9/28/22,,144.2441 JPY,"-212,230.51"
+09/29/22,Sale,"165,136.00",Units,"1,144.84 -1,144.84 Yen",9/29/22,,0.93181701 GBP,"2,289.68"
+09/29/22,Sale,"8,138.94",Units,"8,138.94 -8,138.94 First Am Govt Ob Fd Cl X",9/29/22,,,"1,144.84"
+09/30/22,Purchase,"34,789.56",Units,First Am Govt Ob Fd Cl X,9/30/22,,11.1830719 SEK,0.00
+10/03/22,Sale,"4,200.00",Units,375.57 -375.57 Swedish Krona,9/30/22,,11.1830719 SEK,751.14
+10/03/22,Purchase,"416,936.57",Units,First Am Govt Ob Fd Cl X,10/3/22,,,375.57
+10/04/22,Purchase,"111,044.69",Units,First Am Govt Ob Fd Cl X,10/4/22,,,0.00
+10/05/22,Sale,"169,898.24",Units,"169,898.24 -169,898.24 First Am Govt Ob Fd Cl X",10/5/22,,,"194,953.35"
+10/05/22,Purchase,"195,364.21",Units,Euro,10/4/22,,1 EUR,0.00
+10/05/22,Purchase,"4,000",Shares,"Nemetschek SE Npv Net Cost 195,364.21 EUR",10/3/22,Jeffus33 Jefferies Jersey City,48.7679 EUR,"-191,388.59"
+10/06/22,Sale,"128,931.73",Units,"128,931.73 -128,931.73 First Am Govt Ob Fd Cl X",10/6/22,,,"124,650.00"
+10/06/22,Purchase,"15,000",Shares,Farfetch Ltd Class A,10/4/22,Jefferies LLC,8.27 USD,0.00
+10/07/22,Sale,357.44,Units,357.44 -357.44 First Am Govt Ob Fd Cl X,10/7/22,,,0.00
+10/11/22,Purchase,"19,785.02",Units,First Am Govt Ob Fd Cl X,10/11/22,,,0.00
+10/12/22,Purchase,"15,637.73",Units,First Am Govt Ob Fd Cl X,10/12/22,,,0.00
+10/13/22,Purchase,"1,312",Units,First Am Govt Ob Fd Cl X,10/13/22,,,0.00
+10/14/22,Sale,211.13,Units,211.13 -211.13 First Am Govt Ob Fd Cl X,10/14/22,,,"2,856.00"
+10/14/22,Purchase,"20,000",Shares,"Onward Medical Nv Net Cost 153,081.28 EUR",9/13/22,Eclr 90793 Jefferies and Co,7.6426 EUR,"-152,230.63"
+10/17/22,Sale,"185,793.18",Units,"185,793.18 -185,793.18 First Am Govt Ob Fd Cl X",10/17/22,,,0.00
+10/18/22,Sale,"201,593.62",Units,"201,593.62 -201,593.62 First Am Govt Ob Fd Cl X",10/18/22,,,"195,230.20"
+10/18/22,Purchase,"1,000",Shares,Solaredge Technologies Inc,10/13/22,Jefferies LLC,195.1902 USD,0.00
+10/19/22,Sale,"36,378.61",Units,"36,378.61 -36,378.61 First Am Govt Ob Fd Cl X",10/19/22,,,0.00
+10/20/22,Sale,"29,035.09",Units,"29,035.09 -29,035.09 First Am Govt Ob Fd Cl X",10/20/22,,,0.00
+10/21/22,Sale,"19,304.4",Units,"19,304.40 -19,304.40 First Am Govt Ob Fd Cl X",10/21/22,,,0.00
+10/24/22,Sale,"5,437.72",Units,"5,437.72 -5,437.72 First Am Govt Ob Fd Cl X",10/24/22,,,0.00
+10/25/22,Sale,"28,051.16",Units,"28,051.16 -28,051.16 First Am Govt Ob Fd Cl X",10/25/22,,169.75 USD,300.00
+10/26/22,Sale,"46,656.05",Units,"46,656.05 -46,656.05 First Am Govt Ob Fd Cl X",10/26/22,,,0.00
+10/26/22,Sale,"25,660",Shares,"159,488.61 -787,459.96 Asos Plc Net Proceeds 140,909.62 GBP",10/19/22,Jeffgb2x Jefferies Intl London,0.8648704 GBP,"159,488.61"
+10/27/22,Sale,"1,080.00",Units,"1,248.75 -1,248.74 British Pound",10/27/22,,0.8648704 GBP,"2,497.49"
+10/27/22,Sale,"38,260.04",Units,"38,260.04 -38,260.04 First Am Govt Ob Fd Cl X",10/27/22,,,"1,248.74"
+10/27/22,Sale,"140,909.62",Units,"163,488.78 -159,488.61 British Pound",10/26/22,,0.86189168 GBP,"164,737.52"
+10/27/22,Purchase,"163,488.78",Units,First Am Govt Ob Fd Cl X,10/27/22,,,"1,248.74"
+10/28/22,Purchase,"61,043.28",Units,First Am Govt Ob Fd Cl X,10/28/22,,,"-43,968.83"
+10/28/22,Sale,"25,000",Shares,"43,628.38 -22,085.25 Zoo Digital Group Net Proceeds 38,066.81 GBP",10/26/22,Parbfrpp Banque Paribas Fr,1.525 GBP,-340.45
+10/28/22,Sale,"38,066.81",Units,"43,968.83 -43,628.38 British Pound",10/27/22,,0.86576809 GBP,"43,628.38"
+10/31/22,Sale,,,"199,113.80 -199,113.80 Nemetschek SE Npv Net Proceeds 198,152.78 EUR",10/27/22,Jeffus33 Jefferies Jersey City,49.464 EUR,"199,113.80"
+10/31/22,Purchase,"2,786",Shares,"Nemetschek SE Npv Net Cost 138,013.41 EUR",10/27/22,Jeffus33 Jefferies Jersey City,49.464 EUR,"60,431.04"
+10/31/22,Sale,"104,068.1",Units,"104,068.10 -104,068.10 First Am Govt Ob Fd Cl X",10/31/22,,,"60,431.04"
+10/31/22,Purchase,"198,152.78",Units,Euro,10/27/22,,1 EUR,"-137,285.16"
+10/31/22,Sale,"45,000",Shares,"79,772.56 -39,470.02 Zoo Digital Group Net Proceeds 68,745.72 GBP",10/27/22,Plhcgb3l United Kingdom,1.53 GBP,"-57,512.60"
+10/31/22,Purchase,"4,000",Shares,"Nemetschek SE Npv Net Cost 198,152.78 EUR",10/27/22,Jeffus33 Jefferies Jersey City,49.464 EUR,"-256,626.40"
+10/31/22,Sale,"68,745.72",Units,"79,452.39 -79,772.56 British Pound",10/27/22,,0.8652442 GBP,"-177,174.01"
+10/31/22,Sale,"118,263.81",Units,"118,263.81 -118,263.81 First Am Govt Ob Fd Cl X",10/31/22,,,"-58,910.20"
+10/31/22,Purchase,"1,214",Shares,"Nemetschek SE Npv Net Cost 60,139.37 EUR",10/27/22,Jeffus33 Jefferies Jersey City,0.8674937 GBP,"-119,341.24"
+11/01/22,Sale,"12,240.00",Units,"14,109.61 -14,109.61 British Pound",11/1/22,,0.8674937 GBP,"28,219.22"
+11/01/22,Purchase,"37,693.23",Units,First Am Govt Ob Fd Cl X,11/1/22,,,"14,109.61"
+11/02/22,Sale,"3,605.11",Units,"3,605.11 -3,605.11 First Am Govt Ob Fd Cl X",11/2/22,,,"1,108.46"
+11/02/22,Sale,"10,000",Shares,"168,980.16 -213,647.97 Alk Abello A S Ser B Net Proceeds 1,264,275.74 DKK",10/31/22,Jeffus33 Jefferies Jersey City,126.6175 DKK,"170,088.62"
+11/02/22,Sale,"1,264,275.74",Units,"167,906.93 -168,980.16 Danish Krone",11/1/22,,7.52962215 DKK,"337,995.55"
+11/02/22,Purchase,"169,015.39",Units,First Am Govt Ob Fd Cl X,11/2/22,,,"168,980.16"
+11/03/22,Sale,"28,566.14",Units,"28,566.14 -28,566.14 First Am Govt Ob Fd Cl X",11/3/22,,,0.00
+11/04/22,Sale,"130,127.69",Units,"130,127.69 -130,127.69 First Am Govt Ob Fd Cl X",11/4/22,,,0.00
+11/07/22,Purchase,"12,665.78",Units,First Am Govt Ob Fd Cl X,11/7/22,,,0.00
+11/08/22,Sale,"141,236.32",Units,"141,236.32 -141,236.32 First Am Govt Ob Fd Cl X",11/8/22,,,0.00
+11/08/22,Sale,"3,000",Shares,"41,658.30 -75,729.25 Nordic Semiconductor Asa Net Proceeds 440,263.61 NOK",11/4/22,Jeffus33 Jefferies Jersey City,146.975 NOK,"41,658.30"
+11/08/22,Sale,"9,147",Shares,"64,327.23 -80,026.90 Accesso Technology Group Plc Net Proceeds 57,537.75 GBP",11/4/22,Jeffgb2x Jefferies Intl London,6.2999 GBP,"105,985.53"
+11/08/22,Sale,"15,000",Shares,"27,962.78 -12,826.00 Zoo Digital Group Net Proceeds 25,011.42 GBP",11/4/22,Jeffgb2x Jefferies Intl London,1.67 GBP,"133,948.31"
+11/08/22,Sale,"440,263.61",Units,"42,816.07 -41,658.30 Norwegian Krone",11/4/22,,10.28267214 NOK,"176,764.38"
+11/08/22,Sale,"57,537.75",Units,"65,084.85 -64,327.23 British Pound",11/4/22,,0.88404214 GBP,"241,849.23"
+11/08/22,Sale,"25,011.42",Units,"28,294.61 -27,962.78 British Pound",11/4/22,,0.88396412 GBP,"270,143.84"
+11/08/22,Purchase,"136,195.53",Units,First Am Govt Ob Fd Cl X,11/8/22,,,"133,948.31"
+11/09/22,Purchase,"1,382.8",Units,First Am Govt Ob Fd Cl X,11/9/22,,,0.00
+11/10/22,Sale,"89,251.3",Units,"89,251.30 -89,251.30 First Am Govt Ob Fd Cl X",11/10/22,,,0.00
+11/10/22,Sale,"30,000",Shares,"102,829.11 -158,017.27 Ds Smith Plc Net Proceeds 89,705.24 GBP",11/8/22,Crst 871,2.9947 GBP,"102,829.11"
+11/10/22,Sale,853,Shares,"6,303.17 -4,043.19 Accesso Technology Group Plc Net Proceeds 5,498.71 GBP",11/8/22,Jeffgb2x Jefferies Intl London,6.45600234 GBP,"109,132.28"
+11/10/22,Sale,"89,705.24",Units,"103,595.56 -102,829.11 British Pound",11/8/22,,0.86591781 GBP,"212,727.84"
+11/10/22,Sale,"5,498.71",Units,"6,361.69 -6,303.17 British Pound",11/8/22,,0.86434737 GBP,"219,089.53"
+11/10/22,Purchase,"109,957.25",Units,First Am Govt Ob Fd Cl X,11/10/22,,,"109,132.28"
+11/14/22,Sale,"85,285.92",Units,"85,285.92 -85,285.92 First Am Govt Ob Fd Cl X",11/14/22,,,0.00
+11/14/22,Sale,"9,000",Shares,"291,558.23 -425,633.87 Fnac Darty Net Proceeds 289,632.20 EUR",11/9/22,Jeffus33 Jefferies Jersey City,32.2297 EUR,"291,558.23"
+11/14/22,Sale,"20,000",Shares,"148,978.89 -94,799.26 Accesso Technology Group Plc Net Proceeds 128,835.45 GBP",11/9/22,Crst 871,6.4515 GBP,"440,537.12"
+11/14/22,Sale,"289,632.20",Units,"294,377.12 -291,558.23 Euro",11/10/22,,0.98388149 EUR,"734,914.24"
+11/14/22,Sale,"128,835.45",Units,"150,239.24 -148,978.89 British Pound",11/10/22,,0.85753529 GBP,"885,153.48"
+11/14/22,Purchase,"444,616.36",Units,First Am Govt Ob Fd Cl X,11/14/22,,,"440,537.12"
+11/15/22,Sale,"216,025.16",Units,"216,025.16 -216,025.16 First Am Govt Ob Fd Cl X",11/15/22,,,0.00
+11/15/22,Sale,700,Shares,"392,509.01 -436,083.06 Asml Holding Nv Ny Reg Shs",11/11/22,Jefferies LLC,560.78 USD,"392,509.01"
+11/15/22,Purchase,"392,509.01",Units,First Am Govt Ob Fd Cl X,11/15/22,,,0.00
+11/16/22,Purchase,"49,872.47",Units,First Am Govt Ob Fd Cl X,11/16/22,,,0.00
+11/17/22,Purchase,"46,438.1",Units,First Am Govt Ob Fd Cl X,11/17/22,,,0.00
+11/18/22,Purchase,"8,832.48",Units,First Am Govt Ob Fd Cl X,11/18/22,,,0.00
+11/18/22,Purchase,"18,207,270.00",Units,Yen,11/16/22,,1 JPY,"-130,546.14"
+11/18/22,Purchase,"15,000",Shares,"Cyberagent Inc Npv Net Cost 18,207,270 JPY",11/16/22,Jeffus33 Jefferies Jersey City,"1,212 JPY","-261,307.92"
+11/18/22,Sale,"130,546.14",Units,"130,546.14 -130,546.14 First Am Govt Ob Fd Cl X",11/18/22,,,"-130,761.78"
+11/21/22,Purchase,"6,008.26",Units,First Am Govt Ob Fd Cl X,11/21/22,,,0.00
+11/22/22,Purchase,"20,111.6",Units,First Am Govt Ob Fd Cl X,11/22/22,,,0.00
+11/22/22,Purchase,"194,773.52",Units,Euro,11/18/22,,1 EUR,"-201,363.25"
+11/22/22,Purchase,"15,000",Shares,"Ryanair Ltd Net Cost 194,773.52 EUR",11/18/22,Jeffus33 Jefferies Jersey City,12.837 EUR,"-402,554.47"
+11/22/22,Sale,"201,363.25",Units,"201,363.25 -201,363.25 First Am Govt Ob Fd Cl X",11/22/22,,,"-201,191.22"
+11/23/22,Sale,"45,971.66",Units,"45,971.66 -45,971.66 First Am Govt Ob Fd Cl X",11/23/22,,,0.00
+11/25/22,Sale,"43,931.34",Units,"43,931.34 -43,931.34 First Am Govt Ob Fd Cl X",11/25/22,,,0.00
+11/28/22,Sale,272.15,Units,272.15 -272.15 First Am Govt Ob Fd Cl X,11/28/22,,,0.00
+11/29/22,Purchase,"11,521.15",Units,First Am Govt Ob Fd Cl X,11/29/22,,138.64851 JPY,0.00
+11/30/22,Sale,"186,307.00",Units,"1,343.74 -1,343.74 Yen",11/30/22,,138.64851 JPY,"2,687.48"
+11/30/22,Sale,"296,397.00",Units,"2,137.75 -2,137.76 Yen",11/30/22,,138.64851 JPY,"6,962.99"
+11/30/22,Purchase,"276,526.3",Units,First Am Govt Ob Fd Cl X,11/30/22,,138.15802 JPY,"3,481.50"
+12/01/22,Sale,"96,033.00",Units,695.10 -695.10 Yen,12/1/22,,138.15802 JPY,"1,390.20"
+12/01/22,Purchase,"8,304.76",Units,First Am Govt Ob Fd Cl X,12/1/22,,,695.10
+12/02/22,Purchase,"2,409.31",Units,First Am Govt Ob Fd Cl X,12/2/22,,,"1,157.76"
+12/02/22,Purchase,"244,710.25",Units,Euro,12/1/22,,1 EUR,"-256,338.90"
+12/02/22,Purchase,"5,000",Shares,"Moncler Spa Net Cost 244,710.25 EUR",11/30/22,Jeffus33 Jefferies Jersey City,48.82 EUR,"-509,773.12"
+12/02/22,Sale,"256,338.9",Units,"256,338.90 -256,338.90 First Am Govt Ob Fd Cl X",12/2/22,,,"-253,434.22"
+12/05/22,Sale,"15,327.43",Units,"15,327.43 -15,327.43 First Am Govt Ob Fd Cl X",12/5/22,,,0.00
+12/05/22,Purchase,"15,000",Shares,Farfetch Ltd Class A,12/1/22,Jefferies LLC,6.285 USD,"-94,875.00"
+12/05/22,Sale,"94,875",Units,"94,875.00 -94,875.00 First Am Govt Ob Fd Cl X",12/5/22,,,0.00
+12/06/22,Purchase,"1,569",Units,First Am Govt Ob Fd Cl X,12/6/22,,137.07694 JPY,0.00
+12/07/22,Sale,"965,409.00",Units,"7,042.83 -7,042.83 Yen",12/7/22,,137.07694 JPY,"14,085.66"
+12/07/22,Sale,"2,591.24",Units,"2,591.24 -2,591.24 First Am Govt Ob Fd Cl X",12/7/22,,,"7,042.83"
+12/08/22,Purchase,"88,969.96",Units,First Am Govt Ob Fd Cl X,12/8/22,,,0.00
+12/09/22,Purchase,"14,435.33",Units,First Am Govt Ob Fd Cl X,12/9/22,,136.45632 JPY,0.00
+12/12/22,Sale,"177,838.00",Units,"1,303.26 -1,303.26 Yen",12/12/22,,136.45632 JPY,"2,606.52"
+12/12/22,Sale,"254,055.00",Units,"1,861.80 -1,861.80 Yen",12/12/22,,136.45632 JPY,"6,330.12"
+12/12/22,Purchase,"13,113.16",Units,First Am Govt Ob Fd Cl X,12/12/22,,,"3,165.06"
+12/13/22,Sale,"2,960.67",Units,"2,960.67 -2,960.67 First Am Govt Ob Fd Cl X",12/13/22,,,0.00
+12/14/22,Purchase,"26,100.5",Units,First Am Govt Ob Fd Cl X,12/14/22,,,0.00
+12/15/22,Sale,"27,800.19",Units,"27,800.19 -27,800.19 First Am Govt Ob Fd Cl X",12/15/22,,,0.00
+12/15/22,Purchase,"132,507.72",Units,British Pound,12/14/22,,1 GBP,"-164,858.54"
+12/15/22,Purchase,"10,000",Shares,"Future Plc Ord Net Cost 132,507.72 GBP",12/13/22,Crst 871,13.165 GBP,"-327,220.28"
+12/15/22,Sale,"164,858.54",Units,"164,858.54 -164,858.54 First Am Govt Ob Fd Cl X",12/15/22,,,"-162,361.74"
+12/16/22,Sale,"30,837.77",Units,"30,837.77 -30,837.77 First Am Govt Ob Fd Cl X",12/16/22,,,0.00
+12/19/22,Purchase,"488,041.24",Units,First Am Govt Ob Fd Cl X,12/19/22,,,"-492,260.39"
+12/19/22,Sale,"100,000",Shares,"204,204.79 -957,135.69 Aston Martin Lagonda Gbl Hldgs Plc O Net Proceeds 164,601.72 GBP",12/15/22,Jeffgb2x Jefferies Intl London,1.6485 GBP,"-288,055.60"
+12/19/22,Sale,"10,000",Shares,"98,194.79 -43,615.42 Accesso Technology Group Plc Net Proceeds 79,151.09 GBP",12/15/22,Jeffgb2x Jefferies Intl London,7.9271 GBP,"-189,860.81"
+12/19/22,Sale,800,Shares,"196,363.98 -165,307.44 Grupo Aeroportuario Sure Spon A D R",12/15/22,Jefferies LLC,245.5006 USD,"6,503.17"
+12/19/22,Sale,"164,601.72",Units,"199,824.00 -204,204.79 British Pound",12/16/22,,0.82373349 GBP,"206,327.17"
+12/19/22,Sale,"79,151.09",Units,"96,072.41 -98,194.79 British Pound",12/16/22,,0.8238691 GBP,"302,399.58"
+12/20/22,Sale,368.81,Units,368.81 -368.81 First Am Govt Ob Fd Cl X,12/20/22,,,0.00
+12/21/22,Sale,"19,246.16",Units,"19,246.16 -19,246.16 First Am Govt Ob Fd Cl X",12/21/22,,,0.00
+12/22/22,Purchase,494.96,Units,First Am Govt Ob Fd Cl X,12/22/22,,,0.00
+12/23/22,Sale,"7,134.56",Units,"7,134.56 -7,134.56 First Am Govt Ob Fd Cl X",12/23/22,,,0.00
+12/27/22,Sale,"80,268.68",Units,"80,268.68 -80,268.68 First Am Govt Ob Fd Cl X",12/27/22,,0.9390115 EUR,0.00
+12/28/22,Sale,"38,199.28",Units,"38,199.28 -38,199.28 First Am Govt Ob Fd Cl X",12/28/22,,,0.00
+12/29/22,Sale,"16,355.46",Units,"16,355.46 -16,355.46 First Am Govt Ob Fd Cl X",12/29/22,,,0.00
+12/29/22,Purchase,"86,775.45",Units,British Pound,12/27/22,,1 GBP,"-104,425.76"
+12/29/22,Purchase,"9,191",Shares,"Frontier Developments Plc Net Cost 86,775.45 GBP",12/23/22,Jeffgb2x Jefferies Intl London,9.42710042 GBP,"-208,807.92"
+12/29/22,Sale,"104,425.76",Units,"104,425.76 -104,425.76 First Am Govt Ob Fd Cl X",12/29/22,,,"-104,382.16"
+12/30/22,Sale,"77,802.91",Units,"77,802.91 -77,802.91 First Am Govt Ob Fd Cl X",12/30/22,,,0.00
+12/30/22,Purchase,"7,744.75",Units,British Pound,12/28/22,,1 GBP,"-9,327.03"
+12/30/22,Sale,"40,000",Shares,"72,157.01 -44,214.69 Aston Martin Lagonda Gbl Hldgs Plc O Net Proceeds 60,040.80 GBP",12/28/22,Jeffgb2x Jefferies Intl London,1.5033 GBP,"62,829.98"
+12/30/22,Sale,"5,000",Shares,"85,187.81 -99,570.43 Lumibird Net Proceeds 79,992.33 EUR",12/28/22,Jeffus33 Jefferies Jersey City,16.0225 EUR,"148,017.79"
+12/30/22,Purchase,809,Shares,"Frontier Developments Plc Net Cost 7,744.75 GBP",12/28/22,Jeffgb2x Jefferies Intl London,9.55889988 GBP,"138,710.15"
+12/30/22,Sale,"60,040.80",Units,"72,174.85 -72,157.01 British Pound",12/28/22,,0.8318798 GBP,"210,885.00"
+12/30/22,Sale,"79,992.33",Units,"84,898.86 -85,180.85 Euro",12/28/22,,0.94220735 EUR,"295,783.86"
+12/30/22,Purchase,"147,746.68",Units,First Am Govt Ob Fd Cl X,12/30/22,Jeffus33 Jefferies Jersey City,114.1271 CHF,"148,037.18"

@@ -1,0 +1,489 @@
+Date Posted,Activity,Quantity,Unit Type,Asset Name,Trade Date,Broker,Price Per Unit,Principal Cash
+01/02/19,Sale,"10,574.15",Units,"10,574.15 -10,574.15 First Am Govt Ob Fd Cl X",1/2/19,,,0.00
+01/03/19,Purchase,123.3,Units,First Am Govt Ob Fd Cl X,1/3/19,,,0.00
+01/07/19,Purchase,"2,704.58",Units,First Am Govt Ob Fd Cl X,1/7/19,,,0.00
+01/08/19,Sale,405.97,Units,405.97 -405.97 First Am Govt Ob Fd Cl X,1/8/19,,,0.00
+01/09/19,Purchase,"35,594.27",Units,First Am Govt Ob Fd Cl X,1/9/19,,,0.00
+01/10/19,Sale,"8,338.29",Units,"8,338.29 -8,338.29 First Am Govt Ob Fd Cl X",1/10/19,,,-30.00
+01/11/19,Sale,30,Units,30.00 -30.00 First Am Govt Ob Fd Cl X,1/11/19,,,0.00
+01/14/19,Sale,"1,652.23",Units,"1,652.23 -1,652.23 First Am Govt Ob Fd Cl X",1/14/19,,,0.00
+01/17/19,Purchase,"5,600",Units,First Am Govt Ob Fd Cl X,1/17/19,,109.81 JPY,0.00
+01/22/19,Sale,"45,730.00",Units,416.45 -416.45 Yen,1/21/19,,109.81 JPY,832.90
+01/22/19,Sale,"15,242.66",Units,"15,242.66 -15,242.66 First Am Govt Ob Fd Cl X",1/22/19,,,"16,075.56"
+01/22/19,Purchase,"5,000",Shares,"Ds Smith Plc Net Cost 21,422.47 USD",1/17/19,Crst 784 Jpmorgan Secs Ltd,3.29400053 GBP,"-5,346.91"
+01/22/19,Purchase,500,Shares,"Orpea Net Cost 50,016.08 USD",1/17/19,Jpmsgb2l Jp Morgan Sec London,87.49978321 EUR,"-55,362.99"
+01/22/19,Sale,800,Shares,"56,195.89 -77,690.13 Fnac Darty Eur1 Net Proceeds 56,195.89 USD",1/17/19,Jpmsgb2l Jp Morgan Sec London,61.6999978 EUR,832.90
+01/23/19,Sale,"75,726.33",Units,"75,726.33 -75,726.33 First Am Govt Ob Fd Cl X",1/23/19,,,"76,142.78"
+01/23/19,Purchase,250,Shares,"Lvmh Moet Hennessy Vuitton SE Net Cost 76,142.78 USD",1/9/19,"Jpmsgb2l Jp Morgan Sec London Book Value 66,549.63 EUR Traded At 0.874011 EUR To 1 USD Valued At 0.874011 EUR For 76,142.78 USD",266.19850916 EUR,0.00
+01/25/19,Purchase,"20,592.83",Units,First Am Govt Ob Fd Cl X,1/25/19,,,0.00
+01/28/19,Purchase,"7,492.52",Units,First Am Govt Ob Fd Cl X,1/28/19,,,0.00
+01/31/19,Purchase,"45,313.92",Units,First Am Govt Ob Fd Cl X,1/31/19,,,0.00
+02/04/19,Purchase,251.16,Units,First Am Govt Ob Fd Cl X,2/4/19,,,0.00
+02/05/19,Purchase,"53,796.4",Units,First Am Govt Ob Fd Cl X,2/5/19,,,0.00
+02/07/19,Purchase,"36,101.5",Units,First Am Govt Ob Fd Cl X,2/7/19,,,0.00
+02/08/19,Sale,"63,141.39",Units,"63,141.39 -63,141.39 First Am Govt Ob Fd Cl X",2/8/19,,,0.00
+02/12/19,Purchase,"18,173.72",Units,First Am Govt Ob Fd Cl X,2/12/19,,,0.00
+02/14/19,Sale,"12,235.23",Units,"12,235.23 -12,235.23 First Am Govt Ob Fd Cl X",2/14/19,,,0.00
+02/19/19,Sale,"129,165.2",Units,"129,165.20 -129,165.20 First Am Govt Ob Fd Cl X",2/19/19,,,"50,870.47"
+02/19/19,Purchase,"4,000",Shares,"Pva Tepla Ag Net Cost 50,870.47 USD",2/14/19,Jpmsgb2leql Jp Morgan Eq Lndn,11.25 EUR,0.00
+02/20/19,Sale,448.39,Units,448.39 -448.39 First Am Govt Ob Fd Cl X,2/20/19,,,0.00
+02/21/19,Purchase,"59,515.61",Units,First Am Govt Ob Fd Cl X,2/21/19,,8.62185 NOK,0.00
+02/25/19,Purchase,"50,348.34",Units,First Am Govt Ob Fd Cl X,2/25/19,,,"-50,348.34"
+02/25/19,Sale,400,Shares,"50,348.34 -53,856.96 Ferrari Nv",2/21/19,J.P. Morgan Securities LLC,125.8825 USD,0.00
+02/26/19,Purchase,"115,295.26",Units,First Am Govt Ob Fd Cl X,2/26/19,,,"-85,524.44"
+02/26/19,Sale,"2,000",Shares,"85,524.44 -88,511.68 Basware Oyj Npv Net Proceeds 85,524.44 USD",2/22/19,Jpmsgb2l Jp Morgan Sec London,37.7397 EUR,0.00
+02/27/19,Purchase,"30,915.61",Units,First Am Govt Ob Fd Cl X,2/27/19,,,0.00
+02/28/19,Sale,"40,492.98",Units,"40,492.98 -40,492.98 First Am Govt Ob Fd Cl X",2/28/19,,,"46,188.60"
+02/28/19,Purchase,"2,000",Shares,"Fancl Corp Net Cost 46,188.60 USD",2/25/19,Jpmsgb2l Jp Morgan Sec London,"2,556 JPY",0.00
+03/01/19,Sale,"94,905.16",Units,"94,905.16 -94,905.16 First Am Govt Ob Fd Cl X",3/1/19,,,"38,000.50"
+03/01/19,Purchase,"1,000",Shares,Line Corp A D R,2/27/19,J.P. Morgan Securities LLC,37.9905 USD,0.00
+03/04/19,Sale,"16,093.48",Units,"16,093.48 -16,093.48 First Am Govt Ob Fd Cl X",3/4/19,,,0.00
+03/05/19,Sale,"3,664.51",Units,"3,664.51 -3,664.51 First Am Govt Ob Fd Cl X",3/5/19,,,0.00
+03/06/19,Sale,"2,476.55",Units,"2,476.55 -2,476.55 First Am Govt Ob Fd Cl X",3/6/19,,,0.00
+03/07/19,Purchase,"4,330.05",Units,First Am Govt Ob Fd Cl X,3/7/19,,,0.00
+03/08/19,Purchase,"36,395.36",Units,First Am Govt Ob Fd Cl X,3/8/19,,,"-36,395.36"
+03/08/19,Sale,200,Shares,"36,395.36 -39,653.92 Asml Holding Nv Ny Reg Shs",3/6/19,J.P. Morgan Securities LLC,181.9892 USD,0.00
+03/11/19,Purchase,"123,624.35",Units,First Am Govt Ob Fd Cl X,3/11/19,,,"-124,462.48"
+03/11/19,Sale,838.13,Units,838.13 -838.13 First Am Govt Ob Fd Cl X,3/11/19,,,"-123,624.35"
+03/11/19,Sale,"5,000",Shares,"67,996.17 -68,491.31 Ocado Group Plc Net Proceeds 67,996.17 USD",3/7/19,Crst 784 Jpmorgan Secs Ltd,10.3626 GBP,"-55,628.18"
+03/11/19,Sale,950,Shares,"55,628.18 -60,816.24 Stroeer SE and Co Kgaa Net Proceeds 55,628.18 USD",3/7/19,Jpmsgb2leql Jp Morgan Eq Lndn,51.8032 EUR,0.00
+03/12/19,Sale,"143,432.71",Units,"143,432.71 -143,432.71 First Am Govt Ob Fd Cl X",3/12/19,,,"143,432.71"
+03/12/19,Purchase,400,Shares,"Nidec Corp Net Cost 48,222.91 USD",3/7/19,Jpmsgb2l Jp Morgan Sec London,"13,460.00000007 JPY","95,209.80"
+03/12/19,Purchase,"1,000",Shares,"Uuum Inc Net Cost 49,530.59 USD",3/7/19,Jpmsgb2l Jp Morgan Sec London,"5,530 JPY","45,679.21"
+03/12/19,Purchase,"1,500",Shares,"Comture Corp Net Cost 45,679.21 USD",3/7/19,Jpmsgb2l Jp Morgan Sec London,"3,400 JPY",0.00
+03/13/19,Purchase,"4,600",Shares,"Norwegian Air Shut Net Cost 151,800.00 NOK",3/13/19,"Global Corporate Actions Book Value 151,800.00 NOK Valued At 8.63675 NOK For 17,576.06 USD Fed Tax Cost Reduction 17,576.06- USD 4,600 Shares At 33 NOK Ca Rights Exercise Bjp0wq3 16664 00- -A -UC-UZ -001-04",33 NOK,"-17,576.06"
+03/13/19,Purchase,"151,800.00",Units,Norwegian Krone,3/13/19,"Bny-Mellon Foreign Exchange Book Value 151,800.00 NOK Traded At 8.66191155 NOK To 1 USD Valued At 8.66191155 NOK For 17,525.00 USD Net Cost 17,525.00 USD Repayment Of Currency Overdraft Resulted In Fed ST Currency Gain On NOK Of 51.06 USD 151,800 Units At 1 NOK Ca Rights Exercise Bjp0wq3 Nas Pass Through T Subs Rt 3/08/19 Pay From Acct On Corp Action Valued At 1.00 NOK For 0.00 USD Market Value Of 140,300.00 USD Ca Rights Exercise Bjp0wq3",1.00 NOK,"-35,101.06"
+03/13/19,Sale,"22,511.63",Units,"22,511.63 -22,511.63 First Am Govt Ob Fd Cl X",3/13/19,,,"-17,576.06"
+03/14/19,Sale,"11,131.47",Units,"11,131.47 -11,131.47 First Am Govt Ob Fd Cl X",3/14/19,,,0.00
+03/14/19,Sale,"59,283.82",Units,"59,283.82 -59,283.82 First Am Govt Ob Fd Cl X",3/14/19,,,"59,283.82"
+03/14/19,Purchase,"2,500",Shares,"Monotaro Co Ltd First Section Net Cost 59,283.82 USD",3/5/19,Jpmsgb2l Jp Morgan Sec London,"2,653 JPY",0.00
+03/15/19,Purchase,"50,203.39",Units,First Am Govt Ob Fd Cl X,3/15/19,,,"-50,601.73"
+03/15/19,Sale,"5,428",Shares,"50,601.73 -49,156.65 Dustin Group Ab Net Proceeds 50,601.73 USD",3/13/19,Jpmsgb2l Jp Morgan Sec London,111.55 JPY,0.00
+03/18/19,Sale,"48,270.00",Units,432.72 -432.72 Yen,3/18/19,,111.55 JPY,"1,212.53"
+03/19/19,Purchase,779.81,Units,First Am Govt Ob Fd Cl X,3/19/19,,,0.00
+03/20/19,Purchase,"67,752.05",Units,First Am Govt Ob Fd Cl X,3/20/19,,,0.00
+03/21/19,Purchase,"2,519.58",Units,First Am Govt Ob Fd Cl X,3/21/19,,,0.00
+03/22/19,Sale,701.84,Units,701.84 -701.84 First Am Govt Ob Fd Cl X,3/22/19,,,0.00
+03/22/19,Sale,"50,060.34",Units,"50,060.34 -50,060.34 First Am Govt Ob Fd Cl X",3/22/19,,,"50,060.34"
+03/22/19,Purchase,"50,000",Shares,"Learning Technologies Group Net Cost 50,060.34 USD",3/20/19,Crst 784 Jpmorgan Secs Ltd,0.7582 GBP,0.00
+03/25/19,Purchase,"9,265",Units,First Am Govt Ob Fd Cl X,3/25/19,,,0.00
+03/26/19,Sale,"1,552.99",Units,"1,552.99 -1,552.99 First Am Govt Ob Fd Cl X",3/26/19,,,"1,993.50"
+03/26/19,Sale,"45,431",Units,"45,431.00 -45,431.00 First Am Govt Ob Fd Cl X",3/26/19,,,"47,424.50"
+03/26/19,Purchase,"5,000",Shares,Blackberry Ltd,3/22/19,J.P. Morgan Securities LLC,9.0762 USD,"1,993.50"
+03/27/19,Purchase,980.93,Units,First Am Govt Ob Fd Cl X,3/27/19,,,0.00
+03/28/19,Sale,"100,680.77",Units,"100,680.77 -100,680.77 First Am Govt Ob Fd Cl X",3/28/19,,9.2984 SEK,"-1,149.15"
+04/01/19,Purchase,"9,843.41",Units,First Am Govt Ob Fd Cl X,4/1/19,,,"-63,700.48"
+04/01/19,Sale,10,Shares,"1,834.47 -1,945.01 Asml Holding Nv Ny Reg Shs",3/28/19,J.P. Morgan Securities LLC,183.46 USD,"-61,866.01"
+04/01/19,Sale,"1,533",Shares,"61,866.01 -71,168.11 Hsbc Holdings Plc Spons A D R",3/28/19,J.P. Morgan Securities LLC,40.3667 USD,0.00
+04/02/19,Purchase,254.06,Units,First Am Govt Ob Fd Cl X,4/2/19,,,0.00
+04/04/19,Purchase,"18,444.04",Units,First Am Govt Ob Fd Cl X,4/4/19,,,0.00
+04/05/19,Sale,"28,541.51",Units,"28,541.51 -28,541.51 First Am Govt Ob Fd Cl X",4/5/19,,,"-131,200.73"
+04/05/19,Sale,300,Shares,"40,809.96 -38,124.61 Ferrari Nv",4/3/19,J.P. Morgan Securities LLC,136.045 USD,"-90,390.77"
+04/09/19,Purchase,"131,775.61",Units,First Am Govt Ob Fd Cl X,4/9/19,,,"-101,548.78"
+04/09/19,Sale,"5,000",Shares,"60,436.54 -40,713.05 Air France Klm Net Proceeds 60,436.54 USD",4/5/19,Jpmsgb2l Jp Morgan Sec London,10.7806 EUR,"-41,112.24"
+04/09/19,Sale,300,Shares,"41,112.24 -34,971.00 Ferrari Nv",4/5/19,J.P. Morgan Securities LLC,137.0526 USD,0.00
+04/11/19,Purchase,"118,124.55",Units,First Am Govt Ob Fd Cl X,4/11/19,,1.00 SEK,0.00
+04/12/19,Purchase,"1,100",Shares,"Af Poyry Ab Bta Net Cost 108,900.00 SEK",4/12/19,"Global Corporate Actions Book Value 108,900.00 SEK Valued At 9.26775 SEK For 11,750.42 USD Fed Tax Cost Reduction 11,750.42- USD 1,100 Shares At 99 SEK Ca Rights Exercise 7Gb2305 16664 00- -A -UC-UZ -001-04",99 SEK,"-11,750.42"
+04/12/19,Purchase,"108,900.00",Units,Swedish Krona,4/12/19,"Bny-Mellon Foreign Exchange Book Value 108,900.00 SEK Traded At 9.26326033 SEK To 1 USD Valued At 9.26326033 SEK For 11,756.12 USD Net Cost 11,756.12 USD Repayment Of Currency Overdraft Resulted In Fed ST Currency Loss On SEK Of 5.70- USD 108,900 Units At 1 SEK Ca Rights Exercise 7Gb2305 Adevinta Asa A Valued At 99.00 NOK For 1.00 USD Market Value Of 36,935.25 USD Ca Spin Off 4790534 Exdt 4/10/19 Transfer From Another Account",99.00 NOK,"-23,506.54"
+04/12/19,Purchase,"12,169.83",Units,First Am Govt Ob Fd Cl X,4/12/19,,,"-23,506.54"
+04/15/19,Sale,"74,202.49",Units,"74,202.49 -74,202.49 First Am Govt Ob Fd Cl X",4/15/19,,,"62,446.37"
+04/15/19,Purchase,500,Shares,"Capgemini Net Cost 62,446.37 USD",4/11/19,Jpmsgb2l Jp Morgan Sec London,110.5372 EUR,0.00
+04/16/19,Purchase,"4,633.63",Units,First Am Govt Ob Fd Cl X,4/16/19,,,"45,606.55"
+04/16/19,Purchase,"1,000",Shares,"Lasertec Corp Net Cost 45,606.55 USD",4/11/19,Jpmsgb2l Jp Morgan Sec London,"5,067 JPY",0.00
+04/17/19,Purchase,"16,978",Units,First Am Govt Ob Fd Cl X,4/17/19,,,0.00
+04/18/19,Sale,"30,866.87",Units,"30,866.87 -30,866.87 First Am Govt Ob Fd Cl X",4/18/19,,,0.00
+04/22/19,Sale,"1,665.78",Units,"1,665.78 -1,665.78 First Am Govt Ob Fd Cl X",4/22/19,,9.26775383 SEK,0.00
+04/25/19,Purchase,"167,274.1",Units,First Am Govt Ob Fd Cl X,4/25/19,,,0.00
+04/26/19,Purchase,"255,106.77",Units,First Am Govt Ob Fd Cl X,4/26/19,,,0.00
+04/29/19,Sale,,,"19,644.04 -19,735.90 Zoo Digital Group Net Proceeds 19,644.04 USD",4/25/19,Crst 784 Jpmorgan Secs Ltd,0.897035 EUR,"19,644.04"
+04/29/19,Sale,700.00,Units,780.35 -780.35 Euro,4/29/19,,0.897035 EUR,"21,204.74"
+04/29/19,Sale,"49,777.09",Units,"49,777.09 -49,777.09 First Am Govt Ob Fd Cl X",4/29/19,,,"70,891.83"
+04/29/19,Purchase,"3,000",Shares,"Adevinta Asa A Net Cost 30,043.05 USD",4/25/19,Jpmsgb2l Jp Morgan Sec London,86.9792 NOK,"40,848.78"
+04/29/19,Purchase,"30,000",Shares,"Zoo Digital Group Net Cost 19,644.04 USD",4/25/19,Crst 784 Jpmorgan Secs Ltd,0.5075 GBP,"21,204.74"
+04/29/19,Purchase,"30,000",Shares,"Zoo Digital Group Net Cost 19,644.04 USD",4/25/19,Crst 784 Jpmorgan Secs Ltd,0.89543 EUR,"1,560.70"
+04/30/19,Sale,"1,058.75",Units,"1,182.39 -1,182.39 Euro",4/30/19,,0.89543 EUR,"3,145.13"
+04/30/19,Sale,"103,277.74",Units,"103,277.74 -103,277.74 First Am Govt Ob Fd Cl X",4/30/19,,,"103,911.38"
+04/30/19,Sale,"66,805.05",Units,"66,805.05 -66,805.05 First Am Govt Ob Fd Cl X",4/30/19,,,"170,716.43"
+04/30/19,Purchase,500,Shares,"Capgemini Net Cost 61,014.48 USD",4/26/19,Jpmsgb2l Jp Morgan Sec London,109.0486 EUR,"109,701.95"
+04/30/19,Purchase,"1,000",Shares,"Moncler Spa Net Cost 40,532.12 USD",4/26/19,Jpmsgb2l Jp Morgan Sec London,36.293 EUR,"69,169.83"
+04/30/19,Purchase,"1,500",Shares,Baozun Inc Spon A D R,4/26/19,J.P. Morgan Securities LLC,0.76811 GBP,"2,364.78"
+05/01/19,Sale,780.00,Units,"1,015.48 -1,015.48 British Pound",5/1/19,,0.76811 GBP,"3,213.35"
+05/01/19,Purchase,"18,420.34",Units,First Am Govt Ob Fd Cl X,5/1/19,,0.890332 EUR,"2,030.96"
+05/02/19,Sale,476.00,Units,534.63 -534.63 Euro,5/2/19,,0.890332 EUR,"2,487.95"
+05/02/19,Sale,"32,546.9",Units,"32,546.90 -32,546.90 First Am Govt Ob Fd Cl X",5/2/19,,,"62,261.71"
+05/02/19,Purchase,"4,500",Shares,"Mediawan Sa Net Cost 61,192.45 USD",4/29/19,Jpmsgb2l Jp Morgan Sec London,12.1705 EUR,"1,069.26"
+05/03/19,Purchase,534.63,Units,First Am Govt Ob Fd Cl X,5/3/19,,,0.00
+05/07/19,Sale,"20,029.38",Units,"20,029.38 -20,029.38 First Am Govt Ob Fd Cl X",5/7/19,,,"48,393.27"
+05/07/19,Purchase,"2,000",Shares,"Basware Oyj Npv Net Cost 48,393.27 USD",5/3/19,Jpmsgb2l Jp Morgan Sec London,9.58235 SEK,0.00
+05/09/19,Purchase,"54,248.29",Units,First Am Govt Ob Fd Cl X,5/9/19,,1.015515 CHF,0.00
+05/10/19,Sale,"1,001.00",Units,985.71 -985.71 Swiss Franc,5/9/19,,1.015515 CHF,"1,971.42"
+05/10/19,Sale,"9,376",Units,"9,376.00 -9,376.00 First Am Govt Ob Fd Cl X",5/10/19,,,"1,971.42"
+05/13/19,Sale,"29,988.89",Units,"29,988.89 -29,988.89 First Am Govt Ob Fd Cl X",5/13/19,,,"30,974.60"
+05/13/19,Purchase,"2,000",Shares,Materialise Nv A D R,5/9/19,J.P. Morgan Securities LLC,8.762354 NOK,0.00
+05/14/19,Sale,"5,250.00",Units,599.15 -599.15 Norwegian Krone,5/14/19,,8.762354 NOK,"1,198.30"
+05/14/19,Purchase,"89,046.1",Units,First Am Govt Ob Fd Cl X,5/14/19,,,"1,198.30"
+05/15/19,Purchase,599.15,Units,First Am Govt Ob Fd Cl X,5/15/19,,,0.00
+05/17/19,Purchase,"33,029.56",Units,First Am Govt Ob Fd Cl X,5/17/19,,9.652243 SEK,0.00
+05/20/19,Sale,"17,500.00",Units,"1,813.05 -1,813.05 Swedish Krona",5/20/19,,9.652243 SEK,"3,626.10"
+05/20/19,Sale,"68,097.62",Units,"68,097.62 -68,097.62 First Am Govt Ob Fd Cl X",5/20/19,,,"55,113.88"
+05/20/19,Purchase,"2,000",Shares,"Ut Group Co Ltd Net Cost 51,487.78 USD",5/15/19,Jpmsgb2l Jp Morgan Sec London,"2,815 JPY","3,626.10"
+05/21/19,Purchase,"1,813.05",Units,First Am Govt Ob Fd Cl X,5/21/19,,9.666757 SEK,0.00
+05/22/19,Sale,"15,400.00",Units,"1,593.09 -1,593.09 Swedish Krona",5/22/19,,9.666757 SEK,"3,186.18"
+05/22/19,Purchase,"5,000",Shares,"Fagerhult Ab Net Cost 220,000.00 SEK",5/22/19,"Global Corporate Actions Book Value 220,000.00 SEK Valued At 9.64565 SEK For 22,808.21 USD Fed Tax Cost Reduction 22,808.21- USD 5,000 Shares At 44 SEK Ca Rights Exercise Sedol 7Gb2399 16664 00- -A -UC-UZ -001-04",44 SEK,"-19,622.03"
+05/22/19,Purchase,"220,000.00",Units,Swedish Krona,5/22/19,"Bny-Mellon Foreign Exchange Book Value 220,000.00 SEK Traded At 9.64568759 SEK To 1 USD Valued At 9.64568759 SEK For 22,808.12 USD Net Cost 22,808.12 USD Repayment Of Currency Overdraft Resulted In Fed ST Currency Gain On SEK Of 0.09 USD 220,000 Units At 1 SEK Ca Rights Exercise Sedol 7Gb2399 Fagerhult Ab Rt 5/22/19 Pay From Acct On Corp Action Valued At 9.64565 SEK For 0.00 USD Market Value Of 0.00 USD Ca Rights Exercise Sedol 7Gb2399",9.64565 SEK,"-42,430.15"
+05/22/19,Sale,"21,215.03",Units,"21,215.03 -21,215.03 First Am Govt Ob Fd Cl X",5/22/19,,,"-21,215.12"
+05/24/19,Purchase,"94,028.45",Units,First Am Govt Ob Fd Cl X,5/24/19,,,"-93,659.24"
+05/24/19,Sale,250,Shares,"93,659.24 -76,142.78 Lvmh Moet Hennessy Vuitton SE Net Proceeds 93,659.24 USD",5/22/19,Jpmsgb2l Jp Morgan Sec London,335.9243 EUR,0.00
+05/28/19,Sale,"75,389.49",Units,"75,389.49 -75,389.49 First Am Govt Ob Fd Cl X",5/28/19,,,"56,912.61"
+05/28/19,Purchase,"3,000",Shares,"Quantel Net Cost 56,912.61 USD",5/24/19,Jpmsgb2l Jp Morgan Sec London,16.9283 EUR,0.00
+05/30/19,Sale,"5,193.82",Units,"5,193.82 -5,193.82 First Am Govt Ob Fd Cl X",5/30/19,,,0.00
+05/30/19,Sale,250,Shares,"71,288.52 -37,094.23 Shopify Inc A",5/28/19,J.P. Morgan Securities LLC,285.17 USD,"71,288.52"
+05/31/19,Purchase,"71,040.2",Units,First Am Govt Ob Fd Cl X,5/31/19,,108.76 JPY,0.00
+06/03/19,Sale,"18,631.00",Units,171.30 -171.30 Yen,6/3/19,,108.76 JPY,342.60
+06/03/19,Sale,"11,838.2",Units,"11,838.20 -11,838.20 First Am Govt Ob Fd Cl X",6/3/19,,,"33,341.80"
+06/03/19,Purchase,"2,471",Shares,"Frontier Developments Plc Net Cost 32,999.20 USD",5/30/19,Crst 784 Jpmorgan Secs Ltd,108.49 JPY,342.60
+06/04/19,Sale,"142,271.00",Units,"1,311.37 -1,311.37 Yen",6/4/19,,108.49 JPY,"3,618.16"
+06/04/19,Sale,"9,316.37",Units,"9,316.37 -9,316.37 First Am Govt Ob Fd Cl X",6/4/19,,,"12,686.75"
+06/04/19,Purchase,743,Shares,"Frontier Developments Plc Net Cost 10,064.01 USD",5/31/19,Crst 784 Jpmorgan Secs Ltd,10.7214 GBP,"2,622.74"
+06/05/19,Sale,"10,784.58",Units,"10,784.58 -10,784.58 First Am Govt Ob Fd Cl X",6/5/19,,,0.00
+06/06/19,Purchase,"20,670",Units,First Am Govt Ob Fd Cl X,6/6/19,,,0.00
+06/06/19,Sale,"40,175.5",Units,"40,175.50 -40,175.50 First Am Govt Ob Fd Cl X",6/6/19,,,"40,175.50"
+06/06/19,Purchase,"5,000",Shares,Blackberry Ltd,6/4/19,J.P. Morgan Securities LLC,8.0251 USD,0.00
+06/07/19,Sale,"7,912.26",Units,"7,912.26 -7,912.26 First Am Govt Ob Fd Cl X",6/7/19,,,"7,912.26"
+06/07/19,Purchase,750,Shares,"Asos Plc Net Cost 32,141.56 USD",6/5/19,Crst 784 Jpmorgan Secs Ltd,33.6957 GBP,"-24,229.30"
+06/07/19,Purchase,"20,000",Shares,"Iqe Plc Net Cost 19,322.24 USD",6/5/19,Crst 784 Jpmorgan Secs Ltd,0.7596 GBP,"-43,551.54"
+06/07/19,Purchase,"1,000",Shares,"Frontier Developments Plc Net Cost 13,823.41 USD",6/5/19,Crst 784 Jpmorgan Secs Ltd,10.8683 GBP,"-57,374.95"
+06/07/19,Sale,200,Shares,"57,374.95 -29,675.38 Shopify Inc A",6/5/19,J.P. Morgan Securities LLC,0.882483 EUR,0.00
+06/10/19,Sale,"1,190.00",Units,"1,348.47 -1,348.47 Euro",6/7/19,,9.64564953 SEK,"2,696.94"
+06/11/19,Purchase,"173,783.45",Units,First Am Govt Ob Fd Cl X,6/11/19,,,"1,281.90"
+06/12/19,Purchase,"1,281.9",Units,First Am Govt Ob Fd Cl X,6/12/19,,,0.00
+06/13/19,Purchase,"68,521.65",Units,First Am Govt Ob Fd Cl X,6/13/19,,108.52 JPY,0.00
+06/17/19,Sale,"24,770.00",Units,228.25 -228.25 Yen,6/17/19,,108.52 JPY,456.50
+06/17/19,Sale,"208,802.11",Units,"208,802.11 -208,802.11 First Am Govt Ob Fd Cl X",6/17/19,,,"225,873.61"
+06/17/19,Purchase,"1,000",Shares,"Uuum Inc Net Cost 38,317.06 USD",6/12/19,Jpmsgb2l Jp Morgan Sec London,"4,150 JPY","187,556.55"
+06/17/19,Purchase,"1,000",Shares,"Thk Co Ltd Net Cost 22,408.55 USD",6/12/19,Jpmsgb2l Jp Morgan Sec London,"2,427 JPY","165,148.00"
+06/17/19,Purchase,"1,000",Shares,"Ut Group Co Ltd Net Cost 22,612.60 USD",6/12/19,Jpmsgb2l Jp Morgan Sec London,"2,449.1 JPY","142,535.40"
+06/17/19,Purchase,"1,000",Shares,"Lasertec Corp Net Cost 37,024.44 USD",6/12/19,Jpmsgb2l Jp Morgan Sec London,"4,010 JPY","105,510.96"
+06/17/19,Purchase,500,Shares,"Orpea Net Cost 58,505.30 USD",6/13/19,Jpmsgb2l Jp Morgan Sec London,103.404 EUR,"47,005.66"
+06/17/19,Purchase,"10,000",Shares,"Ds Smith Plc Net Cost 46,549.16 USD",6/13/19,Crst 784 Jpmorgan Secs Ltd,108.8 JPY,456.50
+06/18/19,Sale,"12,703.00",Units,116.76 -116.76 Yen,6/17/19,,108.8 JPY,461.77
+06/18/19,Purchase,228.25,Units,First Am Govt Ob Fd Cl X,6/18/19,,,233.52
+06/19/19,Purchase,"23,610.76",Units,First Am Govt Ob Fd Cl X,6/19/19,,,0.00
+06/20/19,Purchase,"35,836.56",Units,First Am Govt Ob Fd Cl X,6/20/19,,,0.00
+06/21/19,Sale,"5,104.14",Units,"5,104.14 -5,104.14 First Am Govt Ob Fd Cl X",6/21/19,,107.66 JPY,0.00
+06/24/19,Sale,"25,405.00",Units,235.97 -235.97 Yen,6/24/19,,0.878996 EUR,471.94
+06/25/19,Sale,"1,472.50",Units,"1,675.21 -1,675.21 Euro",6/25/19,,0.878996 EUR,"3,764.89"
+06/25/19,Purchase,"607,255.12",Units,First Am Govt Ob Fd Cl X,6/25/19,,,"3,528.92"
+06/26/19,Purchase,"1,853.71",Units,First Am Govt Ob Fd Cl X,6/26/19,,,0.00
+06/26/19,Purchase,"1,370.94",Units,First Am Govt Ob Fd Cl X,6/26/19,,,"-1,370.94"
+06/26/19,Sale,685.47,Units,685.47 -685.47 First Am Govt Ob Fd Cl X,6/26/19,,,-685.47
+06/26/19,Purchase,"1,500",Shares,Taiwan Semiconductor A D R,6/24/19,J.P. Morgan Securities LLC,39.9763 USD,"-60,664.92"
+06/26/19,Purchase,"2,000",Shares,Stmicroelectronics N V,6/24/19,J.P. Morgan Securities LLC,17.0335 USD,"-94,751.92"
+06/26/19,Sale,300,Shares,"94,751.92 -44,513.07 Shopify Inc A",6/24/19,J.P. Morgan Securities LLC,107.86 JPY,0.00
+06/27/19,Sale,"96,880.00",Units,898.20 -898.20 Yen,6/26/19,,107.95 JPY,"1,796.40"
+06/27/19,Sale,"50,811.00",Units,470.69 -470.69 Yen,6/27/19,,107.95 JPY,"2,737.78"
+06/27/19,Sale,"149,299.56",Units,"149,299.56 -149,299.56 First Am Govt Ob Fd Cl X",6/27/19,,,"119,815.94"
+06/27/19,Purchase,"3,000",Shares,"Dustin Group Ab Net Cost 28,215.63 USD",6/25/19,Jpmsgb2l Jp Morgan Sec London,86.8842 SEK,"91,600.31"
+06/27/19,Purchase,"6,000",Shares,"Nordic Semiconductor Asa Net Cost 25,213.72 USD",6/25/19,Jpmsgb2l Jp Morgan Sec London,35.71879998 NOK,"66,386.59"
+06/27/19,Purchase,"1,000",Shares,"Ams Ag Net Cost 33,159.47 USD",6/25/19,Jpmsgb2l Jp Morgan Sec London,32.3077 CHF,"33,227.12"
+06/27/19,Purchase,"1,300",Shares,"Umicore Net Cost 30,489.34 USD",6/25/19,Jpmsgb2l Jp Morgan Sec London,26.7 EUR,"2,737.78"
+06/27/19,Purchase,"2,000",Shares,"Frontier Developments Plc Net Cost 21,298.44 GBP",6/25/19,Crst 784 Jpmorgan Secs Ltd,10.6434 GBP,"-24,364.47"
+06/27/19,Purchase,"30,000",Shares,"Iqe Plc Net Cost 16,512.25 GBP",6/25/19,Crst 784 Jpmorgan Secs Ltd,0.5501 GBP,"-45,376.30"
+06/27/19,Purchase,"50,000",Shares,"Learning Technologies Group Net Cost 46,314.15 GBP",6/25/19,Crst 784 Jpmorgan Secs Ltd,0.9258 GBP,"-104,311.03"
+06/27/19,Purchase,"2,000",Shares,"Frontier Developments Plc Net Cost 27,123.56 USD",6/25/19,Crst 784 Jpmorgan Secs Ltd,10.6434 GBP,"-131,434.59"
+06/27/19,Purchase,"30,000",Shares,"Iqe Plc Net Cost 21,028.35 USD",6/25/19,Crst 784 Jpmorgan Secs Ltd,0.5501 GBP,"-152,462.94"
+06/27/19,Purchase,"50,000",Shares,"Learning Technologies Group Net Cost 58,981.07 USD",6/25/19,Crst 784 Jpmorgan Secs Ltd,0.92580008 GBP,"-211,444.01"
+06/28/19,Sale,,,"58,934.73 -58,934.73 Learning Technologies Group Net Proceeds 46,314.15 GBP",6/25/19,Crst 784 Jpmorgan Secs Ltd,0.9258 GBP,"-46,829.36"
+06/28/19,Sale,,,"21,011.83 -21,011.83 Iqe Plc Net Proceeds 16,512.25 GBP",6/25/19,Crst 784 Jpmorgan Secs Ltd,0.5501 GBP,"-25,817.53"
+06/28/19,Sale,,,"27,102.25 -27,102.25 Frontier Developments Plc Net Proceeds 21,298.44 GBP",6/25/19,Crst 784 Jpmorgan Secs Ltd,10.6434 GBP,"1,284.72"
+06/28/19,Sale,,,"30,489.34 -39,552.71 Umicore Net Proceeds 30,489.34 USD",6/25/19,Jpmsgb2l Jp Morgan Sec London,0.789745 GBP,"31,774.06"
+06/28/19,Sale,175.00,Units,221.59 -221.59 British Pound,6/28/19,,0.789745 GBP,"32,217.24"
+06/28/19,Sale,"105,764.09",Units,"105,764.09 -105,764.09 First Am Govt Ob Fd Cl X",6/27/19,,,"137,981.33"
+06/28/19,Sale,"75,331.17",Units,"75,331.17 -75,331.17 First Am Govt Ob Fd Cl X",6/28/19,,,"213,312.50"
+06/28/19,Purchase,"1,000",Shares,"Fancl Corp Net Cost 26,755.13 USD",6/25/19,Jpmsgb2l Jp Morgan Sec London,"2,863 JPY","186,557.37"
+06/28/19,Purchase,"2,000",Shares,"Monotaro Co Ltd First Section Net Cost 48,576.04 USD",6/25/19,Jpmsgb2l Jp Morgan Sec London,"2,599 JPY","137,981.33"
+06/28/19,Purchase,"1,300",Shares,"Umicore Net Cost 30,489.34 USD",6/25/19,Jpmsgb2l Jp Morgan Sec London,26.7 EUR,"107,491.99"
+07/01/19,Sale,,,"30,489.34 -39,552.71 Umicore Net Proceeds 30,489.34 USD",6/25/19,Jpmsgb2l Jp Morgan Sec London,26.7 EUR,"30,710.93"
+07/01/19,Purchase,"51,416.84",Units,First Am Govt Ob Fd Cl X,7/1/19,,,"30,489.34"
+07/01/19,Purchase,"1,300",Shares,"Umicore Net Cost 39,554.46 USD",6/25/19,Jpmsgb2l Jp Morgan Sec London,26.7 EUR,"-9,065.12"
+07/02/19,Sale,"160,617.01",Units,"160,617.01 -160,617.01 First Am Govt Ob Fd Cl X",7/2/19,,,"129,664.79"
+07/02/19,Sale,"10,138.36",Units,"10,138.36 -10,138.36 First Am Govt Ob Fd Cl X",7/2/19,,,"139,803.15"
+07/02/19,Purchase,"3,000",Shares,"Pva Tepla Ag Net Cost 45,809.95 USD",6/28/19,Jpmsgb2leql Jp Morgan Eq Lndn,13.4217 EUR,"93,993.20"
+07/02/19,Purchase,"2,000",Shares,"Asos Plc Net Cost 65,381.88 USD",6/28/19,Crst 784 Jpmorgan Secs Ltd,25.7326 GBP,"28,611.32"
+07/02/19,Purchase,"2,000",Shares,"Slm Solutions Group Ag Net Cost 28,611.32 USD",6/28/19,Jpmsgb2leql Jp Morgan Eq Lndn,12.5741 EUR,0.00
+07/03/19,Sale,,,"58,981.07 -58,934.73 Learning Technologies Group Net Proceeds 58,981.07 USD",6/25/19,Crst 784 Jpmorgan Secs Ltd,0.92580008 GBP,"58,981.07"
+07/03/19,Sale,"336,029.57",Units,"336,029.57 -336,029.57 First Am Govt Ob Fd Cl X",7/3/19,,,"395,010.64"
+07/03/19,Purchase,500,Shares,"Stroeer SE and Co Kgaa Net Cost 36,933.44 USD",7/1/19,Jpmsgb2leql Jp Morgan Eq Lndn,65.2629 EUR,"358,077.20"
+07/03/19,Purchase,"10,000",Shares,"Entertainment One Ltd Net Cost 50,563.61 USD",7/1/19,Crst 784 Jpmorgan Secs Ltd,3.9962 GBP,"307,513.59"
+07/03/19,Purchase,"50,000",Shares,"Iqe Plc Net Cost 41,629.38 USD",7/1/19,Crst 784 Jpmorgan Secs Ltd,0.65800013 GBP,"265,884.21"
+07/03/19,Purchase,"3,000",Shares,"Biocartis Nv Net Cost 35,460.64 USD",7/1/19,Jpmsgb2l Jp Morgan Sec London,10.4434 EUR,"230,423.57"
+07/03/19,Purchase,"5,000",Shares,"Boozt Ab Net Cost 27,357.13 USD",7/1/19,Jpmsgb2l Jp Morgan Sec London,51.0311 SEK,"203,066.44"
+07/03/19,Purchase,"2,000",Shares,"Asos Plc Net Cost 65,150.15 USD",7/1/19,Crst 784 Jpmorgan Secs Ltd,25.74460277 GBP,"137,916.29"
+07/03/19,Purchase,"6,000",Shares,"Aston Martin Lagonda Global Net Cost 78,935.22 USD",7/1/19,Crst 784 Jpmorgan Secs Ltd,10.34559894 GBP,"58,981.07"
+07/05/19,Purchase,"58,981.07",Units,First Am Govt Ob Fd Cl X,7/5/19,,0.893033 EUR,0.00
+07/08/19,Sale,612.00,Units,685.31 -685.31 Euro,7/5/19,,0.893033 EUR,"1,370.62"
+07/08/19,Sale,"107,281.7",Units,"107,281.70 -107,281.70 First Am Govt Ob Fd Cl X",7/8/19,,,"1,370.62"
+07/09/19,Purchase,685.31,Units,First Am Govt Ob Fd Cl X,7/9/19,,,0.00
+07/09/19,Purchase,"50,000",Shares,"Learning Technologies Group Net Cost 46,314.15 GBP",6/25/19,Crst 784 Jpmorgan Secs Ltd,0.9258 GBP,"-58,934.73"
+07/10/19,Sale,,,"58,934.73 -58,934.73 Learning Technologies Group Net Proceeds 46,314.15 GBP",6/25/19,Crst 784 Jpmorgan Secs Ltd,0.9258 GBP,"58,934.73"
+07/10/19,Sale,"6,022.26",Units,"6,022.26 -6,022.26 First Am Govt Ob Fd Cl X",7/10/19,,,"58,934.73"
+07/10/19,Purchase,"50,000",Shares,"Learning Technologies Group Net Cost 58,917.62 USD",6/25/19,Crst 784 Jpmorgan Secs Ltd,0.9258 GBP,17.11
+07/11/19,Sale,"58,917.62",Units,"58,917.62 -58,917.62 First Am Govt Ob Fd Cl X",7/10/19,,,"-4,531.23"
+07/11/19,Sale,"27,546.86",Units,"27,546.86 -27,546.86 First Am Govt Ob Fd Cl X",7/11/19,,,"23,015.63"
+07/11/19,Sale,"4,531.23",Units,"4,531.23 -4,531.23 First Am Govt Ob Fd Cl X",7/11/19,,,"27,546.86"
+07/11/19,Purchase,"2,000",Shares,"Raysearch Laboratories Ab Net Cost 27,546.86 USD",7/9/19,Jpmsgb2l Jp Morgan Sec London,130.4931 SEK,0.00
+07/15/19,Purchase,"35,457.06",Units,First Am Govt Ob Fd Cl X,7/15/19,,0.889226 EUR,"1,531.17"
+07/16/19,Sale,840.00,Units,944.64 -944.64 Euro,7/16/19,,0.889226 EUR,"3,420.45"
+07/16/19,Purchase,"240,475.32",Units,First Am Govt Ob Fd Cl X,7/16/19,,,"-237,054.87"
+07/16/19,Sale,"4,500",Shares,"238,944.15 -223,186.87 Baozun Inc Spon A D R",7/12/19,J.P. Morgan Securities LLC,53.1098 USD,"1,889.28"
+07/17/19,Purchase,"22,017.38",Units,First Am Govt Ob Fd Cl X,7/17/19,,0.801442 GBP,0.00
+07/19/19,Sale,386.00,Units,481.63 -481.63 British Pound,7/19/19,,0.801442 GBP,"2,490.37"
+07/19/19,Purchase,481.63,Units,First Am Govt Ob Fd Cl X,7/19/19,,,"2,008.74"
+07/19/19,Sale,"125,217.49",Units,"125,217.49 -125,217.49 First Am Govt Ob Fd Cl X",7/19/19,,,"127,226.23"
+07/19/19,Purchase,"1,000",Shares,"Comture Corp Net Cost 37,648.60 USD",7/17/19,Jpmsgb2l Jp Morgan Sec London,"4,073.5 JPY","89,577.63"
+07/19/19,Purchase,"2,000",Shares,"Uuum Inc Net Cost 89,096.00 USD",7/17/19,Jpmsgb2l Jp Morgan Sec London,"4,820 JPY",481.63
+07/22/19,Purchase,"77,264.13",Units,First Am Govt Ob Fd Cl X,7/22/19,,,0.00
+07/23/19,Sale,"35,829.22",Units,"35,829.22 -35,829.22 First Am Govt Ob Fd Cl X",7/23/19,,,0.00
+07/24/19,Purchase,"121,111.54",Units,First Am Govt Ob Fd Cl X,7/24/19,,,0.00
+07/24/19,Sale,"44,460",Units,"44,460.00 -44,460.00 First Am Govt Ob Fd Cl X",7/24/19,,,"44,460.00"
+07/24/19,Purchase,"1,000",Shares,Taiwan Semiconductor A D R,7/22/19,J.P. Morgan Securities LLC,44.45 USD,0.00
+07/25/19,Sale,"168,083.37",Units,"168,083.37 -168,083.37 First Am Govt Ob Fd Cl X",7/25/19,,,"153,969.18"
+07/25/19,Purchase,"5,000",Shares,"Vitec Software Group Ab B Sh Net Cost 68,414.28 USD",7/23/19,Jpmsgb2l Jp Morgan Sec London,129.4736 SEK,"85,554.90"
+07/25/19,Purchase,"4,500",Shares,Stmicroelectronics N V,7/23/19,J.P. Morgan Securities LLC,19.0022 USD,0.00
+07/26/19,Purchase,"12,498.36",Units,First Am Govt Ob Fd Cl X,7/26/19,,,0.00
+07/29/19,Sale,"16,370.93",Units,"16,370.93 -16,370.93 First Am Govt Ob Fd Cl X",7/29/19,,,"16,370.93"
+07/29/19,Purchase,"2,000",Shares,"Aston Martin Lagonda Global Net Cost 16,370.93 USD",7/25/19,Crst 784 Jpmorgan Secs Ltd,6.5196 GBP,0.00
+07/30/19,Sale,"24,893.83",Units,"24,893.83 -24,893.83 First Am Govt Ob Fd Cl X",7/30/19,,,0.00
+08/01/19,Purchase,"12,924.45",Units,First Am Govt Ob Fd Cl X,8/1/19,,,0.00
+08/02/19,Sale,"41,497.54",Units,"41,497.54 -41,497.54 First Am Govt Ob Fd Cl X",8/2/19,,106.71 JPY,0.00
+08/05/19,Sale,"45,730.00",Units,428.54 -428.54 Yen,8/5/19,,106.71 JPY,857.08
+08/06/19,Sale,"62,927.52",Units,"62,927.52 -62,927.52 First Am Govt Ob Fd Cl X",8/6/19,,,0.00
+08/07/19,Sale,"14,789.74",Units,"14,789.74 -14,789.74 First Am Govt Ob Fd Cl X",8/7/19,,,0.00
+08/09/19,Purchase,"1,047,611.2",Units,First Am Govt Ob Fd Cl X,8/9/19,,,0.00
+08/12/19,Sale,"106,346.38",Units,"106,346.38 -106,346.38 First Am Govt Ob Fd Cl X",8/12/19,,,"106,346.38"
+08/12/19,Purchase,"24,000",Shares,"Tobii Ab Net Cost 106,346.38 USD",8/8/19,Jpmsgb2l Jp Morgan Sec London,42.4079 SEK,0.00
+08/13/19,Purchase,"55,867.59",Units,First Am Govt Ob Fd Cl X,8/13/19,,,"1,278.89"
+08/14/19,Sale,,,"39,745.51 -39,745.51 Ocado Group Plc Net Proceeds 39,745.51 USD",8/12/19,Crst 784 Jpmorgan Secs Ltd,11.92960189 GBP,"41,024.40"
+08/14/19,Sale,,,"22,790.97 -22,790.97 Frontier Developments Plc Net Proceeds 22,790.97 USD",8/12/19,Crst 784 Jpmorgan Secs Ltd,9.1667 GBP,"63,815.37"
+08/14/19,Sale,,,"21,904.06 -21,904.06 First Derivatives Plc Net Proceeds 21,904.06 USD",8/12/19,Crst 784 Jpmorgan Secs Ltd,26.4299 GBP,"85,719.43"
+08/14/19,Sale,,,"27,260.83 -27,260.83 Ds Smith Plc Net Proceeds 27,260.83 USD",8/12/19,Crst 784 Jpmorgan Secs Ltd,3.2729 GBP,"112,980.26"
+08/14/19,Sale,"232,677.55",Units,"232,677.55 -232,677.55 First Am Govt Ob Fd Cl X",8/14/19,,,"345,016.23"
+08/14/19,Purchase,"3,000",Shares,"Quantel Net Cost 41,877.27 USD",8/12/19,Jpmsgb2l Jp Morgan Sec London,15.6572 EUR,"303,138.96"
+08/14/19,Purchase,"10,000",Shares,"Ds Smith Plc Net Cost 27,260.83 USD",8/12/19,Crst 784 Jpmorgan Secs Ltd,3.2729 GBP,"275,878.13"
+08/14/19,Purchase,"1,000",Shares,"First Derivatives Plc Net Cost 21,904.06 USD",8/12/19,Crst 784 Jpmorgan Secs Ltd,26.4299 GBP,"253,974.07"
+08/14/19,Purchase,"3,000",Shares,"Frontier Developments Plc Net Cost 22,790.97 USD",8/12/19,Crst 784 Jpmorgan Secs Ltd,9.1667 GBP,"231,183.10"
+08/14/19,Purchase,"4,000",Shares,"Ocado Group Plc Net Cost 39,745.51 USD",8/12/19,Crst 784 Jpmorgan Secs Ltd,11.92960189 GBP,"191,437.59"
+08/14/19,Purchase,"5,000",Shares,"Dustin Group Ab Net Cost 42,176.40 USD",8/12/19,Jpmsgb2l Jp Morgan Sec London,80.66000002 SEK,"149,261.19"
+08/14/19,Purchase,"1,000",Shares,"Zalando SE Net Cost 37,559.82 USD",8/12/19,Jpmsgb2l Jp Morgan Sec London,42.15 EUR,"111,701.37"
+08/14/19,Purchase,"3,000",Shares,"Frontier Developments Plc Net Cost 33,217.85 USD",8/12/19,Crst 784 Jpmorgan Secs Ltd,9.1667 GBP,"78,483.52"
+08/14/19,Purchase,"1,000",Shares,"First Derivatives Plc Net Cost 31,925.18 USD",8/12/19,Crst 784 Jpmorgan Secs Ltd,26.4299 GBP,"46,558.34"
+08/14/19,Purchase,"10,000",Shares,"Ds Smith Plc Net Cost 39,730.05 USD",8/12/19,Crst 784 Jpmorgan Secs Ltd,3.2729 GBP,"6,828.29"
+08/14/19,Purchase,"4,000",Shares,"Ocado Group Plc Net Cost 57,925.27 USD",8/12/19,Crst 784 Jpmorgan Secs Ltd,11.9296 GBP,"-51,096.98"
+08/15/19,Sale,"54,886.92",Units,"54,886.92 -54,886.92 First Am Govt Ob Fd Cl X",8/15/19,,,"147,680.42"
+08/15/19,Sale,400,Units,400.00 -400.00 First Am Govt Ob Fd Cl X,8/15/19,,,"148,080.42"
+08/15/19,Purchase,"1,500",Shares,"Comture Corp Net Cost 56,864.42 USD",8/13/19,Jpmsgb2l Jp Morgan Sec London,"3,985 JPY","91,216.00"
+08/15/19,Purchase,"1,000",Shares,"Cyberagent Inc Npv Net Cost 42,142.94 USD",8/13/19,Jpmsgb2l Jp Morgan Sec London,"4,430 JPY","49,073.06"
+08/15/19,Purchase,400,Shares,"Nidec Corp Net Cost 51,846.28 USD",8/13/19,Jpmsgb2l Jp Morgan Sec London,"13,625 JPY","-2,773.22"
+08/15/19,Purchase,"5,000",Shares,"Rakuten Inc Net Cost 49,372.88 USD",8/13/19,Jpmsgb2l Jp Morgan Sec London,"1,038 JPY","-52,146.10"
+08/15/19,Sale,"3,000",Shares,"52,146.10 -73,971.71 Ut Group Co Ltd Net Proceeds 52,146.10 USD",8/13/19,Jpmsgb2l Jp Morgan Sec London,"1,829 JPY",0.00
+08/16/19,Sale,"8,809.81",Units,"8,809.81 -8,809.81 First Am Govt Ob Fd Cl X",8/16/19,,,0.00
+08/19/19,Sale,,,"41,877.27 -41,877.27 Quantel Net Proceeds 41,877.27 USD",8/12/19,Jpmsgb2l Jp Morgan Sec London,15.6572 EUR,"41,877.27"
+08/19/19,Sale,,,"37,559.82 -47,237.90 Zalando SE Net Proceeds 37,559.82 USD",8/12/19,Jpmsgb2l Jp Morgan Sec London,42.15 EUR,"79,437.09"
+08/19/19,Sale,"208,840.98",Units,"208,840.98 -208,840.98 First Am Govt Ob Fd Cl X",8/19/19,,,"288,278.07"
+08/19/19,Purchase,500,Shares,"Orpea Net Cost 59,458.12 USD",8/15/19,Jpmsgb2l Jp Morgan Sec London,106.65241028 EUR,"228,819.95"
+08/19/19,Purchase,"5,000",Shares,"Raysearch Laboratories Ab Net Cost 65,886.51 USD",8/15/19,Jpmsgb2l Jp Morgan Sec London,127.05 SEK,"162,933.44"
+08/19/19,Purchase,"1,500",Shares,Line Corp A D R,8/15/19,J.P. Morgan Securities LLC,32.0417 USD,"114,855.89"
+08/19/19,Purchase,"2,000",Shares,Materialise Nv A D R,8/15/19,J.P. Morgan Securities LLC,17.6994 USD,"79,437.09"
+08/20/19,Purchase,"205,897.52",Units,First Am Govt Ob Fd Cl X,8/20/19,,,0.00
+08/20/19,Sale,"100,063.17",Units,"100,063.17 -100,063.17 First Am Govt Ob Fd Cl X",8/20/19,,,"100,063.17"
+08/20/19,Purchase,"3,000",Shares,"Quantel Net Cost 52,738.36 USD",8/12/19,Jpmsgb2l Jp Morgan Sec London,15.6572 EUR,"47,324.81"
+08/20/19,Purchase,"1,000",Shares,"Zalando SE Net Cost 47,324.81 USD",8/12/19,Jpmsgb2leql Jp Morgan Eq Lndn,42.15 EUR,0.00
+08/22/19,Sale,"83,891.64",Units,"83,891.64 -83,891.64 First Am Govt Ob Fd Cl X",8/22/19,,,"304,249.24"
+08/22/19,Purchase,"2,000",Shares,"Fancl Corp Net Cost 46,665.29 USD",8/20/19,Jpmsgb2l Jp Morgan Sec London,"2,480 JPY","257,583.95"
+08/22/19,Purchase,400,Shares,"Disco Corporation Net Cost 72,481.73 USD",8/20/19,Jpmsgb2l Jp Morgan Sec London,"19,260 JPY","185,102.22"
+08/22/19,Purchase,150,Shares,"Eurofins Scientific Net Cost 64,851.50 USD",8/20/19,Jpmsgb2l Jp Morgan Sec London,389.8693 EUR,"120,250.72"
+08/22/19,Purchase,"4,500",Shares,"Adevinta Asa B Net Cost 53,134.17 USD",8/20/19,Jpmsgb2l Jp Morgan Sec London,106.1987 NOK,"67,116.55"
+08/22/19,Purchase,"1,750",Shares,"Moncler Spa Net Cost 67,116.55 USD",8/20/19,Jpmsgb2l Jp Morgan Sec London,34.55 EUR,0.00
+08/23/19,Sale,"147,485.67",Units,"147,485.67 -147,485.67 First Am Govt Ob Fd Cl X",8/23/19,,,"147,485.67"
+08/23/19,Sale,328.1,Units,328.10 -328.10 First Am Govt Ob Fd Cl X,8/23/19,,,"147,813.77"
+08/23/19,Purchase,"10,000",Shares,"Zoo Digital Group Net Cost 9,106.85 USD",8/21/19,Crst 784 Jpmorgan Secs Ltd,0.75 GBP,"138,706.92"
+08/23/19,Purchase,"5,000",Shares,"Vitec Software Group Ab B Sh Net Cost 68,173.84 USD",8/21/19,Jpmsgb2l Jp Morgan Sec London,131.2004 SEK,"70,533.08"
+08/23/19,Purchase,"1,500",Shares,"Zalando SE Net Cost 70,204.98 USD",8/21/19,Jpmsgb2leql Jp Morgan Eq Lndn,42.1513 EUR,328.10
+08/26/19,Sale,"111,558.79",Units,"111,558.79 -111,558.79 First Am Govt Ob Fd Cl X",8/26/19,,,"111,558.79"
+08/26/19,Purchase,"6,000",Shares,"Ion Beam Applications Net Cost 111,558.79 USD",8/22/19,Jpmsgb2l Jp Morgan Sec London,0.901072 EUR,0.00
+08/27/19,Sale,446.25,Units,495.24 -495.24 Euro,8/27/19,,0.901072 EUR,990.48
+08/27/19,Sale,341.25,Units,378.72 -378.72 Euro,8/27/19,,0.901072 EUR,"1,747.92"
+08/27/19,Purchase,"146,723.77",Units,First Am Govt Ob Fd Cl X,8/27/19,,,"-109,617.38"
+08/27/19,Sale,"1,142.49",Units,"1,142.49 -1,142.49 First Am Govt Ob Fd Cl X",8/27/19,,,"-108,474.89"
+08/27/19,Sale,"146,723.77",Units,"146,723.77 -146,723.77 First Am Govt Ob Fd Cl X",8/27/19,,,"38,248.88"
+08/27/19,Purchase,"40,000",Shares,"Zoo Digital Group Net Cost 36,500.96 USD",8/22/19,Crst 784 Jpmorgan Secs Ltd,0.75 GBP,"1,747.92"
+08/28/19,Purchase,"138,203.15",Units,First Am Govt Ob Fd Cl X,8/28/19,,,"-146,723.77"
+08/28/19,Sale,"20,000",Shares,"146,723.77 -98,022.52 Entertainment One Ltd Net Proceeds 146,723.77 USD",8/23/19,Crst 784 Jpmorgan Secs Ltd,5.995 GBP,0.00
+08/29/19,Sale,"120,997.84",Units,"120,997.84 -120,997.84 First Am Govt Ob Fd Cl X",8/29/19,,,"90,817.93"
+08/29/19,Purchase,"8,000",Shares,"Biocartis Nv Net Cost 90,817.93 USD",8/27/19,Jpmsgb2l Jp Morgan Sec London,106.66 JPY,0.00
+08/30/19,Sale,"18,419.00",Units,172.69 -172.69 Yen,8/30/19,,106.66 JPY,345.38
+08/30/19,Purchase,"12,722.22",Units,First Am Govt Ob Fd Cl X,8/30/19,,,345.38
+09/03/19,Purchase,500.79,Units,First Am Govt Ob Fd Cl X,9/3/19,,,0.00
+09/03/19,Purchase,"4,000",Shares,"Slm Solutions Group Ag Net Cost 58,882.17 USD",8/30/19,Jpmsgb2leql Jp Morgan Eq Lndn,13.3895 EUR,"-58,882.17"
+09/04/19,Sale,"57,777.21",Units,"57,777.21 -57,777.21 First Am Govt Ob Fd Cl X",9/3/19,,,0.00
+09/05/19,Purchase,"128,666.7",Units,First Am Govt Ob Fd Cl X,9/5/19,,,"85,575.23"
+09/05/19,Purchase,120,Shares,"Adyen Bv Net Cost 85,575.23 USD",9/3/19,Jpmsgb2l Jp Morgan Sec London,650 EUR,0.00
+09/06/19,Sale,"64,619.11",Units,"64,619.11 -64,619.11 First Am Govt Ob Fd Cl X",9/6/19,,,"64,619.11"
+09/06/19,Purchase,"5,000",Shares,"Frontier Developments Plc Net Cost 64,619.11 USD",9/4/19,Crst 784 Jpmorgan Secs Ltd,106.9 JPY,0.00
+09/09/19,Sale,"50,811.00",Units,475.31 -475.31 Yen,9/9/19,,106.9 JPY,950.62
+09/09/19,Sale,"93,568.12",Units,"93,568.12 -93,568.12 First Am Govt Ob Fd Cl X",9/9/19,,,"112,800.70"
+09/09/19,Purchase,"6,000",Shares,"Infineon Technologies A G Net Cost 111,850.08 USD",9/5/19,Jpmsgb2leql Jp Morgan Eq Lndn,107.25 JPY,950.62
+09/10/19,Sale,"28,581.00",Units,266.49 -266.49 Yen,9/10/19,,0.810527 GBP,"1,008.29"
+09/10/19,Sale,337.50,Units,416.40 -416.40 British Pound,9/9/19,,0.810527 GBP,"1,841.09"
+09/10/19,Purchase,682.89,Units,First Am Govt Ob Fd Cl X,9/10/19,,,"-3,831.88"
+09/10/19,Sale,"6,514.77",Units,"6,514.77 -6,514.77 First Am Govt Ob Fd Cl X",9/10/19,,,"2,682.89"
+09/12/19,Purchase,"92,548.83",Units,First Am Govt Ob Fd Cl X,9/12/19,,,0.00
+09/17/19,Purchase,"183,222.12",Units,First Am Govt Ob Fd Cl X,9/17/19,,,0.00
+09/18/19,Sale,"123,435.98",Units,"123,435.98 -123,435.98 First Am Govt Ob Fd Cl X",9/18/19,,,"122,440.23"
+09/18/19,Purchase,100,Shares,"Keyence Corp Net Cost 62,211.57 USD",9/13/19,Jpmsgb2l Jp Morgan Sec London,"67,140.00000015 JPY","60,228.66"
+09/18/19,Purchase,"1,000",Shares,"Lasertec Corp Net Cost 60,228.66 USD",9/13/19,Jpmsgb2l Jp Morgan Sec London,"6,500 JPY",0.00
+09/20/19,Purchase,"154,870.16",Units,First Am Govt Ob Fd Cl X,9/20/19,,,"103,290.18"
+09/20/19,Purchase,"18,500",Shares,"Nordic Semiconductor Asa Net Cost 103,290.18 USD",9/18/19,Jpmsgb2l Jp Morgan Sec London,0.911326 EUR,0.00
+09/23/19,Sale,666.00,Units,730.81 -730.80 Euro,9/23/19,,0.911326 EUR,"1,461.61"
+09/23/19,Sale,518.00,Units,568.40 -568.40 Euro,9/23/19,,0.911326 EUR,"2,598.41"
+09/23/19,Sale,444.00,Units,487.20 -487.20 Euro,9/23/19,,0.911326 EUR,"3,572.81"
+09/23/19,Purchase,"1,786.41",Units,First Am Govt Ob Fd Cl X,9/23/19,,,"1,786.40"
+09/24/19,Purchase,"190,337.06",Units,First Am Govt Ob Fd Cl X,9/24/19,,,0.00
+09/25/19,Purchase,"28,469.57",Units,First Am Govt Ob Fd Cl X,9/25/19,,,"-31,894.06"
+09/25/19,Sale,"18,500",Shares,"33,958.06 -62,866.49 Ovs Spa Net Proceeds 33,958.06 USD",9/23/19,Jpmsgb2l Jp Morgan Sec London,1.6718 EUR,"2,064.00"
+09/26/19,Sale,2.42,Units,2.65 -2.65 Euro,9/25/19,,0.912575 EUR,"2,576.65"
+09/26/19,Purchase,"2,574",Units,First Am Govt Ob Fd Cl X,9/26/19,,,5.30
+09/27/19,Purchase,"110,279.6",Units,First Am Govt Ob Fd Cl X,9/27/19,,108.08 JPY,0.00
+09/30/19,Sale,"52,505.00",Units,485.80 -485.80 Yen,9/30/19,,108.08 JPY,971.60
+09/30/19,Purchase,485.8,Units,First Am Govt Ob Fd Cl X,9/30/19,,,221.78
+09/30/19,Sale,264.02,Units,264.02 -264.02 First Am Govt Ob Fd Cl X,9/30/19,,,485.80
+10/01/19,Sale,"153,747.92",Units,"153,747.92 -153,747.92 First Am Govt Ob Fd Cl X",10/1/19,,,"153,747.92"
+10/01/19,Purchase,"5,000",Shares,"Quantel Net Cost 79,669.64 USD",9/27/19,Jpmsgb2l Jp Morgan Sec London,14.5351 EUR,"74,078.28"
+10/01/19,Purchase,"3,000",Shares,"Basware Oyj Npv Net Cost 74,078.28 USD",9/27/19,Jpmsgb2l Jp Morgan Sec London,22.525 EUR,0.00
+10/02/19,Purchase,991.69,Units,First Am Govt Ob Fd Cl X,10/2/19,,,-113.18
+10/02/19,Sale,113.18,Units,113.18 -113.18 First Am Govt Ob Fd Cl X,10/2/19,,,0.00
+10/03/19,Purchase,"28,973.44",Units,First Am Govt Ob Fd Cl X,10/3/19,,,0.00
+10/04/19,Sale,"10,788.38",Units,"10,788.38 -10,788.38 First Am Govt Ob Fd Cl X",10/4/19,,,0.00
+10/07/19,Purchase,"26,238",Units,First Am Govt Ob Fd Cl X,10/7/19,,,0.00
+10/09/19,Purchase,"60,983.9",Units,First Am Govt Ob Fd Cl X,10/9/19,,,"-6,075.90"
+10/09/19,Sale,"156,205.44",Units,"156,205.44 -156,205.44 First Am Govt Ob Fd Cl X",10/9/19,,,"150,129.54"
+10/09/19,Sale,"6,075.9",Units,"6,075.90 -6,075.90 First Am Govt Ob Fd Cl X",10/9/19,,,"156,205.44"
+10/09/19,Purchase,"4,500",Shares,"Mediawan Sa Net Cost 49,893.64 USD",10/4/19,Jpmsgb2l Jp Morgan Sec London,10.091 EUR,"106,311.80"
+10/09/19,Purchase,500,Shares,Gw Pharmaceuticals A D R,10/4/19,J.P. Morgan Securities LLC,116.924 USD,"47,844.80"
+10/09/19,Purchase,"1,000",Shares,B H P Billiton Limited A D R,10/4/19,J.P. Morgan Securities LLC,47.8348 USD,0.00
+10/15/19,Sale,"47,529.3",Units,"47,529.30 -47,529.30 First Am Govt Ob Fd Cl X",10/15/19,,,0.00
+10/16/19,Purchase,"19,886.19",Units,First Am Govt Ob Fd Cl X,10/16/19,,,0.00
+10/18/19,Sale,"25,198.42",Units,"25,198.42 -25,198.42 First Am Govt Ob Fd Cl X",10/18/19,,,"22,722.76"
+10/18/19,Purchase,"2,202",Shares,"Mediawan Sa Net Cost 22,722.76 USD",10/16/19,Jpmsgb2l Jp Morgan Sec London,9.3137 EUR,0.00
+10/21/19,Sale,"25,055.09",Units,"25,055.09 -25,055.09 First Am Govt Ob Fd Cl X",10/21/19,,,"41,336.09"
+10/21/19,Purchase,"3,991",Shares,"Mediawan Sa Net Cost 41,336.09 USD",10/17/19,Jpmsgb2l Jp Morgan Sec London,9.3043 EUR,0.00
+10/22/19,Sale,"7,650.58",Units,"7,650.58 -7,650.58 First Am Govt Ob Fd Cl X",10/22/19,,,"10,854.22"
+10/22/19,Purchase,"1,042",Shares,"Mediawan Sa Net Cost 10,854.22 USD",10/18/19,Jpmsgb2l Jp Morgan Sec London,9.33909789 EUR,0.00
+10/23/19,Sale,"64,442.7",Units,"64,442.70 -64,442.70 First Am Govt Ob Fd Cl X",10/23/19,,,"39,188.82"
+10/23/19,Purchase,"3,765",Shares,"Mediawan Sa Net Cost 39,188.82 USD",10/21/19,Jpmsgb2l Jp Morgan Sec London,9.3362 EUR,0.00
+10/24/19,Sale,"7,449.2",Units,"7,449.20 -7,449.20 First Am Govt Ob Fd Cl X",10/24/19,,,0.00
+10/25/19,Purchase,"14,412",Units,First Am Govt Ob Fd Cl X,10/25/19,,9.1863 NOK,0.00
+10/28/19,Purchase,"19,086.26",Units,First Am Govt Ob Fd Cl X,10/28/19,,8.59767675 NOK,0.00
+10/29/19,Purchase,"12,172",Units,First Am Govt Ob Fd Cl X,10/29/19,,,0.00
+10/30/19,Sale,"325,451.79",Units,"325,451.79 -325,451.79 First Am Govt Ob Fd Cl X",10/30/19,,,"356,300.08"
+10/30/19,Purchase,"2,000",Shares,"Basware Oyj Npv Net Cost 46,611.79 USD",10/28/19,Jpmsgb2l Jp Morgan Sec London,21 EUR,"309,688.29"
+10/30/19,Purchase,"4,000",Shares,"Ion Beam Applications Net Cost 62,305.76 USD",10/28/19,Jpmsgb2l Jp Morgan Sec London,14.0353 EUR,"247,382.53"
+10/30/19,Purchase,"50,000",Shares,"Learning Technologies Group Net Cost 68,985.73 USD",10/28/19,Crst 784 Jpmorgan Secs Ltd,1.0721 GBP,"178,396.80"
+10/30/19,Purchase,"4,000",Shares,Baozun Inc Spon A D R,10/28/19,J.P. Morgan Securities LLC,44.5892 USD,0.00
+10/31/19,Sale,"75,822.38",Units,"75,822.38 -75,822.38 First Am Govt Ob Fd Cl X",10/31/19,,,"88,712.38"
+10/31/19,Purchase,600,Shares,"Nidec Corp Net Cost 88,712.38 USD",10/29/19,Jpmsgb2l Jp Morgan Sec London,0.77375 GBP,0.00
+11/01/19,Sale,"3,850.00",Units,"4,975.77 -4,975.77 British Pound",11/1/19,,0.77375 GBP,"9,951.54"
+11/01/19,Purchase,"2,004.95",Units,First Am Govt Ob Fd Cl X,11/1/19,,,"9,951.54"
+11/04/19,Purchase,"33,605.04",Units,First Am Govt Ob Fd Cl X,11/4/19,,,0.00
+11/05/19,Purchase,"7,678.07",Units,First Am Govt Ob Fd Cl X,11/5/19,,,0.00
+11/07/19,Purchase,"84,308.42",Units,First Am Govt Ob Fd Cl X,11/7/19,,0.78069 GBP,0.00
+11/08/19,Sale,250.00,Units,320.23 -320.23 British Pound,11/8/19,,0.78069 GBP,640.46
+11/08/19,Purchase,"53,009.92",Units,First Am Govt Ob Fd Cl X,11/8/19,,,"-52,369.46"
+11/08/19,Purchase,320.23,Units,First Am Govt Ob Fd Cl X,11/8/19,,,"-52,689.69"
+11/08/19,Purchase,500,Shares,Gw Pharmaceuticals A D R,11/6/19,J.P. Morgan Securities LLC,111.802 USD,"-108,595.69"
+11/08/19,Sale,"2,000",Shares,"14,278.27 -63,357.80 Accesso Technology Group Plc Net Proceeds 14,278.27 USD",11/6/19,Crst 784 Jpmorgan Secs Ltd,5.55 GBP,"-94,317.42"
+11/08/19,Sale,"6,900",Shares,"30,873.13 -86,625.55 Norwegian Air Shut Net Proceeds 30,873.13 USD",11/6/19,Jpmsgb2l Jp Morgan Sec London,40.9672 NOK,"-63,444.29"
+11/08/19,Sale,"2,000",Shares,"63,764.52 -84,418.10 Brunello Cucinelli Spa Net Proceeds 63,764.52 USD",11/6/19,Jpmsgb2l Jp Morgan Sec London,28.8059 EUR,320.23
+11/13/19,Sale,"2,531.25",Units,"2,531.25 -2,531.25 First Am Govt Ob Fd Cl X",11/13/19,,,"128,969.61"
+11/13/19,Sale,120,Units,120.00 -120.00 First Am Govt Ob Fd Cl X,11/13/19,,,"129,089.61"
+11/13/19,Purchase,"1,000",Shares,"Wirecard Ag Net Cost 129,089.61 USD",11/11/19,Jpmsgb2leql Jp Morgan Eq Lndn,116.95 EUR,0.00
+11/14/19,Purchase,"112,614.52",Units,First Am Govt Ob Fd Cl X,11/14/19,,,0.00
+11/15/19,Sale,"162,221.65",Units,"162,221.65 -162,221.65 First Am Govt Ob Fd Cl X",11/15/19,,,"162,808.25"
+11/15/19,Purchase,"50,000",Shares,"Capital Counties Properties Plc Net Cost 162,221.65 USD",11/13/19,Crst 784 Jpmorgan Secs Ltd,2.51340012 GBP,586.60
+11/18/19,Purchase,"93,868.62",Units,First Am Govt Ob Fd Cl X,11/18/19,,,0.00
+11/19/19,Purchase,16.00,Units,Norwegian Krone,11/18/19,,1 NOK,-1.76
+11/19/19,Sale,"55,413.17",Units,"55,413.17 -55,413.17 First Am Govt Ob Fd Cl X",11/19/19,,,"83,390.31"
+11/19/19,Purchase,"21,000",Shares,"Tobii Ab Net Cost 83,392.07 USD",11/15/19,Jpmsgb2l Jp Morgan Sec London,38.2618 SEK,-1.76
+11/20/19,Sale,"122,129.96",Units,"122,129.96 -122,129.96 First Am Govt Ob Fd Cl X",11/20/19,,,"118,795.47"
+11/20/19,Purchase,"5,000",Shares,"Fevertree Drinks Plc Net Cost 118,795.47 USD",11/1/19,Crst 784 Jpmorgan Secs Ltd,108.75 JPY,0.00
+11/21/19,Sale,"8,468.00",Units,77.87 -77.87 Yen,11/21/19,,108.75 JPY,155.74
+11/21/19,Sale,610.85,Units,610.85 -610.85 First Am Govt Ob Fd Cl X,11/21/19,,108.67 JPY,155.74
+11/22/19,Sale,"12,703.00",Units,116.90 -116.90 Yen,11/21/19,,108.67 JPY,311.67
+11/22/19,Purchase,80,Shares,Adevinta Asa B Net Cost 16.00 NOK,11/22/19,Global Corporate Actions,1.00 NOK,309.92
+11/22/19,Sale,922.47,Units,922.47 -922.47 First Am Govt Ob Fd Cl X,11/22/19,,,232.05
+11/25/19,Purchase,"15,288.9",Units,First Am Govt Ob Fd Cl X,11/25/19,,,"-1,400.00"
+11/25/19,Sale,"1,400",Units,"1,400.00 -1,400.00 First Am Govt Ob Fd Cl X",11/25/19,,,0.00
+11/26/19,Purchase,"252,599.19",Units,First Am Govt Ob Fd Cl X,11/26/19,,,"-126,161.68"
+11/26/19,Sale,"7,040.4",Units,"7,040.40 -7,040.40 First Am Govt Ob Fd Cl X",11/26/19,,,"-119,121.28"
+11/26/19,Sale,"2,500",Shares,"119,121.28 -104,033.00 Nintendo Co Ltd Unspons A D R",11/22/19,J.P. Morgan Securities LLC,47.6595 USD,0.00
+11/27/19,Sale,"63,962.66",Units,"63,962.66 -63,962.66 First Am Govt Ob Fd Cl X",11/27/19,,,"68,002.56"
+11/27/19,Purchase,750,Shares,"Ucb Sa Net Cost 61,324.26 USD",11/25/19,Jpmsgb2l Jp Morgan Sec London,74.2204 EUR,"6,678.30"
+11/27/19,Purchase,"5,000",Shares,"Adevinta Asa B Net Cost 54,035.02 USD",11/25/19,Jpmsgb2l Jp Morgan Sec London,99.2527 NOK,"-47,356.72"
+11/27/19,Purchase,"7,000",Shares,"Dustin Group Ab Net Cost 56,465.12 USD",11/25/19,Jpmsgb2l Jp Morgan Sec London,77.7378 SEK,"-103,821.84"
+11/27/19,Sale,"30,000",Shares,"103,821.84 -167,088.24 Nokia Corp Spon A D R",11/25/19,J.P. Morgan Securities LLC,3.4708 USD,0.00
+11/29/19,Purchase,"329,513.01",Units,First Am Govt Ob Fd Cl X,11/29/19,,,0.00
+11/29/19,Sale,"218,206.75",Units,"218,206.75 -218,206.75 First Am Govt Ob Fd Cl X",11/29/19,,,"218,206.75"
+11/29/19,Purchase,"60,000",Shares,"Yahoo Japan Corporation Net Cost 218,206.75 USD",11/26/19,Jpmsgb2l Jp Morgan Sec London,109.55 JPY,0.00
+12/02/19,Sale,"49,117.00",Units,448.35 -448.35 Yen,11/29/19,,109.6 JPY,896.70
+12/02/19,Sale,"37,261.00",Units,339.97 -339.97 Yen,12/2/19,,109.6 JPY,"1,576.64"
+12/02/19,Sale,"138,883.00",Units,"1,267.18 -1,267.18 Yen",12/2/19,,109.6 JPY,"4,111.00"
+12/02/19,Purchase,"64,215.77",Units,First Am Govt Ob Fd Cl X,12/2/19,,,"4,139.93"
+12/02/19,Sale,52.07,Units,52.07 -52.07 First Am Govt Ob Fd Cl X,12/2/19,,,"4,192.00"
+12/03/19,Sale,"115,118.51",Units,"115,118.51 -115,118.51 First Am Govt Ob Fd Cl X",12/3/19,,,"119,239.83"
+12/03/19,Purchase,"7,000",Shares,"Pva Tepla Ag Net Cost 119,239.83 USD",11/29/19,Jpmsgb2leql Jp Morgan Eq Lndn,15.4479 EUR,0.00
+12/04/19,Purchase,"66,207.31",Units,First Am Govt Ob Fd Cl X,12/4/19,,109 JPY,0.00
+12/05/19,Sale,"71,982.00",Units,660.39 -660.39 Yen,12/5/19,,109 JPY,"1,320.78"
+12/05/19,Sale,"1,925.9",Units,"1,925.90 -1,925.90 First Am Govt Ob Fd Cl X",12/5/19,,108.8 JPY,"1,320.78"
+12/06/19,Sale,"50,811.00",Units,467.01 -467.01 Yen,12/6/19,,108.8 JPY,"1,594.41"
+12/06/19,Purchase,"136,237.16",Units,First Am Govt Ob Fd Cl X,12/6/19,,,"-130,372.35"
+12/06/19,Sale,"272,474.32",Units,"272,474.32 -272,474.32 First Am Govt Ob Fd Cl X",12/6/19,,,"142,101.97"
+12/06/19,Purchase,"8,000",Shares,"Future Plc Net Cost 141,167.95 USD",12/4/19,Crst 784 Jpmorgan Secs Ltd,13.40150057 GBP,934.02
+12/09/19,Sale,"64,216.09",Units,"64,216.09 -64,216.09 First Am Govt Ob Fd Cl X",12/9/19,,108.74 JPY,0.00
+12/10/19,Sale,"73,210.00",Units,673.26 -673.26 Yen,12/10/19,,0.7596 GBP,"1,346.52"
+12/10/19,Sale,255.00,Units,335.70 -335.70 British Pound,12/10/19,,0.7596 GBP,"2,017.92"
+12/10/19,Purchase,"1,866.51",Units,First Am Govt Ob Fd Cl X,12/10/19,,,"1,893.93"
+12/10/19,Purchase,335.7,Units,First Am Govt Ob Fd Cl X,12/10/19,,,"1,558.23"
+12/10/19,Sale,123.99,Units,123.99 -123.99 First Am Govt Ob Fd Cl X,12/10/19,,,"1,682.22"
+12/11/19,Purchase,"54,294.24",Units,First Am Govt Ob Fd Cl X,12/11/19,,,0.00
+12/12/19,Sale,"258,131.25",Units,"258,131.25 -258,131.25 First Am Govt Ob Fd Cl X",12/12/19,,,"265,091.11"
+12/12/19,Purchase,"6,000",Shares,"Future Plc Net Cost 109,495.33 USD",12/10/19,Crst 784 Jpmorgan Secs Ltd,13.7837 GBP,"155,595.78"
+12/12/19,Purchase,"50,000",Shares,"Learning Technologies Group Net Cost 75,479.94 USD",12/10/19,Crst 784 Jpmorgan Secs Ltd,1.1459 GBP,"80,115.84"
+12/12/19,Purchase,"5,000",Shares,"Ocado Group Plc Net Cost 80,115.84 USD",12/10/19,Crst 784 Jpmorgan Secs Ltd,12.1023 GBP,0.00
+12/13/19,Purchase,"162,989.53",Units,First Am Govt Ob Fd Cl X,12/13/19,,,0.00
+12/13/19,Purchase,166.25,Units,First Am Govt Ob Fd Cl X,12/13/19,,,-166.25
+12/13/19,Sale,166.25,Units,166.25 -166.25 First Am Govt Ob Fd Cl X,12/13/19,,109.42 JPY,0.00
+12/16/19,Sale,"83,838.00",Units,766.20 -766.20 Yen,12/16/19,,9.2417 NOK,"1,532.40"
+12/16/19,Sale,24.72,Units,2.67 -2.67 Norwegian Krone,12/16/19,,9.2417 NOK,"1,535.07"
+12/16/19,Purchase,"5,634.13",Units,First Am Govt Ob Fd Cl X,12/16/19,,,470.24
+12/16/19,Sale,"1,064.83",Units,"1,064.83 -1,064.83 First Am Govt Ob Fd Cl X",12/16/19,,,"1,535.07"
+12/17/19,Purchase,"25,168.7",Units,First Am Govt Ob Fd Cl X,12/17/19,,,346.49
+12/17/19,Sale,667.92,Units,667.92 -667.92 First Am Govt Ob Fd Cl X,12/17/19,,,"1,014.41"
+12/18/19,Purchase,"103,982.5",Units,First Am Govt Ob Fd Cl X,12/18/19,,,"-60,744.37"
+12/18/19,Sale,"136,495.2",Units,"136,495.20 -136,495.20 First Am Govt Ob Fd Cl X",12/18/19,,,"75,750.83"
+12/18/19,Sale,"80,354.25",Units,"80,354.25 -80,354.25 First Am Govt Ob Fd Cl X",12/18/19,,,"156,105.08"
+12/18/19,Sale,"9,380",Shares,"60,744.37 -84,500.72 Fagerhult Ab Net Proceeds 60,744.37 USD",12/16/19,Jpmsgb2l Jp Morgan Sec London,60.6847 SEK,"216,849.45"
+12/18/19,Purchase,"4,000",Shares,Baozun Inc Spon A D R,12/16/19,J.P. Morgan Securities LLC,34.1138 USD,"80,354.25"
+12/18/19,Purchase,"1,000",Shares,"Stroeer SE and Co Kgaa Net Cost 80,354.25 USD",12/5/19,Jpmsgb2leql Jp Morgan Eq Lndn,9.402693 SEK,0.00
+12/19/19,Sale,"44,100.00",Units,"4,690.15 -4,690.15 Swedish Krona",12/18/19,,9.402693 SEK,"9,380.30"
+12/19/19,Purchase,"35,334.68",Units,First Am Govt Ob Fd Cl X,12/19/19,,,"-42,954.98"
+12/19/19,Sale,"8,120",Shares,"52,335.28 -50,254.88 Fagerhult Ab Net Proceeds 52,335.28 USD",12/17/19,Jpmsgb2l Jp Morgan Sec London,60.4001 SEK,"9,380.30"
+12/20/19,Purchase,"136,112.77",Units,First Am Govt Ob Fd Cl X,12/20/19,,,0.00
+12/23/19,Purchase,"112,401.31",Units,First Am Govt Ob Fd Cl X,12/23/19,,,0.00
+12/24/19,Purchase,"73,589.79",Units,First Am Govt Ob Fd Cl X,12/24/19,,,"123,620.00"
+12/24/19,Purchase,"20,000",Shares,Blackberry Ltd,12/20/19,J.P. Morgan Securities LLC,6.171 USD,0.00
+12/26/19,Sale,252.42,Units,252.42 -252.42 First Am Govt Ob Fd Cl X,12/26/19,,,-80.00
+12/27/19,Sale,"13,383.87",Units,"13,383.87 -13,383.87 First Am Govt Ob Fd Cl X",12/27/19,,,510.00
+12/30/19,Purchase,"15,937.12",Units,First Am Govt Ob Fd Cl X,12/30/19,,,0.00
+12/31/19,Sale,"10,000",Shares,"73,435.59 -44,197.73 Entertainment One Ltd Net Proceeds 56,000.00 GBP",12/31/19,Global Corporate Actions,5.6 GBP,"73,435.59"
+12/31/19,Sale,"56,000.00",Units,"73,763.20 -73,435.59 British Pound",12/31/19,,0.75918615 GBP,"147,198.79"
+12/31/19,Purchase,"4,307.63",Units,First Am Govt Ob Fd Cl X,12/31/19,Crst 784 Jpmorgan Secs Ltd,0.5075 GBP,"147,198.79"

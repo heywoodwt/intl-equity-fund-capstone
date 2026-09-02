@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+
+# Data: raw/interim are reproducible caches (and can be large) -> not tracked.
+# Keep the directory structure via .gitkeep. Processed deliverables ARE tracked.
+data/raw/*
+!data/raw/.gitkeep
+data/interim/*
+!data/interim/.gitkeep
+
+dashboard/.cache/
