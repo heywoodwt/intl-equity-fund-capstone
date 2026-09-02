@@ -1,5 +1,7 @@
 # International Equity Fund Capstone for UVA MSDS '26
 
+**Muhammad Amjad, Thomas Blalock, Finn Sjue, John Twomey, Heywood Williams-Tracy**
+
 **DS-6015 capstone.** Two questions run through every part of the repo:
 
 1. **Explain** the fund's performance — how much comes from market / size / value /
