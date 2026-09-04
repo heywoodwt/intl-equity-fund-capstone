@@ -28,7 +28,7 @@ Use this to answer "how much of performance is market/size/value/momentum vs. ma
   `eda_sector_allocation.png`, `cnn_fund_results.png`, `oos_evaluation.png`,
   `portfolio_predicted_vs_actual.png`.
 
-## 3. CNN models — `ML implementation/models/`
+## 3. CNN models — `ml-models/`
 
 Two distinct CNNs (don't confuse them):
 
@@ -43,19 +43,25 @@ trades moved the fund*. Run `main()` (or the notebook top to bottom); it saves `
 Note the target there is a self-constructed flow proxy (net signed trade value / total value), **not**
 the official fund return.
 
-## 4. Hybrid model (artifact only) — `ML implementation/models/hybrid_model.pt`
+## 4. Hybrid model (artifact only) — `ml-models/hybrid_model.pt`
 
 A trained PyTorch hybrid (**CNN + Transformer**) that predicts the **monthly portfolio return** from
 per-holding characteristics, evaluated out-of-sample.
 
-- **Outputs:** `ML implementation/data/portfolio_decomposition.csv` — 57 months **2018-04 → 2022-12**:
+- **Outputs:** `ml-models/portfolio_decomposition.csv` — 57 months **2018-04 → 2022-12**:
   `actual_ret, pred_ret` (ensemble), `cnn_pred`, `tf_pred` (transformer), `residual`, and holdings
   coverage. Plots: `oos_evaluation.png`, `portfolio_predicted_vs_actual.png`.
 - ⚠️ **The training script for the hybrid model is not committed to this repo** — only the `.pt`
   weights and the result CSV/plots. `cnnV1.ipynb` is the closest available related code. If you need
   to retrain or change architecture, that code must be located/recreated.
 
-## 5. References — `References.ipynb`
+## 5. Vector autoregression — `var_v2.ipynb`
+
+A VAR on `fund_ret` and Fama-French factor returns testing lagged (rather than
+contemporaneous) factor predictability via Granger causality, impulse responses, and
+forecast error variance decomposition. See the repo README for the result summary.
+
+## 6. References — `References.ipynb`
 
 The academic basis: Fama-French (2015) five-factor, Jegadeesh-Titman (1993) momentum, Ang et al.
 (2006) volatility, Gu-Kelly-Xiu (2020) ML asset pricing. The engineered characteristics and panel
@@ -64,7 +70,8 @@ models are built around these.
 ## Suggested data per task
 
 - **Explain performance** → `python_files.ipynb` (factors/alpha), `combined_monthly.csv`, `visuals.ipynb`.
-- **Predict monthly fund return (time series)** → `combined_monthly.csv` (+ `pca_market_components.csv`).
+- **Predict monthly fund return (time series)** → `combined_monthly.csv` (+ `pca_market_components.csv`),
+  or `var_v2.ipynb` for lagged-factor dynamics.
 - **Predict cross-sectional stock returns / DL** → `combined_panel.csv` (label `next_ret`), or
-  `characteristics_panel.csv`.
+  `characteristics_panel.csv`; `ml-models/hybrid_model.pt` for the CNN+Transformer approach.
 - **Trade-level influence** → `cnnV1.ipynb` on `clean_transactions_base_usd.csv`.
