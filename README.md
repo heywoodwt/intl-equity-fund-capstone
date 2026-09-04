@@ -41,6 +41,8 @@ feature — is unchanged; only identifying metadata was removed.
 | **`data/`** | Trade-extraction scripts, cleaned trade / holdings / price / return tables, and `data/engineered_data/` — the modeling-ready datasets (see below). |
 | **`data_engr_dashboard/capstone_data_engr/`** | Self-contained `uv` project: the **data-engineering pipeline** (one module per external source → tidy point-in-time tables), a **Streamlit quant tear-sheet dashboard**, ~140 tests, and a numbered process report (`report/1`–`13`). |
 | **`kalman/`** | **Time-series factor attribution** — rolling-window OLS, a Time-Varying-Parameter (TVP) Kalman filter, and Kalman macro-regime extraction with regime-conditional models. |
+| **`var_v2.ipynb`** | **Vector Autoregression** — tests whether lagged Fama-French factor returns Granger-cause the fund's monthly return. |
+| **`ml-models/`** | **Deep-learning prediction** — a baseline 1D-CNN and a trained **hybrid CNN+Transformer** that predict the fund's monthly return from holdings-level characteristics. |
 | **`docs/`** | Cross-cutting guides: `models.md` (modeling map), `data-pipeline.md`, `datasets.md` (data catalog), `glossary.md`, plus design specs under `superpowers/`. |
 
 ---
@@ -206,12 +208,52 @@ are committed. Design rationale: `docs/superpowers/specs/2026-07-01-rolling-regr
 
 ---
 
-## 4. Documentation (`docs/`)
+## 4. Vector autoregression (`var_v2.ipynb`)
+
+A VAR on `fund_ret` and a set of Fama-French factor returns, asking whether *lagged*
+factor moves (as opposed to contemporaneous exposure, which the Kalman/OLS models
+above capture) help predict next month's fund return.
+
+- Stationarity is confirmed with Augmented Dickey-Fuller tests, then lag-order
+  selection is run on the 129-month panel (kept short — 6 variables limits how
+  many lags are identifiable without overfitting).
+- Information criteria select **zero lags**; a parsimonious **VAR(1)** is still
+  estimated as a diagnostic, checked for stability (companion-matrix eigenvalues
+  inside the unit circle), then probed with **Granger causality tests**, **impulse
+  response functions**, and **forecast error variance decomposition (FEVD)**.
+- **Result:** none of the factors Granger-cause `fund_ret` at the 5% level, and FEVD
+  shows the fund's own forecast-error variance is almost entirely explained by
+  shocks to itself, not to the factors. Lagged factor dynamics don't meaningfully
+  predict the fund's monthly return in this specification — consistent with the
+  fund's performance being better explained by contemporaneous exposure, portfolio
+  composition, or trade-level behavior (see the Kalman and ML models).
+
+---
+
+## 5. ML prediction models (`ml-models/`)
+
+Two neural approaches to the same "predict the fund's monthly return" question,
+complementary to the linear/state-space models above:
+
+| File | Model | Input → target |
+|------|-------|----------------|
+| `cnnv1.py` | Tiny **Keras/TensorFlow** 1D-CNN | 6-month window of EFA returns → next monthly fund return. CNN's prediction is treated as the beta/systematic component; the residual is "CNN alpha". |
+| `cnnV1.ipynb` | **PyTorch** trade-level CNN (`FundMovementDataset`, `FundCNN`, `RegressionTrainer`, `TradeInfluenceAnalyzer`) with Grad-CAM | Sliding 60-trade window (`Action, Qty, Price_USD, Transaction_Value_USD, FX_Rate_to_USD`) → that month's return proxy. Grad-CAM saliency scores each individual trade as a gain- vs. loss-driver. |
+| `hybrid_model.pt` | Trained **hybrid CNN + Transformer** (artifact only — training script not committed; `cnnV1.ipynb` is the closest related code) | Per-holding characteristics → monthly portfolio return, ensembled from a CNN branch and a Transformer branch. |
+
+The hybrid model's out-of-sample outputs are in `portfolio_decomposition.csv` — 57
+months (2018-04 → 2022-12) of `actual_ret`, ensemble `pred_ret`, the `cnn_pred` /
+`tf_pred` branch predictions, `residual`, and holdings coverage — plotted in
+`oos_evaluation.png` and `portfolio_predicted_vs_actual.png`. `cnn_fund_results.png`
+is the `cnnv1.py` decomposition plot.
+
+---
+
+## 6. Documentation (`docs/`)
 
 - **`models.md`** — map of all modeling/EDA assets and which dataset to use per
   task (factor attribution, time-series prediction, cross-sectional DL, trade-level
-  influence). *Note:* it also documents CNN and hybrid CNN+Transformer models that
-  live in the group modeling repo, **not here**.
+  influence), including the CNN and hybrid CNN+Transformer models in `ml-models/`.
 - **`data-pipeline.md`** — how raw statements become the cleaned tables; what is
   and isn't committed.
 - **`datasets.md`** — the full data catalog with column lists, coverage, and gotchas.
